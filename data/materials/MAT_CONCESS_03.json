@@ -1,0 +1,249 @@
+{
+  "material_id": "MAT_CONCESS_03",
+  "skill_id": "SK_CONCESSION",
+  "title": "Cấu trúc nhượng bộ nâng cao với However, No matter how, Adj+as",
+  "target_level": 3,
+  "summary": "Giúp học sinh làm chủ các cấu trúc nhượng bộ đảo ngữ và nhấn mạnh (However/No matter how + adj/adv, Adj/Adv + as/though + S + V, Much as, No matter what/Whatever) để xử lý các câu viết lại phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "However / No matter how + adj/adv + S + V",
+      "points": [
+        "However + adj/adv + S + V, S + V = No matter how + adj/adv + S + V: dù ... đến đâu đi nữa.",
+        "Tính từ/trạng từ PHẢI đứng ngay sau However/No matter how, không đặt ở cuối mệnh đề.",
+        "Chọn tính từ hay trạng từ dựa vào động từ trong mệnh đề: be/seem/feel + adj; động từ thường + adv (However hard he tries...).",
+        "Phân biệt: 'However,' (có dấu phẩy, đứng đầu câu) là trạng từ liên kết nghĩa 'tuy nhiên', không đi kèm tính từ."
+      ],
+      "examples": [
+        {
+          "en": "However hard he tried, he couldn't open the door.",
+          "vi": "Dù cố gắng đến đâu, anh ấy vẫn không mở được cửa."
+        },
+        {
+          "en": "No matter how expensive the phone is, she will buy it.",
+          "vi": "Dù chiếc điện thoại đắt đến đâu, cô ấy cũng sẽ mua."
+        }
+      ]
+    },
+    {
+      "heading": "Adj/Adv + as/though + S + V (đảo tính từ lên đầu)",
+      "points": [
+        "Adj/Adv + as/though + S + be/V, S + V = Although + S + be/V + adj/adv.",
+        "Không có mạo từ trước tính từ: 'Tired as she was, ...' (KHÔNG viết 'As tired as she was' với nghĩa nhượng bộ ở dạng đề này).",
+        "Với danh từ: Child as he was, ... = Although he was a child, ... (bỏ mạo từ).",
+        "Much as + S + V (dù rất ...): Much as I like him, I can't agree with him."
+      ],
+      "examples": [
+        {
+          "en": "Tired as she was, she kept studying.",
+          "vi": "Dù mệt, cô ấy vẫn tiếp tục học."
+        },
+        {
+          "en": "Much as I love football, I can't watch the match tonight.",
+          "vi": "Dù rất thích bóng đá, tối nay tôi không thể xem trận đấu."
+        }
+      ]
+    },
+    {
+      "heading": "No matter what/who/where... và Whatever/Whoever/Wherever",
+      "points": [
+        "No matter what = Whatever; No matter who = Whoever; No matter where = Wherever; No matter when = Whenever.",
+        "Cấu trúc: No matter + wh-word + S + V, S + V.",
+        "Even if + S + V: ngay cả nếu (giả định), khác Even though (sự thật)."
+      ],
+      "examples": [
+        {
+          "en": "Whatever you say, I won't change my mind.",
+          "vi": "Dù bạn nói gì, tôi cũng sẽ không đổi ý."
+        },
+        {
+          "en": "Even if it rains tomorrow, we will go hiking.",
+          "vi": "Ngay cả nếu ngày mai trời mưa, chúng tôi vẫn đi leo núi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy However/No matter how ở đầu câu mà chỗ trống ngay sau nó → điền adj/adv; thấy 'as/though' sau chỗ trống ở đầu câu → cấu trúc Adj + as + S + V.",
+    "Chọn adj hay adv: nhìn động từ của mệnh đề nhượng bộ – 'be' dùng tính từ, động từ thường (try, work, run) dùng trạng từ.",
+    "Bẫy hay gặp: đặt tính từ ở cuối mệnh đề ('However he is rich') – sai; phải là 'However rich he is'.",
+    "Even though = sự thật đã xảy ra; Even if = giả định có thể xảy ra – đọc kỹ ngữ cảnh."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ he works, he never earns enough money to buy a house.",
+          "options": {
+            "A": "However hard",
+            "B": "However hardly",
+            "C": "Hard however",
+            "D": "No matter hard"
+          },
+          "answer": "A",
+          "explanation": "However + adv + S + V; 'work hard' (hard là trạng từ, 'hardly' nghĩa là hầu như không). C sai trật tự; D thiếu 'how'."
+        },
+        {
+          "no": 2,
+          "question": "______ she is, she always finds time to call her parents.",
+          "options": {
+            "A": "However busily",
+            "B": "No matter busy",
+            "C": "However busy",
+            "D": "Busy however"
+          },
+          "answer": "C",
+          "explanation": "Động từ 'is' → cần tính từ: However busy she is. B thiếu 'how'; A dùng trạng từ sai với 'be'."
+        },
+        {
+          "no": 3,
+          "question": "______ as he was, he refused to give up.",
+          "options": {
+            "A": "An exhausted",
+            "B": "So exhausted",
+            "C": "Exhaustedly",
+            "D": "Exhausted"
+          },
+          "answer": "D",
+          "explanation": "Adj + as + S + be: 'Exhausted as he was' = Although he was exhausted. Không dùng trạng từ, 'so' hay mạo từ ở vị trí này."
+        },
+        {
+          "no": 4,
+          "question": "______ I admire her talent, I don't agree with her opinions.",
+          "options": {
+            "A": "Despite much",
+            "B": "However much as",
+            "C": "As much",
+            "D": "Much as"
+          },
+          "answer": "D",
+          "explanation": "'Much as + S + V' = Although I admire her very much. Các phương án còn lại không phải cấu trúc đúng."
+        },
+        {
+          "no": 5,
+          "question": "______ you do, don't tell anyone our secret.",
+          "options": {
+            "A": "Whenever",
+            "B": "However",
+            "C": "Whatever",
+            "D": "Wherever"
+          },
+          "answer": "C",
+          "explanation": "Whatever = No matter what (dù bạn làm gì). 'do' cần tân ngữ 'what'; However cần adj/adv phía sau."
+        },
+        {
+          "no": 6,
+          "question": "______ it snows tomorrow, the school trip will go ahead as planned.",
+          "options": {
+            "A": "Even though",
+            "B": "Even if",
+            "C": "In spite of",
+            "D": "Despite"
+          },
+          "answer": "B",
+          "explanation": "Ngày mai có tuyết hay không là giả định → Even if. Even though dùng cho sự thật; Despite/In spite of không đi với mệnh đề."
+        },
+        {
+          "no": 7,
+          "question": "No matter ______ the question is, Nam can always answer it.",
+          "options": {
+            "A": "what difficult",
+            "B": "difficult how",
+            "C": "how difficultly",
+            "D": "how difficult"
+          },
+          "answer": "D",
+          "explanation": "No matter how + adj + S + be → 'how difficult the question is'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "Although the film was long, the children watched it till the end.",
+          "options": {
+            "A": "Long as the film was, the children watched it till the end.",
+            "B": "As long the film was, the children watched it till the end.",
+            "C": "However the film was long, the children watched it till the end.",
+            "D": "The film was so long that the children watched it till the end."
+          },
+          "answer": "A",
+          "explanation": "Although + S + be + adj = Adj + as + S + be: 'Long as the film was'. C đặt sai vị trí tính từ; D đổi nghĩa thành kết quả."
+        },
+        {
+          "no": 9,
+          "question": "It doesn't matter how carefully you drive; accidents can still happen.",
+          "options": {
+            "A": "However careful you drive, accidents can still happen.",
+            "B": "However carefully you drive, accidents can still happen.",
+            "C": "No matter how you drive carefully, accidents can still happen.",
+            "D": "Because you drive carefully, accidents can still happen."
+          },
+          "answer": "B",
+          "explanation": "Động từ thường 'drive' → trạng từ 'carefully' đứng ngay sau However. A sai từ loại; C sai vị trí trạng từ; D sai nghĩa."
+        },
+        {
+          "no": 10,
+          "question": "Although he is a child, he understands the problem clearly.",
+          "options": {
+            "A": "A child as he is, he understands the problem clearly.",
+            "B": "As a child he is, he understands the problem clearly.",
+            "C": "Child as he is, he understands the problem clearly.",
+            "D": "Being a child, he understands the problem clearly."
+          },
+          "answer": "C",
+          "explanation": "Với danh từ, đưa danh từ lên đầu và bỏ mạo từ: 'Child as he is'. D mang nghĩa nguyên nhân (vì là trẻ con) nên sai nghĩa."
+        },
+        {
+          "no": 11,
+          "question": "No matter what happens, I will support you.",
+          "options": {
+            "A": "Whatever happens, I will support you.",
+            "B": "However happens, I will support you.",
+            "C": "Whenever it happens, I won't support you.",
+            "D": "If nothing happens, I will support you."
+          },
+          "answer": "A",
+          "explanation": "No matter what = Whatever. B sai cấu trúc; C, D sai nghĩa."
+        },
+        {
+          "no": 12,
+          "question": "She is very rich, but she isn't happy.",
+          "options": {
+            "A": "Rich as she is, she isn't happy.",
+            "B": "However she is rich, she isn't happy.",
+            "C": "She is rich enough to be happy.",
+            "D": "Because she is rich, she isn't happy."
+          },
+          "answer": "A",
+          "explanation": "'Rich as she is' = Although she is rich. B sai vị trí tính từ (phải là 'However rich she is'); C, D sai nghĩa."
+        },
+        {
+          "no": 13,
+          "question": "Choose the sentence that is grammatically correct.",
+          "options": {
+            "A": "However fast he ran, he missed the bus.",
+            "B": "However fastly he ran, he missed the bus.",
+            "C": "However he ran fast, he missed the bus.",
+            "D": "No matter fast he ran, he missed the bus."
+          },
+          "answer": "A",
+          "explanation": "'fast' vừa là tính từ vừa là trạng từ, không có 'fastly'; cấu trúc đúng là However + adv + S + V. C sai vị trí, D thiếu 'how'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Contrasting ideas: 'although', 'despite' and others",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others"
+    }
+  ]
+}

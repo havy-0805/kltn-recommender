@@ -1,0 +1,239 @@
+{
+  "material_id": "MAT_CD20",
+  "skill_id": "SK_PAST_PRESENT_REL",
+  "title": "Chuyên đề Quá khứ đơn - Hiện tại hoàn thành",
+  "target_level": 2,
+  "summary": "Tổng hợp mối liên hệ giữa Quá khứ đơn và Hiện tại hoàn thành: cách dùng, dấu hiệu, mệnh đề 'since + QKĐ' và các mẫu viết lại câu tương đương thường gặp trong đề thi vào 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Phân biệt cách dùng",
+      "points": [
+        "QKĐ: hành động đã kết thúc, gắn với thời điểm xác định (yesterday, ago, last..., in + năm đã qua, when + mệnh đề quá khứ).",
+        "HTHT: hành động kéo dài tới hiện tại (for/since), trải nghiệm (ever/never), kết quả ở hiện tại (just/already/yet), khoảng thời gian chưa kết thúc (today, this week, so far, recently).",
+        "Mẫu kết hợp: S + have/has + V3 + since + S + V2 (mệnh đề sau 'since' dùng QKĐ)."
+      ],
+      "examples": [
+        {
+          "en": "I have played the piano since I was seven.",
+          "vi": "Tôi chơi piano từ khi lên bảy tuổi."
+        },
+        {
+          "en": "He has written two novels so far.",
+          "vi": "Cho đến nay anh ấy đã viết được hai cuốn tiểu thuyết."
+        }
+      ]
+    },
+    {
+      "heading": "Các mẫu viết lại câu cơ bản",
+      "points": [
+        "S + began/started + V-ing/to V + time + ago → S + have/has + V3 + for + time.",
+        "S + last + V2 + time + ago → S + haven't/hasn't + V3 + for + time → It's + time + since + S + last + V2.",
+        "The last time + S + V2 + was + mốc/khoảng thời gian → S + haven't/hasn't + V3 + since/for ...",
+        "When did + S + V...? → How long ago did...? / How long have/has + S + V3...? (với động từ có tính kéo dài)."
+      ],
+      "examples": [
+        {
+          "en": "She started learning Korean two years ago. → She has learned Korean for two years.",
+          "vi": "Cô ấy đã học tiếng Hàn được hai năm."
+        },
+        {
+          "en": "I last saw him in May. → I haven't seen him since May.",
+          "vi": "Tôi không gặp anh ấy từ tháng Năm."
+        }
+      ]
+    },
+    {
+      "heading": "Mẫu 'lần đầu tiên' và 'never ... before'",
+      "points": [
+        "This is the first time + S + have/has + V3 = S + have/has + never + V3 + before.",
+        "Phân biệt have gone to (đã đi và chưa về) và have been to (đã từng đến và đã về)."
+      ],
+      "examples": [
+        {
+          "en": "This is the first time I have flown. → I have never flown before.",
+          "vi": "Đây là lần đầu tôi đi máy bay."
+        },
+        {
+          "en": "My dad has gone to Hai Phong. He will be back tomorrow.",
+          "vi": "Bố tôi đã đi Hải Phòng. Ngày mai bố sẽ về."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Khi viết lại câu có 'ago', hãy đổi sang 'for' + khoảng thời gian; nếu có mốc (in 2019, last May) thì đổi sang 'since'.",
+    "Câu gốc khẳng định 'last + V2' → câu viết lại thường là phủ định 'haven't + V3' – đừng giữ nguyên dạng khẳng định.",
+    "Sau 'since' là mốc hoặc mệnh đề QKĐ; không bao giờ là 'since + khoảng thời gian' (since two years là sai).",
+    "Kiểm tra động từ chia đúng V3 và have/has hợp với chủ ngữ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Mr Hung ______ at this school since he graduated from university.",
+          "options": {
+            "A": "had taught",
+            "B": "taught",
+            "C": "teaches",
+            "D": "has taught"
+          },
+          "answer": "D",
+          "explanation": "Mẫu S + have/has + V3 + since + S + V2 → has taught."
+        },
+        {
+          "no": 2,
+          "question": "We ______ to the zoo last weekend and saw a baby elephant.",
+          "options": {
+            "A": "go",
+            "B": "have gone",
+            "C": "have been",
+            "D": "went"
+          },
+          "answer": "D",
+          "explanation": "'last weekend' → Quá khứ đơn: went."
+        },
+        {
+          "no": 3,
+          "question": "\"Where is Linh?\" – \"She ______ to the library. She'll be back in an hour.\"",
+          "options": {
+            "A": "went",
+            "B": "has gone",
+            "C": "goes",
+            "D": "has been"
+          },
+          "answer": "B",
+          "explanation": "Linh đã đi và chưa về (sẽ về sau một giờ) → has gone. 'has been' nghĩa là đã đến và đã về."
+        },
+        {
+          "no": 4,
+          "question": "How many cups of coffee ______ today?",
+          "options": {
+            "A": "did you drink",
+            "B": "have you drunk",
+            "C": "do you drink",
+            "D": "you have drunk"
+          },
+          "answer": "B",
+          "explanation": "'today' là khoảng thời gian chưa kết thúc → Hiện tại hoàn thành, dạng câu hỏi: have you drunk."
+        },
+        {
+          "no": 5,
+          "question": "My brother broke his arm while he ______ football two weeks ago.",
+          "options": {
+            "A": "has played",
+            "B": "has been playing",
+            "C": "was playing",
+            "D": "plays"
+          },
+          "answer": "C",
+          "explanation": "Hành động đang diễn ra trong quá khứ (two weeks ago) thì bị hành động khác xen vào → Quá khứ tiếp diễn: was playing."
+        },
+        {
+          "no": 6,
+          "question": "It's ten years ______ I last visited my hometown.",
+          "options": {
+            "A": "ago",
+            "B": "for",
+            "C": "since",
+            "D": "when"
+          },
+          "answer": "C",
+          "explanation": "Mẫu It's + time + since + S + last + V2 → since."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "I started working for this company five years ago.",
+          "options": {
+            "A": "I have worked for this company for five years.",
+            "B": "I have worked for this company since five years.",
+            "C": "I worked for this company for five years.",
+            "D": "I haven't worked for this company for five years."
+          },
+          "answer": "A",
+          "explanation": "began/started + ... + ago → have/has + V3 + for + khoảng thời gian. B sai 'since five years'; C mang nghĩa đã thôi làm; D ngược nghĩa."
+        },
+        {
+          "no": 8,
+          "question": "The last time I went swimming was in July.",
+          "options": {
+            "A": "I have gone swimming since July.",
+            "B": "I didn't go swimming in July.",
+            "C": "I haven't gone swimming since July.",
+            "D": "I haven't gone swimming for July."
+          },
+          "answer": "C",
+          "explanation": "The last time + V2 + was + mốc → S + haven't + V3 + since + mốc. A ngược nghĩa; D dùng sai 'for'."
+        },
+        {
+          "no": 9,
+          "question": "This is the first time I have visited Ha Long Bay.",
+          "options": {
+            "A": "I visited Ha Long Bay for the first time last year.",
+            "B": "I didn't visit Ha Long Bay this time.",
+            "C": "I have visited Ha Long Bay many times before.",
+            "D": "I have never visited Ha Long Bay before."
+          },
+          "answer": "D",
+          "explanation": "This is the first time + HTHT = S + have/has + never + V3 + before."
+        },
+        {
+          "no": 10,
+          "question": "She hasn't written to me for three months.",
+          "options": {
+            "A": "She last wrote to me three months ago.",
+            "B": "She has written to me since three months.",
+            "C": "She wrote to me for three months.",
+            "D": "She didn't write to me three months ago."
+          },
+          "answer": "A",
+          "explanation": "S + hasn't + V3 + for + time = S + last + V2 + time + ago."
+        },
+        {
+          "no": 11,
+          "question": "We haven't eaten out since my birthday.",
+          "options": {
+            "A": "We ate out for my birthday for a long time.",
+            "B": "The last time we ate out was on my birthday.",
+            "C": "We have eaten out since my birthday.",
+            "D": "We didn't eat out on my birthday."
+          },
+          "answer": "B",
+          "explanation": "haven't + V3 + since + mốc = The last time + S + V2 + was + mốc."
+        },
+        {
+          "no": 12,
+          "question": "When did you buy this smartphone?",
+          "options": {
+            "A": "How long have you had this smartphone?",
+            "B": "How long have you bought this smartphone?",
+            "C": "How often did you buy this smartphone?",
+            "D": "How much did you pay for this smartphone?"
+          },
+          "answer": "A",
+          "explanation": "'buy' là hành động tức thời, không kéo dài → đổi sang 'have had' (sở hữu kéo dài). B sai vì 'buy' không dùng với How long + HTHT; C, D sai nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Present Perfect or Past Simple?",
+      "url": "https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html"
+    },
+    {
+      "title": "Hoc24 – She last met her uncle last summer → She hasn't...",
+      "url": "https://hoc24.vn/index.php/cau-hoi/she-last-met-her-uncle-last-summer-she-hasnt.3742659575244"
+    }
+  ]
+}

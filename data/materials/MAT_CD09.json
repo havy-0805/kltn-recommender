@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_CD09",
+  "skill_id": "SK_PASSIVE_VOICE",
+  "title": "Chuyên đề Câu bị động",
+  "target_level": 2,
+  "summary": "Tổng hợp câu bị động ở các thì, với động từ khuyết thiếu, câu hỏi bị động, bị động kép 'It is said that / S is said to V' và thể truyền khiến – các dạng chọn đáp án, viết lại câu và tìm lỗi sai thường gặp trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Bảng công thức bị động theo thì",
+      "points": [
+        "HTĐ: am/is/are + V3 | QKĐ: was/were + V3.",
+        "HTTD: am/is/are being + V3 | QKTD: was/were being + V3.",
+        "HTHT: have/has been + V3 | QKHT: had been + V3.",
+        "TLĐ: will be + V3 | be going to be + V3 | Modal (can, must, should...) + be + V3."
+      ],
+      "examples": [
+        {
+          "en": "When I arrived, the room was being cleaned.",
+          "vi": "Khi tôi đến, căn phòng đang được dọn."
+        },
+        {
+          "en": "Rubbish must be put into the right bins.",
+          "vi": "Rác phải được bỏ vào đúng thùng."
+        }
+      ]
+    },
+    {
+      "heading": "Câu hỏi bị động",
+      "points": [
+        "Yes/No: Did they invite you? → Were you invited?; Do they sell ...? → Is ... sold?",
+        "Wh- hỏi tân ngữ: What did they build? → What was built?",
+        "Who + V + O? → By whom + be + S + V3? / Who + be + S + V3 + by?"
+      ],
+      "examples": [
+        {
+          "en": "Did they invite you to the party? → Were you invited to the party?",
+          "vi": "Bạn có được mời đến bữa tiệc không?"
+        }
+      ]
+    },
+    {
+      "heading": "Bị động kép và thể truyền khiến",
+      "points": [
+        "People say that + S2 + V2 → It is said that + S2 + V2 = S2 + is said + to V / to have V3.",
+        "have/get + sth + V3: nhờ/thuê người khác làm gì cho mình (I'm going to have my bike repaired)."
+      ],
+      "examples": [
+        {
+          "en": "People say that Ha Long Bay is one of the world's natural wonders. → Ha Long Bay is said to be one of the world's natural wonders.",
+          "vi": "Người ta nói Vịnh Hạ Long là một trong những kỳ quan thiên nhiên thế giới."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định thì của câu chủ động trước, rồi chọn dạng 'be' tương ứng – 'be' phải hợp với chủ ngữ mới.",
+    "Câu chủ động có 'nobody / no one' → câu bị động chuyển sang phủ định và bỏ 'by nobody'.",
+    "Tìm lỗi sai: soi dạng V3 của động từ bất quy tắc (wrote → written, broke → broken) và sự hòa hợp is/are, was/were.",
+    "Thấy chủ ngữ là vật + chỗ trống động từ + 'by ...' → gần như chắc chắn là bị động."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Nowadays, the Internet ______ widely for learning.",
+          "options": {
+            "A": "used",
+            "B": "is using",
+            "C": "uses",
+            "D": "is used"
+          },
+          "answer": "D",
+          "explanation": "Internet được sử dụng (bị động), 'Nowadays' → hiện tại đơn: 'is used'."
+        },
+        {
+          "no": 2,
+          "question": "When I arrived, the room ______, so I waited outside.",
+          "options": {
+            "A": "was being cleaned",
+            "B": "cleaned",
+            "C": "has been cleaned",
+            "D": "was cleaning"
+          },
+          "answer": "A",
+          "explanation": "Hành động đang diễn ra tại thời điểm quá khứ, chủ ngữ là vật → quá khứ tiếp diễn bị động 'was being cleaned'."
+        },
+        {
+          "no": 3,
+          "question": "A lot of houses ______ by the flood last month.",
+          "options": {
+            "A": "destroyed",
+            "B": "have destroyed",
+            "C": "are destroyed",
+            "D": "were destroyed"
+          },
+          "answer": "D",
+          "explanation": "'by the flood' + 'last month' → quá khứ đơn bị động, chủ ngữ số nhiều: 'were destroyed'."
+        },
+        {
+          "no": 4,
+          "question": "The new library ______ by the city mayor next year.",
+          "options": {
+            "A": "opens",
+            "B": "will be opened",
+            "C": "will open",
+            "D": "is opening"
+          },
+          "answer": "B",
+          "explanation": "Có tác nhân 'by the city mayor' → thư viện được khánh thành (bị động); 'next year' → tương lai bị động 'will be opened'."
+        },
+        {
+          "no": 5,
+          "question": "Rubbish must ______ into the right bins.",
+          "options": {
+            "A": "to be put",
+            "B": "put",
+            "C": "be put",
+            "D": "be putting"
+          },
+          "answer": "C",
+          "explanation": "Bị động với động từ khuyết thiếu: must + be + V3 ('put' có V3 là 'put')."
+        },
+        {
+          "no": 6,
+          "question": "I'm going to have my bike ______ tomorrow.",
+          "options": {
+            "A": "repairing",
+            "B": "repaired",
+            "C": "to repair",
+            "D": "repair"
+          },
+          "answer": "B",
+          "explanation": "Thể truyền khiến: have + sth + V3 → 'repaired'."
+        },
+        {
+          "no": 7,
+          "question": "Viet Nam's traditional festivals ______ by many foreign tourists every year.",
+          "options": {
+            "A": "are attended",
+            "B": "attended",
+            "C": "attend",
+            "D": "are attending"
+          },
+          "answer": "A",
+          "explanation": "Lễ hội được du khách tham dự (bị động), 'every year' → hiện tại đơn bị động số nhiều 'are attended'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "They are building a new school in my village.",
+          "options": {
+            "A": "A new school was being built in my village.",
+            "B": "A new school has built in my village.",
+            "C": "A new school is being built in my village.",
+            "D": "A new school is built in my village."
+          },
+          "answer": "C",
+          "explanation": "Hiện tại tiếp diễn → is + being + V3."
+        },
+        {
+          "no": 9,
+          "question": "Did they invite you to the party?",
+          "options": {
+            "A": "Did you invited to the party?",
+            "B": "Were you invited to the party?",
+            "C": "Were you invite to the party?",
+            "D": "Are you invited to the party?"
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi quá khứ đơn → Was/Were + S + V3? 'Were you invited'."
+        },
+        {
+          "no": 10,
+          "question": "People say that Ha Long Bay is one of the natural wonders of the world.",
+          "options": {
+            "A": "Ha Long Bay is said to be one of the natural wonders of the world.",
+            "B": "Ha Long Bay is said being one of the natural wonders of the world.",
+            "C": "It said that Ha Long Bay is one of the natural wonders of the world.",
+            "D": "Ha Long Bay says to be one of the natural wonders of the world."
+          },
+          "answer": "A",
+          "explanation": "Bị động kép, hai mệnh đề cùng thì hiện tại → S + is said + to be."
+        },
+        {
+          "no": 11,
+          "question": "Nobody has used this room for years.",
+          "options": {
+            "A": "This room hasn't used for years.",
+            "B": "Nobody has been used this room for years.",
+            "C": "This room wasn't used for years.",
+            "D": "This room hasn't been used for years."
+          },
+          "answer": "D",
+          "explanation": "'Nobody' → câu bị động phủ định; hiện tại hoàn thành → hasn't been + V3."
+        },
+        {
+          "no": 12,
+          "question": "You should do your homework carefully.",
+          "options": {
+            "A": "You should be done your homework carefully.",
+            "B": "Your homework should do carefully.",
+            "C": "Your homework should be done carefully.",
+            "D": "Your homework should been done carefully."
+          },
+          "answer": "C",
+          "explanation": "Modal bị động: should + be + V3."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "(A) The letter (B) was wrote (C) by my grandmother (D) in 1975.",
+          "options": {
+            "A": "The letter",
+            "B": "was wrote",
+            "C": "by my grandmother",
+            "D": "in 1975"
+          },
+          "answer": "B",
+          "explanation": "Bị động cần V3: sửa 'was wrote' thành 'was written'."
+        },
+        {
+          "no": 14,
+          "question": "(A) A lot of (B) new roads (C) has been built in Ha Noi (D) recently.",
+          "options": {
+            "A": "A lot of",
+            "B": "new roads",
+            "C": "has been built",
+            "D": "recently"
+          },
+          "answer": "C",
+          "explanation": "Chủ ngữ 'new roads' số nhiều → sửa 'has been built' thành 'have been built'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu bị động",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-bi-dong-cd2025.jsp"
+    },
+    {
+      "title": "British Council LearnEnglish – Passives",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passives"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    }
+  ]
+}

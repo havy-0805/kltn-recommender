@@ -1,0 +1,265 @@
+{
+  "material_id": "MAT_CD13",
+  "skill_id": "SK_CONDITIONAL",
+  "title": "Chuyên đề Câu điều kiện",
+  "target_level": 2,
+  "summary": "Tổng hợp câu điều kiện loại 0, 1, 2, 3, câu với unless, câu hỗn hợp cơ bản và đảo ngữ, kèm dạng viết lại câu thường gặp trong đề thi vào lớp 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Bốn loại câu điều kiện",
+      "points": [
+        "Loại 0 (sự thật, quy luật): If + S + V(s/es), S + V(s/es)",
+        "Loại 1 (có thể xảy ra ở hiện tại/tương lai): If + S + V(s/es), S + will/can/may + V",
+        "Loại 2 (trái với hiện tại): If + S + V2/ed (be → were), S + would/could + V",
+        "Loại 3 (trái với quá khứ): If + S + had + V3/ed, S + would/could + have + V3/ed",
+        "Mệnh đề if không dùng will/would"
+      ],
+      "examples": [
+        {
+          "en": "If it rains tomorrow, we will cancel the picnic.",
+          "vi": "Nếu mai trời mưa, chúng ta sẽ hủy buổi dã ngoại."
+        },
+        {
+          "en": "If she had studied harder, she would have passed the exam.",
+          "vi": "Nếu cô ấy học chăm hơn thì đã đỗ kỳ thi."
+        }
+      ]
+    },
+    {
+      "heading": "Unless và viết lại câu",
+      "points": [
+        "Unless = If ... not; mệnh đề sau unless ở dạng khẳng định",
+        "Câu mệnh lệnh + or/otherwise → If you don't..., ...",
+        "Câu thực tế hiện tại (don't/can't) → câu điều kiện loại 2 đổi khẳng định/phủ định",
+        "Câu thực tế quá khứ (didn't/was) → câu điều kiện loại 3 đổi khẳng định/phủ định"
+      ],
+      "examples": [
+        {
+          "en": "Hurry up or you'll be late. → If you don't hurry up, you'll be late.",
+          "vi": "Nhanh lên kẻo muộn."
+        },
+        {
+          "en": "I don't have enough money, so I can't buy that bike. → If I had enough money, I could buy that bike.",
+          "vi": "Nếu có đủ tiền, tôi đã có thể mua chiếc xe đó."
+        }
+      ]
+    },
+    {
+      "heading": "Câu điều kiện hỗn hợp và đảo ngữ (giới thiệu)",
+      "points": [
+        "Hỗn hợp 3 → 2: If + S + had + V3, S + would + V + now (quá khứ ảnh hưởng hiện tại)",
+        "Đảo ngữ: loại 1 Should + S + V; loại 2 Were + S + (to V); loại 3 Had + S + V3"
+      ],
+      "examples": [
+        {
+          "en": "If I had taken the medicine yesterday, I would feel better now.",
+          "vi": "Nếu hôm qua tôi uống thuốc thì giờ đã thấy khỏe hơn."
+        },
+        {
+          "en": "Were I you, I would apologise to her.",
+          "vi": "Nếu tôi là bạn, tôi sẽ xin lỗi cô ấy."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định loại câu qua động từ đã cho ở một vế: 'will' → loại 1; 'would + V' → loại 2; 'would have V3' → loại 3.",
+    "Có trạng từ thời gian khác nhau ở hai vế (yesterday ... now) → nghĩ ngay tới câu hỗn hợp.",
+    "Viết lại câu: đổi thì lùi một bậc và đổi khẳng định ↔ phủ định so với câu gốc.",
+    "Không chọn 'Unless ... not' – unless đã mang nghĩa phủ định."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Water ______ at 100 degrees Celsius if you heat it.",
+          "options": {
+            "A": "boiled",
+            "B": "boils",
+            "C": "would boil",
+            "D": "had boiled"
+          },
+          "answer": "B",
+          "explanation": "Sự thật khoa học → câu điều kiện loại 0, hai vế đều ở hiện tại đơn."
+        },
+        {
+          "no": 2,
+          "question": "If it ______ tomorrow, we will cancel the trip to Ba Vi.",
+          "options": {
+            "A": "rained",
+            "B": "will rain",
+            "C": "rain",
+            "D": "rains"
+          },
+          "answer": "D",
+          "explanation": "Vế chính có 'will' → loại 1, mệnh đề if dùng hiện tại đơn 'rains'."
+        },
+        {
+          "no": 3,
+          "question": "If I ______ you, I would take that part-time job.",
+          "options": {
+            "A": "had been",
+            "B": "am",
+            "C": "were",
+            "D": "will be"
+          },
+          "answer": "C",
+          "explanation": "Loại 2 (trái hiện tại), 'be' dùng 'were' cho mọi ngôi."
+        },
+        {
+          "no": 4,
+          "question": "If she had studied harder, she ______ the exam last year.",
+          "options": {
+            "A": "would pass",
+            "B": "would have passed",
+            "C": "passed",
+            "D": "will pass"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề if 'had studied' và 'last year' → loại 3: would have + V3."
+        },
+        {
+          "no": 5,
+          "question": "Unless you hurry, you ______ the last bus.",
+          "options": {
+            "A": "will miss",
+            "B": "would miss",
+            "C": "missed",
+            "D": "miss"
+          },
+          "answer": "A",
+          "explanation": "Unless + hiện tại đơn → loại 1, vế chính 'will miss'."
+        },
+        {
+          "no": 6,
+          "question": "______ you study harder, you won't pass the entrance exam.",
+          "options": {
+            "A": "Because",
+            "B": "If",
+            "C": "When",
+            "D": "Unless"
+          },
+          "answer": "D",
+          "explanation": "Nghĩa: Trừ khi học chăm hơn, bạn sẽ không đỗ → 'Unless' (= If ... not)."
+        },
+        {
+          "no": 7,
+          "question": "If we ______ more trees, the air in our city would be cleaner.",
+          "options": {
+            "A": "will plant",
+            "B": "had planted",
+            "C": "planted",
+            "D": "plant"
+          },
+          "answer": "C",
+          "explanation": "Vế chính 'would be' → loại 2, mệnh đề if dùng quá khứ đơn 'planted'."
+        },
+        {
+          "no": 8,
+          "question": "If I had taken the medicine yesterday, I ______ better now.",
+          "options": {
+            "A": "would feel",
+            "B": "will feel",
+            "C": "would have felt",
+            "D": "felt"
+          },
+          "answer": "A",
+          "explanation": "Câu hỗn hợp: điều kiện quá khứ (yesterday), kết quả hiện tại (now) → would + V."
+        },
+        {
+          "no": 9,
+          "question": "______ I you, I would apologise to her immediately.",
+          "options": {
+            "A": "If",
+            "B": "Should",
+            "C": "Were",
+            "D": "Had"
+          },
+          "answer": "C",
+          "explanation": "Đảo ngữ loại 2: Were + S thay cho If I were. 'If I you' thiếu động từ."
+        },
+        {
+          "no": 10,
+          "question": "What would you do if you ______ a lot of money?",
+          "options": {
+            "A": "have won",
+            "B": "will win",
+            "C": "win",
+            "D": "won"
+          },
+          "answer": "D",
+          "explanation": "Vế chính 'would you do' → loại 2, mệnh đề if dùng quá khứ đơn 'won'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu và tìm lỗi sai",
+      "instructions": "Choose the sentence closest in meaning to the given one, or the part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "I don't have enough money, so I can't buy that bike.",
+          "options": {
+            "A": "If I didn't have enough money, I couldn't buy that bike.",
+            "B": "If I had enough money, I could buy that bike.",
+            "C": "If I have enough money, I can buy that bike.",
+            "D": "If I had had enough money, I could have bought that bike."
+          },
+          "answer": "B",
+          "explanation": "Thực tế ở hiện tại → loại 2, đổi phủ định thành khẳng định. C là loại 1 (không trái thực tế); D là loại 3 (quá khứ); A giữ nguyên phủ định nên sai nghĩa."
+        },
+        {
+          "no": 12,
+          "question": "Hurry up or you'll be late for school.",
+          "options": {
+            "A": "If you hurry up, you'll be late for school.",
+            "B": "Unless you don't hurry up, you'll be late for school.",
+            "C": "If you don't hurry up, you'll be late for school.",
+            "D": "If you didn't hurry up, you would be late for school."
+          },
+          "answer": "C",
+          "explanation": "Mệnh lệnh + or → If you don't..., will.... B sai vì unless không đi với not; D sai loại câu."
+        },
+        {
+          "no": 13,
+          "question": "He didn't wear a helmet, so he was badly injured.",
+          "options": {
+            "A": "If he had worn a helmet, he wouldn't have been badly injured.",
+            "B": "If he didn't wear a helmet, he would be badly injured.",
+            "C": "If he had worn a helmet, he would have been badly injured.",
+            "D": "If he wore a helmet, he wouldn't be badly injured."
+          },
+          "answer": "A",
+          "explanation": "Sự việc quá khứ → loại 3, đổi cả hai vế sang nghĩa ngược lại. C giữ nguyên vế kết quả nên sai nghĩa."
+        },
+        {
+          "no": 14,
+          "question": "Find the mistake: If people (A) will recycle (B) more, there (C) will be (D) less waste.",
+          "options": {
+            "A": "will recycle",
+            "B": "more",
+            "C": "will be",
+            "D": "less waste"
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề if của loại 1 dùng hiện tại đơn → sửa 'will recycle' thành 'recycle'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Conditionals: zero, first and second",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-zero-first-second"
+    },
+    {
+      "title": "LangGo – Đảo ngữ câu điều kiện",
+      "url": "https://langgo.edu.vn/dao-ngu-cau-dieu-kien"
+    }
+  ]
+}

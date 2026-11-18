@@ -1,0 +1,239 @@
+{
+  "material_id": "MAT_SENT_TRANS_01",
+  "skill_id": "SK_SENT_TRANS",
+  "title": "Nguyên tắc biến đổi câu tương đương cơ bản không đổi nghĩa",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm các nguyên tắc giữ nguyên nghĩa khi viết lại câu và các cặp cấu trúc tương đương cơ bản nhất, để chọn đúng câu đồng nghĩa trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Ba nguyên tắc không đổi nghĩa",
+      "points": [
+        "Giữ nguyên thời gian (thì): câu gốc ở quá khứ thì câu viết lại cũng nói về quá khứ",
+        "Giữ nguyên ý khẳng định/phủ định và quan hệ nguyên nhân – kết quả, nhượng bộ",
+        "Cấu trúc mới phải đúng ngữ pháp: đúng dạng động từ, đúng giới từ, đúng liên từ"
+      ],
+      "examples": [
+        {
+          "en": "He was ill, so he stayed at home. → Because he was ill, he stayed at home.",
+          "vi": "Vì bị ốm nên anh ấy ở nhà."
+        }
+      ]
+    },
+    {
+      "heading": "Các cặp cấu trúc tương đương cơ bản",
+      "points": [
+        "It takes/took + sb + time + to V = S + spend/spent + time + V-ing",
+        "S + be + too + adj + to V = S + be + not + adj (trái nghĩa) + enough + to V",
+        "S + be + adj-er/more adj + than … = … + not as/so + adj (trái nghĩa) + as …",
+        "S + last + V2 + time + ago = S + haven't/hasn't + V3 + for + time",
+        "This is the first time S have/has V3 = S + have/has never + V3 + before",
+        "Although + mệnh đề = Despite/In spite of + N/V-ing"
+      ],
+      "examples": [
+        {
+          "en": "It took me two hours to finish the project. → I spent two hours finishing the project.",
+          "vi": "Tôi mất hai tiếng để hoàn thành dự án."
+        },
+        {
+          "en": "I last saw her five years ago. → I haven't seen her for five years.",
+          "vi": "Đã năm năm rồi tôi không gặp cô ấy."
+        }
+      ]
+    },
+    {
+      "heading": "Chủ động – bị động, tính từ – trạng từ, trực tiếp – gián tiếp",
+      "points": [
+        "People speak English … → English is spoken … (be + V3, giữ thì)",
+        "S + be + a/an + adj + N (người) = S + V + adv (She is a good singer = She sings well)",
+        "\"I am tired,\" she said. → She said (that) she was tired. (lùi thì, đổi đại từ)",
+        "How about + V-ing? = Why don't we + V? = Let's + V"
+      ],
+      "examples": [
+        {
+          "en": "People speak English all over the world. → English is spoken all over the world.",
+          "vi": "Tiếng Anh được nói khắp thế giới."
+        },
+        {
+          "en": "She is a good singer. → She sings well.",
+          "vi": "Cô ấy hát hay."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu gốc, tóm tắt nghĩa bằng tiếng Việt một câu ngắn; phương án nào nói khác ý đó thì loại.",
+    "Loại phương án sai ngữ pháp trước (despite + mệnh đề, spend + to V, since + khoảng thời gian…).",
+    "Cẩn thận phương án \"đảo vai\" (Your house is smaller than mine) hoặc đổi khẳng định ↔ phủ định.",
+    "Học thuộc các cặp cấu trúc theo bảng hai cột; đề thường chỉ hỏi những cặp quen thuộc này."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu đồng nghĩa",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "This is the first time I have visited Hue.",
+          "options": {
+            "A": "I have never visited Hue before.",
+            "B": "I have visited Hue several times.",
+            "C": "This is the last time I visit Hue.",
+            "D": "I visited Hue many times before."
+          },
+          "answer": "A",
+          "explanation": "\"This is the first time + HTHT\" = \"have never + V3 + before\" (trước đây chưa từng)."
+        },
+        {
+          "no": 2,
+          "question": "My house is smaller than yours.",
+          "options": {
+            "A": "My house is as big as yours.",
+            "B": "Your house is smaller than mine.",
+            "C": "Your house isn't as big as mine.",
+            "D": "My house isn't as big as yours."
+          },
+          "answer": "D",
+          "explanation": "smaller than = not as big as (dùng tính từ trái nghĩa). Các phương án còn lại đảo vai hoặc đổi nghĩa."
+        },
+        {
+          "no": 3,
+          "question": "It took me two hours to finish the science project.",
+          "options": {
+            "A": "I spent two hours finishing the science project.",
+            "B": "I spend two hours finishing the science project.",
+            "C": "It spent me two hours to finish the science project.",
+            "D": "I spent two hours to finish the science project."
+          },
+          "answer": "A",
+          "explanation": "It took sb + time + to V = sb spent + time + V-ing; giữ thì quá khứ."
+        },
+        {
+          "no": 4,
+          "question": "He is too young to drive a car.",
+          "options": {
+            "A": "He is young enough to drive a car.",
+            "B": "He isn't old enough to drive a car.",
+            "C": "He is old enough to drive a car.",
+            "D": "He isn't too young to drive a car."
+          },
+          "answer": "B",
+          "explanation": "too + adj + to V = not + adj trái nghĩa + enough + to V."
+        },
+        {
+          "no": 5,
+          "question": "I last saw my primary school teacher five years ago.",
+          "options": {
+            "A": "I have seen my primary school teacher for five years.",
+            "B": "I haven't seen my primary school teacher since five years.",
+            "C": "I didn't see my primary school teacher five years ago.",
+            "D": "I haven't seen my primary school teacher for five years."
+          },
+          "answer": "D",
+          "explanation": "last + V2 + time ago = haven't + V3 + for + time. \"since\" không đi với khoảng thời gian."
+        },
+        {
+          "no": 6,
+          "question": "Although it was cold, we went swimming in the sea.",
+          "options": {
+            "A": "Despite it was cold, we went swimming in the sea.",
+            "B": "Despite the cold weather, we went swimming in the sea.",
+            "C": "Because of the cold weather, we went swimming in the sea.",
+            "D": "Despite of the cold weather, we went swimming in the sea."
+          },
+          "answer": "B",
+          "explanation": "Although + mệnh đề = Despite + cụm danh từ (the cold weather). \"Because of\" đổi nghĩa; \"Despite of\" sai."
+        },
+        {
+          "no": 7,
+          "question": "She is a good singer.",
+          "options": {
+            "A": "She is sung well.",
+            "B": "She sings good.",
+            "C": "She sings badly.",
+            "D": "She sings well."
+          },
+          "answer": "D",
+          "explanation": "be + a good + N (người làm việc) = V + well (trạng từ)."
+        },
+        {
+          "no": 8,
+          "question": "People speak English all over the world.",
+          "options": {
+            "A": "English is speaking all over the world.",
+            "B": "English spoke all over the world.",
+            "C": "English was spoken all over the world.",
+            "D": "English is spoken all over the world."
+          },
+          "answer": "D",
+          "explanation": "Bị động hiện tại đơn: is/are + V3; giữ thì hiện tại như câu gốc."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đồng nghĩa (tiếp)",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "He was ill, so he stayed at home.",
+          "options": {
+            "A": "Because he was ill, he stayed at home.",
+            "B": "Although he was ill, he stayed at home.",
+            "C": "He stayed at home, so he was ill.",
+            "D": "Because of he was ill, he stayed at home."
+          },
+          "answer": "A",
+          "explanation": "\"so\" (kết quả) → \"Because\" (nguyên nhân) + mệnh đề. \"Because of\" không đi với mệnh đề."
+        },
+        {
+          "no": 10,
+          "question": "Nobody in my class is taller than Nam.",
+          "options": {
+            "A": "Nam is the shortest student in my class.",
+            "B": "Everybody in my class is taller than Nam.",
+            "C": "Nam is the tallest student in my class.",
+            "D": "Nam is shorter than everyone in my class."
+          },
+          "answer": "C",
+          "explanation": "\"Không ai cao hơn Nam\" = Nam cao nhất lớp."
+        },
+        {
+          "no": 11,
+          "question": "\"I am very tired,\" she said.",
+          "options": {
+            "A": "She said that I was very tired.",
+            "B": "She told that she was very tired.",
+            "C": "She said that she was very tired.",
+            "D": "She said that she had been very tiring."
+          },
+          "answer": "C",
+          "explanation": "Gián tiếp: lùi thì am → was, đổi I → she; \"told\" phải có tân ngữ (told me)."
+        },
+        {
+          "no": 12,
+          "question": "How about going for a walk after dinner?",
+          "options": {
+            "A": "Why don't we going for a walk after dinner?",
+            "B": "Why don't we go for a walk after dinner?",
+            "C": "Let's going for a walk after dinner.",
+            "D": "How about go for a walk after dinner?"
+          },
+          "answer": "B",
+          "explanation": "How about + V-ing = Why don't we + V nguyên mẫu (lời gợi ý)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Viết lại câu thi vào 10",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    },
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    }
+  ]
+}

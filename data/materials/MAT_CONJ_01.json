@@ -1,0 +1,216 @@
+{
+  "material_id": "MAT_CONJ_01",
+  "skill_id": "SK_CONJUNCTIONS",
+  "title": "Các liên từ kết hợp và liên từ tương quan cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm nghĩa và cách dùng các liên từ kết hợp (FANBOYS: for, and, nor, but, or, yet, so) và liên từ tương quan (both...and, either...or, neither...nor, not only...but also) để chọn đúng liên từ nối từ, cụm từ và mệnh đề.",
+  "theory": [
+    {
+      "heading": "Liên từ kết hợp FANBOYS",
+      "points": [
+        "and (và – bổ sung), but (nhưng – tương phản), or (hoặc – lựa chọn), so (vì vậy – kết quả).",
+        "for (vì – nguyên nhân, trang trọng), yet (tuy nhiên – tương phản), nor (cũng không).",
+        "Khi nối hai mệnh đề độc lập, thường đặt dấu phẩy trước liên từ: It was late, so we went home.",
+        "Phân biệt: so + kết quả; because + nguyên nhân (because là liên từ phụ thuộc)."
+      ],
+      "examples": [
+        {
+          "en": "I was hungry, so I made a sandwich.",
+          "vi": "Tôi đói nên tôi làm một chiếc bánh mì kẹp."
+        },
+        {
+          "en": "She is clever, but she is a bit lazy.",
+          "vi": "Cô ấy thông minh nhưng hơi lười."
+        }
+      ]
+    },
+    {
+      "heading": "Liên từ tương quan (đi theo cặp)",
+      "points": [
+        "both A and B: cả A và B → động từ số nhiều.",
+        "either A or B: hoặc A hoặc B; neither A nor B: không A cũng không B → động từ chia theo B.",
+        "not only A but also B: không những A mà còn B → động từ chia theo B.",
+        "A và B phải cùng loại từ/cấu trúc (song song): both clever and kind; not only sings but also dances."
+      ],
+      "examples": [
+        {
+          "en": "Both my brother and I like playing chess.",
+          "vi": "Cả anh tôi và tôi đều thích chơi cờ."
+        },
+        {
+          "en": "You can either stay here or come with us.",
+          "vi": "Bạn có thể ở lại đây hoặc đi cùng chúng tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định quan hệ nghĩa giữa hai vế trước: bổ sung (and), tương phản (but/yet), lựa chọn (or), kết quả (so), nguyên nhân (for/because).",
+    "Liên từ tương quan phải đúng cặp: both–and, either–or, neither–nor, not only–but also. Loại ngay các cặp lệch như 'both...or', 'neither...or'.",
+    "'neither...nor' đã mang nghĩa phủ định – không dùng thêm 'not' trong động từ.",
+    "Hai vế sau liên từ tương quan phải song song về ngữ pháp."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn liên từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "It was raining heavily, ______ we stayed at home.",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "for",
+            "D": "but"
+          },
+          "answer": "B",
+          "explanation": "Vế sau là kết quả của vế trước (mưa to → ở nhà) → so."
+        },
+        {
+          "no": 2,
+          "question": "Would you like tea ______ coffee?",
+          "options": {
+            "A": "or",
+            "B": "but",
+            "C": "so",
+            "D": "and"
+          },
+          "answer": "A",
+          "explanation": "Hỏi lựa chọn giữa hai thứ → or."
+        },
+        {
+          "no": 3,
+          "question": "My house is small, ______ it is very comfortable.",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "but",
+            "D": "and"
+          },
+          "answer": "C",
+          "explanation": "Hai vế tương phản (nhỏ nhưng thoải mái) → but."
+        },
+        {
+          "no": 4,
+          "question": "______ Nam and Minh are members of the school football team.",
+          "options": {
+            "A": "Not only",
+            "B": "Either",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "answer": "C",
+          "explanation": "Cặp 'both ... and' và động từ số nhiều 'are' → Both."
+        },
+        {
+          "no": 5,
+          "question": "You can ______ call me or send me an email.",
+          "options": {
+            "A": "not only",
+            "B": "neither",
+            "C": "either",
+            "D": "both"
+          },
+          "answer": "C",
+          "explanation": "Cặp 'either ... or' (hoặc ... hoặc) → either."
+        },
+        {
+          "no": 6,
+          "question": "Neither my father ______ my mother can speak French.",
+          "options": {
+            "A": "or",
+            "B": "but",
+            "C": "and",
+            "D": "nor"
+          },
+          "answer": "D",
+          "explanation": "Cặp 'neither ... nor' → nor."
+        },
+        {
+          "no": 7,
+          "question": "She is not only beautiful ______ intelligent.",
+          "options": {
+            "A": "but also",
+            "B": "so also",
+            "C": "or also",
+            "D": "and also"
+          },
+          "answer": "A",
+          "explanation": "Cặp 'not only ... but also' → but also."
+        },
+        {
+          "no": 8,
+          "question": "I wanted to buy the jacket, ______ I didn't have enough money.",
+          "options": {
+            "A": "or",
+            "B": "and",
+            "C": "so",
+            "D": "but"
+          },
+          "answer": "D",
+          "explanation": "Hai vế tương phản (muốn mua nhưng không đủ tiền) → but."
+        },
+        {
+          "no": 9,
+          "question": "Hurry up, ______ you will miss the bus.",
+          "options": {
+            "A": "but",
+            "B": "or",
+            "C": "and",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "Câu mệnh lệnh + or + kết quả xấu nếu không làm (nếu không thì...) → or."
+        },
+        {
+          "no": 10,
+          "question": "Lan likes reading books, ______ her sister likes reading comics.",
+          "options": {
+            "A": "or",
+            "B": "so",
+            "C": "nor",
+            "D": "and"
+          },
+          "answer": "D",
+          "explanation": "Hai vế bổ sung thông tin cho nhau (mỗi người một sở thích), không tương phản hay nguyên nhân – kết quả → and."
+        },
+        {
+          "no": 11,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Both Tom or Jerry are cartoon characters.",
+            "B": "Neither Tom nor Jerry is a real animal.",
+            "C": "Either Tom nor Jerry is a real animal.",
+            "D": "Not only Tom and also Jerry are cartoon characters."
+          },
+          "answer": "B",
+          "explanation": "Neither...nor đúng cặp, động từ chia theo 'Jerry' (số ít) → is. A, C, D dùng sai cặp liên từ."
+        },
+        {
+          "no": 12,
+          "question": "He studied very hard, ______ he passed the exam with flying colours.",
+          "options": {
+            "A": "so",
+            "B": "nor",
+            "C": "or",
+            "D": "but"
+          },
+          "answer": "A",
+          "explanation": "Vế sau là kết quả của việc học chăm → so."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Grammarly Blog – What Is a Correlative Conjunction?",
+      "url": "https://www.grammarly.com/blog/parts-of-speech/correlative-conjunctions/"
+    },
+    {
+      "title": "PREP – Liên từ phụ thuộc (Subordinating Conjunctions): Cách dùng, phân loại và bài tập",
+      "url": "https://prepedu.com/vi/blog/lien-tu-phu-thuoc-trong-tieng-anh"
+    }
+  ]
+}

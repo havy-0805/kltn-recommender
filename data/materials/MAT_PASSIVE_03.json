@@ -1,0 +1,267 @@
+{
+  "material_id": "MAT_PASSIVE_03",
+  "skill_id": "SK_PASSIVE_VOICE",
+  "title": "Câu bị động đặc biệt (truyền khiến, kép, động từ chỉ giác quan)",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các dạng bị động nâng cao: thể truyền khiến (have/get sth done), bị động kép với say/believe/report, bị động của động từ giác quan và make/let, need + V-ing, bị động của động từ khuyết thiếu hoàn thành – nhóm câu phân hóa điểm cao.",
+  "theory": [
+    {
+      "heading": "Thể truyền khiến (causative)",
+      "points": [
+        "Chủ động: have + sb + V / get + sb + to V (nhờ ai làm gì).",
+        "Bị động: have/get + sth + V3 (có cái gì được làm bởi người khác).",
+        "'have/get' chia theo thì: I had my hair cut / She is going to get her car repaired."
+      ],
+      "examples": [
+        {
+          "en": "I had my computer repaired last week.",
+          "vi": "Tuần trước tôi đã mang máy tính đi sửa (thuê người sửa)."
+        },
+        {
+          "en": "We had the mechanic check the engine. = We had the engine checked by the mechanic.",
+          "vi": "Chúng tôi nhờ thợ kiểm tra động cơ."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động kép với động từ tường thuật",
+      "points": [
+        "People say/believe/think/report + that + S2 + V2.",
+        "Cách 1: It is said/believed + that + S2 + V2.",
+        "Cách 2: S2 + is said/believed + to V (nếu V2 cùng thì hoặc sau động từ chính).",
+        "Cách 2: S2 + is said/believed + to have + V3 (nếu V2 xảy ra trước động từ chính).",
+        "Nếu V2 ở bị động: to be + V3 / to have been + V3."
+      ],
+      "examples": [
+        {
+          "en": "People believe that the thief escaped through the window. → The thief is believed to have escaped through the window.",
+          "vi": "Người ta tin rằng tên trộm đã trốn qua cửa sổ."
+        },
+        {
+          "en": "It is said that he is very rich. → He is said to be very rich.",
+          "vi": "Người ta nói rằng ông ấy rất giàu."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động của động từ giác quan, make, let và need",
+      "points": [
+        "see/hear/watch + O + V (toàn bộ hành động) → S + be seen/heard + to V.",
+        "see/hear + O + V-ing (đang diễn ra) → S + be seen/heard + V-ing.",
+        "make + O + V → S + be made + to V. let + O + V → S + be allowed to V (không dùng 'be let').",
+        "need + V-ing = need + to be + V3 (chủ ngữ là vật).",
+        "Động từ khuyết thiếu hoàn thành: should/must/could + have been + V3."
+      ],
+      "examples": [
+        {
+          "en": "They made him work overtime. → He was made to work overtime.",
+          "vi": "Anh ấy bị bắt làm thêm giờ."
+        },
+        {
+          "en": "The garden needs watering.",
+          "vi": "Khu vườn cần được tưới nước."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "have/get + VẬT + V3 (bị động) ≠ have + NGƯỜI + V nguyên mẫu (chủ động).",
+    "Bị động kép: so sánh thì của hai mệnh đề – cùng thì → to V; mệnh đề sau xảy ra trước → to have V3.",
+    "Chủ động 'make/see/hear + O + V' không có 'to', nhưng khi chuyển sang bị động phải thêm 'to'.",
+    "'let' không có dạng bị động thông dụng → dùng 'be allowed to'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I ______ my hair cut at the new salon yesterday.",
+          "options": {
+            "A": "made",
+            "B": "let",
+            "C": "had",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "Thể truyền khiến bị động: have + sth + V3 → 'had my hair cut'."
+        },
+        {
+          "no": 2,
+          "question": "She is going to get her car ______ next week.",
+          "options": {
+            "A": "repair",
+            "B": "repaired",
+            "C": "repairing",
+            "D": "to repair"
+          },
+          "answer": "B",
+          "explanation": "get + sth + V3 → 'get her car repaired'."
+        },
+        {
+          "no": 3,
+          "question": "It is said that he is very rich. → He is said ______ very rich.",
+          "options": {
+            "A": "to be",
+            "B": "be",
+            "C": "to have been",
+            "D": "being"
+          },
+          "answer": "A",
+          "explanation": "Hai mệnh đề cùng thì hiện tại → S + is said + to V: 'to be'."
+        },
+        {
+          "no": 4,
+          "question": "People believe that the thief escaped through the window. → The thief is believed ______ through the window.",
+          "options": {
+            "A": "to have escaped",
+            "B": "escaping",
+            "C": "escaped",
+            "D": "to escape"
+          },
+          "answer": "A",
+          "explanation": "'escaped' (quá khứ) xảy ra trước 'believe' (hiện tại) → to have + V3."
+        },
+        {
+          "no": 5,
+          "question": "They made him work overtime. → He was made ______ overtime.",
+          "options": {
+            "A": "to work",
+            "B": "working",
+            "C": "work",
+            "D": "worked"
+          },
+          "answer": "A",
+          "explanation": "make + O + V → bị động: be made + to V."
+        },
+        {
+          "no": 6,
+          "question": "Someone saw her leave the house at 7 a.m. → She was seen ______ the house at 7 a.m.",
+          "options": {
+            "A": "leave",
+            "B": "left",
+            "C": "to leave",
+            "D": "to leaving"
+          },
+          "answer": "C",
+          "explanation": "see + O + V (toàn bộ hành động) → bị động: be seen + to V."
+        },
+        {
+          "no": 7,
+          "question": "My parents don't let me stay out late. → I ______ to stay out late.",
+          "options": {
+            "A": "am not allowed",
+            "B": "am not let",
+            "C": "wasn't allowed",
+            "D": "don't allow"
+          },
+          "answer": "A",
+          "explanation": "let + O + V → bị động dùng 'be allowed to'; hiện tại đơn → 'am not allowed'. C sai thì."
+        },
+        {
+          "no": 8,
+          "question": "The garden is very dry. It needs ______.",
+          "options": {
+            "A": "water",
+            "B": "watering",
+            "C": "watered",
+            "D": "to watering"
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ là vật + need + V-ing mang nghĩa bị động (cần được tưới)."
+        },
+        {
+          "no": 9,
+          "question": "This report should ______ yesterday, but nobody did it.",
+          "options": {
+            "A": "be done",
+            "B": "have been done",
+            "C": "be doing",
+            "D": "have done"
+          },
+          "answer": "B",
+          "explanation": "Việc lẽ ra phải được làm trong quá khứ (yesterday) mà không làm → should + have been + V3."
+        },
+        {
+          "no": 10,
+          "question": "The students were heard ______ loudly in the next room when the teacher came in.",
+          "options": {
+            "A": "to singing",
+            "B": "sing",
+            "C": "sung",
+            "D": "singing"
+          },
+          "answer": "D",
+          "explanation": "Hành động đang diễn ra khi bị nghe thấy → be heard + V-ing. B thiếu 'to', A sai dạng."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "We had the mechanic check the engine.",
+          "options": {
+            "A": "The mechanic had us check the engine.",
+            "B": "We had the engine check by the mechanic.",
+            "C": "We checked the engine by the mechanic.",
+            "D": "We had the engine checked by the mechanic."
+          },
+          "answer": "D",
+          "explanation": "have + người + V → have + vật + V3 (+ by người). A đảo ngược nghĩa."
+        },
+        {
+          "no": 12,
+          "question": "It is reported that two people were injured in the accident.",
+          "options": {
+            "A": "Two people are reported to be injured in the accident.",
+            "B": "Two people reported to have injured in the accident.",
+            "C": "Two people were reported injuring in the accident.",
+            "D": "Two people are reported to have been injured in the accident."
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề sau ở quá khứ bị động (were injured) xảy ra trước 'is reported' → to have been + V3."
+        },
+        {
+          "no": 13,
+          "question": "Someone is going to paint our house next week.",
+          "options": {
+            "A": "We are going to paint our house next week.",
+            "B": "We are going to have our house painted next week.",
+            "C": "We have our house painting next week.",
+            "D": "We are going to have painted our house next week."
+          },
+          "answer": "B",
+          "explanation": "Người khác sơn nhà cho mình → thể truyền khiến have + sth + V3, giữ thì 'be going to'."
+        },
+        {
+          "no": 14,
+          "question": "People think that the new bridge will be finished next year.",
+          "options": {
+            "A": "The new bridge is thought to have been finished next year.",
+            "B": "The new bridge thinks to be finished next year.",
+            "C": "The new bridge is thought to be finished next year.",
+            "D": "It thinks that the new bridge will be finished next year."
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề sau ở tương lai bị động → S + is thought + to be + V3. A dùng 'to have been' cho hành động trước, sai với 'next year'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu bị động",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-bi-dong-cd2025.jsp"
+    },
+    {
+      "title": "British Council LearnEnglish – Passives",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passives"
+    }
+  ]
+}

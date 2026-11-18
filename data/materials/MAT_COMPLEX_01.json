@@ -1,0 +1,236 @@
+{
+  "material_id": "MAT_COMPLEX_01",
+  "skill_id": "SK_COMPLEX_SENT",
+  "title": "Nhận biết và sử dụng câu phức cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh phân biệt câu đơn, câu ghép, câu phức và dùng đúng các liên từ phụ thuộc cơ bản (because, although, when, while, before, after, if, so that, since).",
+  "theory": [
+    {
+      "heading": "Câu đơn, câu ghép và câu phức",
+      "points": [
+        "Câu đơn: 1 mệnh đề độc lập (She plays the piano.).",
+        "Câu ghép: 2 mệnh đề độc lập nối bằng liên từ đẳng lập and, but, or, so.",
+        "Câu phức: 1 mệnh đề độc lập + 1 mệnh đề phụ thuộc bắt đầu bằng liên từ phụ thuộc (because, although, when, if...).",
+        "Mệnh đề phụ thuộc không thể đứng một mình: 'Because it was raining.' là câu chưa hoàn chỉnh."
+      ],
+      "examples": [
+        {
+          "en": "I like tea, but my sister likes coffee.",
+          "vi": "Tôi thích trà, nhưng em gái tôi thích cà phê. (câu ghép)"
+        },
+        {
+          "en": "I stayed at home because it was raining.",
+          "vi": "Tôi ở nhà vì trời mưa. (câu phức)"
+        }
+      ]
+    },
+    {
+      "heading": "Các liên từ phụ thuộc cơ bản",
+      "points": [
+        "because / as / since: chỉ lý do (vì).",
+        "although / though / even though: chỉ sự nhượng bộ (mặc dù).",
+        "when, while, before, after, until, as soon as, since: chỉ thời gian.",
+        "if / unless: chỉ điều kiện; so that: chỉ mục đích (để mà)."
+      ],
+      "examples": [
+        {
+          "en": "Although it was late, the shop was still open.",
+          "vi": "Mặc dù đã muộn, cửa hàng vẫn mở."
+        },
+        {
+          "en": "She turned on the light so that she could read.",
+          "vi": "Cô ấy bật đèn để có thể đọc sách."
+        }
+      ]
+    },
+    {
+      "heading": "Vị trí mệnh đề phụ thuộc và dấu câu",
+      "points": [
+        "Mệnh đề phụ thuộc đứng đầu câu: dùng dấu phẩy (If you are free, call me.).",
+        "Mệnh đề phụ thuộc đứng sau mệnh đề chính: thường không cần dấu phẩy (Call me if you are free.).",
+        "Không dùng cùng lúc although và but, because và so trong một câu."
+      ],
+      "examples": [
+        {
+          "en": "When the bell rang, the students left the room.",
+          "vi": "Khi chuông reo, học sinh rời khỏi phòng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc nghĩa cả hai vế: nguyên nhân → because; trái ngược → although; mục đích → so that; điều kiện → if/unless.",
+    "Không dùng 'although ... but' hoặc 'because ... so' trong cùng một câu.",
+    "'since' + mốc thời gian/mệnh đề quá khứ → nghĩa 'từ khi'; 'since' + lý do → nghĩa 'vì'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Nhận biết câu phức",
+      "instructions": "Choose the best option (A, B, C or D) to answer each question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which sentence is a complex sentence?",
+          "options": {
+            "A": "I like tea and my sister likes coffee.",
+            "B": "She plays the piano every evening.",
+            "C": "I stayed at home because it was raining.",
+            "D": "He is tall, but his brother is short."
+          },
+          "answer": "C",
+          "explanation": "C có mệnh đề chính 'I stayed at home' và mệnh đề phụ thuộc 'because it was raining' → câu phức. A, D là câu ghép, B là câu đơn."
+        },
+        {
+          "no": 2,
+          "question": "In the sentence \"We'll go out when the rain stops\", which part is the dependent clause?",
+          "options": {
+            "A": "We'll go",
+            "B": "when the rain stops",
+            "C": "We'll go out",
+            "D": "the rain"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề phụ thuộc bắt đầu bằng liên từ 'when' và có đủ S + V: 'when the rain stops'."
+        },
+        {
+          "no": 3,
+          "question": "Which of the following CANNOT stand alone as a complete sentence?",
+          "options": {
+            "A": "The bus was late.",
+            "B": "Because the bus was late.",
+            "C": "The bus came at last.",
+            "D": "We missed the bus."
+          },
+          "answer": "B",
+          "explanation": "'Because the bus was late.' là mệnh đề phụ thuộc, thiếu mệnh đề chính nên không đứng một mình được."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn liên từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 4,
+          "question": "I was late for school ______ I got up late.",
+          "options": {
+            "A": "so",
+            "B": "but",
+            "C": "because",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "Dậy muộn là lý do đi học muộn → 'because'."
+        },
+        {
+          "no": 5,
+          "question": "______ it was cold, she didn't wear a coat.",
+          "options": {
+            "A": "Because",
+            "B": "So",
+            "C": "If",
+            "D": "Although"
+          },
+          "answer": "D",
+          "explanation": "Hai vế trái ngược (trời lạnh – không mặc áo khoác) → 'Although'."
+        },
+        {
+          "no": 6,
+          "question": "Brush your teeth ______ you go to bed.",
+          "options": {
+            "A": "before",
+            "B": "although",
+            "C": "because",
+            "D": "unless"
+          },
+          "answer": "A",
+          "explanation": "Quan hệ thời gian: đánh răng trước khi đi ngủ → 'before'."
+        },
+        {
+          "no": 7,
+          "question": "______ you study hard, you will pass the exam.",
+          "options": {
+            "A": "Because",
+            "B": "Unless",
+            "C": "Although",
+            "D": "If"
+          },
+          "answer": "D",
+          "explanation": "Câu điều kiện loại 1: Nếu học chăm, bạn sẽ đỗ → 'If'. 'Unless' làm câu sai nghĩa."
+        },
+        {
+          "no": 8,
+          "question": "She turned on the light ______ she could read the book.",
+          "options": {
+            "A": "so that",
+            "B": "unless",
+            "C": "although",
+            "D": "because"
+          },
+          "answer": "A",
+          "explanation": "Chỉ mục đích, có 'could + V' → 'so that'."
+        },
+        {
+          "no": 9,
+          "question": "We stayed indoors ______ it was very hot outside.",
+          "options": {
+            "A": "so that",
+            "B": "unless",
+            "C": "although",
+            "D": "because"
+          },
+          "answer": "D",
+          "explanation": "Trời rất nóng là lý do ở trong nhà → 'because'."
+        },
+        {
+          "no": 10,
+          "question": "______ he was walking home, he saw an accident.",
+          "options": {
+            "A": "Unless",
+            "B": "Because",
+            "C": "While",
+            "D": "Although"
+          },
+          "answer": "C",
+          "explanation": "Hành động đang diễn ra (was walking) trong lúc hành động khác xảy ra → 'While'."
+        },
+        {
+          "no": 11,
+          "question": "I have lived in this town ______ I was ten.",
+          "options": {
+            "A": "while",
+            "B": "since",
+            "C": "until",
+            "D": "for"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề chính ở hiện tại hoàn thành + mốc bắt đầu trong quá khứ → 'since' (từ khi)."
+        },
+        {
+          "no": 12,
+          "question": "Choose the correct way to combine: \"He was hungry. He ate a big sandwich.\"",
+          "options": {
+            "A": "Because he was hungry, he ate a big sandwich.",
+            "B": "Although he was hungry, he ate a big sandwich.",
+            "C": "Unless he was hungry, he ate a big sandwich.",
+            "D": "Because he was hungry, so he ate a big sandwich."
+          },
+          "answer": "A",
+          "explanation": "Đói là lý do ăn bánh → 'Because'. D sai vì không dùng 'because' và 'so' cùng lúc."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Mệnh đề trạng ngữ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-menh-de-trang-ngu-cd2025.jsp"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    }
+  ]
+}

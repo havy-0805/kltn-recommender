@@ -1,0 +1,277 @@
+{
+  "material_id": "MAT_VOCAB_DISASTER",
+  "skill_id": "SK_VOCAB_DISASTER",
+  "title": "Từ vựng chuyên sâu Thảm họa thiên nhiên",
+  "target_level": 2,
+  "summary": "Mở rộng từ vựng về các loại thảm họa thiên nhiên, hậu quả và công tác cứu trợ (evacuate, trapped, landslide, relief aid, temporary accommodation...), giúp học sinh làm tốt câu hỏi từ vựng và bài đọc điền từ chủ đề Natural disasters.",
+  "theory": [
+    {
+      "heading": "Các loại thảm họa thiên nhiên",
+      "points": [
+        "earthquake (động đất), tsunami (sóng thần), volcanic eruption (núi lửa phun trào), typhoon/hurricane/cyclone (bão nhiệt đới, tên gọi tùy khu vực), tornado (lốc xoáy).",
+        "flood (lũ lụt), flash flood (lũ quét), drought (hạn hán), landslide/mudslide (sạt lở đất), forest fire/wildfire (cháy rừng), heatwave (đợt nắng nóng).",
+        "Động từ đặc trưng: a volcano erupts (phun trào), the ground shakes/trembles (rung lắc), a river overflows (tràn bờ), a building collapses (sụp đổ).",
+        "Đo cường độ: an earthquake measures 7.0 on the Richter scale (thang Richter)."
+      ],
+      "examples": [
+        {
+          "en": "The volcano erupted and hot lava flowed down the mountain.",
+          "vi": "Núi lửa phun trào và dung nham nóng chảy xuống sườn núi."
+        },
+        {
+          "en": "A long drought destroyed most of the rice crops.",
+          "vi": "Đợt hạn hán kéo dài đã phá hủy phần lớn lúa."
+        }
+      ]
+    },
+    {
+      "heading": "Hậu quả của thảm họa",
+      "points": [
+        "cause damage to (gây thiệt hại cho); destroy (phá hủy hoàn toàn); property (tài sản, nhà cửa).",
+        "victim (nạn nhân), survivor (người sống sót), homeless (mất nhà cửa), injured (bị thương).",
+        "be trapped (bị mắc kẹt), be buried (bị chôn vùi), debris (đống đổ nát).",
+        "Lưu ý: damage là danh từ không đếm được khi nói về thiệt hại; \"damages\" (số nhiều) là tiền bồi thường."
+      ],
+      "examples": [
+        {
+          "en": "The storm caused serious damage to houses and crops.",
+          "vi": "Cơn bão gây thiệt hại nghiêm trọng cho nhà cửa và mùa màng."
+        },
+        {
+          "en": "Many people were trapped under the collapsed buildings.",
+          "vi": "Nhiều người bị mắc kẹt dưới các tòa nhà đổ sập."
+        }
+      ]
+    },
+    {
+      "heading": "Phòng chống và cứu trợ",
+      "points": [
+        "predict/forecast (dự báo), warn (cảnh báo), evacuate (sơ tán) – evacuation (n).",
+        "emergency kit (bộ dụng cụ khẩn cấp), shelter (nơi trú ẩn), temporary accommodation (chỗ ở tạm thời).",
+        "rescue workers (nhân viên cứu hộ: tìm kiếm, giải cứu người), relief aid/relief goods (hàng cứu trợ: lương thực, thuốc men)."
+      ],
+      "examples": [
+        {
+          "en": "The authorities evacuated people from the coastal areas before the typhoon.",
+          "vi": "Chính quyền đã sơ tán người dân khỏi vùng ven biển trước bão."
+        },
+        {
+          "en": "Rescue workers searched for survivors all night.",
+          "vi": "Lực lượng cứu hộ tìm kiếm người sống sót suốt đêm."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc kỹ nguyên nhân – kết quả trong câu (heavy rain → flood/landslide; no rain → drought; under the sea → tsunami) để chọn đúng loại thảm họa.",
+    "Phân biệt rescue (giải cứu người) với relief (cứu trợ hàng hóa), temporary (tạm thời) với permanent (lâu dài).",
+    "Ghi nhớ các collocation: cause damage to, measure ... on the Richter scale, be trapped under, evacuate people from.",
+    "Trong bài đọc điền từ, chú ý dạng bị động (were evacuated, were trapped) và từ loại cần điền."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Từ vựng trong câu",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "A ______ is a long period of time with little or no rain, which causes crops to die.",
+          "options": {
+            "A": "landslide",
+            "B": "drought",
+            "C": "flood",
+            "D": "tornado"
+          },
+          "answer": "B",
+          "explanation": "\"long period with little or no rain\" → hạn hán: \"drought\"."
+        },
+        {
+          "no": 2,
+          "question": "When the volcano ______, hot lava and ash covered the nearby villages.",
+          "options": {
+            "A": "erupted",
+            "B": "collapsed",
+            "C": "shook",
+            "D": "flooded"
+          },
+          "answer": "A",
+          "explanation": "Collocation: \"a volcano erupts\" (núi lửa phun trào)."
+        },
+        {
+          "no": 3,
+          "question": "The government ordered people to ______ the coastal areas before the typhoon arrived.",
+          "options": {
+            "A": "damage",
+            "B": "evacuate",
+            "C": "destroy",
+            "D": "rescue"
+          },
+          "answer": "B",
+          "explanation": "\"evacuate + nơi chốn\" = sơ tán khỏi nơi nào; hợp với ngữ cảnh trước khi bão đến."
+        },
+        {
+          "no": 4,
+          "question": "Many people were ______ under the collapsed buildings after the earthquake.",
+          "options": {
+            "A": "warned",
+            "B": "saved",
+            "C": "shocked",
+            "D": "trapped"
+          },
+          "answer": "D",
+          "explanation": "\"be trapped under...\" = bị mắc kẹt dưới (đống đổ nát)."
+        },
+        {
+          "no": 5,
+          "question": "A ______ is a huge wave caused by an earthquake under the sea.",
+          "options": {
+            "A": "tsunami",
+            "B": "typhoon",
+            "C": "drought",
+            "D": "tornado"
+          },
+          "answer": "A",
+          "explanation": "Sóng thần (tsunami) là sóng khổng lồ do động đất dưới đáy biển gây ra."
+        },
+        {
+          "no": 6,
+          "question": "The storm caused serious ______ to crops and houses in the area.",
+          "options": {
+            "A": "damaged",
+            "B": "damage",
+            "C": "destructive",
+            "D": "destroy"
+          },
+          "answer": "B",
+          "explanation": "Collocation \"cause damage to sth\" (gây thiệt hại cho); sau tính từ \"serious\" cần danh từ."
+        },
+        {
+          "no": 7,
+          "question": "Scientists still cannot ______ exactly when and where an earthquake will happen.",
+          "options": {
+            "A": "produce",
+            "B": "predict",
+            "C": "protect",
+            "D": "prevent"
+          },
+          "answer": "B",
+          "explanation": "\"predict\" = dự đoán; câu nói về việc biết trước thời điểm, địa điểm động đất."
+        },
+        {
+          "no": 8,
+          "question": "The earthquake measured 7.2 on the Richter ______.",
+          "options": {
+            "A": "number",
+            "B": "degree",
+            "C": "scale",
+            "D": "level"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"the Richter scale\" (thang đo độ lớn động đất Richter)."
+        },
+        {
+          "no": 9,
+          "question": "Thousands of people were left ______ after the flood destroyed their houses.",
+          "options": {
+            "A": "homeland",
+            "B": "homemade",
+            "C": "homeless",
+            "D": "homesick"
+          },
+          "answer": "C",
+          "explanation": "\"be left homeless\" = bị mất nhà cửa; hợp với ngữ cảnh nhà bị phá hủy. \"homesick\" = nhớ nhà."
+        },
+        {
+          "no": 10,
+          "question": "You should prepare an emergency ______ with food, water, a torch and a first-aid kit.",
+          "options": {
+            "A": "exit",
+            "B": "room",
+            "C": "kit",
+            "D": "call"
+          },
+          "answer": "C",
+          "explanation": "\"emergency kit\" = bộ dụng cụ khẩn cấp, chứa đồ ăn, nước, đèn pin, đồ sơ cứu."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc và điền từ",
+      "instructions": "Read the passage and mark the letter A, B, C or D to indicate the word that best fits each of the numbered blanks.",
+      "passage": "Last October, a powerful typhoon hit the central coast of Viet Nam. Two days before it arrived, the local authorities warned people to leave their homes, and thousands of families were (11) ______ to schools and community centres on higher ground. The storm brought strong winds and heavy rain for nearly twenty hours. Many rivers overflowed, and the floodwater rose quickly.\n\nWhen the rain stopped, rescue workers used boats to reach people who were (12) ______ on the roofs of their houses. In one mountain village, a (13) ______ buried several houses after the hillside became too wet. Luckily, nobody was killed because the villagers had already moved to a safe place. Volunteers and international organisations quickly sent (14) ______ aid, such as food, clean water and medicine, to the victims. Many families now live in temporary (15) ______ while their homes are being repaired.",
+      "questions": [
+        {
+          "no": 11,
+          "question": "Choose the word that best fits blank (11).",
+          "options": {
+            "A": "evacuated",
+            "B": "destroyed",
+            "C": "rescued",
+            "D": "erupted"
+          },
+          "answer": "A",
+          "explanation": "Người dân \"được sơ tán\" tới trường học, nhà văn hóa trên vùng cao → bị động \"were evacuated to\". \"rescued\" không phù hợp vì họ rời đi trước khi bão đến."
+        },
+        {
+          "no": 12,
+          "question": "Choose the word that best fits blank (12).",
+          "options": {
+            "A": "predicted",
+            "B": "warned",
+            "C": "evacuated",
+            "D": "trapped"
+          },
+          "answer": "D",
+          "explanation": "Người phải được cứu bằng thuyền vì \"bị mắc kẹt\" trên mái nhà → \"were trapped on the roofs\"."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word that best fits blank (13).",
+          "options": {
+            "A": "landslide",
+            "B": "drought",
+            "C": "tornado",
+            "D": "tsunami"
+          },
+          "answer": "A",
+          "explanation": "\"buried several houses after the hillside became too wet\" (vùi lấp nhà sau khi sườn đồi ngấm nước) → \"landslide\" (sạt lở đất)."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word that best fits blank (14).",
+          "options": {
+            "A": "rescue",
+            "B": "relax",
+            "C": "release",
+            "D": "relief"
+          },
+          "answer": "D",
+          "explanation": "\"relief aid\" = hàng cứu trợ (lương thực, nước sạch, thuốc men). \"rescue\" là giải cứu người, không đi với \"aid... such as food\"."
+        },
+        {
+          "no": 15,
+          "question": "Choose the word that best fits blank (15).",
+          "options": {
+            "A": "emergency",
+            "B": "victims",
+            "C": "accommodation",
+            "D": "property"
+          },
+          "answer": "C",
+          "explanation": "Collocation \"temporary accommodation\" (chỗ ở tạm thời) hợp với ngữ cảnh nhà đang được sửa. \"property\" là tài sản, \"victims\" là nạn nhân, \"emergency\" là tình huống khẩn cấp, đều không thể \"live in\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP - Hướng dẫn học Tiếng Anh 8 Unit 9: Natural Disasters",
+      "url": "https://prepedu.com/vi/blog/tieng-anh-8-unit-9"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

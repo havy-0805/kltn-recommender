@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Biển báo đường trơn">
+  <path d="M100 18 L186 168 H14 Z" fill="#facc15" stroke="#dc2626" stroke-width="12" stroke-linejoin="round"/>
+  <g fill="#111">
+    <rect x="80" y="74" width="40" height="16" rx="4"/>
+    <rect x="70" y="86" width="60" height="22" rx="5"/>
+    <circle cx="82" cy="110" r="7"/>
+    <circle cx="118" cy="110" r="7"/>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round">
+    <path d="M84 122 C96 132 70 142 82 156"/>
+    <path d="M116 122 C128 132 102 142 114 156"/>
+  </g>
+</svg>

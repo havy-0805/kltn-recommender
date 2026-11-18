@@ -1,0 +1,224 @@
+{
+  "material_id": "MAT_PAST_PRES_01",
+  "skill_id": "SK_PAST_PRESENT_REL",
+  "title": "Phân biệt Quá khứ đơn và Hiện tại hoàn thành cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh phân biệt cách dùng và dấu hiệu nhận biết của thì Quá khứ đơn và Hiện tại hoàn thành để chia động từ đúng trong các câu cơ bản.",
+  "theory": [
+    {
+      "heading": "Thì Quá khứ đơn (Past Simple)",
+      "points": [
+        "Cấu trúc: S + V2/V-ed; phủ định: S + didn't + V; nghi vấn: Did + S + V?",
+        "Dùng cho hành động đã xảy ra và kết thúc tại thời điểm XÁC ĐỊNH trong quá khứ.",
+        "Dấu hiệu: yesterday, last week/month/year, ... ago, in 2020, when I was a child."
+      ],
+      "examples": [
+        {
+          "en": "I visited my grandparents last Sunday.",
+          "vi": "Tôi đã thăm ông bà vào Chủ nhật tuần trước."
+        },
+        {
+          "en": "She moved to Ha Noi two years ago.",
+          "vi": "Cô ấy chuyển đến Hà Nội cách đây hai năm."
+        }
+      ]
+    },
+    {
+      "heading": "Thì Hiện tại hoàn thành (Present Perfect)",
+      "points": [
+        "Cấu trúc: S + have/has + V3/V-ed; phủ định: haven't/hasn't + V3; nghi vấn: Have/Has + S + V3?",
+        "Dùng cho hành động bắt đầu trong quá khứ và còn kéo dài đến hiện tại, hoặc trải nghiệm không nói rõ thời gian, hoặc vừa mới xảy ra.",
+        "Dấu hiệu: for + khoảng thời gian, since + mốc thời gian, already, just, yet, ever, never, recently, so far, up to now, this is the first time."
+      ],
+      "examples": [
+        {
+          "en": "We have lived in this house since 2015.",
+          "vi": "Chúng tôi đã sống ở ngôi nhà này từ năm 2015."
+        },
+        {
+          "en": "Have you ever eaten durian?",
+          "vi": "Bạn đã bao giờ ăn sầu riêng chưa?"
+        }
+      ]
+    },
+    {
+      "heading": "So sánh nhanh",
+      "points": [
+        "Có thời gian xác định đã kết thúc (yesterday, ago, last...) → Quá khứ đơn.",
+        "Không nói thời gian, hoặc thời gian chưa kết thúc (today, this week), hoặc có for/since → Hiện tại hoàn thành.",
+        "since + mốc thời gian (since Monday, since 2010); for + khoảng thời gian (for three days)."
+      ],
+      "examples": [
+        {
+          "en": "I have lost my key. I lost it yesterday.",
+          "vi": "Tôi bị mất chìa khóa rồi. Tôi làm mất nó hôm qua."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân trạng từ thời gian trong câu trước khi chọn thì.",
+    "'ago' và 'last' → Quá khứ đơn; 'for', 'since', 'yet', 'already', 'ever' → Hiện tại hoàn thành.",
+    "Chủ ngữ số ít (he, she, it, danh từ số ít) dùng 'has', còn lại dùng 'have'.",
+    "Nhớ dạng V3 của động từ bất quy tắc thường gặp: go – went – gone, see – saw – seen, eat – ate – eaten, write – wrote – written."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I ______ my homework yesterday evening.",
+          "options": {
+            "A": "do",
+            "B": "have done",
+            "C": "has done",
+            "D": "did"
+          },
+          "answer": "D",
+          "explanation": "'yesterday evening' là thời gian xác định trong quá khứ → Quá khứ đơn: did."
+        },
+        {
+          "no": 2,
+          "question": "My family ______ in this town since 2018.",
+          "options": {
+            "A": "lives",
+            "B": "is living",
+            "C": "has lived",
+            "D": "lived"
+          },
+          "answer": "C",
+          "explanation": "'since 2018' → Hiện tại hoàn thành; 'My family' số ít → has lived."
+        },
+        {
+          "no": 3,
+          "question": "Lan ______ to Singapore three years ago.",
+          "options": {
+            "A": "went",
+            "B": "have gone",
+            "C": "goes",
+            "D": "has gone"
+          },
+          "answer": "A",
+          "explanation": "'three years ago' → Quá khứ đơn: went."
+        },
+        {
+          "no": 4,
+          "question": "______ you ever ______ a kangaroo?",
+          "options": {
+            "A": "Has / seen",
+            "B": "Did / see",
+            "C": "Do / see",
+            "D": "Have / seen"
+          },
+          "answer": "D",
+          "explanation": "'ever' hỏi về trải nghiệm → Hiện tại hoàn thành; chủ ngữ 'you' → Have you ever seen."
+        },
+        {
+          "no": 5,
+          "question": "We ______ English for four years.",
+          "options": {
+            "A": "has learned",
+            "B": "learn",
+            "C": "have learned",
+            "D": "learned"
+          },
+          "answer": "C",
+          "explanation": "'for four years' (và vẫn đang học) → Hiện tại hoàn thành; chủ ngữ 'We' → have learned."
+        },
+        {
+          "no": 6,
+          "question": "Nam ______ his bike last month.",
+          "options": {
+            "A": "sold",
+            "B": "has sold",
+            "C": "sells",
+            "D": "have sold"
+          },
+          "answer": "A",
+          "explanation": "'last month' → Quá khứ đơn: sold."
+        },
+        {
+          "no": 7,
+          "question": "I have just ______ a letter from my pen friend.",
+          "options": {
+            "A": "to receive",
+            "B": "receive",
+            "C": "receiving",
+            "D": "received"
+          },
+          "answer": "D",
+          "explanation": "have + just + V3 → received."
+        },
+        {
+          "no": 8,
+          "question": "She hasn't finished her project ______.",
+          "options": {
+            "A": "yet",
+            "B": "already",
+            "C": "last week",
+            "D": "ago"
+          },
+          "answer": "A",
+          "explanation": "'yet' dùng trong câu phủ định/nghi vấn của Hiện tại hoàn thành. 'ago', 'last week' đi với Quá khứ đơn; 'already' dùng trong câu khẳng định."
+        },
+        {
+          "no": 9,
+          "question": "When ______ you ______ to Hue?",
+          "options": {
+            "A": "have / been",
+            "B": "did / go",
+            "C": "do / went",
+            "D": "have / gone"
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi 'When' hỏi thời điểm xác định → Quá khứ đơn: When did you go."
+        },
+        {
+          "no": 10,
+          "question": "They have known each other ______ they were in primary school.",
+          "options": {
+            "A": "yet",
+            "B": "since",
+            "C": "for",
+            "D": "ago"
+          },
+          "answer": "B",
+          "explanation": "Sau chỗ trống là một mốc (mệnh đề quá khứ 'they were in primary school') → since."
+        },
+        {
+          "no": 11,
+          "question": "My father ______ in Da Nang for two years when he was young.",
+          "options": {
+            "A": "have worked",
+            "B": "worked",
+            "C": "works",
+            "D": "has worked"
+          },
+          "answer": "B",
+          "explanation": "'when he was young' cho thấy hành động đã kết thúc trong quá khứ → Quá khứ đơn: worked (dù có 'for two years')."
+        },
+        {
+          "no": 12,
+          "question": "This is the first time I ______ sushi.",
+          "options": {
+            "A": "eat",
+            "B": "ate",
+            "C": "have eaten",
+            "D": "am eating"
+          },
+          "answer": "C",
+          "explanation": "This is the first time + S + have/has + V3 → have eaten."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Present Perfect or Past Simple?",
+      "url": "https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html"
+    }
+  ]
+}

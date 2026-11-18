@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_CD15",
+  "skill_id": "SK_REL_CLAUSE",
+  "title": "Chuyên đề Mệnh đề quan hệ",
+  "target_level": 2,
+  "summary": "Tổng hợp đại từ và trạng từ quan hệ (who, whom, which, that, whose, where, when, why), phân biệt mệnh đề xác định và không xác định, lược đại từ quan hệ và nối câu bằng mệnh đề quan hệ.",
+  "theory": [
+    {
+      "heading": "Đại từ quan hệ",
+      "points": [
+        "who: thay cho người, làm chủ ngữ (hoặc tân ngữ trong văn nói)",
+        "whom: thay cho người, làm tân ngữ; đứng được sau giới từ (to whom)",
+        "which: thay cho vật, làm chủ ngữ hoặc tân ngữ",
+        "that: thay cho người hoặc vật trong mệnh đề XÁC ĐỊNH; bắt buộc dùng sau so sánh nhất, the only, the first, all, everything",
+        "whose + danh từ: chỉ sở hữu (của người/vật đó)"
+      ],
+      "examples": [
+        {
+          "en": "That's the girl whose father is a famous singer.",
+          "vi": "Đó là cô gái có bố là ca sĩ nổi tiếng."
+        },
+        {
+          "en": "This is the most interesting film that I have ever seen.",
+          "vi": "Đây là bộ phim hay nhất mà tôi từng xem."
+        }
+      ]
+    },
+    {
+      "heading": "Trạng từ quan hệ",
+      "points": [
+        "where = in/at/on which: chỉ nơi chốn",
+        "when = in/on/at which: chỉ thời gian",
+        "why = for which: chỉ lý do (the reason why)",
+        "Nếu động từ trong mệnh đề cần tân ngữ trực tiếp (visit, build, see) thì dùng which/that, không dùng where"
+      ],
+      "examples": [
+        {
+          "en": "This is the village where I was born.",
+          "vi": "Đây là ngôi làng nơi tôi sinh ra."
+        },
+        {
+          "en": "I'll never forget the day when I met you.",
+          "vi": "Tôi sẽ không bao giờ quên ngày tôi gặp bạn."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề xác định và không xác định",
+      "points": [
+        "Xác định: cần thiết để xác định danh từ, không có dấu phẩy, dùng được that, lược được đại từ làm tân ngữ",
+        "Không xác định: bổ sung thông tin cho danh từ đã rõ (tên riêng, my mother, Ha Noi), có dấu phẩy, KHÔNG dùng that, KHÔNG lược đại từ",
+        "Không lặp lại chủ ngữ/tân ngữ trong mệnh đề quan hệ (sai: The students who they study...)"
+      ],
+      "examples": [
+        {
+          "en": "Ha Noi, which is the capital of Viet Nam, has many beautiful lakes.",
+          "vi": "Hà Nội, thủ đô của Việt Nam, có nhiều hồ đẹp."
+        },
+        {
+          "en": "The girl you talked to at the party is my classmate.",
+          "vi": "Cô gái bạn nói chuyện ở bữa tiệc là bạn cùng lớp của tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhìn danh từ trước chỗ trống (người/vật/nơi/thời gian) rồi nhìn từ ngay sau chỗ trống: động từ → đại từ làm chủ ngữ (who/which/that); chủ ngữ mới → whom/which/where/when; danh từ → whose.",
+    "Có dấu phẩy trước chỗ trống → loại 'that'.",
+    "Chỗ trống đứng sau giới từ → chỉ dùng whom (người) hoặc which (vật).",
+    "Nối câu: thay đại từ ở câu thứ hai (he/she/it/her/them) bằng đại từ quan hệ, không giữ lại đại từ cũ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The man ______ lives next door to us is a doctor.",
+          "options": {
+            "A": "whose",
+            "B": "whom",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "Thay cho người 'the man', làm chủ ngữ của 'lives' → 'who'."
+        },
+        {
+          "no": 2,
+          "question": "The book ______ I borrowed from the library is very interesting.",
+          "options": {
+            "A": "where",
+            "B": "whose",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "C",
+          "explanation": "Thay cho vật 'the book', làm tân ngữ của 'borrowed' → 'which'."
+        },
+        {
+          "no": 3,
+          "question": "That's the girl ______ father is a famous singer.",
+          "options": {
+            "A": "whose",
+            "B": "whom",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "Sau chỗ trống là danh từ 'father' chỉ sở hữu (bố của cô gái) → 'whose'."
+        },
+        {
+          "no": 4,
+          "question": "This is the small village ______ my mother was born.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "when",
+            "D": "who"
+          },
+          "answer": "A",
+          "explanation": "Thay cho nơi chốn, 'was born' không cần tân ngữ → 'where' (= in which)."
+        },
+        {
+          "no": 5,
+          "question": "I'll never forget the day ______ I first met my best friend.",
+          "options": {
+            "A": "where",
+            "B": "when",
+            "C": "why",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "Thay cho thời gian 'the day' → 'when' (= on which)."
+        },
+        {
+          "no": 6,
+          "question": "Ha Noi, ______ is the capital of Viet Nam, has many beautiful lakes.",
+          "options": {
+            "A": "where",
+            "B": "that",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề không xác định (có dấu phẩy), thay cho vật và làm chủ ngữ của 'is' → 'which'. Không dùng 'that' sau dấu phẩy."
+        },
+        {
+          "no": 7,
+          "question": "The woman ______ you met at the bookshop yesterday is my aunt.",
+          "options": {
+            "A": "whose",
+            "B": "which",
+            "C": "whom",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": "Thay cho người, làm tân ngữ của 'met' → 'whom'."
+        },
+        {
+          "no": 8,
+          "question": "Do you know the reason ______ she left the meeting so early?",
+          "options": {
+            "A": "why",
+            "B": "when",
+            "C": "which",
+            "D": "where"
+          },
+          "answer": "A",
+          "explanation": "the reason + why (= for which)."
+        },
+        {
+          "no": 9,
+          "question": "The house in ______ they live was built over a hundred years ago.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "whom",
+            "D": "that"
+          },
+          "answer": "B",
+          "explanation": "Sau giới từ 'in', thay cho vật → 'which'. Không dùng 'that' hay 'where' sau giới từ."
+        },
+        {
+          "no": 10,
+          "question": "Mr Nam, ______ all the students respect, teaches us history.",
+          "options": {
+            "A": "that",
+            "B": "whose",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề không xác định, thay cho người, làm tân ngữ của 'respect' → 'whom'. Loại 'that' vì có dấu phẩy."
+        },
+        {
+          "no": 11,
+          "question": "This is the most exciting match ______ I have ever watched.",
+          "options": {
+            "A": "who",
+            "B": "whose",
+            "C": "whom",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "Sau so sánh nhất dùng 'that'; danh từ chỉ vật nên loại who/whom; không có sở hữu nên loại whose."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Nối câu và tìm lỗi sai",
+      "instructions": "Choose the sentence that best combines the given sentences, or the part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "The girl is my classmate. You talked to her at the party.",
+          "options": {
+            "A": "The girl who you talked to her at the party is my classmate.",
+            "B": "The girl you talked to at the party is my classmate.",
+            "C": "The girl whom you talked at the party is my classmate.",
+            "D": "The girl which you talked to at the party is my classmate."
+          },
+          "answer": "B",
+          "explanation": "Lược đại từ quan hệ làm tân ngữ, giữ giới từ 'to' ở cuối. C thiếu 'to'; A lặp 'her'; D dùng 'which' cho người."
+        },
+        {
+          "no": 13,
+          "question": "My grandmother is 90 years old. She still goes jogging every morning.",
+          "options": {
+            "A": "My grandmother, who is 90 years old, still goes jogging every morning.",
+            "B": "My grandmother, whose is 90 years old, still goes jogging every morning.",
+            "C": "My grandmother, which is 90 years old, still goes jogging every morning.",
+            "D": "My grandmother that is 90 years old still goes jogging every morning."
+          },
+          "answer": "A",
+          "explanation": "'My grandmother' đã xác định → mệnh đề không xác định, có dấu phẩy, dùng 'who'. D dùng 'that' cho mệnh đề không xác định; C dùng 'which' cho người; B sai 'whose'."
+        },
+        {
+          "no": 14,
+          "question": "Find the mistake: The students (A) who (B) they study hard (C) will pass (D) the exam easily.",
+          "options": {
+            "A": "who",
+            "B": "they study hard",
+            "C": "will pass",
+            "D": "the exam easily"
+          },
+          "answer": "B",
+          "explanation": "'who' đã làm chủ ngữ, không lặp 'they' → sửa thành 'study hard'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LearnEnglish.life – Relative Clauses: Rules, Examples and Exercises",
+      "url": "https://learnenglish.life/guides/relative-clauses-rules-examples/"
+    },
+    {
+      "title": "British Council LearnEnglish Teens – Relative clauses (who, which, that, whose)",
+      "url": "https://learnenglishteens.britishcouncil.org/grammar/relative-clauses-who-which-whose/term"
+    }
+  ]
+}

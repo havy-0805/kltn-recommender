@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_PREP_01",
+  "skill_id": "SK_PREPOSITION",
+  "title": "Giới từ chỉ thời gian và nơi chốn cơ bản (In, On, At)",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm chắc cách dùng in, on, at để chỉ thời gian và nơi chốn, làm đúng các câu giới từ cơ bản trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "AT – thời điểm và địa điểm cụ thể",
+      "points": [
+        "Giờ cụ thể: at 7 o'clock, at 6.30, at noon, at midnight",
+        "Một số cụm cố định: at night, at the weekend, at Christmas (cả kỳ lễ), at present, at the moment",
+        "Một điểm/địa chỉ có số nhà: at the bus stop, at the school gate, at 25 Tran Phu Street",
+        "Nơi diễn ra hoạt động: at school, at home, at work, at the cinema"
+      ],
+      "examples": [
+        {
+          "en": "The lesson starts at 7.15.",
+          "vi": "Tiết học bắt đầu lúc 7 giờ 15."
+        },
+        {
+          "en": "Let's meet at the school gate.",
+          "vi": "Hãy gặp nhau ở cổng trường."
+        }
+      ]
+    },
+    {
+      "heading": "ON – ngày và bề mặt",
+      "points": [
+        "Thứ trong tuần, ngày tháng cụ thể, ngày lễ cụ thể: on Monday, on 2nd September, on my birthday, on Christmas Day",
+        "Buổi của một ngày cụ thể: on Sunday morning, on the night of 30th April",
+        "Trên bề mặt: on the wall, on the table, on the floor",
+        "Tầng nhà, tên đường (không có số nhà): on the second floor, on Hang Bai Street"
+      ],
+      "examples": [
+        {
+          "en": "We have English on Tuesday and Friday.",
+          "vi": "Chúng tôi học tiếng Anh vào thứ Ba và thứ Sáu."
+        },
+        {
+          "en": "There is a map on the wall.",
+          "vi": "Có một tấm bản đồ trên tường."
+        }
+      ]
+    },
+    {
+      "heading": "IN – khoảng thời gian dài và không gian bao quanh",
+      "points": [
+        "Buổi trong ngày (không cụ thể ngày): in the morning, in the afternoon, in the evening",
+        "Tháng, mùa, năm, thập kỷ, thế kỷ: in May, in summer, in 2010, in the 1990s, in the 21st century",
+        "Bên trong một không gian: in the room, in the garden, in the box",
+        "Thành phố, quốc gia, làng: in Hanoi, in Viet Nam, in the countryside"
+      ],
+      "examples": [
+        {
+          "en": "My brother was born in 2012.",
+          "vi": "Em trai tôi sinh năm 2012."
+        },
+        {
+          "en": "The children are playing in the garden.",
+          "vi": "Bọn trẻ đang chơi trong vườn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đi từ nhỏ đến lớn: AT (giờ, điểm) → ON (ngày, bề mặt) → IN (tháng, năm, vùng rộng).",
+    "Thấy \"morning/afternoon/evening\" đi kèm một ngày cụ thể (Sunday morning) thì đổi sang ON.",
+    "Có số nhà → AT; chỉ có tên đường → ON; thành phố/quốc gia → IN.",
+    "Học thuộc các cụm ngoại lệ: at night, at the weekend, in the morning, on time, in time."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Giới từ chỉ thời gian",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My birthday is ______ 15th May.",
+          "options": {
+            "A": "by",
+            "B": "at",
+            "C": "in",
+            "D": "on"
+          },
+          "answer": "D",
+          "explanation": "Ngày tháng cụ thể (15th May) dùng giới từ \"on\"."
+        },
+        {
+          "no": 2,
+          "question": "The football match starts ______ 7.30 this evening.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "for"
+          },
+          "answer": "C",
+          "explanation": "Giờ cụ thể (7.30) dùng \"at\"."
+        },
+        {
+          "no": 3,
+          "question": "We often go to the beach ______ summer.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "in",
+            "D": "by"
+          },
+          "answer": "C",
+          "explanation": "Mùa trong năm (summer) dùng \"in\"."
+        },
+        {
+          "no": 4,
+          "question": "I usually read books for half an hour ______ night before going to bed.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "during",
+            "D": "in"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"at night\" (vào ban đêm). \"in night\"/\"during night\" sai vì thiếu \"the\"."
+        },
+        {
+          "no": 5,
+          "question": "Ho Chi Minh City was liberated ______ 1975.",
+          "options": {
+            "A": "since",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "Năm (1975) dùng \"in\". \"since\" dùng với thì hoàn thành, không hợp với động từ quá khứ đơn ở đây."
+        },
+        {
+          "no": 6,
+          "question": "What do you usually do ______ Sunday mornings?",
+          "options": {
+            "A": "for",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "C",
+          "explanation": "Buổi sáng của một ngày cụ thể (Sunday mornings) dùng \"on\", không dùng \"in\"."
+        },
+        {
+          "no": 7,
+          "question": "Many families eat a big meal together ______ Christmas Day.",
+          "options": {
+            "A": "on",
+            "B": "to",
+            "C": "in",
+            "D": "at"
+          },
+          "answer": "A",
+          "explanation": "Một ngày lễ cụ thể có chữ \"Day\" (Christmas Day) dùng \"on\"; còn \"at Christmas\" chỉ cả dịp lễ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Giới từ chỉ nơi chốn",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "There is a beautiful picture ______ the wall of my bedroom.",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "to",
+            "D": "on"
+          },
+          "answer": "D",
+          "explanation": "Trên bề mặt tường dùng \"on the wall\"."
+        },
+        {
+          "no": 9,
+          "question": "My aunt lives ______ Hanoi with her two children.",
+          "options": {
+            "A": "to",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "Tên thành phố (Hanoi) dùng \"in\"."
+        },
+        {
+          "no": 10,
+          "question": "Let's meet ______ the bus stop near the school.",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "to",
+            "D": "on"
+          },
+          "answer": "A",
+          "explanation": "Một điểm cụ thể nơi diễn ra hoạt động (the bus stop) dùng \"at\"."
+        },
+        {
+          "no": 11,
+          "question": "My grandmother is planting vegetables ______ the garden.",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "into"
+          },
+          "answer": "B",
+          "explanation": "Ở bên trong một khu vực có ranh giới (the garden) dùng \"in\". \"into\" chỉ chuyển động đi vào, không hợp với hành động diễn ra tại chỗ."
+        },
+        {
+          "no": 12,
+          "question": "Our classroom is ______ the third floor.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "in",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "Tầng của tòa nhà dùng \"on\" (on the third floor)."
+        },
+        {
+          "no": 13,
+          "question": "She lives ______ 36 Hoang Hoa Tham Street.",
+          "options": {
+            "A": "to",
+            "B": "at",
+            "C": "on",
+            "D": "in"
+          },
+          "answer": "B",
+          "explanation": "Địa chỉ có số nhà cụ thể dùng \"at\". Nếu chỉ có tên đường thì dùng \"on\"."
+        },
+        {
+          "no": 14,
+          "question": "Please put the milk back ______ the fridge.",
+          "options": {
+            "A": "on",
+            "B": "over",
+            "C": "in",
+            "D": "at"
+          },
+          "answer": "C",
+          "explanation": "Bên trong một vật chứa (the fridge) dùng \"in\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Prepositions of time: at, in, on",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/prepositions-time"
+    },
+    {
+      "title": "IELTS Australia – Master dependent prepositions",
+      "url": "https://ielts.com.au/australia/prepare/article-ielts-grammar-master-dependent-prepositions"
+    }
+  ]
+}

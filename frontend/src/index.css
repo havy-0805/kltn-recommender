@@ -1,0 +1,100 @@
+@import '@fontsource-variable/inter';
+@import 'tailwindcss';
+
+/* Token lấy từ Figma KLTN / Design System */
+@theme {
+  /* Một font cho toàn trang: Inter, hỗ trợ đầy đủ dấu tiếng Việt */
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* Một mức bo góc 6px cho mọi khối; rounded-full chỉ dùng cho hình tròn (avatar, chấm, thanh tiến độ) */
+  --radius-*: initial;
+  --radius-md: 6px;
+
+  /* Không gradient, không kính mờ, không đổ bóng cho thẻ. Bóng chỉ dùng cho lớp nổi (menu, dropdown, hộp thoại, toast) */
+  --shadow-*: initial;
+  --shadow-popover: 0 8px 24px rgb(15 23 42 / 0.12);
+
+  /* Khoảng cách theo bậc 4px: 1, 2, 3, 4, 6, 8, 12, 16 (4–64px). Kiểm tra trong src/design-rules.test.ts */
+
+  /* Figma dùng bảng màu Tailwind v3 (hex) */
+  --color-slate-50: #f8fafc;
+  --color-slate-100: #f1f5f9;
+  --color-slate-200: #e2e8f0;
+  --color-slate-300: #cbd5e1;
+  --color-slate-400: #94a3b8;
+  --color-slate-500: #64748b;
+  --color-slate-600: #475569;
+  --color-slate-700: #334155;
+  --color-slate-800: #1e293b;
+  --color-slate-900: #0f172a;
+
+  --color-indigo-50: #eef2ff;
+  --color-indigo-100: #e0e7ff;
+  --color-indigo-200: #c7d2fe;
+  --color-indigo-300: #a5b4fc;
+  --color-indigo-500: #6366f1;
+  --color-indigo-600: #4f46e5;
+  --color-indigo-700: #4338ca;
+
+  --color-emerald-50: #ecfdf5;
+  --color-emerald-100: #d1fae5;
+  --color-emerald-200: #a7f3d0;
+  --color-emerald-500: #10b981;
+  --color-emerald-600: #059669;
+  --color-emerald-800: #065f46;
+
+  --color-green-100: #dcfce7;
+  --color-green-800: #166534;
+
+  --color-amber-50: #fffbeb;
+  --color-amber-100: #fef3c7;
+  --color-amber-300: #fcd34d;
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
+  --color-amber-800: #92400e;
+  --color-amber-900: #78350f;
+
+  --color-orange-100: #ffedd5;
+  --color-orange-500: #f97316;
+  --color-orange-900: #7c2d12;
+
+  --color-red-100: #fee2e2;
+  --color-red-500: #ef4444;
+  --color-red-800: #991b1b;
+
+  --color-blue-50: #eff6ff;
+  --color-blue-600: #2563eb;
+
+  --color-sky-50: #f0f9ff;
+  --color-sky-100: #e0f2fe;
+  --color-sky-200: #bae6fd;
+  --color-sky-700: #0369a1;
+
+  --color-violet-50: #f5f3ff;
+  --color-violet-500: #8b5cf6;
+  --color-purple-100: #f3e8ff;
+  --color-purple-800: #6b21a8;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-50 font-sans text-slate-700 antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-bold text-slate-900;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 12mm 15mm;
+  }
+  body {
+    background: white;
+  }
+}

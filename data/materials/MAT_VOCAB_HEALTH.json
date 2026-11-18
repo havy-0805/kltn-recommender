@@ -1,0 +1,276 @@
+{
+  "material_id": "MAT_VOCAB_HEALTH",
+  "skill_id": "SK_VOCAB_HEALTH",
+  "title": "Trọn bộ Từ vựng chủ đề Sức khỏe",
+  "target_level": 1,
+  "summary": "Cung cấp trọn bộ từ vựng chủ đề sức khỏe: chế độ ăn uống, luyện tập, giấc ngủ, các bệnh thường gặp và sức khỏe tinh thần của tuổi teen (bám theo Unit 3 Healthy living for teens), giúp học sinh làm đúng câu hỏi từ vựng chủ đề Health.",
+  "theory": [
+    {
+      "heading": "Ăn uống và luyện tập",
+      "points": [
+        "a balanced diet (chế độ ăn cân bằng), junk food (đồ ăn vặt kém dinh dưỡng), fast food (đồ ăn nhanh), vitamins and minerals (vitamin và khoáng chất).",
+        "do exercise / do physical activity (tập thể dục), stay fit / keep fit (giữ dáng), maintain a healthy weight (duy trì cân nặng hợp lý), go on a diet (ăn kiêng).",
+        "avoid + V-ing (tránh làm gì), cut down on (cắt giảm), give up (từ bỏ)."
+      ],
+      "examples": [
+        {
+          "en": "You should eat less junk food and more vegetables.",
+          "vi": "Bạn nên ăn ít đồ ăn vặt và nhiều rau hơn."
+        },
+        {
+          "en": "Doing physical activity every day helps you stay fit.",
+          "vi": "Vận động mỗi ngày giúp bạn giữ dáng."
+        }
+      ]
+    },
+    {
+      "heading": "Các bệnh và triệu chứng thường gặp",
+      "points": [
+        "have a cold (bị cảm), have (the) flu (bị cúm), have a fever/a high temperature (bị sốt), have a sore throat (đau họng), have a runny nose (sổ mũi), sneeze (hắt hơi), cough (ho).",
+        "have a headache/stomachache/toothache/backache (đau đầu/đau bụng/đau răng/đau lưng).",
+        "tooth decay (sâu răng), sunburn (cháy nắng), spots/acne (mụn), germs (vi trùng).",
+        "take medicine (uống thuốc), take one's temperature (đo nhiệt độ), see a doctor (đi khám)."
+      ],
+      "examples": [
+        {
+          "en": "Hoa has a runny nose and a sore throat. She has a cold.",
+          "vi": "Hoa bị sổ mũi và đau họng. Bạn ấy bị cảm."
+        },
+        {
+          "en": "Eating too many sweets can cause tooth decay.",
+          "vi": "Ăn quá nhiều kẹo có thể gây sâu răng."
+        }
+      ]
+    },
+    {
+      "heading": "Sức khỏe tinh thần và lối sống của tuổi teen",
+      "points": [
+        "physical health (sức khỏe thể chất) – mental health (sức khỏe tinh thần), well-being (trạng thái khỏe mạnh, hạnh phúc).",
+        "stressed (căng thẳng), anxious (lo âu), relaxed (thư giãn), screen time (thời gian dùng thiết bị điện tử).",
+        "manage one's time (quản lý thời gian), prioritise tasks (ưu tiên công việc), get enough sleep (ngủ đủ giấc), a well-balanced life (cuộc sống cân bằng)."
+      ],
+      "examples": [
+        {
+          "en": "Mental health is as important as physical health.",
+          "vi": "Sức khỏe tinh thần quan trọng như sức khỏe thể chất."
+        },
+        {
+          "en": "Teens should manage their time well to avoid stress.",
+          "vi": "Thanh thiếu niên nên quản lý thời gian tốt để tránh căng thẳng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Học bệnh theo cấu trúc \"have + a/an + bệnh\" (have a cold, have a headache); riêng \"have flu / have the flu\".",
+    "Đọc triệu chứng trong câu (sneezing, runny nose, high temperature) để đoán tên bệnh và lời khuyên phù hợp.",
+    "Ghi nhớ collocation: brush your teeth, take your temperature, get enough sleep, maintain a healthy weight, manage your time.",
+    "Chú ý từ loại: health (n) – healthy (adj); physical (adj) – physically (adv); stress (n) – stressed (adj)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Ăn uống, luyện tập và giấc ngủ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "You should eat less ______ food like chips, sweets and fizzy drinks.",
+          "options": {
+            "A": "fresh",
+            "B": "junk",
+            "C": "healthy",
+            "D": "organic"
+          },
+          "answer": "B",
+          "explanation": "\"junk food\" = đồ ăn vặt kém dinh dưỡng; ví dụ khoai tây chiên, kẹo, nước có ga."
+        },
+        {
+          "no": 2,
+          "question": "Getting enough ______ helps your body and mind recover after a long day.",
+          "options": {
+            "A": "sleeping",
+            "B": "sleep",
+            "C": "asleep",
+            "D": "sleepy"
+          },
+          "answer": "B",
+          "explanation": "Collocation \"get enough sleep\" (ngủ đủ giấc); sau \"enough\" cần danh từ \"sleep\"."
+        },
+        {
+          "no": 3,
+          "question": "Doctors advise teenagers to do at least 60 minutes of physical ______ every day.",
+          "options": {
+            "A": "actor",
+            "B": "active",
+            "C": "activity",
+            "D": "action"
+          },
+          "answer": "C",
+          "explanation": "Collocation \"physical activity\" (hoạt động thể chất, vận động)."
+        },
+        {
+          "no": 4,
+          "question": "Vegetables and fruit are rich in ______ and minerals.",
+          "options": {
+            "A": "fats",
+            "B": "salt",
+            "C": "vitamins",
+            "D": "sugar"
+          },
+          "answer": "C",
+          "explanation": "Cụm \"vitamins and minerals\" (vitamin và khoáng chất) có nhiều trong rau quả."
+        },
+        {
+          "no": 5,
+          "question": "It is important to ______ a healthy weight by eating well and exercising regularly.",
+          "options": {
+            "A": "obtain",
+            "B": "maintain",
+            "C": "contain",
+            "D": "remain"
+          },
+          "answer": "B",
+          "explanation": "Collocation \"maintain a healthy weight\" (duy trì cân nặng hợp lý)."
+        },
+        {
+          "no": 6,
+          "question": "My mother always tells me to ______ my teeth twice a day.",
+          "options": {
+            "A": "brush",
+            "B": "cut",
+            "C": "wear",
+            "D": "comb"
+          },
+          "answer": "A",
+          "explanation": "Collocation \"brush your teeth\" (đánh răng). \"comb\" đi với hair."
+        },
+        {
+          "no": 7,
+          "question": "You should ______ smoking because it is very harmful to your lungs.",
+          "options": {
+            "A": "start",
+            "B": "enjoy",
+            "C": "keep",
+            "D": "avoid"
+          },
+          "answer": "D",
+          "explanation": "\"avoid + V-ing\" = tránh làm gì; hút thuốc có hại nên cần tránh."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Bệnh tật và sức khỏe tinh thần",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "I ate too much ice cream last night, and now I have a terrible ______.",
+          "options": {
+            "A": "sore eye",
+            "B": "earache",
+            "C": "backache",
+            "D": "stomachache"
+          },
+          "answer": "D",
+          "explanation": "Ăn quá nhiều kem dễ bị đau bụng → \"stomachache\"."
+        },
+        {
+          "no": 9,
+          "question": "If you have a ______, you should take your temperature and stay in bed.",
+          "options": {
+            "A": "spot",
+            "B": "toothache",
+            "C": "fever",
+            "D": "sunburn"
+          },
+          "answer": "C",
+          "explanation": "\"take your temperature\" (đo nhiệt độ) liên quan đến sốt → \"fever\"."
+        },
+        {
+          "no": 10,
+          "question": "Hoa has a ______ nose and keeps sneezing. She has caught a cold.",
+          "options": {
+            "A": "runner",
+            "B": "runny",
+            "C": "run",
+            "D": "running"
+          },
+          "answer": "B",
+          "explanation": "Collocation \"a runny nose\" (sổ mũi), triệu chứng của cảm lạnh."
+        },
+        {
+          "no": 11,
+          "question": "Washing your hands regularly helps prevent the spread of ______.",
+          "options": {
+            "A": "germs",
+            "B": "muscles",
+            "C": "vitamins",
+            "D": "calories"
+          },
+          "answer": "A",
+          "explanation": "Rửa tay ngăn sự lây lan của vi trùng → \"germs\"."
+        },
+        {
+          "no": 12,
+          "question": "Eating too many sweets can cause ______ problems like tooth decay.",
+          "options": {
+            "A": "musical",
+            "B": "social",
+            "C": "dental",
+            "D": "mental"
+          },
+          "answer": "C",
+          "explanation": "\"dental\" = thuộc về răng; \"tooth decay\" (sâu răng) là vấn đề răng miệng."
+        },
+        {
+          "no": 13,
+          "question": "Spending too much screen time can make you feel ______ and tired.",
+          "options": {
+            "A": "stressful",
+            "B": "stress",
+            "C": "stressing",
+            "D": "stressed"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc \"make sb feel + adj\" chỉ cảm xúc của người → \"stressed\"."
+        },
+        {
+          "no": 14,
+          "question": "Teenagers should ______ their time well to balance schoolwork and rest.",
+          "options": {
+            "A": "manage",
+            "B": "lose",
+            "C": "kill",
+            "D": "waste"
+          },
+          "answer": "A",
+          "explanation": "Collocation \"manage one's time\" (quản lý thời gian). \"waste/kill time\" mang nghĩa lãng phí, không hợp ngữ cảnh."
+        },
+        {
+          "no": 15,
+          "question": "Mental health is as important as ______ health.",
+          "options": {
+            "A": "physical",
+            "B": "physically",
+            "C": "physics",
+            "D": "physician"
+          },
+          "answer": "A",
+          "explanation": "Trước danh từ \"health\" cần tính từ → \"physical health\" (sức khỏe thể chất), đối lập với mental health."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success (Unit 3 Healthy living for teens)",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

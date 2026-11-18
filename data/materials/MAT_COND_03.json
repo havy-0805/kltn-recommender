@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_COND_03",
+  "skill_id": "SK_CONDITIONAL",
+  "title": "Đảo ngữ câu điều kiện và câu điều kiện hỗn hợp nâng cao",
+  "target_level": 3,
+  "summary": "Thành thạo đảo ngữ câu điều kiện loại 1, 2, 3 (Should/Were/Had), câu hỗn hợp và các cụm thay thế if (but for, without, provided that, otherwise) để xử lý câu vận dụng cao.",
+  "theory": [
+    {
+      "heading": "Đảo ngữ câu điều kiện",
+      "points": [
+        "Loại 1: Should + S + V, S + will/can + V (hoặc mệnh lệnh)",
+        "Loại 2: Were + S + N/adj, ... hoặc Were + S + to V, S + would + V",
+        "Loại 3: Had + S + V3/ed, S + would have + V3/ed",
+        "Phủ định: 'not' đứng SAU chủ ngữ: Had it not been..., Were I not...; không viết tắt hadn't/weren't ở đầu câu",
+        "Bỏ 'if' khi đảo ngữ"
+      ],
+      "examples": [
+        {
+          "en": "Should you need any help, please call me.",
+          "vi": "Nếu bạn cần giúp đỡ, hãy gọi cho tôi."
+        },
+        {
+          "en": "Had the weather been better, we would have gone camping.",
+          "vi": "Nếu thời tiết tốt hơn, chúng tôi đã đi cắm trại."
+        }
+      ]
+    },
+    {
+      "heading": "Câu điều kiện hỗn hợp",
+      "points": [
+        "Quá khứ → hiện tại: If + S + had + V3, S + would + V (now/today)",
+        "Hiện tại (tính chất lâu dài) → quá khứ: If + S + V2/were, S + would have + V3 (yesterday/last year)",
+        "Đảo ngữ hỗn hợp: Had + S + V3, S + would + V; Were + S + ..., S + would have + V3"
+      ],
+      "examples": [
+        {
+          "en": "If she hadn't stayed up late last night, she wouldn't be so tired now.",
+          "vi": "Nếu tối qua cô ấy không thức khuya thì giờ đã không mệt thế."
+        },
+        {
+          "en": "If he were more careful, he wouldn't have made that mistake yesterday.",
+          "vi": "Nếu anh ấy cẩn thận hơn (vốn tính), hôm qua đã không mắc lỗi đó."
+        }
+      ]
+    },
+    {
+      "heading": "Các cách diễn đạt thay if",
+      "points": [
+        "But for / Without + N = If it weren't for (hiện tại) / If it hadn't been for (quá khứ)",
+        "Đảo ngữ: Were it not for + N; Had it not been for + N",
+        "provided (that) / providing / as long as / on condition that = miễn là",
+        "otherwise / or else = nếu không thì; supposing / suppose = giả sử"
+      ],
+      "examples": [
+        {
+          "en": "Had it not been for your help, I couldn't have finished the project.",
+          "vi": "Nếu không có sự giúp đỡ của bạn, tôi đã không thể hoàn thành dự án."
+        },
+        {
+          "en": "I'll lend you my laptop provided that you take care of it.",
+          "vi": "Mình sẽ cho bạn mượn laptop miễn là bạn giữ gìn cẩn thận."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu bắt đầu bằng chỗ trống + S + ... không có 'if' → nghĩ đến đảo ngữ; nhìn vế chính để chọn Should (will), Were (would + V) hay Had (would have V3).",
+    "Kiểm tra mốc thời gian ở hai vế: khác nhau (yesterday/now, last year) → câu hỗn hợp.",
+    "Sau Had đảo ngữ luôn là V3/ed; sau Should là V nguyên mẫu; sau Were là N/adj hoặc to V.",
+    "'Had it not been for' = 'But for/Without' (quá khứ); 'otherwise' đứng đầu vế kết quả, sau dấu chấm phẩy hoặc dấu chấm."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ you need any help with the application form, please call me.",
+          "options": {
+            "A": "Were",
+            "B": "Had",
+            "C": "Should",
+            "D": "Unless"
+          },
+          "answer": "C",
+          "explanation": "Đảo ngữ loại 1: Should + S + V nguyên mẫu ('need'), vế sau là mệnh lệnh."
+        },
+        {
+          "no": 2,
+          "question": "______ I in your position, I would accept the scholarship.",
+          "options": {
+            "A": "Did",
+            "B": "Had",
+            "C": "Should",
+            "D": "Were"
+          },
+          "answer": "D",
+          "explanation": "Đảo ngữ loại 2 với 'be': Were + S + cụm từ; vế chính 'would accept'."
+        },
+        {
+          "no": 3,
+          "question": "______ the weather been better, we would have gone camping.",
+          "options": {
+            "A": "Had",
+            "B": "Were",
+            "C": "Should",
+            "D": "If"
+          },
+          "answer": "A",
+          "explanation": "'been' (V3) và vế chính 'would have gone' → đảo ngữ loại 3: Had + S + V3."
+        },
+        {
+          "no": 4,
+          "question": "______ for your help, I couldn't have finished the project on time.",
+          "options": {
+            "A": "Should it not be",
+            "B": "If it was",
+            "C": "Had it not been",
+            "D": "Were it"
+          },
+          "answer": "C",
+          "explanation": "Vế chính 'couldn't have finished' (quá khứ) → 'Had it not been for' = If it hadn't been for."
+        },
+        {
+          "no": 5,
+          "question": "If she hadn't stayed up so late last night, she ______ so tired now.",
+          "options": {
+            "A": "wouldn't have been",
+            "B": "isn't",
+            "C": "won't be",
+            "D": "wouldn't be"
+          },
+          "answer": "D",
+          "explanation": "Câu hỗn hợp: điều kiện quá khứ (last night) – kết quả hiện tại (now) → would + V."
+        },
+        {
+          "no": 6,
+          "question": "If he were a more careful person, he ______ that silly mistake in yesterday's test.",
+          "options": {
+            "A": "didn't make",
+            "B": "wouldn't have made",
+            "C": "won't make",
+            "D": "wouldn't make"
+          },
+          "answer": "B",
+          "explanation": "Câu hỗn hợp: tính cách hiện tại (were careful) – kết quả quá khứ (yesterday) → would have + V3."
+        },
+        {
+          "no": 7,
+          "question": "______ to win the lottery, what would you buy first?",
+          "options": {
+            "A": "Were you",
+            "B": "Had you",
+            "C": "If you",
+            "D": "Should you"
+          },
+          "answer": "A",
+          "explanation": "Đảo ngữ loại 2 với động từ thường: Were + S + to V; vế chính 'would you buy'."
+        },
+        {
+          "no": 8,
+          "question": "Without the Internet, our lives ______ very different today.",
+          "options": {
+            "A": "are",
+            "B": "would have been",
+            "C": "would be",
+            "D": "will be"
+          },
+          "answer": "C",
+          "explanation": "Without = If it weren't for, nói về hiện tại (today) → loại 2: would be."
+        },
+        {
+          "no": 9,
+          "question": "I'll lend you my laptop ______ you promise to take good care of it.",
+          "options": {
+            "A": "unless",
+            "B": "even if",
+            "C": "otherwise",
+            "D": "provided that"
+          },
+          "answer": "D",
+          "explanation": "Nghĩa 'miễn là bạn hứa giữ gìn' → 'provided that'. 'unless' và 'even if' sai nghĩa; 'otherwise' không nối hai mệnh đề như vậy."
+        },
+        {
+          "no": 10,
+          "question": "Take a warm coat; ______ you'll get cold on the mountain.",
+          "options": {
+            "A": "otherwise",
+            "B": "provided",
+            "C": "unless",
+            "D": "if"
+          },
+          "answer": "A",
+          "explanation": "'otherwise' = nếu không thì, đứng đầu vế kết quả sau dấu chấm phẩy."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu và tìm lỗi sai",
+      "instructions": "Choose the sentence closest in meaning to the given one, or the part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "If you should see Mai, tell her to call me.",
+          "options": {
+            "A": "Had you seen Mai, tell her to call me.",
+            "B": "Should you see Mai, tell her to call me.",
+            "C": "Should you saw Mai, tell her to call me.",
+            "D": "Were you see Mai, tell her to call me."
+          },
+          "answer": "B",
+          "explanation": "Đảo ngữ loại 1: Should + S + V nguyên mẫu. C sai dạng động từ sau should."
+        },
+        {
+          "no": 12,
+          "question": "We didn't know about the traffic jam, so we didn't leave earlier.",
+          "options": {
+            "A": "Were we to know about the traffic jam, we would leave earlier.",
+            "B": "Had we known about the traffic jam, we would have left earlier.",
+            "C": "Should we know about the traffic jam, we will leave earlier.",
+            "D": "Had we not known about the traffic jam, we would have left earlier."
+          },
+          "answer": "B",
+          "explanation": "Sự việc quá khứ → đảo ngữ loại 3, đổi phủ định thành khẳng định. D sai nghĩa; A, C sai loại câu."
+        },
+        {
+          "no": 13,
+          "question": "He isn't tall, so he couldn't join the school basketball team last year.",
+          "options": {
+            "A": "If he had been taller, he can join the school basketball team last year.",
+            "B": "Were he taller, he can have joined the school basketball team last year.",
+            "C": "If he were taller, he could have joined the school basketball team last year.",
+            "D": "If he were taller, he could join the school basketball team last year."
+          },
+          "answer": "C",
+          "explanation": "Đặc điểm hiện tại (không cao) – kết quả quá khứ (last year) → hỗn hợp: If + V2/were, could have + V3."
+        },
+        {
+          "no": 14,
+          "question": "Find the mistake: (A) Had I (B) knew the answer, I (C) would have (D) told you.",
+          "options": {
+            "A": "Had I",
+            "B": "knew",
+            "C": "would have",
+            "D": "told"
+          },
+          "answer": "B",
+          "explanation": "Đảo ngữ loại 3: Had + S + V3 → sửa 'knew' thành 'known'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LangGo – Đảo ngữ câu điều kiện",
+      "url": "https://langgo.edu.vn/dao-ngu-cau-dieu-kien"
+    },
+    {
+      "title": "British Council LearnEnglish – Conditionals: zero, first and second",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-zero-first-second"
+    }
+  ]
+}

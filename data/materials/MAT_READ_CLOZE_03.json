@@ -1,0 +1,212 @@
+{
+  "material_id": "MAT_READ_CLOZE_03",
+  "skill_id": "SK_READ_CLOZE",
+  "title": "Tuyệt chiêu bài đọc điền từ nâng cao và bẫy thường gặp",
+  "target_level": 3,
+  "summary": "Giúp học sinh khá giỏi vượt qua các câu điền từ phân hóa: cặp từ dễ nhầm (rise/raise, affect/effect, miss/lose), từ nối tương phản (despite/although/however), cụm động từ, collocation học thuật và dạng điền mệnh đề/câu có nhiều phương án 'gần đúng'.",
+  "theory": [
+    {
+      "heading": "Cặp từ dễ nhầm – bẫy kinh điển",
+      "points": [
+        "rise (nội động từ / danh từ: a rise in prices) ≠ raise (ngoại động từ: raise money) ≠ arise (nảy sinh: problems arise).",
+        "affect (động từ: ảnh hưởng tới) ≠ effect (danh từ: tác động; động từ 'effect' nghĩa là tạo ra, hiếm gặp).",
+        "miss (bỏ lỡ, không nghe/thấy được) ≠ lose (đánh mất vật đang có) ≠ skip (cố ý bỏ qua).",
+        "dependent (phụ thuộc) ≠ independent (tự lập): phải đọc vế giải thích để chọn đúng nghĩa, không chỉ đúng từ loại."
+      ],
+      "examples": [
+        { "en": "Even a small rise in sea level could flood large areas of farmland.", "vi": "Chỉ một mức tăng nhỏ của mực nước biển cũng có thể làm ngập nhiều diện tích đất canh tác. ('rise' là danh từ, đi với 'in'.)" }
+      ]
+    },
+    {
+      "heading": "Từ nối tương phản và nhượng bộ",
+      "points": [
+        "Despite / In spite of + danh từ / V-ing; Although / Even though + mệnh đề.",
+        "However đứng đầu câu (hoặc giữa hai dấu phẩy), không nối trực tiếp hai mệnh đề; but nối hai mệnh đề trong cùng một câu.",
+        "Unless = if… not: 'Unless countries cut emissions…' = Nếu các nước không cắt giảm khí thải…"
+      ],
+      "examples": [
+        { "en": "Despite these difficulties, many communities are finding creative ways to adapt.", "vi": "Bất chấp những khó khăn này, nhiều cộng đồng đang tìm ra cách thích ứng sáng tạo. ('these difficulties' là cụm danh từ → Despite.)" }
+      ]
+    },
+    {
+      "heading": "Cụm động từ và collocation nâng cao",
+      "points": [
+        "catch up on (bù lại phần bị lỡ), cope with (đối phó với), concentrate on (tập trung vào), vulnerable to (dễ bị tổn thương trước).",
+        "develop new varieties (lai tạo giống mới), cut emissions (cắt giảm khí thải), pay off (đem lại kết quả).",
+        "Với câu từ vựng có hai phương án nghĩa gần nhau, kiểm tra giới từ đi kèm phía sau chỗ trống."
+      ],
+      "examples": [
+        { "en": "Lessons are recorded so that students who are ill can catch up on what they have missed.", "vi": "Bài học được ghi lại để học sinh bị ốm có thể học bù phần đã lỡ." }
+      ]
+    },
+    {
+      "heading": "Điền mệnh đề/câu: kiểm tra 3 lớp",
+      "points": [
+        "Lớp 1 – ngữ pháp: chỗ trống giữa câu cần cụm/mệnh đề phụ (that…, where…, and…); chỗ trống đứng riêng cần câu hoàn chỉnh.",
+        "Lớp 2 – từ quy chiếu: 'where' cần danh từ chỉ nơi chốn ngay trước; 'that' cần danh từ phù hợp; 'it/they/this' phải có đối tượng ở câu trước.",
+        "Lớp 3 – logic: câu điền phải khớp với câu sau (For this reason…, Their efforts are beginning to pay off…)."
+      ],
+      "examples": [
+        { "en": "They visit schools, where they show students photos of animals harmed by plastic.", "vi": "Họ đến các trường học, nơi họ cho học sinh xem ảnh những con vật bị nhựa làm hại. ('where' quy chiếu về 'schools'.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Khi hai phương án đều đúng ngữ pháp, đọc tiếp câu sau chỗ trống: thường có một từ khóa loại được một phương án (ví dụ 'poor internet connections' → miss, không phải skip).",
+    "Gặp cặp despite/although, xem ngay phía sau là cụm danh từ hay mệnh đề có động từ chia.",
+    "Với dạng điền câu dùng chung 4 phương án, điền chỗ có dấu hiệu ngữ pháp rõ nhất trước (where, that, and), chỗ cần câu hoàn chỉnh làm sau.",
+    "Đừng chọn chỉ vì phương án 'nghe quen': kiểm tra giới từ đi kèm phía sau (cope with, concentrate on, vulnerable to)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Living with a changing climate",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "Viet Nam is one of the countries most (1)____ to climate change. Its long coastline and low-lying deltas mean that even a small (2)____ in sea level could flood large areas of farmland. In the Mekong Delta, farmers have already noticed that salt water travels further inland every dry season, (3)____ rice crops and drinking water supplies.\n\n(4)____ these difficulties, many communities are finding creative ways to adapt. Some farmers have switched from rice to shrimp, which can live in salty water. Others grow rice and shrimp in the same field at different times of the year. Scientists are also (5)____ new varieties of rice that can survive in salty soil by crossing different types of rice.\n\nAdapting is important, but it is not enough. Unless countries around the world cut their greenhouse gas emissions, the changes will eventually become too great for any community to (6)____ with.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the best option for blank (1).",
+          "options": { "A": "vulnerable", "B": "harmful", "C": "weak", "D": "dangerous" },
+          "answer": "A",
+          "explanation": "Collocation 'vulnerable to' = dễ bị tổn thương trước: 'most vulnerable to climate change'. 'harmful/dangerous to' nghĩa là gây hại cho (sai chiều nghĩa: Việt Nam không gây hại cho biến đổi khí hậu); 'weak' không đi với 'to' theo nghĩa này."
+        },
+        {
+          "no": 2,
+          "question": "Choose the best option for blank (2).",
+          "options": { "A": "raise", "B": "rise", "C": "arise", "D": "raising" },
+          "answer": "B",
+          "explanation": "Sau 'a small' cần danh từ; 'a rise in sea level' = sự dâng lên của mực nước biển. 'raise' là ngoại động từ (cần tân ngữ), 'arise' là động từ (nảy sinh), 'raising' là hành động nâng một vật lên."
+        },
+        {
+          "no": 3,
+          "question": "Choose the best option for blank (3).",
+          "options": { "A": "affected", "B": "effecting", "C": "affecting", "D": "effect" },
+          "answer": "C",
+          "explanation": "Mệnh đề rút gọn chủ động, chủ thể là 'salt water' (nước mặn ảnh hưởng tới lúa và nước sinh hoạt) → V-ing 'affecting'. 'affected' mang nghĩa bị động; 'effecting' nghĩa là 'tạo ra' (bẫy chính tả affect/effect); 'effect' là danh từ."
+        },
+        {
+          "no": 4,
+          "question": "Choose the best option for blank (4).",
+          "options": { "A": "Although", "B": "Despite", "C": "Because of", "D": "However" },
+          "answer": "B",
+          "explanation": "Phía sau là cụm danh từ 'these difficulties' và hai vế đối lập (khó khăn – vẫn tìm cách thích ứng) → 'Despite'. 'Although' cần mệnh đề; 'Because of' sai quan hệ ý; 'However' không đứng trước cụm danh từ như vậy."
+        },
+        {
+          "no": 5,
+          "question": "Choose the best option for blank (5).",
+          "options": { "A": "discovering", "B": "developing", "C": "building", "D": "inventing" },
+          "answer": "B",
+          "explanation": "Collocation 'develop new varieties' = lai tạo giống mới, khớp với 'by crossing different types of rice' (bằng cách lai các loại lúa). 'discover' là tìm ra cái đã có sẵn; 'build' dùng cho công trình; 'invent' dùng cho máy móc, phát minh, không dùng cho giống cây."
+        },
+        {
+          "no": 6,
+          "question": "Choose the best option for blank (6).",
+          "options": { "A": "handle", "B": "solve", "C": "cope", "D": "manage" },
+          "answer": "C",
+          "explanation": "Giới từ 'with' ngay sau chỗ trống quyết định đáp án: 'cope with' = đối phó với. 'handle' và 'solve' là ngoại động từ, không đi với 'with'; 'manage with' nghĩa là xoay xở với một thứ ít ỏi, không hợp ngữ cảnh."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Lessons from online learning",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "During the pandemic, millions of students had to study online. At first, many found it hard to concentrate (7)____ a screen for hours. Poor internet connections meant that some students (8)____ important parts of their lessons and had to ask their friends for notes. However, the experience also taught students to become more (9)____ learners: they learned to plan their own time, search for information and ask their teachers questions by email.\n\nNow that schools have reopened, teachers are keeping the best parts of online learning. Homework is often submitted through apps, and lessons are recorded so that students who are ill can (10)____ up on what they have missed. Nobody wants to return to full-time online learning, (11)____ few people would want to give up the convenience of these tools.",
+      "questions": [
+        {
+          "no": 7,
+          "question": "Choose the best option for blank (7).",
+          "options": { "A": "in", "B": "at", "C": "on", "D": "for" },
+          "answer": "C",
+          "explanation": "Cụm cố định 'concentrate on something' = tập trung vào: 'concentrate on a screen for hours'."
+        },
+        {
+          "no": 8,
+          "question": "Choose the best option for blank (8).",
+          "options": { "A": "lost", "B": "missed", "C": "failed", "D": "skipped" },
+          "answer": "B",
+          "explanation": "Do mạng yếu nên không nghe/xem được một phần bài → 'missed' (bỏ lỡ ngoài ý muốn), và vế sau 'had to ask their friends for notes' xác nhận nghĩa này. 'skipped' là cố ý bỏ qua (bẫy); 'lost' dùng cho đồ vật đang sở hữu; 'failed' không đi với tân ngữ 'parts of their lessons' theo nghĩa này."
+        },
+        {
+          "no": 9,
+          "question": "Choose the best option for blank (9).",
+          "options": { "A": "depend", "B": "dependent", "C": "independence", "D": "independent" },
+          "answer": "D",
+          "explanation": "Sau 'more' và trước danh từ 'learners' cần tính từ (B hoặc D). Vế giải thích 'they learned to plan their own time, search for information…' cho thấy học sinh tự lập hơn → 'independent'. 'dependent' đúng từ loại nhưng ngược nghĩa (bẫy)."
+        },
+        {
+          "no": 10,
+          "question": "Choose the best option for blank (10).",
+          "options": { "A": "catch", "B": "keep", "C": "make", "D": "come" },
+          "answer": "A",
+          "explanation": "Cụm động từ 'catch up on something' = học bù, theo kịp phần đã lỡ: 'catch up on what they have missed'. 'keep up' là duy trì tốc độ; 'make up' và 'come up' không đi với 'on' theo nghĩa này."
+        },
+        {
+          "no": 11,
+          "question": "Choose the best option for blank (11).",
+          "options": { "A": "so", "B": "but", "C": "because", "D": "or" },
+          "answer": "B",
+          "explanation": "Hai vế đối lập: không ai muốn quay lại học trực tuyến hoàn toàn – nhưng cũng ít ai muốn bỏ sự tiện lợi của các công cụ này → 'but'. 'so' (kết quả) và 'because' (nguyên nhân) sai quan hệ ý."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Cleaning the beach",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) to fill in each of the numbered blanks. The same four options are used for questions 12–15.",
+      "passage": "Every weekend, a group of young volunteers in a coastal city gathers on the beach at dawn. Armed with gloves and bags, they collect plastic bottles, fishing nets and food packaging (12)____. In two years, they have removed more than twenty tonnes of rubbish.\n\nThe leader of the group, a 24-year-old engineer, admits that cleaning alone cannot solve the problem. “We pick up the same kinds of rubbish every week,” she says. (13)____. For this reason, the group now spends as much time on education as on cleaning. They visit schools, (14)____, and encourage local cafés to stop giving out plastic straws.\n\nTheir efforts are beginning to pay off. Several restaurants along the beach now use bamboo straws and paper bags, (15)____.",
+      "questions": [
+        {
+          "no": 12,
+          "question": "Choose the best option for blank (12).",
+          "options": {
+            "A": "“As long as people keep throwing it away, the sea will keep bringing it back.”",
+            "B": "where they show students photos of animals harmed by plastic",
+            "C": "that the waves have washed up overnight",
+            "D": "and the amount of rubbish on the beach has started to fall"
+          },
+          "answer": "C",
+          "explanation": "Chỗ trống đứng ngay sau danh từ 'food packaging' ở giữa câu → cần mệnh đề quan hệ bổ nghĩa cho rác: 'that the waves have washed up overnight' (do sóng đánh dạt vào trong đêm). B cũng là mệnh đề quan hệ nhưng 'where' cần danh từ chỉ nơi chốn và nghĩa 'cho học sinh xem ảnh' không hợp với bãi rác."
+        },
+        {
+          "no": 13,
+          "question": "Choose the best option for blank (13).",
+          "options": {
+            "A": "“As long as people keep throwing it away, the sea will keep bringing it back.”",
+            "B": "where they show students photos of animals harmed by plastic",
+            "C": "that the waves have washed up overnight",
+            "D": "and the amount of rubbish on the beach has started to fall"
+          },
+          "answer": "A",
+          "explanation": "Chỗ trống đứng riêng thành câu, tiếp nối lời trích dẫn của trưởng nhóm → cần câu hoàn chỉnh trong ngoặc kép (A). Câu sau 'For this reason, the group now spends as much time on education' chỉ hợp lý khi câu trước nói rằng rác sẽ còn quay lại nếu người dân vẫn vứt."
+        },
+        {
+          "no": 14,
+          "question": "Choose the best option for blank (14).",
+          "options": {
+            "A": "“As long as people keep throwing it away, the sea will keep bringing it back.”",
+            "B": "where they show students photos of animals harmed by plastic",
+            "C": "that the waves have washed up overnight",
+            "D": "and the amount of rubbish on the beach has started to fall"
+          },
+          "answer": "B",
+          "explanation": "'They visit schools, ___' → cần mệnh đề quan hệ không xác định chỉ nơi chốn quy chiếu về 'schools': 'where they show students photos…'. Nội dung giáo dục khớp với 'spends as much time on education'. C sai vì sóng biển không 'washed up' trường học."
+        },
+        {
+          "no": 15,
+          "question": "Choose the best option for blank (15).",
+          "options": {
+            "A": "“As long as people keep throwing it away, the sea will keep bringing it back.”",
+            "B": "where they show students photos of animals harmed by plastic",
+            "C": "that the waves have washed up overnight",
+            "D": "and the amount of rubbish on the beach has started to fall"
+          },
+          "answer": "D",
+          "explanation": "Câu chủ đề 'Their efforts are beginning to pay off' (nỗ lực bắt đầu có kết quả) cần hai bằng chứng nối bằng 'and': nhà hàng dùng ống hút tre, túi giấy VÀ lượng rác trên bãi biển bắt đầu giảm."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Multiple-choice cloze strategy – Flo-Joe (Cambridge English)", "url": "https://www.flo-joe.co.uk/fce/students/strategy/fce_multiple_choice_cloze.htm" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

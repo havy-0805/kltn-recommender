@@ -1,0 +1,260 @@
+{
+  "material_id": "MAT_TAG_03",
+  "skill_id": "SK_TAG_QUESTION",
+  "title": "Trường hợp đặc biệt câu hỏi đuôi (Let's, mệnh lệnh, đại từ bất định, I think)",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các câu hỏi đuôi đặc biệt thường làm câu phân hóa: Let's/Let me, câu mệnh lệnh, đại từ bất định, I think/I believe + mệnh đề, There is/are, must chỉ suy đoán và câu cảm thán.",
+  "theory": [
+    {
+      "heading": "Let's, Let me/us và câu mệnh lệnh",
+      "points": [
+        "Let's + V (rủ rê) → shall we? | Let's not + V → shall we?",
+        "Let me / Let us + V (xin phép người nghe) → will you?; riêng khi đưa ra lời đề nghị giúp đỡ, một số tài liệu dùng 'may I?'.",
+        "Câu mệnh lệnh khẳng định (yêu cầu) → will you? (lịch sự hơn: would you? / can you?); lời mời: Have some tea, won't you?",
+        "Câu mệnh lệnh phủ định Don't + V → will you?"
+      ],
+      "examples": [
+        {
+          "en": "Let us go out to play, will you?",
+          "vi": "Cho chúng con ra ngoài chơi nhé?"
+        },
+        {
+          "en": "Don't forget to call me, will you?",
+          "vi": "Đừng quên gọi cho tôi nhé?"
+        }
+      ]
+    },
+    {
+      "heading": "Đại từ bất định, There is/are và This/That",
+      "points": [
+        "everyone, everybody, someone, somebody, anyone, no one, nobody → đại từ ở đuôi là 'they'.",
+        "everything, something, anything, nothing, this, that → đại từ ở đuôi là 'it'.",
+        "nobody, no one, nothing, none mang nghĩa phủ định → đuôi khẳng định: Nobody called, did they?",
+        "There is/are/was/were ... → isn't there / aren't there... (dùng lại 'there')."
+      ],
+      "examples": [
+        {
+          "en": "Everyone enjoyed the party, didn't they?",
+          "vi": "Mọi người đều thích bữa tiệc, phải không?"
+        },
+        {
+          "en": "Nothing is impossible, is it?",
+          "vi": "Không có gì là không thể, đúng không?"
+        }
+      ]
+    },
+    {
+      "heading": "I think/I believe + mệnh đề, must chỉ suy đoán, câu cảm thán",
+      "points": [
+        "I think / I believe / I suppose / I'm sure + mệnh đề → đuôi theo MỆNH ĐỀ PHỤ: I think he's right, isn't he?",
+        "I don't think / I don't believe + mệnh đề → phủ định được tính cho mệnh đề phụ → đuôi khẳng định: I don't think she'll come, will she?",
+        "Nếu chủ ngữ không phải 'I' (You think, He believes...) → đuôi theo mệnh đề chính: You think it will rain, don't you?",
+        "must chỉ suy đoán ở hiện tại → đuôi theo động từ sau must (He must be tired, isn't he?); must have V3 → have/has (She must have left, hasn't she?).",
+        "Câu cảm thán What a/How ... + N → dùng be + đại từ: What a lovely day, isn't it?"
+      ],
+      "examples": [
+        {
+          "en": "I believe she is the best student in the class, isn't she?",
+          "vi": "Tôi tin cô ấy là học sinh giỏi nhất lớp, phải không?"
+        },
+        {
+          "en": "I don't think they will win, will they?",
+          "vi": "Tôi không nghĩ họ sẽ thắng, đúng không?"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Phân biệt Let's (rủ cả người nói) → shall we và Let me/Let us (xin phép người nghe) → will you.",
+    "Đại từ chỉ người (-one, -body) → they; chỉ vật (-thing) → it; nhớ xét nghĩa phủ định của no-/nothing/nobody.",
+    "I think/I believe: bỏ qua 'I think', lấy mệnh đề phía sau làm gốc; nhưng 'You think/She thinks' thì lấy mệnh đề chính.",
+    "Câu có seldom, rarely, hardly, barely, scarcely, never → đuôi khẳng định."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu hỏi đuôi đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Let's go for a walk after dinner, ______?",
+          "options": {
+            "A": "don't we",
+            "B": "shall we",
+            "C": "will you",
+            "D": "won't we"
+          },
+          "answer": "B",
+          "explanation": "Let's + V (rủ rê) → 'shall we'."
+        },
+        {
+          "no": 2,
+          "question": "Let me use your phone for a minute, ______?",
+          "options": {
+            "A": "don't I",
+            "B": "shall we",
+            "C": "will you",
+            "D": "won't I"
+          },
+          "answer": "C",
+          "explanation": "Let me (xin phép người nghe) → 'will you'. 'shall we' chỉ dùng với Let's (rủ rê)."
+        },
+        {
+          "no": 3,
+          "question": "Don't make so much noise, ______?",
+          "options": {
+            "A": "do you",
+            "B": "don't you",
+            "C": "won't you",
+            "D": "will you"
+          },
+          "answer": "D",
+          "explanation": "Câu mệnh lệnh phủ định Don't + V → 'will you'."
+        },
+        {
+          "no": 4,
+          "question": "Somebody left the lights on in the classroom, ______?",
+          "options": {
+            "A": "did they",
+            "B": "wasn't it",
+            "C": "didn't he",
+            "D": "didn't they"
+          },
+          "answer": "D",
+          "explanation": "'Somebody' → đại từ 'they'; quá khứ đơn, khẳng định → 'didn't they'."
+        },
+        {
+          "no": 5,
+          "question": "Nobody phoned while I was out, ______?",
+          "options": {
+            "A": "did he",
+            "B": "was it",
+            "C": "didn't they",
+            "D": "did they"
+          },
+          "answer": "D",
+          "explanation": "'Nobody' mang nghĩa phủ định → đuôi khẳng định; đại từ thay thế là 'they' → 'did they'."
+        },
+        {
+          "no": 6,
+          "question": "Everything is ready for the party, ______?",
+          "options": {
+            "A": "isn't it",
+            "B": "aren't they",
+            "C": "isn't everything",
+            "D": "is it"
+          },
+          "answer": "A",
+          "explanation": "'Everything' → đại từ 'it'; khẳng định với 'is' → 'isn't it'."
+        },
+        {
+          "no": 7,
+          "question": "I think Mr Long is a very experienced teacher, ______?",
+          "options": {
+            "A": "don't I",
+            "B": "isn't he",
+            "C": "do I",
+            "D": "is he"
+          },
+          "answer": "B",
+          "explanation": "I think + mệnh đề → đuôi theo mệnh đề phụ 'Mr Long is...' (khẳng định) → 'isn't he'."
+        },
+        {
+          "no": 8,
+          "question": "I don't believe she can solve this problem, ______?",
+          "options": {
+            "A": "can't she",
+            "B": "do I",
+            "C": "don't I",
+            "D": "can she"
+          },
+          "answer": "D",
+          "explanation": "I don't believe + mệnh đề: phủ định được chuyển sang mệnh đề phụ → đuôi khẳng định theo 'she can' → 'can she'."
+        },
+        {
+          "no": 9,
+          "question": "You think the exam will be easy, ______?",
+          "options": {
+            "A": "do you",
+            "B": "won't it",
+            "C": "don't you",
+            "D": "will it"
+          },
+          "answer": "C",
+          "explanation": "Chủ ngữ là 'You' (không phải 'I') → đuôi theo mệnh đề chính 'You think' → 'don't you'."
+        },
+        {
+          "no": 10,
+          "question": "There are some eggs left in the fridge, ______?",
+          "options": {
+            "A": "are there",
+            "B": "aren't there",
+            "C": "aren't they",
+            "D": "isn't it"
+          },
+          "answer": "B",
+          "explanation": "There are ... → dùng lại 'there' ở đuôi: 'aren't there'."
+        },
+        {
+          "no": 11,
+          "question": "He seldom goes out at weekends, ______?",
+          "options": {
+            "A": "doesn't he",
+            "B": "did he",
+            "C": "does he",
+            "D": "isn't he"
+          },
+          "answer": "C",
+          "explanation": "'seldom' mang nghĩa phủ định → đuôi khẳng định; hiện tại đơn → 'does he'."
+        },
+        {
+          "no": 12,
+          "question": "She must have forgotten our appointment, ______?",
+          "options": {
+            "A": "hasn't she",
+            "B": "mustn't she",
+            "C": "didn't she",
+            "D": "must she"
+          },
+          "answer": "A",
+          "explanation": "must have + V3 chỉ suy đoán về quá khứ → đuôi dùng 'have/has': 'hasn't she'."
+        },
+        {
+          "no": 13,
+          "question": "What a beautiful dress, ______?",
+          "options": {
+            "A": "isn't it",
+            "B": "is it",
+            "C": "aren't you",
+            "D": "doesn't it"
+          },
+          "answer": "A",
+          "explanation": "Câu cảm thán What a + N (số ít) → dùng be + it: 'isn't it'."
+        },
+        {
+          "no": 14,
+          "question": "Neither of the boys came to the club meeting, ______?",
+          "options": {
+            "A": "didn't he",
+            "B": "weren't they",
+            "C": "did they",
+            "D": "didn't they"
+          },
+          "answer": "C",
+          "explanation": "'Neither of' mang nghĩa phủ định → đuôi khẳng định; chỉ hai người → đại từ 'they' → 'did they'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Question tags",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/question-tags"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu hỏi đuôi",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-hoi-duoi-cd2025.jsp"
+    }
+  ]
+}

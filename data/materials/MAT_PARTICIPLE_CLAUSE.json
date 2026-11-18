@@ -1,0 +1,267 @@
+{
+  "material_id": "MAT_PARTICIPLE_CLAUSE",
+  "skill_id": "SK_PARTICIPLE",
+  "title": "Kỹ thuật Rút gọn mệnh đề bằng Phân từ",
+  "target_level": 3,
+  "summary": "Giúp học sinh rút gọn mệnh đề trạng ngữ (thời gian, nguyên nhân, điều kiện) bằng V-ing, V3 và Having V3, đồng thời tránh bẫy \"phân từ treo\" khi hai vế không cùng chủ ngữ.",
+  "theory": [
+    {
+      "heading": "Điều kiện để rút gọn: cùng chủ ngữ",
+      "points": [
+        "Chỉ rút gọn khi mệnh đề phụ và mệnh đề chính có CÙNG chủ ngữ",
+        "Nếu khác chủ ngữ, câu rút gọn bị sai nghĩa (phân từ treo): Walking along the street, a car hit me ✗",
+        "Khác chủ ngữ có thể dùng with + N + V-ing/V3: With the exams approaching, …"
+      ],
+      "examples": [
+        {
+          "en": "Walking along the street, I was nearly hit by a car.",
+          "vi": "Đang đi trên phố thì tôi suýt bị ô tô đâm."
+        }
+      ]
+    },
+    {
+      "heading": "Ba dạng phân từ",
+      "points": [
+        "V-ing: chủ động, xảy ra đồng thời hoặc chỉ lý do (Opening the door, she saw…; Not knowing the way, he asked…)",
+        "Having + V3: chủ động, xảy ra TRƯỚC hành động ở mệnh đề chính (Having finished his homework, he went out)",
+        "V3: bị động (Built in the 11th century, the pagoda… ; Watered carefully, the plants will grow well)",
+        "Being + adj/N: chỉ lý do (Being tired, I went to bed early)",
+        "Phủ định: Not đặt trước phân từ (Not knowing…, Not having finished…)"
+      ],
+      "examples": [
+        {
+          "en": "Having finished his homework, he went out to play football.",
+          "vi": "Làm xong bài tập, cậu ấy ra ngoài chơi bóng."
+        },
+        {
+          "en": "Built in the 11th century, the One Pillar Pagoda is a symbol of Hanoi.",
+          "vi": "Được xây vào thế kỷ 11, chùa Một Cột là biểu tượng của Hà Nội."
+        }
+      ]
+    },
+    {
+      "heading": "Sau liên từ và cuối câu",
+      "points": [
+        "Giữ liên từ: after/before/while/when + V-ing (Before leaving, …); when + V3 nếu bị động (When asked, …)",
+        "Cụm V-ing cuối câu diễn tả hành động xảy ra kèm hoặc kết quả: He ran out, slamming the door."
+      ],
+      "examples": [
+        {
+          "en": "Before leaving the house, remember to turn off the lights.",
+          "vi": "Trước khi ra khỏi nhà, nhớ tắt đèn."
+        },
+        {
+          "en": "When asked about the accident, he refused to comment.",
+          "vi": "Khi được hỏi về vụ tai nạn, anh ấy từ chối bình luận."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: tìm chủ ngữ của mệnh đề chính – đó cũng là chủ ngữ ngầm của cụm phân từ.",
+    "Bước 2: chủ ngữ đó TỰ làm (V-ing / Having V3) hay BỊ tác động (V3 / Having been V3)?",
+    "Bước 3: hành động xảy ra trước hẳn hành động chính → Having V3.",
+    "Bẫy phân từ treo: nếu chủ ngữ mệnh đề chính không thể làm hành động trong cụm phân từ (a car walking…) thì câu sai."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng phân từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ the door, she saw a stranger standing outside.",
+          "options": {
+            "A": "To open",
+            "B": "Having been opened",
+            "C": "Opened",
+            "D": "Opening"
+          },
+          "answer": "D",
+          "explanation": "Cô ấy tự mở cửa (chủ động, xảy ra gần như đồng thời) → \"Opening\"."
+        },
+        {
+          "no": 2,
+          "question": "______ his homework, Minh went out to play football with his friends.",
+          "options": {
+            "A": "Finished",
+            "B": "Being finished",
+            "C": "Having been finished",
+            "D": "Having finished"
+          },
+          "answer": "D",
+          "explanation": "Minh làm xong bài tập TRƯỚC rồi mới đi chơi, nghĩa chủ động → \"Having finished\"."
+        },
+        {
+          "no": 3,
+          "question": "______ in the 11th century, the One Pillar Pagoda is one of the symbols of Hanoi.",
+          "options": {
+            "A": "Built",
+            "B": "Having built",
+            "C": "Building",
+            "D": "To build"
+          },
+          "answer": "A",
+          "explanation": "Chùa \"được xây\" (bị động) → \"Built\"."
+        },
+        {
+          "no": 4,
+          "question": "______ tired after a long day, I went to bed early.",
+          "options": {
+            "A": "Having",
+            "B": "Been",
+            "C": "Being",
+            "D": "Be"
+          },
+          "answer": "C",
+          "explanation": "\"Being + adj\" chỉ lý do: Vì mệt nên tôi đi ngủ sớm."
+        },
+        {
+          "no": 5,
+          "question": "______ carefully, these plants will grow very well.",
+          "options": {
+            "A": "Having watered",
+            "B": "Watered",
+            "C": "To water",
+            "D": "Watering"
+          },
+          "answer": "B",
+          "explanation": "Cây \"được tưới\" (bị động, mang nghĩa điều kiện: If they are watered…) → \"Watered\"."
+        },
+        {
+          "no": 6,
+          "question": "With the final exams ______, the students are feeling more and more stressed.",
+          "options": {
+            "A": "approaching",
+            "B": "approached",
+            "C": "to approach",
+            "D": "approach"
+          },
+          "answer": "A",
+          "explanation": "\"with + N + V-ing\": kỳ thi đang tự đến gần (chủ động) → \"approaching\"."
+        },
+        {
+          "no": 7,
+          "question": "Before ______ the house, remember to turn off all the lights.",
+          "options": {
+            "A": "to leave",
+            "B": "leave",
+            "C": "leaving",
+            "D": "left"
+          },
+          "answer": "C",
+          "explanation": "Sau liên từ/giới từ \"before\" dùng V-ing khi cùng chủ ngữ."
+        },
+        {
+          "no": 8,
+          "question": "The boy ran out of the classroom, ______ the door behind him.",
+          "options": {
+            "A": "slammed",
+            "B": "slamming",
+            "C": "to slam",
+            "D": "slams"
+          },
+          "answer": "B",
+          "explanation": "Cụm V-ing cuối câu diễn tả hành động xảy ra kèm theo của cùng chủ ngữ (cậu bé đóng sầm cửa)."
+        },
+        {
+          "no": 9,
+          "question": "When ______ about the accident, the driver refused to say anything.",
+          "options": {
+            "A": "to ask",
+            "B": "having asked",
+            "C": "asked",
+            "D": "asking"
+          },
+          "answer": "C",
+          "explanation": "Tài xế \"được hỏi\" (bị động) → \"When asked\" (= When he was asked)."
+        },
+        {
+          "no": 10,
+          "question": "______ the film twice, I didn't want to watch it again.",
+          "options": {
+            "A": "Seen",
+            "B": "Having been seen",
+            "C": "Having seen",
+            "D": "To have seen"
+          },
+          "answer": "C",
+          "explanation": "Việc xem phim đã xảy ra trước, chủ động → \"Having seen\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đúng hoặc câu đồng nghĩa",
+      "instructions": "Choose the best option (A, B, C or D) for each question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Choose the grammatically correct sentence.",
+          "options": {
+            "A": "Walking along the street, a car nearly hit me.",
+            "B": "Walking along the street, I was nearly hit by a car.",
+            "C": "Having walked along the street, a car nearly hit me.",
+            "D": "Walked along the street, I was nearly hit by a car."
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ của mệnh đề chính phải là người đi bộ (I). Hai câu có chủ ngữ \"a car\" là phân từ treo (xe ô tô không đi bộ); \"Walked\" sai vì nghĩa chủ động."
+        },
+        {
+          "no": 12,
+          "question": "After she had cleaned the room, she went shopping.",
+          "options": {
+            "A": "Being cleaned the room, she went shopping.",
+            "B": "Cleaned the room, she went shopping.",
+            "C": "Having been cleaned the room, she went shopping.",
+            "D": "Having cleaned the room, she went shopping."
+          },
+          "answer": "D",
+          "explanation": "Hành động chủ động xảy ra trước → \"Having + V3\"."
+        },
+        {
+          "no": 13,
+          "question": "Because he didn't know the way, he asked a policeman for help.",
+          "options": {
+            "A": "Not knowing the way, he asked a policeman for help.",
+            "B": "Having not knowing the way, he asked a policeman for help.",
+            "C": "Not known the way, he asked a policeman for help.",
+            "D": "Knowing not the way, he asked a policeman for help."
+          },
+          "answer": "A",
+          "explanation": "Lý do, chủ động, phủ định → \"Not + V-ing\": Not knowing."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 14,
+          "question": "(A) Having finishing the report, she (B) sent it (C) to her manager (D) immediately.",
+          "options": {
+            "A": "Having finishing",
+            "B": "sent it",
+            "C": "to her manager",
+            "D": "immediately"
+          },
+          "answer": "A",
+          "explanation": "Phân từ hoàn thành có dạng \"Having + V3\" → \"Having finished\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Participle clauses",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/participle-clauses"
+    },
+    {
+      "title": "British Council LearnEnglish – Participle clauses (Q&A on relative vs participle clauses)",
+      "url": "https://learnenglish.britishcouncil.org/comment/174410"
+    }
+  ]
+}

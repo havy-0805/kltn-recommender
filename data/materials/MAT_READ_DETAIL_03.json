@@ -1,0 +1,169 @@
+{
+  "material_id": "MAT_READ_DETAIL_03",
+  "skill_id": "SK_READ_DETAIL",
+  "title": "Xử lý câu hỏi chi tiết suy luận và mức độ phân hóa cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các câu hỏi chi tiết khó: thông tin được diễn đạt lại, câu hỏi suy luận (It can be inferred...), câu hỏi quy chiếu (refers to) và các phương án bẫy dùng lại từ trong bài.",
+  "theory": [
+    {
+      "heading": "Chi tiết được diễn đạt lại (paraphrase)",
+      "points": [
+        "Ở câu phân hóa, phương án đúng gần như không bao giờ lặp nguyên văn bài đọc mà dùng từ đồng nghĩa hoặc đổi cấu trúc câu.",
+        "Ví dụ: 'lower the temperature of the room below' ↔ 'make the rooms below cooler'; 'only one fifth was recycled' ↔ 'most of it was not recycled'.",
+        "Phương án lặp đúng chữ trong bài nhưng ghép sai đối tượng là bẫy phổ biến nhất."
+      ],
+      "examples": [
+        { "en": "Text: 'Older buildings may not be strong enough to carry the extra weight.' → Answer: 'They might be damaged by heavy gardens.'", "vi": "Bài nói nhà cũ có thể không đủ chắc để chịu thêm sức nặng → đáp án diễn đạt lại: chúng có thể bị hư hại vì vườn nặng." }
+      ]
+    },
+    {
+      "heading": "Câu hỏi suy luận (inference)",
+      "points": [
+        "Dấu hiệu: 'It can be inferred that...', 'What can be inferred about...', 'The writer suggests/implies that...'.",
+        "Suy luận đúng = kết luận chắc chắn rút ra từ 1–2 câu trong bài, không cần thêm kiến thức bên ngoài.",
+        "Loại các phương án: (1) nói quá (all, always, never) so với bài; (2) đúng với đời thực nhưng bài không đề cập; (3) trái ngược với bài."
+      ],
+      "examples": [
+        { "en": "Text: 'Their products are more expensive, but collectors are willing to pay for them.' → Inference: handmade pieces are valued for their uniqueness.", "vi": "Hàng thủ công đắt hơn nhưng người sưu tầm vẫn sẵn sàng mua → suy ra chúng được đánh giá cao vì tính độc đáo." }
+      ]
+    },
+    {
+      "heading": "Câu hỏi quy chiếu và cụm từ trong ngữ cảnh",
+      "points": [
+        "Câu 'The word X refers to ...': tìm danh từ đứng TRƯỚC đại từ (it, they, them, others, this) và thay thử vào chỗ đại từ xem câu có hợp nghĩa không.",
+        "Với cặp 'Some ... Others ...', 'Others' thường chỉ cùng nhóm người/vật với 'Some'.",
+        "Với cụm thành ngữ ('just in case'), đọc câu chứa nó và câu sau để hiểu lý do tác giả dùng."
+      ],
+      "examples": [
+        { "en": "Some gardeners use coconut fibre. Others grow plants in water. → 'Others' = other gardeners.", "vi": "'Others' quy chiếu về 'gardeners' ở câu trước, không phải 'experts' hay 'buildings'." }
+      ]
+    },
+    {
+      "heading": "Câu hỏi về mục đích của chi tiết",
+      "points": [
+        "Dạng 'Why does the writer mention X?': hỏi chi tiết X được dùng để làm gì (chứng minh, ví dụ, so sánh, cảnh báo).",
+        "Đọc câu ngay trước và sau X; câu khái quát gần đó chính là luận điểm mà X minh họa."
+      ],
+      "examples": [
+        { "en": "'At first sight, an old phone looks worthless. In fact, it contains small amounts of gold...' → mentioned to show old phones have value.", "vi": "Vàng, bạc, đồng được nhắc tới để chứng minh điện thoại cũ vẫn có giá trị." }
+      ]
+    }
+  ],
+  "tips": [
+    "Luôn quay lại bài để tìm câu chứng cứ; không chọn theo cảm giác 'nghe hợp lý'.",
+    "Cảnh giác phương án chứa đúng từ trong bài nhưng đổi chủ thể (ví dụ 'farmers from the countryside' thay cho 'retired people who grew up in the countryside').",
+    "Với câu suy luận, phương án dùng từ tuyệt đối (all, never, only, completely) thường sai nếu bài chỉ nói 'some, may, often'.",
+    "Câu quy chiếu: thay từ được chọn vào vị trí đại từ rồi đọc lại cả câu để kiểm tra nghĩa."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "In many Asian cities, rooftops used to be empty spaces covered with water tanks and old furniture. Over the past decade, however, a growing number of residents in Ho Chi Minh City have turned them into small vegetable gardens. The idea first became popular among retired people who had grown up in the countryside and missed working with soil. Today, it has spread to young office workers, many of whom say that gardening after work helps them relax more than scrolling through social media.\nRooftop gardens bring practical benefits as well. A layer of plants can lower the temperature of the room below by two or three degrees, so families use their air conditioners less often. Residents also know exactly how their vegetables are grown, which matters to those who worry about chemicals in food sold at markets.\nNot everything is easy, though. Soil and water are heavy, and older buildings may not be strong enough to carry the extra weight. For this reason, experts advise people to ask an engineer before building a large garden. Some gardeners have solved the problem by using light materials such as coconut fibre instead of ordinary soil. Others grow plants in water using a system called hydroponics, which needs no soil at all. Although rooftop farms cannot feed a whole city, supporters believe that they make urban life greener and healthier.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "According to the passage, who first made rooftop gardening popular in Ho Chi Minh City?",
+          "options": { "A": "Young office workers", "B": "Engineers who design buildings", "C": "Retired people who grew up in the countryside", "D": "Farmers who moved from the countryside" },
+          "answer": "C",
+          "explanation": "Bài viết: 'The idea first became popular among retired people who had grown up in the countryside and missed working with soil.' A là nhóm đến sau ('Today, it has spread to young office workers'); D là bẫy dùng lại từ 'countryside' nhưng đổi chủ thể thành nông dân."
+        },
+        {
+          "no": 2,
+          "question": "According to paragraph 2, why do families with rooftop gardens use their air conditioners less often?",
+          "options": { "A": "The plants make the rooms below cooler.", "B": "Vegetables need cool air to grow.", "C": "They spend most of their time on the roof.", "D": "Electricity has become more expensive." },
+          "answer": "A",
+          "explanation": "Bài viết: 'A layer of plants can lower the temperature of the room below by two or three degrees, so families use their air conditioners less often.' Phương án A diễn đạt lại 'lower the temperature' thành 'make ... cooler'. D có thể đúng ngoài đời nhưng bài không nhắc."
+        },
+        {
+          "no": 3,
+          "question": "What can be inferred about older buildings from the passage?",
+          "options": { "A": "They are not allowed to have gardens on their roofs.", "B": "They might be damaged if a heavy garden is built on top.", "C": "They are usually cooler than new buildings.", "D": "They already use hydroponic systems." },
+          "answer": "B",
+          "explanation": "Bài viết: 'Soil and water are heavy, and older buildings may not be strong enough to carry the extra weight. For this reason, experts advise people to ask an engineer...' → suy ra nhà cũ có thể bị hư hại nếu làm vườn nặng. A nói quá (bài không nói bị cấm); C, D không có căn cứ."
+        },
+        {
+          "no": 4,
+          "question": "The word \"Others\" in paragraph 3 refers to ______.",
+          "options": { "A": "experts", "B": "engineers", "C": "older buildings", "D": "other gardeners" },
+          "answer": "D",
+          "explanation": "Cặp 'Some gardeners have solved the problem ... Others grow plants in water ...' → 'Others' = những người làm vườn khác. Thay 'experts' hay 'buildings' vào câu 'Others grow plants in water' đều không hợp nghĩa."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Every year, people throw away millions of old phones, laptops and chargers. This kind of rubbish, known as e-waste, is one of the fastest-growing types of household waste in the world. According to a recent international report, only about one fifth of it is properly collected and recycled. The rest ends up in landfills or is handled by informal workers, often in poorer countries.\nAt first sight, an old phone looks worthless. In fact, it contains small amounts of gold, silver and copper. Experts say that a tonne of old phones can hold more gold than a tonne of rock taken from a gold mine. Recovering these metals is therefore not only good for the environment but can also be profitable. The problem is that the process is complicated and must be done in special factories. When informal workers burn cables in the open air to get the copper inside, they breathe in toxic smoke, and harmful chemicals sink into the ground.\nSome governments now require companies to take back the devices they sell. In Viet Nam, several phone shops have set up collection boxes where customers can drop their unwanted devices. However, many people still keep old phones in drawers \"just in case\". Experts say that the easiest thing an ordinary person can do is to return a device to a collection point instead of keeping it for years.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following is true about most e-waste, according to the passage?",
+          "options": { "A": "It is recycled in special factories.", "B": "It is not properly collected and recycled.", "C": "It is sent back to the companies that made it.", "D": "It is kept in people's drawers." },
+          "answer": "B",
+          "explanation": "Bài viết: 'only about one fifth of it is properly collected and recycled. The rest ends up in landfills...' → phần lớn (4/5) không được thu gom, tái chế đúng cách. A chỉ đúng với 1/5; D chỉ là một thói quen được nhắc ở đoạn 3, không phải 'most e-waste'."
+        },
+        {
+          "no": 6,
+          "question": "Why does the writer mention gold, silver and copper in paragraph 2?",
+          "options": { "A": "To show that old phones still have some value", "B": "To explain how mobile phones are made", "C": "To warn readers about the rising price of gold", "D": "To compare different kinds of mines" },
+          "answer": "A",
+          "explanation": "Câu trước: 'At first sight, an old phone looks worthless. In fact, it contains small amounts of gold, silver and copper.' → kim loại quý được nhắc để phản bác ý 'vô giá trị', tức là điện thoại cũ vẫn có giá trị."
+        },
+        {
+          "no": 7,
+          "question": "What can be inferred about informal workers who burn cables in the open air?",
+          "options": { "A": "They usually work in special factories.", "B": "They are paid by phone companies.", "C": "They recover more gold than miners.", "D": "Their health may be harmed by their work." },
+          "answer": "D",
+          "explanation": "Bài viết: 'When informal workers burn cables in the open air ..., they breathe in toxic smoke' → hít khói độc nên sức khỏe có thể bị ảnh hưởng. A trái với bài (quy trình đúng phải làm trong nhà máy đặc biệt, còn họ đốt ngoài trời)."
+        },
+        {
+          "no": 8,
+          "question": "The phrase \"just in case\" in paragraph 3 suggests that people keep old phones because ______.",
+          "options": { "A": "they think they might need them later", "B": "they know the phones contain gold", "C": "collection boxes are too far away", "D": "phone shops refuse to take them back" },
+          "answer": "A",
+          "explanation": "'just in case' = phòng khi cần. Câu: 'many people still keep old phones in drawers \"just in case\"' → họ giữ vì nghĩ sau này có thể cần dùng. C, D trái với việc các cửa hàng đã đặt hộp thu gom."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "For several centuries, the village of Bat Trang, on the bank of the Red River, has been famous for its pottery. In the past, almost every family there made bowls, vases and plates by hand, and the skills were passed down from parents to children. Clay was often brought from other areas by boat, because the river was the easiest way to transport heavy goods.\nLife in the village has changed greatly. Gas kilns have replaced most of the old wood-burning ones, which produced thick smoke and made the air unhealthy. Thanks to the new kilns, products are baked more evenly and fewer pieces crack. Some workshops even use machines to shape simple items, so they can make hundreds of identical cups a day.\nYet the village has not lost its traditional character. Visitors, especially schoolchildren, still come at weekends to try shaping clay on a spinning wheel and painting their own designs. Several older artisans refuse to use machines at all, saying that each handmade piece carries the personality of its maker. Their products are more expensive, but collectors are willing to pay for them. Many young people who left Bat Trang to study in the city have returned to open online shops, selling their families' pottery to customers across the country and abroad.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Why was clay often brought to Bat Trang by boat in the past?",
+          "options": { "A": "There was no clay anywhere else in the country.", "B": "The river made it easier to carry heavy goods.", "C": "Boats were cheaper than horses and carts.", "D": "The village had no roads at that time." },
+          "answer": "B",
+          "explanation": "Bài viết: 'Clay was often brought from other areas by boat, because the river was the easiest way to transport heavy goods.' C, D nghe hợp lý nhưng bài không đề cập."
+        },
+        {
+          "no": 10,
+          "question": "Which of the following is a result of using gas kilns?",
+          "options": { "A": "More pieces crack during baking.", "B": "The air in the village becomes smokier.", "C": "Products are baked more evenly.", "D": "Fewer visitors come to the village." },
+          "answer": "C",
+          "explanation": "Bài viết: 'Thanks to the new kilns, products are baked more evenly and fewer pieces crack.' A ngược nghĩa ('fewer pieces crack'); B là đặc điểm của lò đốt củi cũ."
+        },
+        {
+          "no": 11,
+          "question": "It can be inferred from paragraph 3 that the handmade pieces of older artisans ______.",
+          "options": { "A": "are valued because each one is unique", "B": "are shaped with modern machines", "C": "are sold only inside the village", "D": "are cheaper than machine-made cups" },
+          "answer": "A",
+          "explanation": "Bài viết: 'each handmade piece carries the personality of its maker. Their products are more expensive, but collectors are willing to pay for them.' → được đánh giá cao vì mỗi món mang dấu ấn riêng. B trái với 'refuse to use machines'; D trái với 'more expensive'."
+        },
+        {
+          "no": 12,
+          "question": "According to the passage, what have many young people from Bat Trang done?",
+          "options": { "A": "They have moved to the city for good.", "B": "They have stopped making pottery.", "C": "They have opened online shops to sell their families' pottery.", "D": "They have become teachers for visiting schoolchildren." },
+          "answer": "C",
+          "explanation": "Câu cuối: 'Many young people who left Bat Trang to study in the city have returned to open online shops, selling their families' pottery...' A là bẫy: họ có lên thành phố học nhưng đã quay về ('have returned')."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Single Passages: Question Types & Strategies (detail, NOT, inference)", "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

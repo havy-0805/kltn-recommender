@@ -1,0 +1,271 @@
+{
+  "material_id": "MAT_WISH_03",
+  "skill_id": "SK_WISH",
+  "title": "Câu ước ở quá khứ và các biến thể nâng cao của cấu trúc Wish",
+  "target_level": 3,
+  "summary": "Giúp học sinh làm chủ câu ước ở quá khứ (had + V3), phân biệt wish/hope, nhận diện bẫy 'I wish I would', và các cấu trúc biến thể would rather, It's (high) time – nhóm câu phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Câu ước ở quá khứ",
+      "points": [
+        "S + wish / If only + S + had (not) + V3: tiếc nuối điều đã/không xảy ra trong quá khứ.",
+        "could have + V3 cũng dùng được: I wish I could have helped you.",
+        "Viết lại: I'm sorry / It's a pity / I regret + quá khứ → wish + had + V3 (đổi khẳng định ↔ phủ định)."
+      ],
+      "examples": [
+        {
+          "en": "I didn't study hard. → I wish I had studied harder.",
+          "vi": "Ước gì tôi đã học chăm hơn."
+        },
+        {
+          "en": "If only I hadn't told him the secret!",
+          "vi": "Giá mà tôi đã không kể bí mật cho anh ấy!"
+        }
+      ]
+    },
+    {
+      "heading": "Các bẫy thường gặp với wish",
+      "points": [
+        "Không dùng 'I wish I would ...' (không thể phàn nàn về ý muốn của chính mình) → dùng 'I wish I were/could ...'.",
+        "wish + would chỉ dùng cho hành động/thay đổi mong người khác hoặc sự việc thực hiện, không dùng cho trạng thái (sai: I wish you would feel better).",
+        "hope + hiện tại/tương lai cho điều có khả năng xảy ra; wish + lùi thì cho điều không có thật.",
+        "Thời điểm trong câu quyết định thì sau wish, không phụ thuộc thì của 'wish' (She wished she had gone...)."
+      ],
+      "examples": [
+        {
+          "en": "I hope you pass the exam next week.",
+          "vi": "Mình hy vọng bạn đỗ kỳ thi tuần sau."
+        },
+        {
+          "en": "I wish you had told me earlier.",
+          "vi": "Ước gì bạn nói với tôi sớm hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Biến thể: would rather và It's (high) time",
+      "points": [
+        "S1 + would rather + S2 + V2 (hiện tại/tương lai): muốn ai đó làm gì (I'd rather you stayed).",
+        "S1 + would rather + S2 + had + V3 (quá khứ): ước ai đó đã làm gì.",
+        "It's (high/about) time + S + V2 = It's time for sb + to V: đã đến lúc ai đó phải làm gì."
+      ],
+      "examples": [
+        {
+          "en": "I'd rather you didn't come home late.",
+          "vi": "Mẹ muốn con đừng về nhà muộn."
+        },
+        {
+          "en": "It's high time we left for the airport.",
+          "vi": "Đã đến lúc chúng ta phải ra sân bay rồi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định mốc thời gian của điều ước: hiện tại → V2; tương lai → would/could + V; quá khứ → had + V3.",
+    "Gặp 'I'm sorry / What a pity / I regret' + động từ quá khứ → câu ước quá khứ với had + V3 và đảo khẳng định/phủ định.",
+    "Loại 'I wish I would ...' và 'I wish ... will ...' trong mọi trường hợp.",
+    "It's time + S + V2 (không dùng V nguyên mẫu, không dùng had + V3)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I wish I ______ harder for the exam last week.",
+          "options": {
+            "A": "would study",
+            "B": "studied",
+            "C": "have studied",
+            "D": "had studied"
+          },
+          "answer": "D",
+          "explanation": "'last week' → tiếc nuối quá khứ: had + V3 'had studied'."
+        },
+        {
+          "no": 2,
+          "question": "If only I ______ to her advice yesterday!",
+          "options": {
+            "A": "listened",
+            "B": "had listened",
+            "C": "would listen",
+            "D": "have listened"
+          },
+          "answer": "B",
+          "explanation": "'yesterday' → If only + had + V3."
+        },
+        {
+          "no": 3,
+          "question": "I'd rather you ______ home late tonight.",
+          "options": {
+            "A": "didn't come",
+            "B": "don't come",
+            "C": "won't come",
+            "D": "hadn't come"
+          },
+          "answer": "A",
+          "explanation": "would rather + S2 + V2 cho hiện tại/tương lai (tonight) → 'didn't come'."
+        },
+        {
+          "no": 4,
+          "question": "It's high time we ______ for the station. The train leaves in 20 minutes.",
+          "options": {
+            "A": "leave",
+            "B": "left",
+            "C": "will leave",
+            "D": "have left"
+          },
+          "answer": "B",
+          "explanation": "It's high time + S + V2 → 'left'."
+        },
+        {
+          "no": 5,
+          "question": "I ______ you pass the exam next week. Good luck!",
+          "options": {
+            "A": "hope",
+            "B": "regret",
+            "C": "would rather",
+            "D": "wish"
+          },
+          "answer": "A",
+          "explanation": "Điều có khả năng xảy ra, động từ 'pass' ở hiện tại → 'hope'. 'wish' cần lùi thì."
+        },
+        {
+          "no": 6,
+          "question": "Which sentence is correct?",
+          "options": {
+            "A": "I wish I am taller.",
+            "B": "I wish I would be taller.",
+            "C": "I wish I will be taller.",
+            "D": "I wish I were taller."
+          },
+          "answer": "D",
+          "explanation": "Ước trái hiện tại về bản thân → 'were'. Không dùng 'I wish I would ...'."
+        },
+        {
+          "no": 7,
+          "question": "She wishes she ______ that expensive dress last month; she has never worn it.",
+          "options": {
+            "A": "wouldn't buy",
+            "B": "doesn't buy",
+            "C": "didn't buy",
+            "D": "hadn't bought"
+          },
+          "answer": "D",
+          "explanation": "Hối tiếc việc đã mua tháng trước → had not + V3 'hadn't bought'."
+        },
+        {
+          "no": 8,
+          "question": "I wish you ______ me earlier; I could have helped you.",
+          "options": {
+            "A": "tell",
+            "B": "told",
+            "C": "had told",
+            "D": "would tell"
+          },
+          "answer": "C",
+          "explanation": "'could have helped' cho thấy sự việc đã qua → câu ước quá khứ 'had told'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "I (A) wish I (B) have learnt English (C) when I was (D) younger.",
+          "options": {
+            "A": "wish",
+            "B": "have learnt",
+            "C": "when",
+            "D": "younger"
+          },
+          "answer": "B",
+          "explanation": "'when I was younger' là quá khứ → câu ước quá khứ: sửa 'have learnt' thành 'had learnt'."
+        },
+        {
+          "no": 10,
+          "question": "(A) If only she (B) will listen to her parents (C) more often (D) these days.",
+          "options": {
+            "A": "If only",
+            "B": "will listen",
+            "C": "more often",
+            "D": "these days"
+          },
+          "answer": "B",
+          "explanation": "Sau 'If only' không dùng 'will' → sửa thành 'would listen' (mong cô ấy thay đổi) hoặc 'listened'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "I'm sorry I didn't go to the party.",
+          "options": {
+            "A": "I wish I hadn't gone to the party.",
+            "B": "I wish I had gone to the party.",
+            "C": "I wish I went to the party.",
+            "D": "I wish I would go to the party."
+          },
+          "answer": "B",
+          "explanation": "Tiếc vì đã không đi → câu ước quá khứ khẳng định 'had gone'."
+        },
+        {
+          "no": 12,
+          "question": "It's a pity you told him the secret.",
+          "options": {
+            "A": "I wish you had told him the secret.",
+            "B": "I wish you didn't tell him the secret.",
+            "C": "I wish you hadn't told him the secret.",
+            "D": "I wish you wouldn't tell him the secret."
+          },
+          "answer": "C",
+          "explanation": "Đã kể (quá khứ, khẳng định) → ước phủ định quá khứ 'hadn't told'."
+        },
+        {
+          "no": 13,
+          "question": "I didn't bring my umbrella, so I got wet.",
+          "options": {
+            "A": "If only I had brought my umbrella.",
+            "B": "If only I brought my umbrella.",
+            "C": "If only I hadn't brought my umbrella.",
+            "D": "If only I would bring my umbrella."
+          },
+          "answer": "A",
+          "explanation": "Không mang ô (quá khứ, phủ định) → If only + had brought (khẳng định)."
+        },
+        {
+          "no": 14,
+          "question": "You should go to bed now; it's very late.",
+          "options": {
+            "A": "It's time for you going to bed.",
+            "B": "It's time you had gone to bed.",
+            "C": "It's time you went to bed.",
+            "D": "It's time you go to bed."
+          },
+          "answer": "C",
+          "explanation": "It's time + S + V2 → 'you went to bed'. A sai vì phải là 'for you to go'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Wishes: 'wish' and 'if only'",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/wishes-wish-if-only"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu điều kiện và câu ước",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-dieu-kien-va-cau-uoc-cd2025.jsp"
+    }
+  ]
+}

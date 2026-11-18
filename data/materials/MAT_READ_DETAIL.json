@@ -1,0 +1,265 @@
+{
+  "material_id": "MAT_READ_DETAIL",
+  "skill_id": "SK_READ_DETAIL",
+  "title": "Chiến thuật Tìm thông tin chi tiết bài Đọc hiểu",
+  "target_level": 2,
+  "summary": "Giúp học sinh làm chắc các câu hỏi chi tiết ('According to the passage…', Wh-questions) ở mức đề thi phổ biến: định vị từ khóa, nhận ra cách diễn đạt lại và tránh các phương án lặp từ nhưng sai ý.",
+  "theory": [
+    {
+      "heading": "Quy trình 4 bước cho câu hỏi chi tiết",
+      "points": [
+        "Bước 1: Gạch chân từ khóa trong câu hỏi – ưu tiên tên riêng, con số, danh từ đặc biệt.",
+        "Bước 2: Scan bài để tìm từ khóa đó hoặc từ đồng nghĩa của nó.",
+        "Bước 3: Đọc kỹ câu chứa từ khóa và một câu trước, một câu sau.",
+        "Bước 4: So khớp với phương án đã được diễn đạt lại; loại các phương án sai chi tiết."
+      ],
+      "examples": [
+        {
+          "en": "Q: Why did the school ban plastic bottles? → keywords: ban, plastic bottles → Text: 'The school stopped selling plastic bottles because they filled the bins every day.'",
+          "vi": "'ban' được diễn đạt lại bằng 'stopped selling'; lý do nằm sau 'because'."
+        }
+      ]
+    },
+    {
+      "heading": "Nhận ra paraphrase (diễn đạt lại)",
+      "points": [
+        "Đồng nghĩa: big → large, help → support, begin → start, often → frequently.",
+        "Đổi từ loại: decide → decision, pollute → pollution.",
+        "Đổi cấu trúc câu: chủ động ↔ bị động, 'not as… as' ↔ so sánh hơn.",
+        "Phương án đúng hiếm khi lặp nguyên văn; phương án lặp y nguyên nhiều từ trong bài cần kiểm tra kỹ."
+      ],
+      "examples": [
+        {
+          "en": "Text: 'The park was built by local volunteers.' → Option: 'People in the area built the park.'",
+          "vi": "Câu bị động trong bài được diễn đạt lại thành câu chủ động với 'people in the area' = 'local volunteers'."
+        }
+      ]
+    },
+    {
+      "heading": "Các bẫy thường gặp ở câu hỏi chi tiết",
+      "points": [
+        "Bẫy số liệu: bài có nhiều con số, phương án lấy nhầm số của đối tượng khác.",
+        "Bẫy lặp từ: dùng đúng từ trong bài nhưng ghép với thông tin khác.",
+        "Bẫy kiến thức ngoài bài: phương án đúng ngoài đời nhưng bài không nhắc tới.",
+        "Bẫy thời gian: nhầm thông tin quá khứ (used to, in the past) với hiện tại."
+      ],
+      "examples": [
+        {
+          "en": "Text: 'The market used to open every day; now it opens only at weekends.' – Wrong option: 'The market opens every day.'",
+          "vi": "'used to' chỉ thói quen trong quá khứ; hiện tại chợ chỉ mở cuối tuần."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu hỏi chi tiết thường theo thứ tự đoạn văn: dùng vị trí câu trước để khoanh vùng câu sau.",
+    "Khi có từ chỉ thời gian (now, in the past, next year), đối chiếu thật kỹ thì của động từ trong bài.",
+    "Mỗi lần chọn đáp án, phải chỉ được câu chứng cứ cụ thể trong bài; nếu không chỉ được thì chưa chắc chắn.",
+    "Đừng chọn phương án chỉ vì nó 'đúng ngoài đời' – chỉ dựa vào thông tin trong bài."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc hiểu chi tiết: Sống xanh ở khu chung cư",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "When Mr Tuan moved into a high-rise apartment in Long Bien three years ago, he was shocked by the amount of rubbish the building produced. Every evening, the bins on each floor were full of plastic bags, food waste and cardboard boxes.\n\nHe decided to do something about it. With the help of a few neighbours, he set up a sorting corner on the ground floor, with separate bins for paper, plastic, metal and food waste. At first, only about twenty families took part. Many residents said they were too busy to sort their rubbish.\n\nTo change their minds, the group organised a weekend event where children could swap recycled items for small plants. The event was so popular that, within six months, nearly 150 of the building's 200 families had joined the scheme.\n\nToday, the food waste is turned into compost for the rooftop garden, while paper and metal are sold to a recycling company. The money pays for new bins and for a party at the end of each year.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What shocked Mr Tuan when he moved into the apartment?",
+          "options": {
+            "A": "The high price of the flats",
+            "B": "The large amount of rubbish",
+            "C": "The lack of a rooftop garden",
+            "D": "The noise from his neighbours"
+          },
+          "answer": "B",
+          "explanation": "'…he was shocked by the amount of rubbish the building produced.' → 'large amount of rubbish' là cách diễn đạt lại."
+        },
+        {
+          "no": 2,
+          "question": "Why did many residents NOT take part in the beginning?",
+          "options": {
+            "A": "They did not have enough bins.",
+            "B": "They did not like Mr Tuan.",
+            "C": "They thought they had no time.",
+            "D": "They did not know how to recycle."
+          },
+          "answer": "C",
+          "explanation": "'Many residents said they were too busy to sort their rubbish.' → 'too busy' = 'thought they had no time'."
+        },
+        {
+          "no": 3,
+          "question": "What could children get at the weekend event?",
+          "options": {
+            "A": "Small plants",
+            "B": "Recycled toys",
+            "C": "Free books",
+            "D": "Money"
+          },
+          "answer": "A",
+          "explanation": "'…children could swap recycled items for small plants.' – trẻ mang đồ tái chế đến để đổi lấy cây nhỏ. 'recycled items' là thứ trẻ mang đi đổi (bẫy B)."
+        },
+        {
+          "no": 4,
+          "question": "About how many families had joined the scheme after six months?",
+          "options": {
+            "A": "20",
+            "B": "200",
+            "C": "100",
+            "D": "150"
+          },
+          "answer": "D",
+          "explanation": "'…within six months, nearly 150 of the building's 200 families had joined the scheme.' 20 là số lúc đầu, 200 là tổng số hộ của tòa nhà."
+        },
+        {
+          "no": 5,
+          "question": "What happens to the food waste now?",
+          "options": {
+            "A": "It is sold to a recycling company.",
+            "B": "It is made into compost for the rooftop garden.",
+            "C": "It is given to farmers outside the city.",
+            "D": "It is burned every evening."
+          },
+          "answer": "B",
+          "explanation": "'Today, the food waste is turned into compost for the rooftop garden, while paper and metal are sold to a recycling company.' A là việc xử lý giấy và kim loại (bẫy ghép sai)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc hiểu chi tiết: Học trực tuyến",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "Online learning is no longer something students do only when schools are closed. Many teenagers in Viet Nam now use apps and video lessons every week to review what they learn in class.\n\nA survey of 500 Grade 9 students in Ha Noi found that 68 percent watched online lessons at least three times a week. The most popular subject was English, followed by maths. Students said they liked being able to pause a video and watch difficult parts again, which is impossible in a normal lesson.\n\nHowever, online learning also has disadvantages. About a third of the students admitted that they were often distracted by social media while studying on their phones. Others complained of tired eyes and headaches after long hours in front of a screen.\n\nTeachers suggest some simple rules. Students should study in short sessions of about 25 minutes, turn off notifications and take a five-minute break between sessions. They also recommend that students write notes by hand, because this helps them remember information better than just watching.",
+      "questions": [
+        {
+          "no": 6,
+          "question": "According to the survey, which subject was the most popular for online learning?",
+          "options": {
+            "A": "Maths",
+            "B": "Literature",
+            "C": "English",
+            "D": "Science"
+          },
+          "answer": "C",
+          "explanation": "'The most popular subject was English, followed by maths.' – maths đứng thứ hai (bẫy A)."
+        },
+        {
+          "no": 7,
+          "question": "What did students like about video lessons?",
+          "options": {
+            "A": "They can replay the difficult parts.",
+            "B": "They are shorter than normal lessons.",
+            "C": "They can chat with friends during lessons.",
+            "D": "They do not need to take notes."
+          },
+          "answer": "A",
+          "explanation": "'Students said they liked being able to pause a video and watch difficult parts again…' → 'replay the difficult parts'."
+        },
+        {
+          "no": 8,
+          "question": "What problem did about a third of the students mention?",
+          "options": {
+            "A": "Their phones were too slow.",
+            "B": "They were often distracted by social media.",
+            "C": "They had headaches every day.",
+            "D": "They could not find good apps."
+          },
+          "answer": "B",
+          "explanation": "'About a third of the students admitted that they were often distracted by social media…' Đau đầu là ý kiến của 'Others' và bài không nói 'every day' (bẫy C)."
+        },
+        {
+          "no": 9,
+          "question": "How long should each study session be, according to teachers?",
+          "options": {
+            "A": "About 5 minutes",
+            "B": "About 15 minutes",
+            "C": "About 50 minutes",
+            "D": "About 25 minutes"
+          },
+          "answer": "D",
+          "explanation": "'Students should study in short sessions of about 25 minutes… and take a five-minute break between sessions.' 5 phút là thời gian nghỉ (bẫy A)."
+        },
+        {
+          "no": 10,
+          "question": "Why do teachers recommend writing notes by hand?",
+          "options": {
+            "A": "It is faster than typing.",
+            "B": "It helps students remember better.",
+            "C": "It protects students' eyes from screens.",
+            "D": "Teachers want to check students' notes."
+          },
+          "answer": "B",
+          "explanation": "'…write notes by hand, because this helps them remember information better than just watching.' C nghe hợp lý ngoài đời nhưng bài không nói (bẫy kiến thức ngoài bài)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc hiểu chi tiết: Lễ hội Đền Hùng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "The Hung Kings' Temple Festival is held every year on the tenth day of the third lunar month in Phu Tho Province. It honours the Hung Kings, who are believed to have founded the first Vietnamese state thousands of years ago. Since 2007, the day has been a national public holiday, so people all over the country have a day off work.\n\nThe festival begins with a ceremony in which people carry offerings up the steps of Nghia Linh Mountain to the Upper Temple. The offerings usually include banh chung and banh giay, two traditional rice cakes. According to legend, Prince Lang Lieu made these cakes for his father, one of the Hung Kings, and was chosen as the next king.\n\nBesides the ceremony, visitors can enjoy many folk activities such as Xoan singing, bamboo swinging and rice cooking contests. In 2012, the worship of the Hung Kings was recognised by UNESCO as part of the intangible cultural heritage of humanity.",
+      "questions": [
+        {
+          "no": 11,
+          "question": "When is the festival held?",
+          "options": {
+            "A": "On the third day of the tenth lunar month",
+            "B": "On the first day of the lunar new year",
+            "C": "On the tenth day of the third lunar month",
+            "D": "On the tenth of March every year"
+          },
+          "answer": "C",
+          "explanation": "'…held every year on the tenth day of the third lunar month…' A đảo ngược ngày và tháng; D dùng lịch dương, sai vì bài nói âm lịch (lunar)."
+        },
+        {
+          "no": 12,
+          "question": "What has happened since 2007?",
+          "options": {
+            "A": "The day has been a national holiday.",
+            "B": "UNESCO has recognised the festival.",
+            "C": "The Upper Temple has been rebuilt.",
+            "D": "Xoan singing has been added to the festival."
+          },
+          "answer": "A",
+          "explanation": "'Since 2007, the day has been a national public holiday…' UNESCO công nhận năm 2012 (bẫy B)."
+        },
+        {
+          "no": 13,
+          "question": "Who made banh chung and banh giay, according to legend?",
+          "options": {
+            "A": "The first Hung King",
+            "B": "Prince Lang Lieu",
+            "C": "The people of Phu Tho",
+            "D": "Xoan singers"
+          },
+          "answer": "B",
+          "explanation": "'According to legend, Prince Lang Lieu made these cakes for his father…'"
+        },
+        {
+          "no": 14,
+          "question": "Where do people carry offerings during the ceremony?",
+          "options": {
+            "A": "To the house of the Hung Kings",
+            "B": "To a rice cooking contest",
+            "C": "To the centre of Phu Tho city",
+            "D": "To the Upper Temple on Nghia Linh Mountain"
+          },
+          "answer": "D",
+          "explanation": "'…people carry offerings up the steps of Nghia Linh Mountain to the Upper Temple.'"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Open Exam Prep – TOEIC Part 7 Single Passages: Question Types & Strategies",
+      "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "SGGP – Đề thi tiếng Anh vào lớp 10 ở Hà Nội: Dự đoán nhiều điểm 10",
+      "url": "https://www.sggp.org.vn/de-thi-tieng-anh-vao-lop-10-o-ha-noi-du-doan-nhieu-diem-10-post561990.html"
+    }
+  ]
+}

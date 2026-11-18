@@ -1,0 +1,262 @@
+{
+  "material_id": "MAT_SIGN_NOTICE_03",
+  "skill_id": "SK_SIGN_NOTICE",
+  "title": "Đọc hiểu bảng biểu, thông báo phức hợp và tình huống thực tế",
+  "target_level": 3,
+  "summary": "Giúp học sinh khá giỏi xử lý thông báo dài, bảng giá, nhãn sản phẩm có nhiều điều kiện chồng nhau: kết hợp thông tin, tính toán đơn giản và áp dụng quy định vào tình huống cụ thể để tránh bẫy.",
+  "theory": [
+    {
+      "heading": "Đọc bảng biểu và bảng giá",
+      "points": [
+        "Đọc tiêu đề cột/hàng trước để biết bảng so sánh cái gì (giá, giờ, đối tượng).",
+        "Ghi chú dưới bảng (*, Note:) thường chứa điều kiện quan trọng nhất – đề hay hỏi vào đây.",
+        "Câu hỏi tình huống: xác định nhân vật thuộc nhóm nào (tuổi, ngày, giờ) rồi mới tra bảng."
+      ],
+      "examples": [
+        {
+          "en": "Adults 50,000 VND; Students* 30,000 VND. *with a valid student card → A student without a card pays 50,000 VND.",
+          "vi": "Ghi chú dấu * thêm điều kiện: không có thẻ học sinh thì phải trả giá người lớn."
+        }
+      ]
+    },
+    {
+      "heading": "Nhiều điều kiện chồng nhau",
+      "points": [
+        "Liệt kê tất cả điều kiện: thời gian (before/after/until), đối tượng (only/except), số lượng (at least/no more than).",
+        "'no later than 5 p.m.' = trước hoặc đúng 5 p.m.; 'at least two' = từ hai trở lên; 'up to 3' = tối đa 3.",
+        "Một phương án đúng phải thỏa TẤT CẢ điều kiện liên quan; chỉ cần sai một điều kiện là loại."
+      ],
+      "examples": [
+        {
+          "en": "Registration closes on Friday. Teams of 3–5 students. → A team of 6 students cannot register, even on Monday.",
+          "vi": "Đăng ký đúng hạn nhưng đội 6 người vẫn không hợp lệ vì vượt quá giới hạn 3–5 người."
+        }
+      ]
+    },
+    {
+      "heading": "Nhãn sản phẩm và hướng dẫn sử dụng",
+      "points": [
+        "Cụm hay gặp: Best before (dùng tốt nhất trước), Once opened, consume within… (sau khi mở dùng trong…), Store in a cool, dry place (bảo quản nơi khô mát), Keep out of reach of children (để xa tầm tay trẻ em).",
+        "Liều dùng: 'twice a day' (2 lần/ngày), 'after meals' (sau bữa ăn), 'do not exceed' (không vượt quá).",
+        "Câu hỏi suy luận: 'Which person is following the instructions correctly?' → kiểm tra từng người theo từng điều kiện."
+      ],
+      "examples": [
+        {
+          "en": "Once opened, keep in the fridge and use within 3 days. → Opened on Monday, it should be finished by Thursday.",
+          "vi": "Mở thứ Hai, dùng trong 3 ngày → nên dùng hết trước khoảng thứ Năm và phải bảo quản tủ lạnh."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu hỏi tình huống: gạch chân thông tin về nhân vật (tuổi, ngày, giờ, số người) rồi đối chiếu từng điều kiện trên thông báo.",
+    "Luôn đọc phần ghi chú nhỏ (*, Note, Please note) – bẫy phân hóa thường nằm ở đó.",
+    "Cẩn thận với các cặp dễ nhầm: before/by/until, at least/at most, every other day (cách ngày)/every day.",
+    "Nếu phải tính toán (giá, thời gian), viết phép tính ra nháp, đừng nhẩm vội."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Bảng giá vé bảo tàng",
+      "instructions": "Read the notice and choose the best answer (A, B, C or D) for each question.",
+      "passage": "CITY HISTORY MUSEUM – TICKET PRICES\n\nAdults: 40,000 VND\nStudents*: 15,000 VND\nChildren under 6: free\nSenior citizens (60+): 20,000 VND\nGuided tour (in English or Vietnamese): 50,000 VND per group, booked at least 2 days in advance\nCamera ticket: 50,000 VND (no charge for phone cameras)\n\n*Students must show a valid student card. Without a card, the adult price applies.\n\nOpening hours: 8.30 a.m. – 5.30 p.m., Tuesday to Sunday. Last entry: 5 p.m.\nGroups of 20 or more get a 10% discount on entrance tickets.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Nam, aged 15, forgot his student card. How much will he pay to enter?",
+          "options": {
+            "A": "Nothing",
+            "B": "15,000 VND",
+            "C": "20,000 VND",
+            "D": "40,000 VND"
+          },
+          "answer": "D",
+          "explanation": "Ghi chú: '*Students must show a valid student card. Without a card, the adult price applies.' → Nam phải trả giá người lớn 40,000 VND. B là bẫy nếu bỏ qua ghi chú."
+        },
+        {
+          "no": 2,
+          "question": "A family of two adults, one 4-year-old child and a grandmother aged 65 visits the museum. How much do they pay for entrance tickets?",
+          "options": {
+            "A": "80,000 VND",
+            "B": "100,000 VND",
+            "C": "115,000 VND",
+            "D": "120,000 VND"
+          },
+          "answer": "B",
+          "explanation": "2 người lớn × 40,000 = 80,000; trẻ 4 tuổi (dưới 6) miễn phí; bà 65 tuổi (60+) 20,000 → tổng 100,000 VND."
+        },
+        {
+          "no": 3,
+          "question": "Which visitor will NOT be able to enter the museum?",
+          "options": {
+            "A": "Someone arriving at 4.45 p.m. on Sunday",
+            "B": "Someone arriving at 8.30 a.m. on Tuesday",
+            "C": "Someone arriving at 10 a.m. on Monday",
+            "D": "Someone arriving at 4.50 p.m. on Saturday"
+          },
+          "answer": "C",
+          "explanation": "Bảo tàng mở 'Tuesday to Sunday' → thứ Hai đóng cửa. A và D vẫn vào được vì đến trước giờ vào cuối cùng ('Last entry: 5 p.m.')."
+        },
+        {
+          "no": 4,
+          "question": "A class wants a guided tour in English on Friday. What must they do?",
+          "options": {
+            "A": "Book it by Wednesday at the latest",
+            "B": "Book it on Friday morning",
+            "C": "Pay 50,000 VND for each student",
+            "D": "Bring at least 20 students"
+          },
+          "answer": "A",
+          "explanation": "'booked at least 2 days in advance' → tour thứ Sáu phải đặt muộn nhất vào thứ Tư. C sai vì giá '50,000 VND per group'; D nhầm với điều kiện giảm giá 10%."
+        },
+        {
+          "no": 5,
+          "question": "Which statement is TRUE according to the notice?",
+          "options": {
+            "A": "Visitors must pay extra to take photos with their phones.",
+            "B": "Groups of 20 or more pay 10% less for entrance tickets.",
+            "C": "Guided tours are only available in English.",
+            "D": "Senior citizens can enter for free."
+          },
+          "answer": "B",
+          "explanation": "'Groups of 20 or more get a 10% discount on entrance tickets.' A sai ('no charge for phone cameras'); C sai ('in English or Vietnamese'); D sai (người cao tuổi trả 20,000 VND)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Thông báo cuộc thi của trường",
+      "instructions": "Read the notice and choose the best answer (A, B, C or D) for each question.",
+      "passage": "GREEN IDEAS COMPETITION 2026\n\nOpen to: students in Grades 8 and 9\nTeams: 3 to 5 members (all members must be from the same school)\nTask: Design a project to reduce plastic waste at your school. Submit a written plan (no more than 1,000 words) and a 3-minute video.\n\nDeadline: Submit online by 11.59 p.m. on Sunday 15th March. Late entries will not be accepted.\n\nThe ten best teams will present their ideas at the final on 5th April. Each team may bring up to two teachers.\n\nPrizes: 1st prize – 5 million VND and a trip to Cuc Phuong National Park; 2nd and 3rd prizes – 2 million VND each.\nAll finalists receive a certificate.\n\nQuestions? Email greenideas@school.edu.vn (we do not answer phone calls).",
+      "questions": [
+        {
+          "no": 6,
+          "question": "Which team can enter the competition?",
+          "options": {
+            "A": "Four Grade 9 students from two different schools",
+            "B": "Two Grade 8 students from the same school",
+            "C": "Three Grade 7 students from the same school",
+            "D": "Five students in Grades 8 and 9 from the same school"
+          },
+          "answer": "D",
+          "explanation": "Phải thỏa đồng thời: lớp 8–9, 3–5 thành viên, cùng một trường. A sai (khác trường), B sai (chỉ 2 người), C sai (lớp 7). Chỉ D thỏa cả ba điều kiện."
+        },
+        {
+          "no": 7,
+          "question": "What must each team submit?",
+          "options": {
+            "A": "A plan of at least 1,000 words and a video",
+            "B": "A plan of up to 1,000 words and a short video",
+            "C": "Only a 3-minute video",
+            "D": "A video and a presentation at the final"
+          },
+          "answer": "B",
+          "explanation": "'Submit a written plan (no more than 1,000 words) and a 3-minute video.' 'no more than' = tối đa (up to), không phải 'at least' (bẫy A)."
+        },
+        {
+          "no": 8,
+          "question": "A team finishes its entry at 9 a.m. on Monday 16th March. What will happen?",
+          "options": {
+            "A": "Their entry will not be accepted.",
+            "B": "They can still take part in the final.",
+            "C": "They will lose some points.",
+            "D": "They must phone the school to explain."
+          },
+          "answer": "A",
+          "explanation": "Hạn chót '11.59 p.m. on Sunday 15th March. Late entries will not be accepted.' → nộp sáng thứ Hai là trễ, không được nhận. D sai vì ban tổ chức 'do not answer phone calls'."
+        },
+        {
+          "no": 9,
+          "question": "What can be inferred about a team that wins 3rd prize?",
+          "options": {
+            "A": "It will go to Cuc Phuong National Park.",
+            "B": "It will receive 5 million VND.",
+            "C": "It will receive a certificate as well as money.",
+            "D": "It does not need to present at the final."
+          },
+          "answer": "C",
+          "explanation": "Giải ba nhận '2 million VND'; đội đạt giải là đội vào chung kết, mà 'All finalists receive a certificate' → nhận cả tiền và giấy chứng nhận. A, B là phần thưởng của giải nhất."
+        },
+        {
+          "no": 10,
+          "question": "How should students ask questions about the competition?",
+          "options": {
+            "A": "By phoning the school",
+            "B": "By sending an email",
+            "C": "By asking at the final",
+            "D": "By writing to Cuc Phuong National Park"
+          },
+          "answer": "B",
+          "explanation": "'Questions? Email greenideas@school.edu.vn (we do not answer phone calls).'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Nhãn hộp sữa chua",
+      "instructions": "Read the label and choose the best answer (A, B, C or D) for each question.",
+      "passage": "FRESH FRUIT YOGURT – 500 g\n\nIngredients: milk, sugar, strawberries (8%), live cultures.\nContains milk. Not suitable for people with a milk allergy.\n\nStorage: Keep refrigerated at 2–6°C.\nOnce opened, eat within 3 days. Do not freeze.\nBest before: see top of pot.\n\nTip: Stir well before serving. Serve cold.\n\nIf you are not happy with this product, return it with your receipt to the shop where you bought it for a full refund.",
+      "questions": [
+        {
+          "no": 11,
+          "question": "Lan opened the pot on Monday morning. By when should she finish it?",
+          "options": {
+            "A": "Monday evening",
+            "B": "Thursday morning",
+            "C": "The date on the top of the pot, even if that is next month",
+            "D": "Next Monday"
+          },
+          "answer": "B",
+          "explanation": "'Once opened, eat within 3 days.' Mở sáng thứ Hai → dùng hết trong vòng 3 ngày, tức khoảng sáng thứ Năm. Hạn 'Best before' chỉ áp dụng khi chưa mở (bẫy C)."
+        },
+        {
+          "no": 12,
+          "question": "Which person is following the label correctly?",
+          "options": {
+            "A": "Hoa keeps the yogurt in the freezer to make it last longer.",
+            "B": "Minh, who is allergic to milk, eats it for breakfast.",
+            "C": "Lan keeps the yogurt in the fridge and stirs it before eating.",
+            "D": "Tuan leaves the yogurt on the kitchen table overnight."
+          },
+          "answer": "C",
+          "explanation": "'Keep refrigerated' và 'Stir well before serving' → C đúng. A vi phạm 'Do not freeze'; B vi phạm 'Not suitable for people with a milk allergy'; D vi phạm việc bảo quản 2–6°C."
+        },
+        {
+          "no": 13,
+          "question": "What does the label say about getting your money back?",
+          "options": {
+            "A": "You can get a full refund if you bring the receipt to the shop.",
+            "B": "You can get money back only if the yogurt is not opened.",
+            "C": "You must send the pot to the factory.",
+            "D": "Refunds are not possible."
+          },
+          "answer": "A",
+          "explanation": "'return it with your receipt to the shop where you bought it for a full refund.' B thêm điều kiện không có trên nhãn; C sai nơi trả lại."
+        },
+        {
+          "no": 14,
+          "question": "The phrase \"Not suitable for\" on the label is closest in meaning to ______.",
+          "options": {
+            "A": "not cheap for",
+            "B": "not available for",
+            "C": "not delicious for",
+            "D": "not right for"
+          },
+          "answer": "D",
+          "explanation": "'suitable' = phù hợp; 'Not suitable for people with a milk allergy' = không phù hợp cho người dị ứng sữa → 'not right for'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Open Exam Prep – Cambridge A2 Key for Schools Reading Part 1: Notices, Signs, Text Messages",
+      "url": "https://open-exam-prep.com/study-guides/cambridge-a2-key-schools/reading-comprehension/reading-part-1-short-texts"
+    },
+    {
+      "title": "Open Exam Prep – TOEIC Part 7 Single Passages: Question Types & Strategies",
+      "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

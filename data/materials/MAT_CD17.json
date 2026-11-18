@@ -1,0 +1,279 @@
+{
+  "material_id": "MAT_CD17",
+  "skill_id": "SK_VERB_FORMS",
+  "title": "Chuyên đề Dạng của động từ",
+  "target_level": 2,
+  "summary": "Tổng hợp ba dạng động từ To-inf, V-ing và Bare-inf: động từ đi kèm, cấu trúc với tân ngữ (ask/make/let), cụm cố định (look forward to, have trouble, prefer ... to ...) để làm chắc các câu chọn dạng động từ và tìm lỗi sai trong đề thi vào 10.",
+  "theory": [
+    {
+      "heading": "To-infinitive",
+      "points": [
+        "Sau các động từ: want, decide, hope, plan, agree, refuse, promise, manage, learn, afford, offer, seem, pretend + to V.",
+        "V + O + to V: ask, tell, want, invite, advise, encourage, allow, remind, persuade + sb + to V.",
+        "It + be + adj + (for sb) + to V; too + adj + to V; adj + enough + to V.",
+        "Chỉ mục đích: (in order) to V. Sau từ để hỏi: know how/what/where + to V."
+      ],
+      "examples": [
+        {
+          "en": "The teacher encouraged us to read more English books.",
+          "vi": "Cô giáo khuyến khích chúng tôi đọc nhiều sách tiếng Anh hơn."
+        },
+        {
+          "en": "It is important for teenagers to get enough sleep.",
+          "vi": "Ngủ đủ giấc rất quan trọng đối với thanh thiếu niên."
+        }
+      ]
+    },
+    {
+      "heading": "V-ing (Gerund)",
+      "points": [
+        "Sau: enjoy, avoid, mind, finish, suggest, consider, practise, miss, keep, deny, admit, delay, risk, can't help, can't stand, give up.",
+        "Sau mọi giới từ: be good at, be keen on, be used to, look forward to, object to, instead of, without + V-ing.",
+        "Cụm cố định: have trouble/difficulty (in) + V-ing; spend time/money + V-ing; it's no use/no good + V-ing; be worth + V-ing; feel like + V-ing.",
+        "prefer V-ing to V-ing = would rather V than V; V-ing làm chủ ngữ: Swimming is good for health."
+      ],
+      "examples": [
+        {
+          "en": "I'm looking forward to seeing you again.",
+          "vi": "Tôi rất mong được gặp lại bạn."
+        },
+        {
+          "en": "Many students have trouble getting up early.",
+          "vi": "Nhiều học sinh gặp khó khăn khi dậy sớm."
+        }
+      ]
+    },
+    {
+      "heading": "Bare infinitive (V nguyên mẫu không 'to')",
+      "points": [
+        "Sau động từ khuyết thiếu: can, could, will, should, must, may, might + V.",
+        "Sau had better, would rather: You'd better stay at home.",
+        "make / let / have + sb + V: My mum made me tidy my room.",
+        "Bị động của make: be made + to V (He was made to apologise)."
+      ],
+      "examples": [
+        {
+          "en": "My parents let me go to the cinema on Saturdays.",
+          "vi": "Bố mẹ cho phép tôi đi xem phim vào thứ Bảy."
+        },
+        {
+          "en": "You had better wear a helmet when riding a motorbike.",
+          "vi": "Bạn nên đội mũ bảo hiểm khi đi xe máy."
+        }
+      ]
+    },
+    {
+      "heading": "Phân biệt 'to' là giới từ và 'to' của động từ nguyên mẫu",
+      "points": [
+        "look forward to, be/get used to, object to, be committed to, when it comes to: 'to' là giới từ → + V-ing.",
+        "used to + V (thói quen trong quá khứ) khác be used to + V-ing (quen với)."
+      ],
+      "examples": [
+        {
+          "en": "She is used to living in a big city now.",
+          "vi": "Bây giờ cô ấy đã quen sống ở thành phố lớn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định từ đứng ngay trước chỗ trống: modal/make/let → V; giới từ → V-ing; động từ trong danh sách 'to V' → to V.",
+    "Gặp 'to' trước chỗ trống, tự hỏi: đây là giới từ cố định (look forward to, be used to) hay to-infinitive?",
+    "Cấu trúc 'prefer A to B' yêu cầu hai vế song song: prefer V-ing to V-ing.",
+    "Với dạng tìm lỗi sai, kiểm tra trước tiên các động từ ngay sau suggest, avoid, let, make, look forward to."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The doctor advised my father ______ more exercise.",
+          "options": {
+            "A": "do",
+            "B": "doing",
+            "C": "to do",
+            "D": "done"
+          },
+          "answer": "C",
+          "explanation": "advise + sb + to V → advised my father to do."
+        },
+        {
+          "no": 2,
+          "question": "My mother made me ______ the dishes after dinner.",
+          "options": {
+            "A": "washed",
+            "B": "to wash",
+            "C": "washing",
+            "D": "wash"
+          },
+          "answer": "D",
+          "explanation": "make + sb + V (nguyên mẫu không to) → made me wash."
+        },
+        {
+          "no": 3,
+          "question": "We are looking forward to ______ our pen friends in Australia.",
+          "options": {
+            "A": "met",
+            "B": "be met",
+            "C": "meet",
+            "D": "meeting"
+          },
+          "answer": "D",
+          "explanation": "'look forward to' – 'to' là giới từ → + V-ing: meeting."
+        },
+        {
+          "no": 4,
+          "question": "Many people have trouble ______ asleep because they use their phones late at night.",
+          "options": {
+            "A": "fall",
+            "B": "to fall",
+            "C": "fell",
+            "D": "falling"
+          },
+          "answer": "D",
+          "explanation": "have trouble + V-ing → falling asleep."
+        },
+        {
+          "no": 5,
+          "question": "You had better ______ an umbrella. It's going to rain.",
+          "options": {
+            "A": "take",
+            "B": "to take",
+            "C": "took",
+            "D": "taking"
+          },
+          "answer": "A",
+          "explanation": "had better + V nguyên mẫu không to → take."
+        },
+        {
+          "no": 6,
+          "question": "It's no use ______ about the past. Let's think about the future.",
+          "options": {
+            "A": "worried",
+            "B": "to worry",
+            "C": "worry",
+            "D": "worrying"
+          },
+          "answer": "D",
+          "explanation": "It's no use + V-ing → worrying."
+        },
+        {
+          "no": 7,
+          "question": "She spent the whole afternoon ______ for her lost keys.",
+          "options": {
+            "A": "looking",
+            "B": "to look",
+            "C": "looked",
+            "D": "look"
+          },
+          "answer": "A",
+          "explanation": "spend time + V-ing → spent the afternoon looking."
+        },
+        {
+          "no": 8,
+          "question": "The museum is really worth ______. You should go there.",
+          "options": {
+            "A": "to visit",
+            "B": "visiting",
+            "C": "visit",
+            "D": "visited"
+          },
+          "answer": "B",
+          "explanation": "be worth + V-ing → worth visiting."
+        },
+        {
+          "no": 9,
+          "question": "The film was too boring for us ______ to the end.",
+          "options": {
+            "A": "watch",
+            "B": "watched",
+            "C": "to watch",
+            "D": "watching"
+          },
+          "answer": "C",
+          "explanation": "too + adj + (for sb) + to V → too boring for us to watch."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đúng / tìm cách diễn đạt đúng",
+      "instructions": "Choose the sentence that is correct or closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "Choose the correct version of the sentence: 'I prefer reading books to watch TV in my free time.'",
+          "options": {
+            "A": "I prefer to read books to watching TV in my free time.",
+            "B": "I prefer reading books to watching TV in my free time.",
+            "C": "I prefer read books to watch TV in my free time.",
+            "D": "I prefer reading books than watching TV in my free time."
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc prefer V-ing to V-ing (hai vế song song). A không song song; C sai dạng; D dùng 'than' thay vì 'to'."
+        },
+        {
+          "no": 11,
+          "question": "My parents allowed me to stay up late on New Year's Eve.",
+          "options": {
+            "A": "My parents let me to stay up late on New Year's Eve.",
+            "B": "My parents let me staying up late on New Year's Eve.",
+            "C": "My parents let me stay up late on New Year's Eve.",
+            "D": "My parents made me stay up late on New Year's Eve."
+          },
+          "answer": "C",
+          "explanation": "allow sb to V = let sb V (không to). A, B sai dạng; D 'made' nghĩa là bắt buộc nên sai nghĩa."
+        },
+        {
+          "no": 12,
+          "question": "Choose the sentence that is grammatically correct.",
+          "options": {
+            "A": "She suggested us to go camping at the weekend.",
+            "B": "She suggested to go camping at the weekend.",
+            "C": "She suggested going camping at the weekend.",
+            "D": "She suggested go camping at the weekend."
+          },
+          "answer": "C",
+          "explanation": "suggest + V-ing (hoặc suggest that + S + V). Không dùng suggest + to V hay suggest + sb + to V."
+        },
+        {
+          "no": 13,
+          "question": "Learning a foreign language is not easy.",
+          "options": {
+            "A": "It is not easy to learn a foreign language.",
+            "B": "It is not easy learn a foreign language.",
+            "C": "It is not easy for learning a foreign language.",
+            "D": "It is easy not learning a foreign language."
+          },
+          "answer": "A",
+          "explanation": "V-ing làm chủ ngữ ↔ It + be + adj + to V. B thiếu 'to'; C sai cấu trúc; D sai nghĩa."
+        },
+        {
+          "no": 14,
+          "question": "He is used to ______ up early because he works on a farm.",
+          "options": {
+            "A": "be getting",
+            "B": "getting",
+            "C": "got",
+            "D": "get"
+          },
+          "answer": "B",
+          "explanation": "be used to + V-ing (quen với việc) → getting. 'to' ở đây là giới từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Verbs followed by '-ing' or infinitive",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/verbs-followed-ing-or-infinitive"
+    },
+    {
+      "title": "British Council LearnEnglish – Verbs followed by '-ing' or infinitive to change meaning",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/verbs-followed-ing-or-infinitive-change-meaning"
+    }
+  ]
+}

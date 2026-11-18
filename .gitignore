@@ -1,0 +1,35 @@
+# Repo chỉ chứa phần web: backend, frontend, dữ liệu mẫu.
+# Tài liệu khóa luận, phiếu đánh giá của giáo viên và bản thiết kế chỉ lưu trên máy.
+thesis/
+docs/
+design/
+backend/compare_rules.py
+frontend/scripts/render-diagrams.mjs
+frontend/scripts/render-svg.mjs
+frontend/scripts/screenshot.mjs
+
+# Thư viện cài lại được (uv sync / npm install)
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+
+# CSDL tạo tự động từ CSV ở lần chạy đầu; dữ liệu chạy, bản sao lưu, bản xuất
+data/kltn.sqlite
+data/runtime/
+data/backup/
+data/export/
+
+# Ghi chú, công cụ và cấu hình cá nhân trên máy, hệ điều hành
+context-log.md
+watermarks-remover/
+.claude/
+.mcp.json
+.DS_Store
+~$*

@@ -1,0 +1,232 @@
+{
+  "material_id": "MAT_CD28",
+  "skill_id": "SK_READING_SKILLS",
+  "title": "Chuyên đề Luyện tập kĩ năng đọc hiểu",
+  "target_level": 3,
+  "summary": "Chuyên đề tổng hợp giúp học sinh khá giỏi xử lý trọn vẹn một bài đọc hiểu mức phân hóa: suy luận, mục đích tác giả, thái độ, kỹ thuật viết và các bẫy diễn đạt lại, hướng tới điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Câu hỏi suy luận (inference)",
+      "points": [
+        "Dấu hiệu: 'It can be inferred that…', 'What does the writer suggest/imply…', 'Which is probably true…'.",
+        "Đáp án KHÔNG có nguyên văn trong bài nhưng phải được chứng minh bằng một hoặc hai câu cụ thể.",
+        "Loại phương án: (1) mâu thuẫn với bài; (2) phóng đại (all, always, never, only); (3) thêm ý ngoài bài dù nghe hợp lý ngoài đời."
+      ],
+      "examples": [
+        {
+          "en": "Text: 'Tickets sold out within an hour.' → Inference: The event was very popular.",
+          "vi": "Vé bán hết trong một giờ → suy ra sự kiện rất được quan tâm, dù bài không nói thẳng 'popular'."
+        }
+      ]
+    },
+    {
+      "heading": "Mục đích, kỹ thuật và thái độ của tác giả",
+      "points": [
+        "Mục đích: to inform (cung cấp thông tin), to persuade (thuyết phục), to compare (so sánh), to warn (cảnh báo), to give an example (minh họa).",
+        "Kỹ thuật viết (đề Hà Nội 2025 có hỏi): tác giả dùng ví dụ, số liệu, so sánh, trích lời chuyên gia… để giải thích thêm.",
+        "Thái độ: chú ý tính từ, trạng từ đánh giá (unfortunately, surprisingly, wisely) và câu kết của bài."
+      ],
+      "examples": [
+        {
+          "en": "Surprisingly, the smallest school collected the most plastic bottles.",
+          "vi": "'Surprisingly' cho thấy tác giả ngạc nhiên; chi tiết này dùng để nhấn mạnh quy mô nhỏ không cản trở thành tích."
+        }
+      ]
+    },
+    {
+      "heading": "Bẫy diễn đạt lại và bẫy phạm vi",
+      "points": [
+        "Bẫy đổi chiều nguyên nhân – kết quả: bài nói A dẫn đến B, phương án nói B dẫn đến A.",
+        "Bẫy đổi chủ thể: thông tin đúng nhưng gán cho người/nhóm khác.",
+        "Bẫy thời gian: bài nói 'used to' hoặc 'will', phương án dùng thì hiện tại như sự thật đang diễn ra.",
+        "Bẫy mức độ: 'some/many' trong bài bị đổi thành 'all/most' trong phương án."
+      ],
+      "examples": [
+        {
+          "en": "Text: 'Some farmers have switched to drones.' – Wrong option: 'Farmers now use drones instead of workers.'",
+          "vi": "Bài chỉ nói 'một số nông dân'; phương án khái quát cho mọi nông dân → sai do phóng đại phạm vi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Mỗi phương án suy luận phải tìm được 'câu chứng cứ'; không tìm được thì loại, dù nghe có lý.",
+    "Gặp từ tuyệt đối (all, always, never, completely, only) trong phương án, hãy kiểm tra thật kỹ vì thường là bẫy.",
+    "Câu hỏi 'Why does the writer mention X?' → đọc câu đứng trước X: X thường là ví dụ minh họa cho câu đó.",
+    "Câu hỏi về thái độ/kết luận của tác giả → đọc kỹ đoạn cuối, nơi tác giả thường bày tỏ quan điểm."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc hiểu nâng cao: Nông nghiệp thông minh",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "For generations, rice farmers in the Mekong Delta have relied on experience to decide when to water, fertilise or harvest their fields. Today, a growing number of them are turning to technology for help. Small sensors placed in the soil measure moisture and send the data to farmers' phones, telling them exactly when the fields need water.\n\nThe results can be impressive. In one pilot project, farmers who used the sensors cut their water use by nearly a third, while their harvests stayed the same. Drones, which can spray an entire hectare in about ten minutes, also reduce the time farmers spend in contact with chemicals.\n\nYet the technology is far from universal. A set of sensors costs more than many small farmers earn in a month, and older farmers are often unsure how to read the data. Some cooperatives have solved this problem by buying the equipment together and asking younger members to teach the others.\n\nSmart farming will not replace the knowledge passed down by previous generations. Instead, it works best when the two are combined: the machine reports what is happening, and the farmer decides what it means.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following best expresses the main idea of the passage?",
+          "options": {
+            "A": "Technology is helpful to rice farmers but works best together with their experience.",
+            "B": "Drones have completely replaced traditional farming in the Mekong Delta.",
+            "C": "Older farmers refuse to use any kind of technology.",
+            "D": "Sensors are too expensive to be useful for farmers."
+          },
+          "answer": "A",
+          "explanation": "Bài nêu lợi ích (đoạn 2), hạn chế (đoạn 3) và kết luận 'it works best when the two are combined' (đoạn 4) → A. B phóng đại ('completely replaced'), C sai ('often unsure' ≠ 'refuse'), D chỉ là một ý nhỏ và trái với đoạn 2."
+        },
+        {
+          "no": 2,
+          "question": "Why does the writer mention the pilot project in paragraph 2?",
+          "options": {
+            "A": "To show that sensors are difficult to use",
+            "B": "To give evidence that the technology can save resources",
+            "C": "To compare farming in Viet Nam with other countries",
+            "D": "To explain how drones spray chemicals"
+          },
+          "answer": "B",
+          "explanation": "Câu chủ đề đoạn 2: 'The results can be impressive.' Dự án thí điểm là số liệu chứng minh: 'cut their water use by nearly a third, while their harvests stayed the same' → minh chứng công nghệ tiết kiệm tài nguyên."
+        },
+        {
+          "no": 3,
+          "question": "It can be inferred from paragraph 2 that drones ______.",
+          "options": {
+            "A": "make rice grow faster",
+            "B": "are cheaper than sensors",
+            "C": "can protect farmers' health",
+            "D": "use less water than people"
+          },
+          "answer": "C",
+          "explanation": "'Drones… also reduce the time farmers spend in contact with chemicals.' Ít tiếp xúc hóa chất → suy ra bảo vệ sức khỏe nông dân. A, B, D không có cơ sở trong bài."
+        },
+        {
+          "no": 4,
+          "question": "The word \"universal\" in paragraph 3 is closest in meaning to ______.",
+          "options": {
+            "A": "expensive",
+            "B": "modern",
+            "C": "difficult",
+            "D": "used everywhere"
+          },
+          "answer": "D",
+          "explanation": "'the technology is far from universal' rồi giải thích chi phí cao và người lớn tuổi khó dùng → công nghệ chưa được dùng rộng rãi. universal ≈ used everywhere."
+        },
+        {
+          "no": 5,
+          "question": "How have some cooperatives dealt with the problems mentioned in paragraph 3?",
+          "options": {
+            "A": "By asking the government to pay for sensors",
+            "B": "By sharing the cost and having young members train others",
+            "C": "By hiring experts from the city",
+            "D": "By returning to traditional methods only"
+          },
+          "answer": "B",
+          "explanation": "'Some cooperatives have solved this problem by buying the equipment together and asking younger members to teach the others.' → cùng góp tiền mua và nhờ thành viên trẻ hướng dẫn."
+        },
+        {
+          "no": 6,
+          "question": "What is the writer's attitude towards smart farming in the last paragraph?",
+          "options": {
+            "A": "Completely negative",
+            "B": "Uninterested",
+            "C": "Balanced and positive",
+            "D": "Worried and angry"
+          },
+          "answer": "C",
+          "explanation": "Tác giả khẳng định công nghệ hữu ích nhưng 'will not replace the knowledge… it works best when the two are combined' → thái độ cân bằng, tích cực. Không có từ ngữ tiêu cực hay giận dữ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc hiểu nâng cao: Du lịch có trách nhiệm",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "Sa Pa has changed dramatically over the last twenty years. Once a quiet mountain town, it now welcomes millions of visitors annually. New hotels line the main streets, and a cable car carries tourists to the top of Fansipan in about fifteen minutes, a journey that used to take two or three days on foot.\n\nTourism has brought jobs and better roads, but local people have also noticed its costs. Rubbish piles up near popular viewpoints, and some terraced rice fields have been turned into car parks. In certain villages, children skip school to sell souvenirs to tourists, earning money that their families depend on.\n\nResponsible tourism tries to protect what makes a place special. Travellers are encouraged to stay in homestays run by ethnic minority families, hire local guides, and buy handicrafts directly from the people who make them. In this way, more of the money stays in the community.\n\nNot everyone agrees that this is enough. Some researchers argue that the number of visitors itself must be limited. Others believe education is the key: if tourists understand the culture, they will behave more respectfully.",
+      "questions": [
+        {
+          "no": 7,
+          "question": "Why does the writer mention the cable car in paragraph 1?",
+          "options": {
+            "A": "To show how much Sa Pa has changed",
+            "B": "To advise tourists to walk instead",
+            "C": "To complain about the price of tickets",
+            "D": "To explain why Fansipan is dangerous"
+          },
+          "answer": "A",
+          "explanation": "Câu chủ đề 'Sa Pa has changed dramatically…'; cáp treo 15 phút so với 'two or three days on foot' trước kia là ví dụ minh họa cho sự thay đổi."
+        },
+        {
+          "no": 8,
+          "question": "According to paragraph 2, why do some children skip school?",
+          "options": {
+            "A": "Because their schools are too far away",
+            "B": "Because they want to practise English",
+            "C": "Because tourists ask them to be guides",
+            "D": "Because their families need the money they earn"
+          },
+          "answer": "D",
+          "explanation": "'children skip school to sell souvenirs to tourists, earning money that their families depend on.' → gia đình phụ thuộc vào khoản tiền đó."
+        },
+        {
+          "no": 9,
+          "question": "The word \"its\" in paragraph 2 refers to ______.",
+          "options": {
+            "A": "Sa Pa's",
+            "B": "tourism's",
+            "C": "the cable car's",
+            "D": "the road's"
+          },
+          "answer": "B",
+          "explanation": "'Tourism has brought jobs and better roads, but local people have also noticed its costs.' – mặt trái (costs) đối lập với lợi ích mà du lịch mang lại, nên 'its' = tourism's."
+        },
+        {
+          "no": 10,
+          "question": "Which of the following is NOT suggested as a way to travel responsibly?",
+          "options": {
+            "A": "Staying with local families",
+            "B": "Using local guides",
+            "C": "Taking the cable car instead of walking",
+            "D": "Buying crafts straight from their makers"
+          },
+          "answer": "C",
+          "explanation": "Đoạn 3 nêu 'stay in homestays run by ethnic minority families' (A), 'hire local guides' (B), 'buy handicrafts directly from the people who make them' (D). Cáp treo chỉ xuất hiện ở đoạn 1 như ví dụ thay đổi, không phải lời khuyên → C."
+        },
+        {
+          "no": 11,
+          "question": "It can be inferred from paragraph 3 that when tourists buy from middlemen, ______.",
+          "options": {
+            "A": "local makers receive less of the money",
+            "B": "the handicrafts are of better quality",
+            "C": "the prices are always lower",
+            "D": "tourists learn more about the culture"
+          },
+          "answer": "A",
+          "explanation": "Bài nói mua trực tiếp từ người làm thì 'more of the money stays in the community' → ngược lại, mua qua trung gian thì người làm nghề nhận ít tiền hơn. B, C, D không có căn cứ."
+        },
+        {
+          "no": 12,
+          "question": "What can be concluded from the last paragraph?",
+          "options": {
+            "A": "All researchers agree that education is enough.",
+            "B": "The government has already limited the number of visitors.",
+            "C": "There is still disagreement about how to solve the problem.",
+            "D": "Tourists in Sa Pa always behave respectfully."
+          },
+          "answer": "C",
+          "explanation": "'Not everyone agrees… Some researchers argue… Others believe…' → các ý kiến còn khác nhau. A trái với 'Not everyone agrees'; B bài chỉ nói 'must be limited' (đề xuất), chưa thực hiện; D không có căn cứ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "Open Exam Prep – TOEIC Part 7 Single Passages: Question Types & Strategies",
+      "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies"
+    },
+    {
+      "title": "Open Exam Prep – Main Idea, Title Selection, and Author's Purpose",
+      "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "material_id": "MAT_CD01",
+  "skill_id": "SK_PHON_PRON",
+  "title": "Chuyên đề Phát âm",
+  "target_level": 1,
+  "summary": "Hệ thống lại các quy tắc phát âm nền tảng (đuôi -ed, đuôi -s/-es, các nguyên âm và phụ âm hay gặp) để học sinh chọn đúng từ có phần gạch chân phát âm khác trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Phát âm đuôi -ed",
+      "points": [
+        "/ɪd/: động từ gốc tận cùng bằng âm /t/ hoặc /d/ (wanted, needed, decided).",
+        "/t/: động từ gốc tận cùng bằng âm vô thanh /p/, /k/, /f/, /s/, /ʃ/, /tʃ/, /θ/ (stopped, looked, laughed, missed, washed, watched).",
+        "/d/: các trường hợp còn lại, tức tận cùng bằng nguyên âm hoặc phụ âm hữu thanh (played, cleaned, lived, opened).",
+        "Xét theo ÂM cuối chứ không theo CHỮ cuối: laugh kết thúc bằng chữ \"gh\" nhưng âm là /f/ nên laughed đọc /t/."
+      ],
+      "examples": [
+        {
+          "en": "She stopped /stɒpt/ the car and waited /ˈweɪtɪd/ for us.",
+          "vi": "Cô ấy dừng xe và đợi chúng tôi."
+        },
+        {
+          "en": "We played /pleɪd/ football after school.",
+          "vi": "Chúng tôi chơi bóng đá sau giờ học."
+        }
+      ]
+    },
+    {
+      "heading": "Phát âm đuôi -s/-es",
+      "points": [
+        "/ɪz/: từ gốc tận cùng bằng âm /s/, /z/, /ʃ/, /tʃ/, /dʒ/, /ʒ/ (buses, roses, washes, watches, changes).",
+        "/s/: từ gốc tận cùng bằng âm vô thanh /p/, /t/, /k/, /f/, /θ/ (maps, cats, books, laughs, months).",
+        "/z/: các trường hợp còn lại (dogs, pens, plays, trees)."
+      ],
+      "examples": [
+        {
+          "en": "There are two buses /ˈbʌsɪz/ and three cars /kɑːz/ in front of the school.",
+          "vi": "Có hai xe buýt và ba ô tô trước cổng trường."
+        },
+        {
+          "en": "He reads many books /bʊks/ every month.",
+          "vi": "Mỗi tháng anh ấy đọc nhiều sách."
+        }
+      ]
+    },
+    {
+      "heading": "Một số nguyên âm hay ra đề",
+      "points": [
+        "\"a\": /eɪ/ trong name, cake, table; /æ/ trong hat, map, black.",
+        "\"oo\": thường /uː/ (food, moon, school) nhưng /ʊ/ trong good, book, foot, wood.",
+        "\"ea\": /iː/ (meat, teach, sea) hoặc /e/ (bread, head, heavy, weather).",
+        "\"ou\": /aʊ/ (house, mouth, cloud) hoặc /ʌ/ (country, young, cousin, touch).",
+        "\"o\": /əʊ/ (home, open, close) hoặc /ʌ/ (come, love, money, mother).",
+        "\"i\": /aɪ/ (ride, kind, fine) hoặc /ɪ/ (give, live, sit, river)."
+      ],
+      "examples": [
+        {
+          "en": "My cousin /ˈkʌzn/ lives in a big house /haʊs/ in the country /ˈkʌntri/.",
+          "vi": "Anh họ tôi sống trong một ngôi nhà lớn ở nông thôn."
+        },
+        {
+          "en": "This food /fuːd/ is very good /ɡʊd/.",
+          "vi": "Món ăn này rất ngon."
+        }
+      ]
+    },
+    {
+      "heading": "Một số phụ âm hay ra đề",
+      "points": [
+        "\"ch\": thường /tʃ/ (chair, cheap, church); /k/ trong school, chemistry, stomach, headache; /ʃ/ trong machine, chef.",
+        "\"th\": /θ/ (think, thank, three, month) hoặc /ð/ (this, that, mother, weather).",
+        "\"c\": /s/ khi đứng trước e, i, y (city, cinema, centre); /k/ khi đứng trước a, o, u (camera, cold, cup).",
+        "\"g\": /dʒ/ thường trước e, i, y (giant, energy) và /ɡ/ trước a, o, u (game, go)."
+      ],
+      "examples": [
+        {
+          "en": "We think /θɪŋk/ this /ðɪs/ city /ˈsɪti/ is beautiful.",
+          "vi": "Chúng tôi nghĩ thành phố này rất đẹp."
+        },
+        {
+          "en": "The school /skuːl/ has a new chair /tʃeə/ in every classroom.",
+          "vi": "Trường có ghế mới ở mỗi lớp học."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc thầm từng từ, chú ý ÂM chứ không phải CHỮ cái. Ví dụ laugh có chữ cuối \"gh\" nhưng âm cuối là /f/.",
+    "Với đuôi -ed và -s/-es, xác định âm cuối của từ gốc trước rồi áp quy tắc. Đây là dạng câu dễ lấy điểm nhất.",
+    "Tìm \"từ lạ\" trong nhóm: thường ba từ theo quy tắc chung, một từ là ngoại lệ (good, country, school...). Hãy học thuộc các ngoại lệ phổ biến.",
+    "Nếu phân vân, ghi phiên âm phần gạch chân của cả 4 từ ra nháp rồi so sánh, đừng chọn theo cảm giác."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Phát âm đuôi -ed và -s/-es",
+      "instructions": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): watchED, playED, stoppED, laughED",
+          "options": {
+            "A": "watchED",
+            "B": "playED",
+            "C": "stoppED",
+            "D": "laughED"
+          },
+          "answer": "B",
+          "explanation": "playED /pleɪd/ đọc /d/ vì \"play\" tận cùng bằng nguyên âm. Các từ còn lại đọc /t/: stopped /stɒpt/, watched /wɒtʃt/, laughed /lɑːft/ (âm cuối /p/, /tʃ/, /f/ là âm vô thanh)."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): cleanED, wantED, decidED, needED",
+          "options": {
+            "A": "cleanED",
+            "B": "wantED",
+            "C": "decidED",
+            "D": "needED"
+          },
+          "answer": "A",
+          "explanation": "cleaned /kliːnd/ đọc /d/. Các từ còn lại tận cùng bằng /t/ hoặc /d/ nên đọc /ɪd/: wanted /ˈwɒntɪd/, needed /ˈniːdɪd/, decided /dɪˈsaɪdɪd/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): fixED, arrivED, listenED, openED",
+          "options": {
+            "A": "fixED",
+            "B": "arrivED",
+            "C": "listenED",
+            "D": "openED"
+          },
+          "answer": "A",
+          "explanation": "fixed /fɪkst/ đọc /t/ vì \"fix\" tận cùng bằng âm /s/ (x = /ks/). Các từ còn lại đọc /d/: arrived /əˈraɪvd/, opened /ˈəʊpənd/, listened /ˈlɪsnd/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): mapS, dogS, bookS, catS",
+          "options": {
+            "A": "mapS",
+            "B": "dogS",
+            "C": "bookS",
+            "D": "catS"
+          },
+          "answer": "B",
+          "explanation": "dogs /dɒɡz/ đọc /z/ vì /ɡ/ là âm hữu thanh. Các từ còn lại đọc /s/ vì tận cùng bằng âm vô thanh: books /bʊks/, maps /mæps/, cats /kæts/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): boxES, watchES, busES, playS",
+          "options": {
+            "A": "boxES",
+            "B": "watchES",
+            "C": "busES",
+            "D": "playS"
+          },
+          "answer": "D",
+          "explanation": "plays /pleɪz/ đọc /z/. Các từ còn lại đọc /ɪz/ vì tận cùng bằng /tʃ/, /s/: watches /ˈwɒtʃɪz/, boxes /ˈbɒksɪz/, buses /ˈbʌsɪz/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): roofS, laughS, monthS, penS",
+          "options": {
+            "A": "roofS",
+            "B": "laughS",
+            "C": "monthS",
+            "D": "penS"
+          },
+          "answer": "D",
+          "explanation": "pens /penz/ đọc /z/. Các từ còn lại tận cùng bằng âm vô thanh /θ/, /f/ nên đọc /s/: months /mʌnθs/, laughs /lɑːfs/, roofs /ruːfs/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Nguyên âm và phụ âm",
+      "instructions": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): nAme, cAke, hAt, tAble",
+          "options": {
+            "A": "nAme",
+            "B": "cAke",
+            "C": "hAt",
+            "D": "tAble"
+          },
+          "answer": "C",
+          "explanation": "hat /hæt/ có \"a\" đọc /æ/. Các từ còn lại đọc /eɪ/: name /neɪm/, table /ˈteɪbl/, cake /keɪk/."
+        },
+        {
+          "no": 8,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): gOOd, mOOn, schOOl, fOOd",
+          "options": {
+            "A": "gOOd",
+            "B": "mOOn",
+            "C": "schOOl",
+            "D": "fOOd"
+          },
+          "answer": "A",
+          "explanation": "good /ɡʊd/ có \"oo\" đọc /ʊ/. Các từ còn lại đọc /uː/: food /fuːd/, moon /muːn/, school /skuːl/."
+        },
+        {
+          "no": 9,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): hEAvy, brEAd, mEAt, hEAd",
+          "options": {
+            "A": "hEAvy",
+            "B": "brEAd",
+            "C": "mEAt",
+            "D": "hEAd"
+          },
+          "answer": "C",
+          "explanation": "meat /miːt/ có \"ea\" đọc /iː/. Các từ còn lại đọc /e/: bread /bred/, head /hed/, heavy /ˈhevi/."
+        },
+        {
+          "no": 10,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): hOUse, mOUth, clOUd, cOUntry",
+          "options": {
+            "A": "hOUse",
+            "B": "mOUth",
+            "C": "clOUd",
+            "D": "cOUntry"
+          },
+          "answer": "D",
+          "explanation": "country /ˈkʌntri/ có \"ou\" đọc /ʌ/. Các từ còn lại đọc /aʊ/: house /haʊs/, mouth /maʊθ/, cloud /klaʊd/."
+        },
+        {
+          "no": 11,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): CHurch, CHeap, sCHool, CHair",
+          "options": {
+            "A": "CHurch",
+            "B": "CHeap",
+            "C": "sCHool",
+            "D": "CHair"
+          },
+          "answer": "C",
+          "explanation": "school /skuːl/ có \"ch\" đọc /k/. Các từ còn lại đọc /tʃ/: chair /tʃeə/, church /tʃɜːtʃ/, cheap /tʃiːp/."
+        },
+        {
+          "no": 12,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): THis, THank, THree, THink",
+          "options": {
+            "A": "THis",
+            "B": "THank",
+            "C": "THree",
+            "D": "THink"
+          },
+          "answer": "A",
+          "explanation": "this /ðɪs/ có \"th\" đọc /ð/. Các từ còn lại đọc /θ/: think /θɪŋk/, thank /θæŋk/, three /θriː/."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): rIde, gIve, fIne, kInd",
+          "options": {
+            "A": "rIde",
+            "B": "gIve",
+            "C": "fIne",
+            "D": "kInd"
+          },
+          "answer": "B",
+          "explanation": "give /ɡɪv/ có \"i\" đọc /ɪ/. Các từ còn lại đọc /aɪ/: ride /raɪd/, kind /kaɪnd/, fine /faɪn/."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): clOse, Open, cOme, hOme",
+          "options": {
+            "A": "clOse",
+            "B": "Open",
+            "C": "cOme",
+            "D": "hOme"
+          },
+          "answer": "C",
+          "explanation": "come /kʌm/ có \"o\" đọc /ʌ/. Các từ còn lại đọc /əʊ/: home /həʊm/, close /kləʊz/, open /ˈəʊpən/."
+        },
+        {
+          "no": 15,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): Centre, Camera, Cinema, City",
+          "options": {
+            "A": "Centre",
+            "B": "Camera",
+            "C": "Cinema",
+            "D": "City"
+          },
+          "answer": "B",
+          "explanation": "camera /ˈkæmərə/ có \"c\" đứng trước \"a\" nên đọc /k/. Các từ còn lại có \"c\" đứng trước e, i nên đọc /s/: city /ˈsɪti/, cinema /ˈsɪnəmə/, centre /ˈsentə/."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP - Bài tập phát âm -ed (quy tắc và đáp án)",
+      "url": "https://prepedu.com/vi/blog/bai-tap-phat-am-ed"
+    },
+    {
+      "title": "Wiktionary - typhoon (đối chiếu phiên âm IPA)",
+      "url": "https://en.wiktionary.org/wiki/typhoon"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

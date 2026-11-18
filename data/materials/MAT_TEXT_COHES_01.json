@@ -1,0 +1,232 @@
+{
+  "material_id": "MAT_TEXT_COHES_01",
+  "skill_id": "SK_TEXT_COHES",
+  "title": "Nhận diện vai trò câu kết và tóm tắt ý chính",
+  "target_level": 1,
+  "summary": "Giúp học sinh hiểu câu kết đoạn dùng để làm gì, nhận ra từ báo hiệu kết luận và chọn được câu kết đơn giản, đúng chủ đề cho đoạn văn ngắn.",
+  "theory": [
+    {
+      "heading": "Câu kết đoạn (concluding sentence) làm nhiệm vụ gì?",
+      "points": [
+        "Nhắc lại ý chính của câu chủ đề bằng từ ngữ khác (không chép nguyên văn).",
+        "Tóm tắt các ý hỗ trợ đã nêu trong đoạn.",
+        "Hoặc đưa ra lời khuyên, cảm nghĩ, kết quả cuối cùng dựa trên các ý đã nêu.",
+        "Câu kết KHÔNG đưa ra ý mới, chi tiết mới hoặc chủ đề khác."
+      ],
+      "examples": [
+        {
+          "en": "Topic: Cycling to school has many advantages. … Conclusion: For these reasons, more students should cycle to school.",
+          "vi": "Chủ đề: Đạp xe đến trường có nhiều lợi ích. … Kết: Vì những lý do đó, nhiều học sinh nên đạp xe đến trường hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Từ ngữ báo hiệu câu kết",
+      "points": [
+        "Tóm tắt: In short, In conclusion, To sum up, All in all, In a word.",
+        "Kết quả / lý do: That is why…, For these reasons…, Therefore…, So…",
+        "Cảm nghĩ: I feel lucky…, It was a memorable day…, I love… very much."
+      ],
+      "examples": [
+        {
+          "en": "All in all, the library is my favourite place at school.",
+          "vi": "Tóm lại, thư viện là nơi em thích nhất ở trường."
+        }
+      ]
+    },
+    {
+      "heading": "Nhận diện câu KHÔNG thể làm câu kết",
+      "points": [
+        "Câu chi tiết nhỏ, lạc đề: 'Her brother is a doctor.' trong đoạn về người bạn thân.",
+        "Câu mở ý mới: bắt đầu bằng 'Firstly', 'For example', 'Next'.",
+        "Câu mâu thuẫn với ý chính của đoạn: đoạn khen rau xanh nhưng kết 'Vegetables are bad for children.'"
+      ],
+      "examples": [
+        {
+          "en": "Eating vegetables is good for us. … (Wrong) My mother grows tomatoes. (Right) In short, we should eat more vegetables every day.",
+          "vi": "Ăn rau tốt cho sức khỏe. … (Sai) Mẹ tôi trồng cà chua – chi tiết lạc đề. (Đúng) Tóm lại, chúng ta nên ăn nhiều rau hơn mỗi ngày."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu đầu tiên để biết chủ đề; đáp án đúng thường lặp lại từ khóa của chủ đề (vegetables, library, cycling…) hoặc từ đồng nghĩa.",
+    "Ưu tiên phương án có từ báo kết: In short, All in all, For these reasons, That is why, Therefore.",
+    "Loại câu chỉ nói về một chi tiết nhỏ hoặc nhắc tới người/vật chưa từng xuất hiện trong đoạn.",
+    "Ghép thử câu được chọn vào cuối đoạn và đọc lại: nếu đoạn văn 'khép lại' tự nhiên thì đó là đáp án."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu kết phù hợp nhất",
+      "instructions": "Choose the sentence (A, B, C or D) that can end each paragraph most appropriately.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My best friend, Hoa, is a wonderful person. She is always kind and helpful to everyone. She often helps me with my Maths homework. She also makes me laugh when I am sad. ______",
+          "options": {
+            "A": "Her brother is a doctor in Ha Noi.",
+            "B": "That is why I feel lucky to have her as my friend.",
+            "C": "She has long black hair.",
+            "D": "Maths is my most difficult subject."
+          },
+          "answer": "B",
+          "explanation": "Đoạn văn nói về những điều tốt đẹp của Hoa; 'That is why' rút ra cảm nghĩ từ các ý đó và 'her' quy chiếu Hoa. A, C, D là chi tiết lạc đề, không tổng kết ý chính."
+        },
+        {
+          "no": 2,
+          "question": "Eating vegetables is good for our health. They contain many vitamins and minerals. They also help us stay slim because they have few calories. ______",
+          "options": {
+            "A": "Some vegetables are expensive in winter.",
+            "B": "My mother grows tomatoes in the garden.",
+            "C": "In short, we should eat more vegetables every day.",
+            "D": "However, vegetables are bad for children."
+          },
+          "answer": "C",
+          "explanation": "'In short' báo hiệu tóm tắt, và câu lặp lại từ khóa 'vegetables' để đưa ra lời khuyên từ các lợi ích đã nêu. D mâu thuẫn với chủ đề; A, B là chi tiết không liên quan."
+        },
+        {
+          "no": 3,
+          "question": "Our school library is a great place for students. It has thousands of books and magazines. It is quiet, so we can concentrate on our studies. The librarians are also friendly and helpful. ______",
+          "options": {
+            "A": "All in all, the library is my favourite place at school.",
+            "B": "The library was painted last year.",
+            "C": "The canteen sells cheap food.",
+            "D": "Some students don't like reading comics."
+          },
+          "answer": "A",
+          "explanation": "'All in all' tổng kết, 'my favourite place' nhắc lại ý 'a great place' của câu chủ đề bằng từ khác. C chuyển sang căng tin – lạc đề; B, D là chi tiết nhỏ."
+        },
+        {
+          "no": 4,
+          "question": "Cycling to school has many advantages. First, it is good exercise. Second, it is cheaper than taking a bus. Finally, it doesn't cause air pollution. ______",
+          "options": {
+            "A": "Buses are often crowded in the morning.",
+            "B": "My bike is blue and quite new.",
+            "C": "Some students go to school by car.",
+            "D": "For these reasons, more students should cycle to school."
+          },
+          "answer": "D",
+          "explanation": "'For these reasons' gom cả ba lợi ích (First, Second, Finally) và kết bằng lời khuyên đúng chủ đề 'cycling to school'. Các câu còn lại không tổng kết."
+        },
+        {
+          "no": 5,
+          "question": "Hoi An is a lovely old town. It has many old houses and narrow streets. At night, the town is full of colourful lanterns. Visitors can also enjoy delicious local food such as cao lau. ______",
+          "options": {
+            "A": "Lanterns are made of silk and bamboo.",
+            "B": "Ha Noi is the capital of Viet Nam.",
+            "C": "It is no surprise that Hoi An attracts millions of tourists every year.",
+            "D": "Some tourists don't like hot weather."
+          },
+          "answer": "C",
+          "explanation": "C rút ra kết quả từ những điểm hấp dẫn đã nêu (nhà cổ, đèn lồng, món ăn) và nhắc lại tên 'Hoi An'. A chỉ nói chi tiết về đèn lồng; B lạc sang Hà Nội; D không liên quan."
+        },
+        {
+          "no": 6,
+          "question": "Teenagers need enough sleep to stay healthy. When they sleep well, they can concentrate better at school. Sleep also helps their bodies grow. However, many students stay up late to play games or use their phones. ______",
+          "options": {
+            "A": "Therefore, students should go to bed earlier and turn off their phones at night.",
+            "B": "Games are very popular among teenagers.",
+            "C": "Some phones are very expensive.",
+            "D": "Many adults sleep for seven hours."
+          },
+          "answer": "A",
+          "explanation": "Đoạn văn nêu lợi ích của giấc ngủ rồi chỉ ra vấn đề thức khuya; 'Therefore' đưa ra lời khuyên giải quyết vấn đề đó. B, C, D chỉ là chi tiết phụ, không khép lại đoạn."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và nhận diện cấu trúc",
+      "instructions": "Read the paragraph and choose the best answer (A, B, C or D) to each question.",
+      "passage": "(1) Keeping a diary is a simple habit that can bring many benefits. (2) First, writing about your day helps you understand your own feelings. (3) When you feel angry or sad, putting your thoughts on paper can make you calmer. (4) Second, a diary improves your writing skills because you practise every day. (5) For example, my cousin started writing a short diary in English two years ago, and now her English essays are much better. (6) Finally, a diary keeps your memories safe. (7) Years later, you can read it again and remember special moments in your life, such as birthdays or school trips. (8) In short, a diary is not just a notebook; it is a good friend that helps you grow.",
+      "questions": [
+        {
+          "no": 7,
+          "question": "Which sentence is the topic sentence of the paragraph?",
+          "options": {
+            "A": "Sentence (1)",
+            "B": "Sentence (2)",
+            "C": "Sentence (6)",
+            "D": "Sentence (8)"
+          },
+          "answer": "A",
+          "explanation": "Câu (1) nêu ý khái quát 'Keeping a diary… can bring many benefits'; các câu sau đều giải thích các lợi ích đó. Câu (2), (6) chỉ là một lợi ích cụ thể; câu (8) là câu kết."
+        },
+        {
+          "no": 8,
+          "question": "Which sentence is the concluding sentence of the paragraph?",
+          "options": {
+            "A": "Sentence (1)",
+            "B": "Sentence (5)",
+            "C": "Sentence (7)",
+            "D": "Sentence (8)"
+          },
+          "answer": "D",
+          "explanation": "Câu (8) đứng cuối, mở đầu bằng 'In short' và tóm lại ý nghĩa của việc viết nhật ký. Câu (5) là ví dụ, câu (7) là chi tiết cho lợi ích thứ ba."
+        },
+        {
+          "no": 9,
+          "question": "What does sentence (8) do in the paragraph?",
+          "options": {
+            "A": "It gives a new reason for keeping a diary.",
+            "B": "It repeats the main idea in different words.",
+            "C": "It gives an example about the writer's cousin.",
+            "D": "It disagrees with the topic sentence."
+          },
+          "answer": "B",
+          "explanation": "Câu (8) nhắc lại ý 'nhật ký mang lại lợi ích' của câu (1) bằng cách diễn đạt khác ('a good friend that helps you grow'), không thêm lý do mới, không đưa ví dụ, không mâu thuẫn."
+        },
+        {
+          "no": 10,
+          "question": "Which words signal that sentence (8) is the conclusion?",
+          "options": {
+            "A": "First",
+            "B": "For example",
+            "C": "In short",
+            "D": "Years later"
+          },
+          "answer": "C",
+          "explanation": "'In short' (tóm lại) là từ báo hiệu kết luận. 'First' mở lý do, 'For example' mở ví dụ, 'Years later' chỉ thời gian."
+        },
+        {
+          "no": 11,
+          "question": "Which of the following could ALSO be a good concluding sentence for the paragraph?",
+          "options": {
+            "A": "My cousin lives in Da Nang with her parents.",
+            "B": "To sum up, keeping a diary helps us understand ourselves, write better and keep our memories.",
+            "C": "Diaries can be bought at any bookshop.",
+            "D": "Some people write their diaries on computers."
+          },
+          "answer": "B",
+          "explanation": "B có từ báo kết 'To sum up' và tóm tắt đủ ba lợi ích đã nêu (hiểu cảm xúc, viết tốt hơn, lưu giữ kỷ niệm). A, C, D là thông tin mới, không liên quan đến ý chính."
+        },
+        {
+          "no": 12,
+          "question": "Which sentence gives an EXAMPLE to support a point?",
+          "options": {
+            "A": "Sentence (3)",
+            "B": "Sentence (5)",
+            "C": "Sentence (7)",
+            "D": "Sentence (4)"
+          },
+          "answer": "B",
+          "explanation": "Câu (5) bắt đầu bằng 'For example' và kể trường hợp người anh/chị họ để minh họa cho ý ở câu (4) về kỹ năng viết."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "UNC Writing Center – Conclusions",
+      "url": "https://writingcenter.unc.edu/tips-and-tools/conclusions/"
+    },
+    {
+      "title": "Purdue OWL – On Paragraphs",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

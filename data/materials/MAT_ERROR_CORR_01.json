@@ -1,0 +1,261 @@
+{
+  "material_id": "MAT_ERROR_CORR_01",
+  "skill_id": "SK_ERROR_CORRECTION",
+  "title": "Nhận diện các lỗi sai cơ bản về thì và sự hòa hợp chủ vị",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận ra nhanh hai nhóm lỗi phổ biến nhất trong dạng tìm lỗi sai: chia sai thì theo dấu hiệu thời gian và động từ không hòa hợp với chủ ngữ.",
+  "theory": [
+    {
+      "heading": "Lỗi về thì: dựa vào dấu hiệu thời gian",
+      "points": [
+        "Hiện tại đơn: every day, usually, always, often → S số ít + V-s/es",
+        "Hiện tại tiếp diễn: now, at the moment, Look!, Listen! → am/is/are + V-ing",
+        "Quá khứ đơn: yesterday, last week, ago, in 2010 → V-ed/V2; KHÔNG dùng hiện tại hoàn thành với các mốc này",
+        "Hiện tại hoàn thành: since, for, already, yet, ever, never → have/has + V3",
+        "Quá khứ hoàn thành: by the time + quá khứ đơn, before/after → had + V3",
+        "QK tiếp diễn + when + QK đơn: hành động đang xảy ra thì hành động khác xen vào"
+      ],
+      "examples": [
+        {
+          "en": "I saw that film last week.",
+          "vi": "Tôi đã xem bộ phim đó tuần trước."
+        },
+        {
+          "en": "I was watching TV when my mother came home.",
+          "vi": "Tôi đang xem TV thì mẹ về nhà."
+        }
+      ]
+    },
+    {
+      "heading": "Lỗi hòa hợp chủ ngữ – động từ",
+      "points": [
+        "Each/Every/Everyone/Nobody + V số ít; \"Every boy and girl\" vẫn chia số ít",
+        "The number of + N số nhiều → V số ít; A number of + N số nhiều → V số nhiều",
+        "Môn học, tin tức tận cùng -s (mathematics, physics, news) → V số ít",
+        "Chủ ngữ là cụm \"N1 of N2\" → chia theo N1 (The color of the flowers is …)"
+      ],
+      "examples": [
+        {
+          "en": "Each of the students has a new book.",
+          "vi": "Mỗi học sinh đều có một quyển sách mới."
+        },
+        {
+          "en": "Mathematics is my favourite subject.",
+          "vi": "Toán là môn học yêu thích của tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Câu điều kiện loại 1",
+      "points": [
+        "If + hiện tại đơn, S + will + V: mệnh đề If KHÔNG dùng \"will\""
+      ],
+      "examples": [
+        {
+          "en": "If it rains tomorrow, we will stay at home.",
+          "vi": "Nếu ngày mai trời mưa, chúng tôi sẽ ở nhà."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: gạch dưới chủ ngữ thật và dấu hiệu thời gian trong câu trước khi xem 4 phần được đánh dấu.",
+    "Bước 2: kiểm tra từng phần là động từ trước (thì + số ít/số nhiều) vì đây là nơi lỗi xuất hiện nhiều nhất.",
+    "Cẩn thận với chủ ngữ dài: bỏ qua cụm giới từ ở giữa (\"of the students\", \"in this class\") để tìm danh từ chính.",
+    "Phần bị nghi ngờ phải sửa được bằng một thay đổi nhỏ; nếu cả câu vẫn đúng sau khi sửa thì đó là đáp án."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Lỗi về thì của động từ",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Yesterday, Mai (A) goes to the market (B) with her mother (C) to buy some (D) fruit.",
+          "options": {
+            "A": "goes",
+            "B": "with",
+            "C": "to buy",
+            "D": "fruit"
+          },
+          "answer": "A",
+          "explanation": "\"Yesterday\" là dấu hiệu quá khứ đơn → sửa \"goes\" thành \"went\"."
+        },
+        {
+          "no": 2,
+          "question": "Listen! Someone (A) in the next room (B) is singing and someone else (C) plays (D) the guitar.",
+          "options": {
+            "A": "in the next room",
+            "B": "is singing",
+            "C": "plays",
+            "D": "the guitar"
+          },
+          "answer": "C",
+          "explanation": "\"Listen!\" báo hiệu hành động đang xảy ra → hiện tại tiếp diễn: \"is playing\" (song song với \"is singing\")."
+        },
+        {
+          "no": 3,
+          "question": "I (A) have seen (B) that film (C) at the cinema (D) last week.",
+          "options": {
+            "A": "have seen",
+            "B": "that film",
+            "C": "at the cinema",
+            "D": "last week"
+          },
+          "answer": "A",
+          "explanation": "\"last week\" là mốc quá khứ xác định → dùng quá khứ đơn \"saw\", không dùng hiện tại hoàn thành."
+        },
+        {
+          "no": 4,
+          "question": "We (A) have lived (B) in this house (C) since (D) ten years.",
+          "options": {
+            "A": "have lived",
+            "B": "in",
+            "C": "since",
+            "D": "ten years"
+          },
+          "answer": "C",
+          "explanation": "\"ten years\" là khoảng thời gian → sửa \"since\" thành \"for\"."
+        },
+        {
+          "no": 5,
+          "question": "I (A) was watching TV (B) when my mother (C) was coming (D) home from work.",
+          "options": {
+            "A": "was watching",
+            "B": "when",
+            "C": "was coming",
+            "D": "home"
+          },
+          "answer": "C",
+          "explanation": "Hành động đang xảy ra (was watching) bị hành động khác xen vào → hành động xen vào chia quá khứ đơn: \"came\"."
+        },
+        {
+          "no": 6,
+          "question": "By the time we (A) arrived, the film (B) has already started, (C) so we (D) missed the beginning.",
+          "options": {
+            "A": "arrived",
+            "B": "has already started",
+            "C": "so",
+            "D": "missed"
+          },
+          "answer": "B",
+          "explanation": "\"By the time + quá khứ đơn\" → mệnh đề chính chia quá khứ hoàn thành: \"had already started\"."
+        },
+        {
+          "no": 7,
+          "question": "We (A) will stay at home (B) and watch films (C) if it (D) will rain tomorrow.",
+          "options": {
+            "A": "will stay",
+            "B": "and watch",
+            "C": "if",
+            "D": "will rain"
+          },
+          "answer": "D",
+          "explanation": "Câu điều kiện loại 1: mệnh đề If chia hiện tại đơn, không dùng \"will\" → \"rains\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Lỗi hòa hợp chủ ngữ – động từ",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "My brother (A) don't like (B) eating vegetables, (C) but he (D) loves fruit.",
+          "options": {
+            "A": "don't like",
+            "B": "eating",
+            "C": "but",
+            "D": "loves"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ \"My brother\" là ngôi thứ ba số ít → \"doesn't like\"."
+        },
+        {
+          "no": 9,
+          "question": "Each (A) of the students (B) have (C) a new dictionary (D) for the English lesson.",
+          "options": {
+            "A": "of",
+            "B": "have",
+            "C": "a new dictionary",
+            "D": "for"
+          },
+          "answer": "B",
+          "explanation": "\"Each of + N số nhiều\" → động từ chia số ít: \"has\"."
+        },
+        {
+          "no": 10,
+          "question": "The (A) number of students in my class (B) are (C) forty-two (D) this year.",
+          "options": {
+            "A": "number",
+            "B": "are",
+            "C": "forty-two",
+            "D": "this year"
+          },
+          "answer": "B",
+          "explanation": "\"The number of + N số nhiều\" → động từ số ít: \"is\"."
+        },
+        {
+          "no": 11,
+          "question": "My parents (A) has been married (B) for (C) twenty years and they (D) are still happy.",
+          "options": {
+            "A": "has been married",
+            "B": "for",
+            "C": "twenty years",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ \"My parents\" số nhiều → \"have been married\"."
+        },
+        {
+          "no": 12,
+          "question": "I (A) really like numbers, (B) so mathematics (C) are my (D) favourite subject.",
+          "options": {
+            "A": "really like",
+            "B": "so",
+            "C": "are",
+            "D": "favourite"
+          },
+          "answer": "C",
+          "explanation": "Tên môn học tận cùng -s (mathematics) là danh từ số ít → \"is\"."
+        },
+        {
+          "no": 13,
+          "question": "Every morning, she (A) gets up early, (B) has breakfast and (C) walk (D) to school.",
+          "options": {
+            "A": "gets up",
+            "B": "has",
+            "C": "walk",
+            "D": "to school"
+          },
+          "answer": "C",
+          "explanation": "Chủ ngữ \"she\" + hiện tại đơn, các động từ song song (gets, has) đều chia số ít → \"walks\"."
+        },
+        {
+          "no": 14,
+          "question": "Every boy and girl (A) in this class (B) have to (C) wear (D) a uniform on Mondays.",
+          "options": {
+            "A": "in this class",
+            "B": "have to",
+            "C": "wear",
+            "D": "a uniform"
+          },
+          "answer": "B",
+          "explanation": "\"Every boy and girl\" được coi là chủ ngữ số ít → \"has to\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – Dạng bài Tìm lỗi sai (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-tim-loi-sai-cd2025.jsp"
+    },
+    {
+      "title": "VietNamNet – Thi lớp 10 tại Hà Nội: 8 lỗi sai thí sinh hay mắc trong bài thi môn Tiếng Anh",
+      "url": "https://vietnamnet.vn/thi-lop-10-tai-ha-noi-8-loi-sai-thi-sinh-hay-mac-trong-bai-thi-mon-tieng-anh-2287524.html"
+    }
+  ]
+}

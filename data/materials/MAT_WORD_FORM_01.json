@@ -1,0 +1,279 @@
+{
+  "material_id": "MAT_WORD_FORM_01",
+  "skill_id": "SK_WORD_FORM",
+  "title": "Nhận diện từ loại cơ bản (Danh từ, Động từ, Tính từ, Trạng từ) và vị trí trong câu",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận biết 4 từ loại chính qua hậu tố và nắm vị trí của chúng trong câu, từ đó chọn đúng dạng từ trong các câu điền từ cơ bản.",
+  "theory": [
+    {
+      "heading": "Danh từ (Noun)",
+      "points": [
+        "Dấu hiệu: -tion, -ment, -ness, -ity, -ance/-ence, -er/-or/-ist (chỉ người): information, happiness, teacher.",
+        "Vị trí: làm chủ ngữ đầu câu; sau mạo từ a/an/the; sau tính từ sở hữu (my, his...); sau tính từ; sau lượng từ (many, some, a lot of).",
+        "Sau \"many\", \"a lot of\" với danh từ đếm được → dùng số nhiều (buildings, students)."
+      ],
+      "examples": [
+        {
+          "en": "Reading books gives me a lot of happiness.",
+          "vi": "Đọc sách mang lại cho tôi nhiều niềm vui."
+        },
+        {
+          "en": "The teacher of my class is very kind.",
+          "vi": "Cô giáo lớp tôi rất hiền."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ (Verb)",
+      "points": [
+        "Dấu hiệu: -ise/-ize, -en, -ify: modernise, widen, beautify.",
+        "Vị trí: sau chủ ngữ; sau động từ khuyết thiếu (can, should, must...) dùng nguyên thể; sau \"Please\", \"Let's\", \"to\"."
+      ],
+      "examples": [
+        {
+          "en": "We should save water.",
+          "vi": "Chúng ta nên tiết kiệm nước."
+        },
+        {
+          "en": "Please explain the meaning of this word.",
+          "vi": "Hãy giải thích nghĩa của từ này."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ (Adjective)",
+      "points": [
+        "Dấu hiệu: -ful, -less, -ous, -al, -ive, -able, -ic, -y, -ed/-ing: beautiful, famous, noisy, interested.",
+        "Vị trí: TRƯỚC danh từ (a beautiful girl); SAU động từ to be và các động từ nối feel, look, seem, become.",
+        "-ed: cảm xúc của người (I am interested); -ing: tính chất của sự vật (The film is interesting)."
+      ],
+      "examples": [
+        {
+          "en": "Hanoi is a noisy city.",
+          "vi": "Hà Nội là một thành phố ồn ào."
+        },
+        {
+          "en": "My brother is interested in learning English.",
+          "vi": "Anh trai tôi thích học tiếng Anh."
+        }
+      ]
+    },
+    {
+      "heading": "Trạng từ (Adverb)",
+      "points": [
+        "Dấu hiệu: thường là tính từ + -ly: quick → quickly, careful → carefully. Ngoại lệ: good → well; fast, hard giữ nguyên.",
+        "Vị trí: sau động từ thường hoặc sau tân ngữ để bổ nghĩa cho động từ (He runs quickly); trước tính từ để bổ nghĩa cho tính từ (surprisingly easy)."
+      ],
+      "examples": [
+        {
+          "en": "Mr Nam always drives carefully.",
+          "vi": "Ông Nam luôn lái xe cẩn thận."
+        },
+        {
+          "en": "The test was surprisingly easy.",
+          "vi": "Bài kiểm tra dễ một cách đáng ngạc nhiên."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhìn từ đứng NGAY TRƯỚC và NGAY SAU chỗ trống để đoán từ loại: \"a/the ___ + danh từ\" → tính từ; \"a/the/my ___\" (hết cụm) → danh từ; \"động từ thường + ___\" → trạng từ.",
+    "Sau to be (am/is/are/was/were) thường là tính từ, không phải trạng từ: She is happy (không phải happily).",
+    "Phân biệt tính từ và trạng từ: tính từ bổ nghĩa cho danh từ (a careful driver), trạng từ bổ nghĩa cho động từ (drive carefully).",
+    "Nhớ ngoại lệ: good → well (sings well), hard → hard, fast → fast."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn từ loại đúng",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Mai is a ______ girl with long black hair.",
+          "options": {
+            "A": "beauty",
+            "B": "beautifully",
+            "C": "beautify",
+            "D": "beautiful"
+          },
+          "answer": "D",
+          "explanation": "Giữa mạo từ \"a\" và danh từ \"girl\" cần tính từ → \"beautiful\"."
+        },
+        {
+          "no": 2,
+          "question": "My little brother runs very ______.",
+          "options": {
+            "A": "quick",
+            "B": "quickly",
+            "C": "quicken",
+            "D": "quickness"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho động từ thường \"runs\" cần trạng từ → \"quickly\"."
+        },
+        {
+          "no": 3,
+          "question": "The ______ of our class is very kind and helpful.",
+          "options": {
+            "A": "teachable",
+            "B": "teacher",
+            "C": "teach",
+            "D": "taught"
+          },
+          "answer": "B",
+          "explanation": "Sau \"The\" và trước \"of\" cần danh từ; \"kind and helpful\" mô tả người → \"teacher\"."
+        },
+        {
+          "no": 4,
+          "question": "We should ______ water and electricity every day.",
+          "options": {
+            "A": "safe",
+            "B": "safety",
+            "C": "save",
+            "D": "safely"
+          },
+          "answer": "C",
+          "explanation": "Sau động từ khuyết thiếu \"should\" cần động từ nguyên thể → \"save\" (tiết kiệm)."
+        },
+        {
+          "no": 5,
+          "question": "Reading books gives me a lot of ______.",
+          "options": {
+            "A": "happily",
+            "B": "unhappy",
+            "C": "happy",
+            "D": "happiness"
+          },
+          "answer": "D",
+          "explanation": "Sau \"a lot of\" cần danh từ → \"happiness\" (niềm vui, hạnh phúc)."
+        },
+        {
+          "no": 6,
+          "question": "The English test was ______ easy, so everybody passed it.",
+          "options": {
+            "A": "surprisingly",
+            "B": "surprising",
+            "C": "surprised",
+            "D": "surprise"
+          },
+          "answer": "A",
+          "explanation": "Đứng trước tính từ \"easy\" để bổ nghĩa cho nó cần trạng từ → \"surprisingly\"."
+        },
+        {
+          "no": 7,
+          "question": "My brother is very ______ in learning English.",
+          "options": {
+            "A": "interest",
+            "B": "interested",
+            "C": "interestingly",
+            "D": "interesting"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc \"be interested in\" diễn tả cảm xúc của người (thích, quan tâm) → tính từ đuôi -ed."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Vị trí từ loại trong câu",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "There are many old ______ in the Old Quarter of Hanoi.",
+          "options": {
+            "A": "buildings",
+            "B": "building",
+            "C": "built",
+            "D": "build"
+          },
+          "answer": "A",
+          "explanation": "Sau \"many old\" cần danh từ đếm được số nhiều → \"buildings\"."
+        },
+        {
+          "no": 9,
+          "question": "Linh sings very ______. She won the school singing contest.",
+          "options": {
+            "A": "good",
+            "B": "goods",
+            "C": "well",
+            "D": "goodness"
+          },
+          "answer": "C",
+          "explanation": "Bổ nghĩa cho động từ \"sings\" cần trạng từ; trạng từ của \"good\" là \"well\"."
+        },
+        {
+          "no": 10,
+          "question": "Tom is a ______ driver. He has never had an accident.",
+          "options": {
+            "A": "carefully",
+            "B": "care",
+            "C": "careful",
+            "D": "carelessly"
+          },
+          "answer": "C",
+          "explanation": "Giữa mạo từ \"a\" và danh từ \"driver\" cần tính từ → \"careful\"."
+        },
+        {
+          "no": 11,
+          "question": "Mr Nam always drives ______ and obeys the traffic rules.",
+          "options": {
+            "A": "carefully",
+            "B": "careful",
+            "C": "care",
+            "D": "careless"
+          },
+          "answer": "A",
+          "explanation": "Bổ nghĩa cho động từ \"drives\" cần trạng từ → \"carefully\". So sánh với câu trước: a careful driver (tính từ + danh từ)."
+        },
+        {
+          "no": 12,
+          "question": "His ______ in the exam made his parents very proud.",
+          "options": {
+            "A": "successfully",
+            "B": "succeed",
+            "C": "successful",
+            "D": "success"
+          },
+          "answer": "D",
+          "explanation": "Sau tính từ sở hữu \"His\" và làm chủ ngữ cần danh từ → \"success\" (sự thành công)."
+        },
+        {
+          "no": 13,
+          "question": "Could you ______ the meaning of this word to me, please?",
+          "options": {
+            "A": "explain",
+            "B": "explained",
+            "C": "explanation",
+            "D": "explanatory"
+          },
+          "answer": "A",
+          "explanation": "Sau \"Could you\" cần động từ nguyên thể → \"explain\"."
+        },
+        {
+          "no": 14,
+          "question": "Hanoi is a busy and ______ city, especially at rush hour.",
+          "options": {
+            "A": "noisily",
+            "B": "noisy",
+            "C": "noise",
+            "D": "noises"
+          },
+          "answer": "B",
+          "explanation": "Nối với tính từ \"busy\" bằng \"and\", đứng trước danh từ \"city\" → cần tính từ \"noisy\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    }
+  ]
+}

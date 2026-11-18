@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Biển cấm đỗ xe">
+  <defs><clipPath id="c"><circle cx="100" cy="100" r="80"/></clipPath></defs>
+  <circle cx="100" cy="100" r="88" fill="#1d4ed8" stroke="#dc2626" stroke-width="16"/>
+  <line x1="20" y1="20" x2="180" y2="180" stroke="#dc2626" stroke-width="16" clip-path="url(#c)"/>
+</svg>

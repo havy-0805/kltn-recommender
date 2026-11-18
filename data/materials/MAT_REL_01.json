@@ -1,0 +1,247 @@
+{
+  "material_id": "MAT_REL_01",
+  "skill_id": "SK_REL_CLAUSE",
+  "title": "Đại từ quan hệ và trạng từ quan hệ cơ bản (Who, Whom, Which, That, Where)",
+  "target_level": 1,
+  "summary": "Chọn đúng who, whom, which, that, where theo danh từ đứng trước và vai trò trong mệnh đề, và nối hai câu đơn giản bằng mệnh đề quan hệ.",
+  "theory": [
+    {
+      "heading": "Who và Whom: thay cho người",
+      "points": [
+        "who + động từ: làm chủ ngữ (The boy who is singing...)",
+        "whom + chủ ngữ + động từ: làm tân ngữ (The teacher whom we love...)"
+      ],
+      "examples": [
+        {
+          "en": "The boy who is playing the guitar is my brother.",
+          "vi": "Cậu bé đang chơi ghi-ta là em trai tôi."
+        },
+        {
+          "en": "The teacher whom we love most is Ms Hoa.",
+          "vi": "Cô giáo chúng tôi yêu quý nhất là cô Hoa."
+        }
+      ]
+    },
+    {
+      "heading": "Which và That: thay cho vật (that cũng thay được cho người)",
+      "points": [
+        "which: thay cho vật, con vật; làm chủ ngữ hoặc tân ngữ",
+        "that: thay cho người hoặc vật khi mệnh đề không có dấu phẩy"
+      ],
+      "examples": [
+        {
+          "en": "The cake which my mum made was delicious.",
+          "vi": "Chiếc bánh mẹ tôi làm rất ngon."
+        },
+        {
+          "en": "A dictionary is a book that gives the meanings of words.",
+          "vi": "Từ điển là cuốn sách cho biết nghĩa của từ."
+        }
+      ]
+    },
+    {
+      "heading": "Where: thay cho nơi chốn",
+      "points": [
+        "where + S + V: nơi mà (= in/at which)",
+        "Khi động từ sau cần tân ngữ (visit, build, see) thì dùng which/that, không dùng where"
+      ],
+      "examples": [
+        {
+          "en": "Da Lat is the city where my grandparents live.",
+          "vi": "Đà Lạt là thành phố nơi ông bà tôi sống."
+        },
+        {
+          "en": "The museum which we visited last week was very big.",
+          "vi": "Bảo tàng chúng tôi tham quan tuần trước rất lớn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: danh từ trước chỗ trống là người, vật hay nơi chốn? Bước 2: ngay sau chỗ trống là động từ hay chủ ngữ mới?",
+    "Người + động từ → who; người + chủ ngữ mới → whom; vật → which/that.",
+    "Nơi chốn: thử bỏ mệnh đề quan hệ ra thành câu đơn. Nếu động từ đã đủ nghĩa (live, was born, play) → where; nếu động từ thiếu tân ngữ (visit, build) → which."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The boy ______ is playing the guitar is my brother.",
+          "options": {
+            "A": "which",
+            "B": "whose",
+            "C": "who",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": "Thay cho người 'the boy', làm chủ ngữ của 'is playing' → 'who'."
+        },
+        {
+          "no": 2,
+          "question": "I really like the dress ______ you are wearing today.",
+          "options": {
+            "A": "which",
+            "B": "who",
+            "C": "where",
+            "D": "whom"
+          },
+          "answer": "A",
+          "explanation": "Thay cho vật 'the dress', làm tân ngữ của 'are wearing' → 'which'."
+        },
+        {
+          "no": 3,
+          "question": "This is the park ______ we often play football after school.",
+          "options": {
+            "A": "whom",
+            "B": "where",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "B",
+          "explanation": "Nơi chốn, 'play football' đã đủ tân ngữ → 'where' (= in which)."
+        },
+        {
+          "no": 4,
+          "question": "The teacher ______ we love most is Ms Hoa.",
+          "options": {
+            "A": "whose",
+            "B": "which",
+            "C": "where",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "Thay cho người, làm tân ngữ của 'love' (sau chỗ trống là chủ ngữ 'we') → 'whom'."
+        },
+        {
+          "no": 5,
+          "question": "Do you know the man ______ is standing over there?",
+          "options": {
+            "A": "where",
+            "B": "who",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "Thay cho người, làm chủ ngữ của 'is standing' → 'who'. 'whom' chỉ làm tân ngữ."
+        },
+        {
+          "no": 6,
+          "question": "The cake ______ my mum made for my birthday was delicious.",
+          "options": {
+            "A": "which",
+            "B": "who",
+            "C": "whom",
+            "D": "where"
+          },
+          "answer": "A",
+          "explanation": "Thay cho vật 'the cake' → 'which'."
+        },
+        {
+          "no": 7,
+          "question": "A dictionary is a book ______ gives the meanings of words.",
+          "options": {
+            "A": "who",
+            "B": "where",
+            "C": "whom",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "Thay cho vật 'a book', làm chủ ngữ của 'gives', mệnh đề xác định → 'that'."
+        },
+        {
+          "no": 8,
+          "question": "Da Lat is the city ______ my grandparents live.",
+          "options": {
+            "A": "who",
+            "B": "whom",
+            "C": "where",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "Nơi chốn, 'live' không cần tân ngữ → 'where'."
+        },
+        {
+          "no": 9,
+          "question": "She has a cat ______ likes sleeping on the sofa all day.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "whom",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "Thay cho con vật 'a cat', làm chủ ngữ của 'likes' → 'which'."
+        },
+        {
+          "no": 10,
+          "question": "The students ______ won the science competition got a special prize.",
+          "options": {
+            "A": "where",
+            "B": "which",
+            "C": "whom",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "Thay cho người, làm chủ ngữ của 'won' → 'who'."
+        },
+        {
+          "no": 11,
+          "question": "The museum ______ we visited last week was very big.",
+          "options": {
+            "A": "where",
+            "B": "who",
+            "C": "which",
+            "D": "whom"
+          },
+          "answer": "C",
+          "explanation": "'visit' cần tân ngữ trực tiếp, đại từ quan hệ làm tân ngữ đó → 'which', không dùng 'where'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Nối câu",
+      "instructions": "Choose the sentence that best combines the given sentences.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "The girl is very kind. She lives near my house.",
+          "options": {
+            "A": "The girl who lives near my house is very kind.",
+            "B": "The girl where lives near my house is very kind.",
+            "C": "The girl which lives near my house is very kind.",
+            "D": "The girl who she lives near my house is very kind."
+          },
+          "answer": "A",
+          "explanation": "'She' chỉ người, làm chủ ngữ → 'who', bỏ 'she'. C dùng which cho người; D lặp 'she'; B dùng where sai."
+        },
+        {
+          "no": 13,
+          "question": "This is the school. I studied at this school five years ago.",
+          "options": {
+            "A": "This is the school where I studied at five years ago.",
+            "B": "This is the school who I studied at five years ago.",
+            "C": "This is the school which I studied five years ago.",
+            "D": "This is the school where I studied five years ago."
+          },
+          "answer": "D",
+          "explanation": "'at this school' chỉ nơi chốn → 'where'. C thiếu giới từ 'at'; A thừa 'at' vì where đã gồm giới từ; B dùng who cho vật."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LearnEnglish.life – Relative Clauses: Rules, Examples and Exercises",
+      "url": "https://learnenglish.life/guides/relative-clauses-rules-examples/"
+    },
+    {
+      "title": "British Council LearnEnglish Teens – Relative clauses (who, which, that, whose)",
+      "url": "https://learnenglishteens.britishcouncil.org/grammar/relative-clauses-who-which-whose/term"
+    }
+  ]
+}

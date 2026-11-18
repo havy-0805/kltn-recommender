@@ -1,0 +1,158 @@
+{
+  "material_id": "MAT_TEXT_ORG_03",
+  "skill_id": "SK_TEXT_ORG",
+  "title": "Sắp xếp đoạn văn phức tạp và văn bản nghị luận",
+  "target_level": 3,
+  "summary": "Giúp học sinh khá giỏi sắp xếp đúng các đoạn nghị luận, giải thích nhân quả và thư trang trọng có nhiều câu 'na ná' nhau, nhận diện bẫy nhượng bộ, the former/the latter và chuỗi nhân quả.",
+  "theory": [
+    {
+      "heading": "Cấu trúc đoạn nghị luận và mô hình nhượng bộ",
+      "points": [
+        "Mô hình chuẩn: Luận điểm (I believe…) → Lý lẽ 1 (To begin with…) → Lý lẽ 2 (also / Moreover) → Nhượng bộ (Admittedly / It is true that…) → Phản bác (Nevertheless / However, this…) → Kết luận.",
+        "Cặp nhượng bộ – phản bác luôn đi liền nhau: 'Admittedly, X. Nevertheless, X is minor…'.",
+        "Cụm 'mentioned above', 'these benefits', 'such…' báo hiệu câu đó phải đứng SAU các ý được nhắc tới.",
+        "Đoạn tranh luận hai phía: 'Some people/experts argue… Others, however, point out… They argue…' – 'Others' luôn sau 'Some'."
+      ],
+      "examples": [
+        { "en": "Admittedly, uniforms limit students' freedom. Nevertheless, this disadvantage is minor compared with the benefits mentioned above.", "vi": "Phải thừa nhận rằng đồng phục hạn chế sự tự do của học sinh. Tuy vậy, nhược điểm này là nhỏ so với những lợi ích đã nêu ở trên." }
+      ]
+    },
+    {
+      "heading": "Quy chiếu nâng cao: the former / the latter, this + danh từ tóm lược",
+      "points": [
+        "'The former' = cái được nhắc trước, 'the latter' = cái được nhắc sau trong một cặp đã nêu ở câu trước.",
+        "'This disadvantage', 'these problems', 'such villages', 'these measures' là danh từ tóm lược – câu chứa nó phải đứng sau câu nêu nội dung cụ thể.",
+        "'This, in turn,…' báo hiệu một mắt xích tiếp theo của chuỗi nhân quả."
+      ],
+      "examples": [
+        { "en": "Students have tried both online and classroom learning. The former is flexible, while the latter offers face-to-face contact.", "vi": "Học sinh đã trải qua cả học trực tuyến và học trên lớp. Hình thức trước (trực tuyến) linh hoạt, còn hình thức sau (trên lớp) cho phép tiếp xúc trực tiếp." }
+      ]
+    },
+    {
+      "heading": "Chuỗi nhân quả và đoạn giải thích hiện tượng",
+      "points": [
+        "Nguyên nhân gốc → As a result (hệ quả 1) → This, in turn, … (hệ quả 2) → To tackle these problems (giải pháp) → đánh giá giải pháp.",
+        "Đoạn giải thích khoa học: trạng thái bình thường (During summer…) → thay đổi (In autumn, however…) → hệ quả (As…) → giải thích thêm (In fact…) → tổng kết (This explains why…).",
+        "Đoạn 'phá bỏ ngộ nhận': Many people believe… → Contrary to this belief… → bằng chứng (In some experiments…) → kết luận (Clearly, then…)."
+      ],
+      "examples": [
+        { "en": "The number of motorbikes has risen sharply. As a result, the roads are overcrowded. This, in turn, increases air pollution.", "vi": "Số lượng xe máy đã tăng mạnh. Kết quả là đường sá quá tải. Điều này, đến lượt nó, làm tăng ô nhiễm không khí." }
+      ]
+    },
+    {
+      "heading": "Thư trang trọng (formal letter)",
+      "points": [
+        "Thứ tự: mục đích viết thư (I am writing to apply for / to complain about…) → giới thiệu bản thân hoặc trình bày sự việc → các chi tiết (In addition…) → yêu cầu, mong muốn (I would be grateful if… / I look forward to hearing from you).",
+        "Thư khuyên nhủ thân mật: đồng cảm (I'm sorry to hear…) → dẫn dắt (Here are a few tips…) → First of all → also → Most importantly."
+      ],
+      "examples": [
+        { "en": "I am writing to apply for the position of volunteer tour guide. I am a Grade 9 student at Thanh Cong School.", "vi": "Em viết thư này để ứng tuyển vị trí tình nguyện viên hướng dẫn viên du lịch. Em là học sinh lớp 9 trường Thành Công." }
+      ]
+    }
+  ],
+  "tips": [
+    "Ở level 3, các phương án thường chỉ khác nhau ở 1–2 vị trí. Hãy so sánh các phương án trước để biết cần kiểm tra cặp câu nào, đừng sắp lại từ đầu.",
+    "Cặp 'Admittedly/It is true that… – Nevertheless/However…' là một khối không tách rời; xem từ khóa như 'mentioned above' để biết khối này đứng trước hay sau các lý lẽ.",
+    "Khi gặp 'it/they/this' ở hai câu liên tiếp, xác định nghĩa cụ thể: 'it requires self-discipline' chỉ hợp với học trực tuyến, không hợp với học trên lớp.",
+    "Câu chứa danh từ tóm lược (these problems, such villages, these colours) không bao giờ đứng trước câu chứa nội dung cụ thể mà nó tóm lược.",
+    "Sau khi chọn, đọc lại toàn đoạn và tự hỏi: 'mỗi câu trả lời cho câu hỏi nào mà câu trước gợi ra?' – nếu không trả lời được, thứ tự có vấn đề."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đoạn văn nghị luận",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful paragraph.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "a. Admittedly, some students feel that uniforms limit their freedom to express themselves.\nb. Many schools in Viet Nam require students to wear uniforms, and I believe this policy is reasonable.\nc. Nevertheless, this disadvantage is minor compared with the benefits mentioned above.\nd. To begin with, uniforms reduce the pressure on students to follow expensive fashion trends.\ne. They also create a sense of belonging, as everyone looks like a member of the same community.",
+          "options": { "A": "b – a – c – d – e", "B": "b – d – e – a – c", "C": "b – e – d – a – c", "D": "d – e – b – a – c" },
+          "answer": "B",
+          "explanation": "b nêu luận điểm. 'To begin with' (d) → 'They also' (e) là hai lợi ích. Khối nhượng bộ 'Admittedly' (a) + 'Nevertheless, this disadvantage' (c) phải đứng sau vì c nói 'the benefits mentioned above' – lợi ích phải được nêu trước. Bẫy A đặt khối nhượng bộ lên trước, mâu thuẫn với 'mentioned above'."
+        },
+        {
+          "no": 2,
+          "question": "a. The former allows students to study at their own pace, wherever they are.\nb. The latter, on the other hand, provides face-to-face interaction, which helps students stay focused.\nc. Since the COVID-19 pandemic, students have experienced both online and traditional classroom learning.\nd. Each form, therefore, has its own strengths, and the best choice may be a combination of the two.\ne. However, it requires strong self-discipline, which many teenagers lack.",
+          "options": { "A": "c – a – b – e – d", "B": "c – b – a – e – d", "C": "c – a – e – b – d", "D": "a – e – c – b – d" },
+          "answer": "C",
+          "explanation": "c nêu hai hình thức (online trước, classroom sau). 'The former' (a) = online → 'However, it requires self-discipline' (e) là nhược điểm của việc tự học theo nhịp riêng nên đi ngay sau a → 'The latter' (b) = học trên lớp, giúp tập trung – khắc phục nhược điểm ở e → d kết luận. Bẫy A: đặt e sau b khiến 'it' chỉ học trên lớp, sai nghĩa."
+        },
+        {
+          "no": 3,
+          "question": "a. Some people argue that students in Viet Nam are given too much homework.\nb. Without regular practice at home, it would be difficult for students to remember what they have learnt.\nc. While I partly agree with this view, I believe homework still plays an important role.\nd. What matters, therefore, is not the amount of homework but its quality.\ne. That said, teachers should avoid giving tasks that are repetitive and time-consuming.",
+          "options": { "A": "a – b – c – e – d", "B": "a – c – e – b – d", "C": "c – a – b – e – d", "D": "a – c – b – e – d" },
+          "answer": "D",
+          "explanation": "a nêu quan điểm của người khác → c phản hồi ('this view' = quan điểm ở a) và nêu luận điểm → b là lý lẽ chứng minh vai trò của bài tập về nhà → 'That said' (e) nhượng bộ một phần → 'therefore' (d) kết luận dung hòa. C sai vì 'this view' không có gì để quy chiếu; B tách lý lẽ b khỏi luận điểm c."
+        },
+        {
+          "no": 4,
+          "question": "a. Some experts blame social media, which trains young people to read short posts rather than long texts.\nb. Recent surveys suggest that teenagers are reading fewer books than they did twenty years ago.\nc. Others, however, point out that teenagers today actually read a great deal, only in different forms.\nd. If this is true, the real question is not how much young people read, but what and how they read.\ne. They argue that comics, blogs and online articles also count as reading.",
+          "options": { "A": "b – a – c – e – d", "B": "b – c – e – a – d", "C": "b – a – e – c – d", "D": "a – b – c – e – d" },
+          "answer": "A",
+          "explanation": "b nêu hiện tượng. 'Some experts' (a) đưa ra một cách giải thích → 'Others, however' (c) – 'Others' luôn đứng sau 'Some' → 'They argue' (e) = 'Others' ở c, giải thích thêm → 'If this is true' (d) kết luận dựa trên ý ở c–e."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đoạn văn giải thích, nhân quả",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful paragraph.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 5,
+          "question": "a. As a result, the roads become seriously overcrowded, especially during rush hours.\nb. This, in turn, increases air pollution and wastes millions of working hours every year.\nc. Over the past decade, the number of private motorbikes and cars in Ha Noi has risen sharply.\nd. To tackle these problems, the city has invested in public transport such as the metro and electric buses.\ne. Whether these measures succeed, however, depends largely on whether citizens are willing to change their travel habits.",
+          "options": { "A": "c – a – b – d – e", "B": "c – b – a – d – e", "C": "c – d – a – b – e", "D": "a – b – c – d – e" },
+          "answer": "A",
+          "explanation": "Chuỗi nhân quả: nguyên nhân (c) → 'As a result' (a) → 'This, in turn' (b) – 'This' = tình trạng quá tải ở a → 'these problems' (d) tóm lược a và b → 'these measures' (e) tóm lược giải pháp ở d."
+        },
+        {
+          "no": 6,
+          "question": "a. Bat Trang, for example, is famous for its ceramics, while Van Phuc is well known for silk.\nb. Unfortunately, such villages are now facing difficulties, as young people prefer to work in factories or offices.\nc. Around Ha Noi, there are many craft villages that have existed for hundreds of years.\nd. If nothing is done, many traditional skills may disappear forever.\ne. These products are not only sold locally but also exported to many countries.",
+          "options": { "A": "c – e – a – b – d", "B": "c – a – e – b – d", "C": "c – a – b – e – d", "D": "a – c – e – b – d" },
+          "answer": "B",
+          "explanation": "c là câu chủ đề → 'for example' (a) nêu Bát Tràng, Vạn Phúc → 'These products' (e) chỉ gốm và lụa ở a nên đứng ngay sau a → 'such villages' (b) chuyển sang khó khăn → d cảnh báo hậu quả. A sai vì 'These products' xuất hiện trước khi nêu sản phẩm."
+        },
+        {
+          "no": 7,
+          "question": "a. In autumn, however, the days become shorter and trees stop producing it.\nb. As the green colour fades, yellow and orange colours begin to appear.\nc. During spring and summer, leaves are green because they contain a substance called chlorophyll.\nd. This explains why the same tree can look so different from one season to the next.\ne. In fact, these colours have been in the leaves all summer, but the strong green had covered them.",
+          "options": { "A": "c – b – a – e – d", "B": "a – c – b – e – d", "C": "c – a – b – e – d", "D": "c – a – e – b – d" },
+          "answer": "C",
+          "explanation": "c nêu trạng thái mùa hè và giới thiệu 'chlorophyll' → 'it' ở a = chlorophyll, 'however' tương phản mùa thu với mùa hè → b: màu xanh nhạt dần, màu vàng cam xuất hiện → 'these colours' (e) = yellow and orange ở b → 'This explains why' (d) tổng kết. D sai vì 'these colours' đứng trước khi màu vàng cam được nhắc đến."
+        },
+        {
+          "no": 8,
+          "question": "a. Contrary to this popular belief, scientific studies have shown that goldfish can remember things for months.\nb. Many people believe that goldfish have a memory span of only three seconds.\nc. In some experiments, goldfish were trained to push a lever to get food, and they remembered the task for weeks or even months.\nd. Clearly, then, the 'three-second memory' is nothing more than a myth.\ne. So next time you see a goldfish, remember that it may be smarter than it looks.",
+          "options": { "A": "b – c – a – d – e", "B": "a – b – c – d – e", "C": "b – a – d – c – e", "D": "b – a – c – d – e" },
+          "answer": "D",
+          "explanation": "b nêu ngộ nhận → 'Contrary to this popular belief' (a) bác bỏ – 'this belief' = ý ở b → 'In some experiments' (c) là bằng chứng cho a → 'Clearly, then' (d) kết luận từ bằng chứng → e là lời nhắn cuối. C sai vì kết luận d đứng trước bằng chứng c."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Thư trang trọng và thư khuyên nhủ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "Dear Sir or Madam,\na. I am a Grade 9 student at Thanh Cong Secondary School, and I am fifteen years old.\nb. I am writing to apply for the position of volunteer tour guide which was advertised on your website.\nc. In addition, I took part in a volunteer programme at the Museum of Ethnology last summer, so I have some experience of working with visitors.\nd. I can speak English quite fluently, as I have studied it for eight years.\ne. I would be grateful if you could consider my application, and I look forward to hearing from you.\nYours faithfully,\nNguyen Van An",
+          "options": { "A": "b – d – a – c – e", "B": "b – a – c – d – e", "C": "a – d – b – c – e", "D": "b – a – d – c – e" },
+          "answer": "D",
+          "explanation": "Thư trang trọng mở bằng mục đích 'I am writing to apply for…' (b) → giới thiệu bản thân (a) → năng lực thứ nhất (d) → 'In addition' (c) bổ sung kinh nghiệm → lời đề nghị và kết thư (e). B sai vì 'In addition' đứng trước năng lực đầu tiên; C đặt năng lực trước cả mục đích viết thư."
+        },
+        {
+          "no": 10,
+          "question": "Dear Huong,\na. I'm sorry to hear that you're feeling stressed about the entrance exam.\nb. First of all, try to make a realistic timetable and stick to it.\nc. Most importantly, don't forget to get enough sleep, because a tired brain can't remember much.\nd. Here are a few tips that worked for me last year.\ne. You should also take short breaks and do some exercise to clear your mind.\nLove,\nThu",
+          "options": { "A": "a – b – d – e – c", "B": "a – d – b – e – c", "C": "d – a – b – e – c", "D": "a – d – e – b – c" },
+          "answer": "B",
+          "explanation": "Đồng cảm (a) → dẫn dắt 'Here are a few tips' (d) → 'First of all' (b) → 'also' (e) → 'Most importantly' (c) nhấn mạnh lời khuyên quan trọng nhất ở cuối. D sai vì 'also' đứng trước 'First of all'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "UNC Writing Center – Conclusions", "url": "https://writingcenter.unc.edu/tips-and-tools/conclusions/" },
+    { "title": "Purdue OWL – On Paragraphs", "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" },
+    { "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

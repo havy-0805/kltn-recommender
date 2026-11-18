@@ -1,0 +1,300 @@
+{
+  "material_id": "MAT_CD21",
+  "skill_id": "SK_WORD_FORM",
+  "title": "Chuyên đề Cấu tạo từ",
+  "target_level": 3,
+  "summary": "Hệ thống toàn diện cách cấu tạo từ (tiền tố, hậu tố, từ ghép) và các cặp từ dễ nhầm (economic/economical, sensible/sensitive, -ed/-ing, người/vật), giúp học sinh xử lý các câu chọn dạng từ phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Hậu tố tạo từ loại",
+      "points": [
+        "Danh từ: -tion/-sion (invention), -ment (development), -ness (kindness), -ity (ability), -ance/-ence (importance), -ism, -hood, -ship.",
+        "Danh từ chỉ người: -er/-or (inventor), -ist (scientist, conservationist), -ant/-ent (assistant, resident), -ian (musician), -ee (employee).",
+        "Tính từ: -ful, -less, -ous, -al, -ive, -able/-ible, -ic, -y, -ent/-ant, -ed/-ing.",
+        "Trạng từ: tính từ + -ly (patiently, proudly); động từ: -ise/-ize, -en, -ify (modernise, widen, beautify)."
+      ],
+      "examples": [
+        {
+          "en": "The invention of the telephone changed communication forever.",
+          "vi": "Phát minh ra điện thoại đã thay đổi việc liên lạc mãi mãi."
+        },
+        {
+          "en": "Alexander Graham Bell was a famous inventor.",
+          "vi": "Alexander Graham Bell là một nhà phát minh nổi tiếng."
+        }
+      ]
+    },
+    {
+      "heading": "Tiền tố phủ định và tiền tố khác",
+      "points": [
+        "un- (unhappy, unsupervised), in- (incorrect), im- trước p/m (impossible, impatient), il- trước l (illegal), ir- trước r (irregular), dis- (dissatisfied, dislike), non- (non-biodegradable).",
+        "Tiền tố khác: re- (làm lại: rebuild), over- (quá mức: overweight), under- (dưới mức: underpaid), mis- (sai: misunderstand), bio- (sinh học: biodegradable).",
+        "Mẹo chọn tiền tố phủ định: đọc cả câu để xem nghĩa cần khẳng định hay phủ định (\"complained about low salaries\" → dissatisfied)."
+      ],
+      "examples": [
+        {
+          "en": "It is illegal to ride a motorbike without a helmet.",
+          "vi": "Đi xe máy không đội mũ bảo hiểm là phạm luật."
+        },
+        {
+          "en": "The workers were dissatisfied with their low salaries.",
+          "vi": "Công nhân không hài lòng với mức lương thấp."
+        }
+      ]
+    },
+    {
+      "heading": "Các cặp từ cùng gốc dễ nhầm",
+      "points": [
+        "economic (thuộc về kinh tế) ≠ economical (tiết kiệm).",
+        "sensible (hợp lý, khôn ngoan) ≠ sensitive (nhạy cảm).",
+        "pollution (sự ô nhiễm) ≠ pollutant (chất gây ô nhiễm); conservation (sự bảo tồn) ≠ conservationist (nhà bảo tồn).",
+        "-ed (cảm xúc của người: confused) ≠ -ing (tính chất của sự việc: confusing)."
+      ],
+      "examples": [
+        {
+          "en": "Riding a bike is an economical way to travel.",
+          "vi": "Đi xe đạp là cách đi lại tiết kiệm."
+        },
+        {
+          "en": "Viet Nam has achieved rapid economic growth.",
+          "vi": "Việt Nam đã đạt được tăng trưởng kinh tế nhanh."
+        }
+      ]
+    },
+    {
+      "heading": "Vị trí từ loại trong câu",
+      "points": [
+        "Danh từ: sau mạo từ, tính từ sở hữu, lượng từ; làm chủ ngữ/tân ngữ; trước giới từ \"of\".",
+        "Tính từ: trước danh từ; sau be, become, feel, seem, look, get, keep, make + O.",
+        "Trạng từ: bổ nghĩa cho động từ (thường đứng sau động từ/tân ngữ), cho tính từ (surprisingly easy) hoặc cả câu.",
+        "Phân từ dùng như tính từ: unsupervised, well-paid, newly-built."
+      ],
+      "examples": [
+        {
+          "en": "She answered all the questions patiently.",
+          "vi": "Cô ấy kiên nhẫn trả lời tất cả các câu hỏi."
+        },
+        {
+          "en": "Young children should not be left unsupervised near water.",
+          "vi": "Không nên để trẻ nhỏ ở gần nước mà không có người trông."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Làm 2 bước: (1) xác định TỪ LOẠI cần điền theo vị trí; (2) xác định NGHĨA (khẳng định/phủ định, người/vật, -ed/-ing, cặp dễ nhầm).",
+    "Khi có 2 đáp án cùng từ loại (economic/economical, pollution/pollutant, invention/inventor), dịch nghĩa cả câu để loại.",
+    "Chú ý dấu hiệu nghĩa tiêu cực trong câu (low salaries, without, nobody, but) để chọn từ có tiền tố phủ định.",
+    "Danh từ đếm được số ít phải có mạo từ/từ hạn định; nếu chỗ trống đứng sau \"more\"/\"many\" thì cần danh từ số nhiều."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Cặp từ dễ nhầm và tiền tố",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The government is taking new measures to boost ______ growth in rural areas.",
+          "options": {
+            "A": "economical",
+            "B": "economically",
+            "C": "economy",
+            "D": "economic"
+          },
+          "answer": "D",
+          "explanation": "Trước danh từ \"growth\" cần tính từ mang nghĩa \"thuộc về kinh tế\" → \"economic\". \"economical\" nghĩa là tiết kiệm, không hợp nghĩa."
+        },
+        {
+          "no": 2,
+          "question": "My new car is very ______: it uses only four litres of petrol per 100 km.",
+          "options": {
+            "A": "economical",
+            "B": "economic",
+            "C": "economy",
+            "D": "economist"
+          },
+          "answer": "A",
+          "explanation": "\"uses only four litres\" cho thấy xe tiết kiệm nhiên liệu → \"economical\". \"economic\" nghĩa là thuộc về kinh tế."
+        },
+        {
+          "no": 3,
+          "question": "It was ______ of you to bring an umbrella. It's pouring now!",
+          "options": {
+            "A": "sensible",
+            "B": "senseless",
+            "C": "sensibility",
+            "D": "sensitive"
+          },
+          "answer": "A",
+          "explanation": "\"It is + adj + of sb\": khen hành động mang ô là khôn ngoan, hợp lý → \"sensible\". \"sensitive\" = nhạy cảm; \"senseless\" = vô nghĩa, ngớ ngẩn."
+        },
+        {
+          "no": 4,
+          "question": "The factory workers were ______ with their low salaries and went on strike.",
+          "options": {
+            "A": "satisfied",
+            "B": "satisfaction",
+            "C": "dissatisfied",
+            "D": "satisfying"
+          },
+          "answer": "C",
+          "explanation": "Sau \"were\" cần tính từ; ngữ cảnh \"low salaries\" và \"went on strike\" mang nghĩa tiêu cực → \"dissatisfied\" (không hài lòng)."
+        },
+        {
+          "no": 5,
+          "question": "In Viet Nam, it is ______ to ride a motorbike without a helmet.",
+          "options": {
+            "A": "illegally",
+            "B": "legal",
+            "C": "illegal",
+            "D": "legality"
+          },
+          "answer": "C",
+          "explanation": "Cấu trúc \"it is + adj + to V\"; \"without a helmet\" là hành vi vi phạm → \"illegal\". Tiền tố \"il-\" dùng trước gốc bắt đầu bằng \"l\"."
+        },
+        {
+          "no": 6,
+          "question": "Plastic bags are ______, so they stay in the environment for hundreds of years.",
+          "options": {
+            "A": "biodegradable",
+            "B": "degradation",
+            "C": "biodegradability",
+            "D": "non-biodegradable"
+          },
+          "answer": "D",
+          "explanation": "Sau \"are\" cần tính từ; \"stay... for hundreds of years\" (không phân hủy) → \"non-biodegradable\"."
+        },
+        {
+          "no": 7,
+          "question": "Young children should never be left ______ near swimming pools.",
+          "options": {
+            "A": "supervise",
+            "B": "supervisor",
+            "C": "unsupervised",
+            "D": "supervision"
+          },
+          "answer": "C",
+          "explanation": "Cấu trúc \"leave sb + adj/V3\": để trẻ ở trạng thái không có người trông → phân từ mang nghĩa phủ định \"unsupervised\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Người – vật, -ed – -ing và vị trí từ loại",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "The ______ of the Internet has completely changed the way students learn.",
+          "options": {
+            "A": "invent",
+            "B": "inventive",
+            "C": "invention",
+            "D": "inventor"
+          },
+          "answer": "C",
+          "explanation": "Sau \"The\" và trước \"of\" cần danh từ; chủ ngữ là sự vật làm thay đổi cách học → \"invention\" (phát minh), không phải \"inventor\" (người phát minh)."
+        },
+        {
+          "no": 9,
+          "question": "The ______ of the river by local factories has killed thousands of fish.",
+          "options": {
+            "A": "pollutant",
+            "B": "polluted",
+            "C": "pollute",
+            "D": "pollution"
+          },
+          "answer": "D",
+          "explanation": "Cần danh từ chỉ quá trình \"sự ô nhiễm\" → \"pollution\". \"pollutant\" là chất gây ô nhiễm, không đi được với \"of the river by local factories\"."
+        },
+        {
+          "no": 10,
+          "question": "We need more ______ like Ms Hoa to protect endangered animals in the national park.",
+          "options": {
+            "A": "conservationists",
+            "B": "conservative",
+            "C": "conservation",
+            "D": "conserve"
+          },
+          "answer": "A",
+          "explanation": "Sau \"more\" và có \"like Ms Hoa\" (chỉ người) → danh từ chỉ người số nhiều \"conservationists\" (nhà bảo tồn)."
+        },
+        {
+          "no": 11,
+          "question": "Although she was very tired, the nurse answered all the patients' questions ______.",
+          "options": {
+            "A": "patience",
+            "B": "patiently",
+            "C": "impatient",
+            "D": "patient"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho động từ \"answered\" cần trạng từ → \"patiently\". \"patient/impatient\" là tính từ, \"patience\" là danh từ."
+        },
+        {
+          "no": 12,
+          "question": "His explanation was so ______ that nobody in the class understood it.",
+          "options": {
+            "A": "confuse",
+            "B": "confusing",
+            "C": "confusion",
+            "D": "confused"
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ \"His explanation\" là sự việc gây khó hiểu → tính từ đuôi -ing \"confusing\". \"confused\" chỉ cảm xúc của người."
+        },
+        {
+          "no": 13,
+          "question": "The head teacher spoke ______ about the achievements of the school football team.",
+          "options": {
+            "A": "proudly",
+            "B": "pride",
+            "C": "prouder",
+            "D": "proud"
+          },
+          "answer": "A",
+          "explanation": "Bổ nghĩa cho động từ \"spoke\" cần trạng từ → \"proudly\" (một cách tự hào)."
+        },
+        {
+          "no": 14,
+          "question": "Her ______ to help others has made her the most popular student in our class.",
+          "options": {
+            "A": "willing",
+            "B": "willingness",
+            "C": "willingly",
+            "D": "unwilling"
+          },
+          "answer": "B",
+          "explanation": "Sau tính từ sở hữu \"Her\" và làm chủ ngữ cần danh từ → \"willingness\" (sự sẵn lòng)."
+        },
+        {
+          "no": 15,
+          "question": "The scientist has made several important ______ in the field of medicine.",
+          "options": {
+            "A": "discoverer",
+            "B": "discoveries",
+            "C": "discover",
+            "D": "discovery"
+          },
+          "answer": "B",
+          "explanation": "Sau \"several important\" cần danh từ đếm được số nhiều; \"make discoveries\" (có những phát hiện) → \"discoveries\". \"discovery\" là số ít nên sai sau \"several\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    },
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    }
+  ]
+}

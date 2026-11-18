@@ -1,0 +1,264 @@
+{
+  "material_id": "MAT_QUANT_03",
+  "skill_id": "SK_QUANTIFIER",
+  "title": "Lượng từ phân hóa nâng cao (Few, A few, Little, A little, None)",
+  "target_level": 3,
+  "summary": "Phân biệt tinh tế few/a few, little/a little, quite a few, only a few, very little và none/no để xử lý các câu bẫy dựa vào ngữ cảnh và sự hòa hợp chủ ngữ – động từ.",
+  "theory": [
+    {
+      "heading": "Few / a few, little / a little: quyết định bởi ngữ cảnh",
+      "points": [
+        "a few (+ N đếm được số nhiều), a little (+ N không đếm được): một ít, đủ dùng → nghĩa tích cực",
+        "few, little: rất ít, gần như không → nghĩa tiêu cực, thường đi với kết quả xấu",
+        "very few / very little: nhấn mạnh nghĩa tiêu cực (không có 'very a few')",
+        "only a few / only a little: chỉ một vài (cụm cố định luôn có 'a')"
+      ],
+      "examples": [
+        {
+          "en": "There's little hope of finding the lost dog now.",
+          "vi": "Giờ gần như không còn hy vọng tìm thấy con chó bị lạc."
+        },
+        {
+          "en": "Don't worry. We still have a little time, so we can stop for a drink.",
+          "vi": "Đừng lo, ta vẫn còn chút thời gian nên có thể dừng uống nước."
+        }
+      ]
+    },
+    {
+      "heading": "Quite a few / not many / not much",
+      "points": [
+        "quite a few = khá nhiều (nghĩa ngược với few)",
+        "Few + N = Not many + N; Little + N = Not much + N (câu viết lại tương đương)"
+      ],
+      "examples": [
+        {
+          "en": "Quite a few people came to the party – almost forty!",
+          "vi": "Khá nhiều người đến dự tiệc – gần bốn mươi người!"
+        },
+        {
+          "en": "Few people know about this beach. = Not many people know about this beach.",
+          "vi": "Rất ít người biết bãi biển này."
+        }
+      ]
+    },
+    {
+      "heading": "None, no, none of",
+      "points": [
+        "no + danh từ: There was no answer.",
+        "none đứng một mình (đại từ) hoặc none of + the/my/them...: không ai, không cái nào (từ 3 trở lên)",
+        "none of + N không đếm được → động từ số ít (None of the water is safe)",
+        "few/a few of + N đếm được; little/a little of + N không đếm được (có 'the/this...' phía trước danh từ)"
+      ],
+      "examples": [
+        {
+          "en": "I invited five friends, but none of them came.",
+          "vi": "Tôi mời năm người bạn nhưng không ai đến."
+        },
+        {
+          "en": "None of the water in this river is safe to drink.",
+          "vi": "Không chỗ nước nào ở con sông này uống được."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc hết câu trước khi chọn: vế sau tích cực (so we can..., enough) → a few/a little; tiêu cực (so..., can't, disappointed, buy more) → few/little.",
+    "Có 'only' hoặc 'quite' trước chỗ trống → gần như chắc chắn cần 'a few/a little'. Có 'very' → 'few/little'.",
+    "Kiểm tra danh từ: information, water, hope, time, money là không đếm được → loại few/a few.",
+    "Chỗ trống đứng trước 'of + the/them' → dùng none, không dùng no."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Only ______ students passed the final test, so the teacher decided to give an extra class.",
+          "options": {
+            "A": "few",
+            "B": "a few",
+            "C": "a little",
+            "D": "little"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định 'only a few' + danh từ đếm được số nhiều 'students'."
+        },
+        {
+          "no": 2,
+          "question": "There's ______ hope of finding survivors now; the rescue team is about to stop searching.",
+          "options": {
+            "A": "a little",
+            "B": "a few",
+            "C": "little",
+            "D": "few"
+          },
+          "answer": "C",
+          "explanation": "'hope' không đếm được; đội cứu hộ sắp dừng → nghĩa tiêu cực 'little'."
+        },
+        {
+          "no": 3,
+          "question": "Don't worry. We still have ______ time, so we can stop for a coffee.",
+          "options": {
+            "A": "few",
+            "B": "little",
+            "C": "a few",
+            "D": "a little"
+          },
+          "answer": "D",
+          "explanation": "'time' không đếm được; 'so we can stop' cho thấy còn đủ thời gian → 'a little'."
+        },
+        {
+          "no": 4,
+          "question": "Quite ______ people came to the party – almost forty!",
+          "options": {
+            "A": "few",
+            "B": "little",
+            "C": "a few",
+            "D": "a little"
+          },
+          "answer": "C",
+          "explanation": "'quite a few' = khá nhiều, đi với danh từ đếm được 'people', phù hợp 'almost forty'."
+        },
+        {
+          "no": 5,
+          "question": "I invited five friends to my birthday party, but ______ of them came.",
+          "options": {
+            "A": "no",
+            "B": "none",
+            "C": "any",
+            "D": "nothing"
+          },
+          "answer": "B",
+          "explanation": "Trước 'of them' với nhóm hơn hai người và nghĩa phủ định → 'none'. 'no' phải đi thẳng với danh từ."
+        },
+        {
+          "no": 6,
+          "question": "He has ______ money, so he can't afford a new bike.",
+          "options": {
+            "A": "very little",
+            "B": "very few",
+            "C": "a few",
+            "D": "a little"
+          },
+          "answer": "A",
+          "explanation": "'money' không đếm được; 'can't afford' → nghĩa tiêu cực 'very little'."
+        },
+        {
+          "no": 7,
+          "question": "______ of the water in this river is safe to drink.",
+          "options": {
+            "A": "Few",
+            "B": "Neither",
+            "C": "No",
+            "D": "None"
+          },
+          "answer": "D",
+          "explanation": "None of + N không đếm được + động từ số ít 'is'. 'No' không đi với 'of'; 'Few' cần danh từ đếm được; 'Neither' chỉ dùng cho hai đối tượng."
+        },
+        {
+          "no": 8,
+          "question": "The town has changed so much that very ______ of the old buildings remain.",
+          "options": {
+            "A": "much",
+            "B": "a few",
+            "C": "little",
+            "D": "few"
+          },
+          "answer": "D",
+          "explanation": "'buildings' đếm được và có 'very' → 'very few'. Không có cấu trúc 'very a few'."
+        },
+        {
+          "no": 9,
+          "question": "She speaks ______ Japanese, so she can read simple signs in Tokyo.",
+          "options": {
+            "A": "a few",
+            "B": "little",
+            "C": "a little",
+            "D": "few"
+          },
+          "answer": "C",
+          "explanation": "Ngôn ngữ là danh từ không đếm được; 'can read simple signs' → nghĩa tích cực 'a little'."
+        },
+        {
+          "no": 10,
+          "question": "There is very ______ milk in the fridge. Can you buy some more?",
+          "options": {
+            "A": "a little",
+            "B": "little",
+            "C": "few",
+            "D": "a few"
+          },
+          "answer": "B",
+          "explanation": "'milk' không đếm được, có 'very' và cần mua thêm → 'very little'."
+        },
+        {
+          "no": 11,
+          "question": "There was ______ answer when I knocked on the door.",
+          "options": {
+            "A": "no",
+            "B": "any",
+            "C": "few",
+            "D": "none"
+          },
+          "answer": "A",
+          "explanation": "no + danh từ: 'no answer'. 'none' là đại từ, không đứng trước danh từ; 'any' không dùng trong câu khẳng định với nghĩa này."
+        },
+        {
+          "no": 12,
+          "question": "Of all the applicants, ______ was suitable, so the job was advertised again.",
+          "options": {
+            "A": "few",
+            "B": "no",
+            "C": "a few",
+            "D": "none"
+          },
+          "answer": "D",
+          "explanation": "Đại từ đứng một mình, động từ số ít 'was', nghĩa không ai phù hợp → 'none'. few/a few cần động từ số nhiều."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai và viết lại câu",
+      "instructions": "Choose the option that needs correction, or the sentence closest in meaning.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "Find the mistake: (A) Few of the (B) information on that website (C) is (D) reliable.",
+          "options": {
+            "A": "Few",
+            "B": "information",
+            "C": "is",
+            "D": "reliable"
+          },
+          "answer": "A",
+          "explanation": "'information' không đếm được → sửa 'Few' thành 'Little'."
+        },
+        {
+          "no": 14,
+          "question": "Not many people know about this beach.",
+          "options": {
+            "A": "Few people know about this beach.",
+            "B": "A little people know about this beach.",
+            "C": "Little people know about this beach.",
+            "D": "A few people know about this beach."
+          },
+          "answer": "A",
+          "explanation": "Not many = few (rất ít, nghĩa tiêu cực). 'a few' mang nghĩa tích cực; little/a little không đi với 'people'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Quantifiers: few, a few, little and a bit of",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=3"
+    },
+    {
+      "title": "englisch-hilfen.de – Quantifiers",
+      "url": "https://www.englisch-hilfen.de/en/grammar_list/mengen.htm"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "material_id": "MAT_CD25",
+  "skill_id": "SK_ERROR_CORRECTION",
+  "title": "Chuyên đề Tìm và sửa lỗi sai",
+  "target_level": 3,
+  "summary": "Tổng hợp toàn diện dạng tìm và sửa lỗi sai: thì, hòa hợp chủ vị, từ loại, giới từ, liên từ, cấu trúc song song, mệnh đề quan hệ, so sánh, đảo ngữ và các cấu trúc câu đặc biệt – kèm quy trình rà lỗi cho câu phân hóa.",
+  "theory": [
+    {
+      "heading": "Quy trình 4 bước rà lỗi",
+      "points": [
+        "Bước 1: Tìm chủ ngữ thật và động từ chính; kiểm tra thì và sự hòa hợp",
+        "Bước 2: Kiểm tra từ loại ở vị trí được đánh dấu (tính từ/trạng từ/danh từ)",
+        "Bước 3: Kiểm tra giới từ, liên từ, đại từ quan hệ",
+        "Bước 4: Kiểm tra cấu trúc đặc biệt: song song, so sánh, đảo ngữ, câu ước, too/enough, so/such, used to, câu hỏi đuôi"
+      ],
+      "examples": [
+        {
+          "en": "Each of the houses in this street has its own garden.",
+          "vi": "Mỗi ngôi nhà trên con phố này đều có vườn riêng."
+        }
+      ]
+    },
+    {
+      "heading": "Cấu trúc song song và cấu trúc động từ",
+      "points": [
+        "Các thành phần nối bằng and/or/but phải cùng dạng: reading, swimming and playing",
+        "suggest + V-ing / suggest that S (should) V; used to + V nguyên mẫu; be used to + V-ing",
+        "adj + enough + to V (clever enough); too + adj + to V; so + adj/adv + that; such + (a/an) + adj + N + that"
+      ],
+      "examples": [
+        {
+          "en": "She likes reading, swimming and playing badminton.",
+          "vi": "Cô ấy thích đọc sách, bơi và chơi cầu lông."
+        },
+        {
+          "en": "It was such a boring film that we left early.",
+          "vi": "Đó là một bộ phim chán đến mức chúng tôi bỏ về sớm."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề quan hệ, so sánh, câu ước, câu điều kiện",
+      "points": [
+        "who/whom cho người, which cho vật; rút gọn: V-ing (chủ động), V3 (bị động)",
+        "So sánh nhất: the most + adj dài / the adj-est; \"the … I have ever …\" là dấu hiệu so sánh nhất",
+        "Ước ở hiện tại: S + wish + S + V2/could + V",
+        "Điều kiện loại 2: If + V2/were, S + would + V; ít, vài: a few + N đếm được, a little + N không đếm được"
+      ],
+      "examples": [
+        {
+          "en": "I wish I could speak English as fluently as my teacher.",
+          "vi": "Tôi ước tôi có thể nói tiếng Anh trôi chảy như cô giáo."
+        },
+        {
+          "en": "The man who I met yesterday is a doctor.",
+          "vi": "Người đàn ông tôi gặp hôm qua là bác sĩ."
+        }
+      ]
+    },
+    {
+      "heading": "Đảo ngữ và câu hỏi đuôi",
+      "points": [
+        "Hardly/Seldom/Never đứng đầu câu → đảo trợ động từ lên trước chủ ngữ: Hardly had she finished … when …",
+        "Câu có từ phủ định (rarely, seldom, never, hardly) → câu hỏi đuôi ở dạng khẳng định: She rarely goes out, does she?"
+      ],
+      "examples": [
+        {
+          "en": "Hardly had she finished her speech when the audience started clapping.",
+          "vi": "Cô ấy vừa phát biểu xong thì khán giả vỗ tay."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Không đọc vội 4 phần được đánh dấu; đọc cả câu trước để nắm cấu trúc lớn (đảo ngữ? so sánh? câu ước?).",
+    "Với các từ phủ định ẩn (rarely, seldom, hardly, never) hãy nghĩ ngay tới đảo ngữ và câu hỏi đuôi khẳng định.",
+    "Câu bẫy thường có lỗi ở chỗ \"trông quen\": despite of, suggest to do, enough + adj, so + a + adj + N.",
+    "Sau khi chọn, thử sửa và đọc lại cả câu; nếu câu vẫn còn sai ở chỗ khác thì có thể bạn đã chọn nhầm."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Lỗi về cấu trúc câu",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "In her free time, she likes (A) reading, (B) to swim and (C) playing badminton (D) with friends.",
+          "options": {
+            "A": "reading",
+            "B": "to swim",
+            "C": "playing",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc song song: các hoạt động nối bằng \"and\" cùng dạng V-ing → \"swimming\"."
+        },
+        {
+          "no": 2,
+          "question": "Last night, (A) after dinner, my brother (B) suggested (C) to go (D) to the cinema.",
+          "options": {
+            "A": "after dinner",
+            "B": "suggested",
+            "C": "to go",
+            "D": "to the cinema"
+          },
+          "answer": "C",
+          "explanation": "\"suggest\" không đi với to V → \"suggested going\" (hoặc suggested that we should go)."
+        },
+        {
+          "no": 3,
+          "question": "The students in my class (A) were (B) enough clever (C) to solve (D) the difficult problem.",
+          "options": {
+            "A": "were",
+            "B": "enough clever",
+            "C": "to solve",
+            "D": "the difficult problem"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc \"adj + enough + to V\" → \"clever enough\"."
+        },
+        {
+          "no": 4,
+          "question": "It was (A) so a boring film (B) that we (C) left the cinema (D) before it ended.",
+          "options": {
+            "A": "so a boring film",
+            "B": "that",
+            "C": "left",
+            "D": "before"
+          },
+          "answer": "A",
+          "explanation": "Trước \"a + adj + N\" dùng \"such\": \"such a boring film\"."
+        },
+        {
+          "no": 5,
+          "question": "My father (A) used to (B) smoking a lot, but he (C) gave it up (D) two years ago.",
+          "options": {
+            "A": "used to",
+            "B": "smoking",
+            "C": "gave it up",
+            "D": "two years ago"
+          },
+          "answer": "B",
+          "explanation": "\"used to + V nguyên mẫu\" (thói quen trong quá khứ) → \"smoke\". \"be used to + V-ing\" mới mang nghĩa quen với."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Lỗi về mệnh đề và từ loại",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 6,
+          "question": "The doctor (A) which I met (B) at the hospital yesterday (C) is (D) my father's friend.",
+          "options": {
+            "A": "which",
+            "B": "at the hospital",
+            "C": "is",
+            "D": "my father's friend"
+          },
+          "answer": "A",
+          "explanation": "Danh từ chỉ người (The doctor) dùng \"who/whom/that\", không dùng \"which\". Các phần còn lại đúng: \"is\" hợp với chủ ngữ số ít \"The doctor\", \"my father's friend\" là sở hữu cách đúng."
+        },
+        {
+          "no": 7,
+          "question": "Of all the books I (A) have read, (B) this is (C) the more (D) interesting one.",
+          "options": {
+            "A": "have read",
+            "B": "this is",
+            "C": "the more",
+            "D": "interesting"
+          },
+          "answer": "C",
+          "explanation": "\"Of all the books\" (trong số tất cả) là dấu hiệu so sánh nhất → \"the most interesting\"."
+        },
+        {
+          "no": 8,
+          "question": "The novel (A) writing by this author (B) has been translated (C) into (D) many languages.",
+          "options": {
+            "A": "writing",
+            "B": "has been translated",
+            "C": "into",
+            "D": "many"
+          },
+          "answer": "A",
+          "explanation": "Cuốn tiểu thuyết \"được viết\" (bị động) → rút gọn bằng quá khứ phân từ \"written\"."
+        },
+        {
+          "no": 9,
+          "question": "(A) At the moment, there (B) are only (C) a little students (D) in the classroom.",
+          "options": {
+            "A": "At the moment",
+            "B": "are only",
+            "C": "a little",
+            "D": "in the classroom"
+          },
+          "answer": "C",
+          "explanation": "\"students\" là danh từ đếm được số nhiều → \"a few\", không dùng \"a little\"."
+        },
+        {
+          "no": 10,
+          "question": "They (A) continued the match (B) as planned (C) despite of (D) the heavy rain.",
+          "options": {
+            "A": "continued the match",
+            "B": "as planned",
+            "C": "despite of",
+            "D": "the heavy rain"
+          },
+          "answer": "C",
+          "explanation": "\"Despite\" không đi với \"of\" → \"Despite\" hoặc \"In spite of\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Lỗi về đảo ngữ, câu ước, câu điều kiện, câu hỏi đuôi",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Hardly (A) she had finished (B) her speech (C) when the audience (D) started clapping.",
+          "options": {
+            "A": "she had finished",
+            "B": "her speech",
+            "C": "when",
+            "D": "started"
+          },
+          "answer": "A",
+          "explanation": "Hardly đứng đầu câu → đảo ngữ \"Hardly had she finished … when …\"."
+        },
+        {
+          "no": 12,
+          "question": "My teacher speaks English (A) so fluently (B) that I wish I (C) can speak (D) like her.",
+          "options": {
+            "A": "so fluently",
+            "B": "that",
+            "C": "can speak",
+            "D": "like"
+          },
+          "answer": "C",
+          "explanation": "Câu ước ở hiện tại: wish + S + could/V2 → \"could speak\"."
+        },
+        {
+          "no": 13,
+          "question": "If I (A) were you, I (B) will (C) apologise to her (D) immediately.",
+          "options": {
+            "A": "were",
+            "B": "will",
+            "C": "apologise to",
+            "D": "immediately"
+          },
+          "answer": "B",
+          "explanation": "Câu điều kiện loại 2 (If I were you) → mệnh đề chính dùng \"would\"."
+        },
+        {
+          "no": 14,
+          "question": "Lan (A) rarely (B) goes to the cinema (C) at weekends, (D) doesn't she?",
+          "options": {
+            "A": "rarely",
+            "B": "goes",
+            "C": "at weekends",
+            "D": "doesn't she"
+          },
+          "answer": "D",
+          "explanation": "\"rarely\" mang nghĩa phủ định → câu hỏi đuôi khẳng định: \"does she?\"."
+        },
+        {
+          "no": 15,
+          "question": "Each of the (A) houses in this street (B) have (C) its own garden (D) and garage.",
+          "options": {
+            "A": "houses",
+            "B": "have",
+            "C": "its own garden",
+            "D": "and"
+          },
+          "answer": "B",
+          "explanation": "\"Each of + N số nhiều\" → động từ số ít: \"has\". Đại từ \"its\" ở sau cũng xác nhận chủ ngữ số ít."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – Dạng bài Tìm lỗi sai (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-tim-loi-sai-cd2025.jsp"
+    },
+    {
+      "title": "VietNamNet – Thi lớp 10 tại Hà Nội: 8 lỗi sai thí sinh hay mắc trong bài thi môn Tiếng Anh",
+      "url": "https://vietnamnet.vn/thi-lop-10-tai-ha-noi-8-loi-sai-thi-sinh-hay-mac-trong-bai-thi-mon-tieng-anh-2287524.html"
+    },
+    {
+      "title": "British Council LearnEnglish – Participle clauses",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/participle-clauses"
+    }
+  ]
+}

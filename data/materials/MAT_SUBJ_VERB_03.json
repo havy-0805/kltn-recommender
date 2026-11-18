@@ -1,0 +1,247 @@
+{
+  "material_id": "MAT_SUBJ_VERB_03",
+  "skill_id": "SK_SUBJECT_VERB",
+  "title": "Quy tắc hòa hợp đặc biệt (Either...or, Neither...nor, Along with, danh từ tập hợp)",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các trường hợp hòa hợp chủ ngữ – động từ dễ gây nhầm lẫn: Either...or, Neither...nor, Not only...but also, chủ ngữ có As well as/Along with/Together with, Both...and và danh từ tập hợp – dạng câu phân hóa điểm cao.",
+  "theory": [
+    {
+      "heading": "Quy tắc 'gần nhất': Either...or, Neither...nor, Not only...but also, Or",
+      "points": [
+        "Either S1 or S2 / Neither S1 nor S2 / Not only S1 but also S2 + V chia theo S2 (chủ ngữ gần động từ nhất).",
+        "Neither you nor I am...; Either the teacher or the students are...; Not only the students but also the teacher is...",
+        "Both S1 and S2 + V số nhiều (luôn luôn)."
+      ],
+      "examples": [
+        {
+          "en": "Neither my parents nor my sister likes spicy food.",
+          "vi": "Cả bố mẹ tôi lẫn chị tôi đều không thích đồ cay."
+        },
+        {
+          "en": "Both Lan and Mai are good at drawing.",
+          "vi": "Cả Lan và Mai đều vẽ giỏi."
+        }
+      ]
+    },
+    {
+      "heading": "Quy tắc 'chủ ngữ thứ nhất': As well as, Along with, Together with...",
+      "points": [
+        "S1 + as well as / along with / together with / with / accompanied by / in addition to / including / rather than + S2 + V chia theo S1.",
+        "Cụm nối này thường được tách bằng dấu phẩy và KHÔNG làm chủ ngữ thành số nhiều như 'and'.",
+        "Phân biệt: Tom and his friends ARE...; Tom, along with his friends, IS..."
+      ],
+      "examples": [
+        {
+          "en": "The teacher, along with her students, is visiting the museum.",
+          "vi": "Cô giáo cùng với học sinh đang tham quan bảo tàng."
+        },
+        {
+          "en": "The students, as well as the teacher, are visiting the museum.",
+          "vi": "Các học sinh cũng như cô giáo đang tham quan bảo tàng."
+        }
+      ]
+    },
+    {
+      "heading": "Danh từ tập hợp và Each of / Neither of",
+      "points": [
+        "Danh từ tập hợp (family, team, class, committee, group, audience, crowd) + V số ít khi xem cả nhóm là một khối; + V số nhiều khi nhấn mạnh từng thành viên (phổ biến trong tiếng Anh – Anh).",
+        "Dấu hiệu quyết định: đại từ đi kèm trong câu – 'its' → số ít; 'their/themselves' (hành động riêng của từng người) → số nhiều.",
+        "Each of / Neither of / Either of / None of + N số nhiều + V số ít (trong đề thi chuẩn)."
+      ],
+      "examples": [
+        {
+          "en": "The committee has made its final decision.",
+          "vi": "Ủy ban đã đưa ra quyết định cuối cùng (cả ủy ban như một khối)."
+        },
+        {
+          "en": "Each of the players has a different number on his shirt.",
+          "vi": "Mỗi cầu thủ có một số áo khác nhau."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gặp or/nor/but also → nhìn chủ ngữ ĐỨNG GẦN động từ nhất.",
+    "Gặp as well as/along with/together with (thường kẹp giữa hai dấu phẩy) → che phần đó đi, chia theo chủ ngữ đầu.",
+    "Both...and luôn số nhiều; Each of/Neither of + N số nhiều vẫn chia số ít.",
+    "Với danh từ tập hợp, tìm đại từ 'its' hoặc 'their/themselves' trong câu để quyết định số ít hay số nhiều."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Either the students or the teacher ______ going to clean the classroom today.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have been",
+            "D": "were"
+          },
+          "answer": "A",
+          "explanation": "Either...or: động từ chia theo chủ ngữ gần nhất 'the teacher' (số ít); 'today' + kế hoạch → is going to."
+        },
+        {
+          "no": 2,
+          "question": "Neither my brother nor my parents ______ interested in classical music.",
+          "options": {
+            "A": "was",
+            "B": "is",
+            "C": "has been",
+            "D": "are"
+          },
+          "answer": "D",
+          "explanation": "Neither...nor: chia theo chủ ngữ gần nhất 'my parents' (số nhiều) → are."
+        },
+        {
+          "no": 3,
+          "question": "Mr Nam, together with his two sons, ______ fishing every Sunday.",
+          "options": {
+            "A": "are going",
+            "B": "go",
+            "C": "have gone",
+            "D": "goes"
+          },
+          "answer": "D",
+          "explanation": "S1 + together with + S2: chia theo S1 'Mr Nam' (số ít); 'every Sunday' → hiện tại đơn: goes."
+        },
+        {
+          "no": 4,
+          "question": "Not only the children but also their mother ______ the new film.",
+          "options": {
+            "A": "are enjoying",
+            "B": "enjoys",
+            "C": "have enjoyed",
+            "D": "enjoy"
+          },
+          "answer": "B",
+          "explanation": "Not only...but also: chia theo chủ ngữ gần nhất 'their mother' (số ít) → enjoys."
+        },
+        {
+          "no": 5,
+          "question": "Both the headmaster and the teachers ______ at the meeting yesterday.",
+          "options": {
+            "A": "has been",
+            "B": "were",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Both...and luôn đi với động từ số nhiều; 'yesterday' → quá khứ: were."
+        },
+        {
+          "no": 6,
+          "question": "The singer, accompanied by her dancers, ______ on stage now.",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "have",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "S1 + accompanied by + S2: chia theo S1 'The singer' (số ít); 'now' → is."
+        },
+        {
+          "no": 7,
+          "question": "Neither you nor I ______ responsible for the mistake.",
+          "options": {
+            "A": "be",
+            "B": "am",
+            "C": "are",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "Neither...nor: chia theo chủ ngữ gần nhất 'I' → am."
+        },
+        {
+          "no": 8,
+          "question": "The committee ______ announced its decision to build a new library.",
+          "options": {
+            "A": "have",
+            "B": "were",
+            "C": "are",
+            "D": "has"
+          },
+          "answer": "D",
+          "explanation": "Đại từ 'its' cho thấy ủy ban được xem như một khối → động từ số ít: has announced."
+        },
+        {
+          "no": 9,
+          "question": "The family ______ always arguing among themselves about where to go on holiday.",
+          "options": {
+            "A": "are",
+            "B": "was being",
+            "C": "is",
+            "D": "has"
+          },
+          "answer": "A",
+          "explanation": "'among themselves' nhấn mạnh từng thành viên tranh cãi với nhau → danh từ tập hợp dùng động từ số nhiều: are."
+        },
+        {
+          "no": 10,
+          "question": "Each of the rooms in the hotel ______ a beautiful view of the sea.",
+          "options": {
+            "A": "are having",
+            "B": "has",
+            "C": "were having",
+            "D": "have"
+          },
+          "answer": "B",
+          "explanation": "Each of + N số nhiều → động từ số ít: has."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Find the mistake: (A) The manager, as well as (B) his assistants, (C) are going to (D) attend the conference.",
+          "options": {
+            "A": "The manager",
+            "B": "his assistants",
+            "C": "are",
+            "D": "attend"
+          },
+          "answer": "C",
+          "explanation": "S1 + as well as + S2: chia theo S1 'The manager' (số ít): 'are' sửa thành 'is'."
+        },
+        {
+          "no": 12,
+          "question": "Find the mistake: (A) Either my aunt or (B) my cousins (C) is coming (D) to stay with us this weekend.",
+          "options": {
+            "A": "Either",
+            "B": "my cousins",
+            "C": "is coming",
+            "D": "to stay"
+          },
+          "answer": "C",
+          "explanation": "Either...or: chia theo chủ ngữ gần nhất 'my cousins' (số nhiều): 'is coming' sửa thành 'are coming'."
+        },
+        {
+          "no": 13,
+          "question": "Find the mistake: (A) Neither of the two (B) answers (C) are correct, (D) so try again.",
+          "options": {
+            "A": "Neither of",
+            "B": "answers",
+            "C": "are",
+            "D": "so"
+          },
+          "answer": "C",
+          "explanation": "Neither of + N số nhiều → động từ số ít trong văn phong chuẩn của đề thi: 'are' sửa thành 'is'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Purdue OWL – Making Subjects and Verbs Agree",
+      "url": "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html"
+    }
+  ]
+}

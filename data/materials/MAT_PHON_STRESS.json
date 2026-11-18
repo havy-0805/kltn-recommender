@@ -1,0 +1,281 @@
+{
+  "material_id": "MAT_PHON_STRESS",
+  "skill_id": "SK_PHON_STRESS",
+  "title": "Bí quyết Chinh phục bài tập Trọng âm",
+  "target_level": 2,
+  "summary": "Trang bị quy trình 3 bước và các quy tắc theo hậu tố (-tion, -ic, -ity, -ian, -al, -ous, -ee/-eer/-ese) để học sinh giải nhanh dạng câu trọng âm 2–3 âm tiết thường gặp trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Quy trình 3 bước giải câu trọng âm",
+      "points": [
+        "Bước 1: đếm số âm tiết và xác định từ loại của cả 4 từ.",
+        "Bước 2: tìm dấu hiệu nhận biết (hậu tố, tiền tố, từ ghép, cặp danh từ – động từ).",
+        "Bước 3: áp quy tắc rồi soát ngoại lệ quen thuộc. Từ \"lệch nhóm\" chính là đáp án."
+      ],
+      "examples": [
+        {
+          "en": "pollution /pəˈluːʃn/ – disaster /dɪˈzɑːstə/ – recycle /ˌriːˈsaɪkl/ – energy /ˈenədʒi/",
+          "vi": "Ba từ nhấn âm 2, riêng energy nhấn âm 1."
+        }
+      ]
+    },
+    {
+      "heading": "Hậu tố làm trọng âm rơi vào âm tiết NGAY TRƯỚC nó",
+      "points": [
+        "-tion, -sion, -ic, -ical, -ian, -ial, -ity, -ious, -ient, -logy, -graphy: compeˈtition, ecoˈnomic, muˈsician, aˈbility, geˈography.",
+        "Ngoại lệ hay gặp: ˈpolitics, ˈArabic, ˈcatholic, ˈlunatic (nhấn âm 1)."
+      ],
+      "examples": [
+        {
+          "en": "My cousin is a talented musician /mjuˈzɪʃn/.",
+          "vi": "Anh họ tôi là một nhạc sĩ tài năng."
+        },
+        {
+          "en": "Electricity /ɪˌlekˈtrɪsəti/ is expensive in summer.",
+          "vi": "Tiền điện vào mùa hè đắt đỏ."
+        }
+      ]
+    },
+    {
+      "heading": "Hậu tố tự nhận trọng âm và hậu tố không làm đổi trọng âm",
+      "points": [
+        "Đuôi nhận trọng âm: -ee, -eer, -ese, -ique, -esque, -oo, -oon, -ain (động từ): engiˈneer, volunˈteer, Japaˈnese, uˈnique.",
+        "Ngoại lệ: comˈmittee, ˈcoffee (không nhấn vào -ee).",
+        "Hậu tố không làm đổi trọng âm của gốc: -ful, -less, -ness, -ment, -er, -ous, -al, -ly, -able: ˈnation → ˈnational, ˈdanger → ˈdangerous, enˈjoy → enˈjoyable.",
+        "Khi -al gắn sau từ đã có hậu tố khác, trọng âm vẫn giữ như từ gốc: traˈdition → traˈditional, ˈmusic → ˈmusical."
+      ],
+      "examples": [
+        {
+          "en": "He wants to be an engineer /ˌendʒɪˈnɪə/.",
+          "vi": "Cậu ấy muốn trở thành kỹ sư."
+        },
+        {
+          "en": "Tet is a traditional /trəˈdɪʃənl/ festival.",
+          "vi": "Tết là một lễ hội truyền thống."
+        }
+      ]
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "points": [
+        "Chữ \"un-\" không phải lúc nào cũng là tiền tố: ˈuniform, ˈuniverse nhấn âm 1, khác với unˈhappy, unˈtidy.",
+        "Cặp danh từ – động từ cùng chữ viết: danh từ nhấn âm 1 (ˈpermit, ˈrecord), động từ nhấn âm 2 (perˈmit, reˈcord). Đọc kĩ nhãn (n)/(v).",
+        "Động từ 2 âm tiết nhấn âm 1: ˈenter, ˈtravel, ˈborrow, ˈvisit, ˈlisten."
+      ],
+      "examples": [
+        {
+          "en": "Students must wear school uniform /ˈjuːnɪfɔːm/.",
+          "vi": "Học sinh phải mặc đồng phục."
+        },
+        {
+          "en": "My room is always untidy /ʌnˈtaɪdi/.",
+          "vi": "Phòng tôi lúc nào cũng bừa bộn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Luôn đếm âm tiết trước. Cùng là \"nhấn âm 2\" nhưng từ 2 âm tiết và từ 4 âm tiết cho cảm giác rất khác, dễ đếm nhầm.",
+    "Nhìn hậu tố trước tiên: -tion/-ic/-ity/-ian → âm ngay trước đuôi; -ee/-eer/-ese/-oon → nhấn vào đuôi.",
+    "Âm /ə/ không bao giờ mang trọng âm. Nếu một âm tiết có chữ cái đọc yếu (po-, pro-, a-, -er), loại nó khỏi vị trí trọng âm.",
+    "Khi ba từ theo một quy tắc rõ ràng, từ còn lại gần như chắc chắn là ngoại lệ. Hãy tin vào quy tắc thay vì cảm giác đọc."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Trọng âm theo từ loại và hậu tố",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word that differs from the other three in the position of primary stress: purchase, prevent, provide, protect",
+          "options": {
+            "A": "purchase",
+            "B": "prevent",
+            "C": "provide",
+            "D": "protect"
+          },
+          "answer": "A",
+          "explanation": "purchase /ˈpɜːtʃəs/ nhấn âm 1. Các động từ còn lại có tiền tố pro-/pre- đọc yếu nên nhấn âm 2: protect /prəˈtekt/, provide /prəˈvaɪd/, prevent /prɪˈvent/."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word that differs from the other three in the position of primary stress: disaster, energy, pollution, recycle",
+          "options": {
+            "A": "disaster",
+            "B": "energy",
+            "C": "pollution",
+            "D": "recycle"
+          },
+          "answer": "B",
+          "explanation": "energy /ˈenədʒi/ nhấn âm 1. Các từ còn lại nhấn âm 2: pollution /pəˈluːʃn/, recycle /ˌriːˈsaɪkl/, disaster /dɪˈzɑːstə/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word that differs from the other three in the position of primary stress: comedian, musician, librarian, character",
+          "options": {
+            "A": "comedian",
+            "B": "musician",
+            "C": "librarian",
+            "D": "character"
+          },
+          "answer": "D",
+          "explanation": "character /ˈkærəktə/ nhấn âm 1. Các từ đuôi -ian nhấn âm ngay trước đuôi (âm 2): musician /mjuˈzɪʃn/, librarian /laɪˈbreəriən/, comedian /kəˈmiːdiən/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word that differs from the other three in the position of primary stress: electric, politics, dramatic, fantastic",
+          "options": {
+            "A": "electric",
+            "B": "politics",
+            "C": "dramatic",
+            "D": "fantastic"
+          },
+          "answer": "B",
+          "explanation": "politics /ˈpɒlətɪks/ là ngoại lệ của đuôi -ic(s), nhấn âm 1. Các từ còn lại nhấn âm ngay trước -ic (âm 2): electric /ɪˈlektrɪk/, fantastic /fænˈtæstɪk/, dramatic /drəˈmætɪk/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word that differs from the other three in the position of primary stress: volunteer, committee, Japanese, engineer",
+          "options": {
+            "A": "volunteer",
+            "B": "committee",
+            "C": "Japanese",
+            "D": "engineer"
+          },
+          "answer": "B",
+          "explanation": "committee /kəˈmɪti/ là ngoại lệ, nhấn âm 2. Các từ có đuôi -eer, -ese nhận trọng âm ở đuôi (âm 3): engineer /ˌendʒɪˈnɪə/, volunteer /ˌvɒlənˈtɪə/, Japanese /ˌdʒæpəˈniːz/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word that differs from the other three in the position of primary stress: condition, education, population, competition",
+          "options": {
+            "A": "condition",
+            "B": "education",
+            "C": "population",
+            "D": "competition"
+          },
+          "answer": "A",
+          "explanation": "condition /kənˈdɪʃn/ chỉ có 3 âm tiết, nhấn âm 2. Các từ còn lại có 4 âm tiết, nhấn âm ngay trước -tion (âm 3): competition /ˌkɒmpəˈtɪʃn/, education /ˌedʒuˈkeɪʃn/, population /ˌpɒpjuˈleɪʃn/."
+        },
+        {
+          "no": 7,
+          "question": "Choose the word that differs from the other three in the position of primary stress: ability, activity, community, electricity",
+          "options": {
+            "A": "ability",
+            "B": "activity",
+            "C": "community",
+            "D": "electricity"
+          },
+          "answer": "D",
+          "explanation": "electricity /ɪˌlekˈtrɪsəti/ nhấn âm 3 (âm ngay trước -ity). Các từ còn lại cũng theo quy tắc này nhưng ít âm tiết hơn nên nhấn âm 2: ability /əˈbɪləti/, activity /ækˈtɪvəti/, community /kəˈmjuːnəti/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Bẫy trọng âm thường gặp",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "Choose the word that differs from the other three in the position of primary stress: record (v), object (v), permit (n), present (v)",
+          "options": {
+            "A": "record (v)",
+            "B": "object (v)",
+            "C": "permit (n)",
+            "D": "present (v)"
+          },
+          "answer": "C",
+          "explanation": "permit (n) /ˈpɜːmɪt/ là danh từ nên nhấn âm 1. Ba động từ còn lại nhấn âm 2: present (v) /prɪˈzent/, object (v) /əbˈdʒekt/, record (v) /rɪˈkɔːd/."
+        },
+        {
+          "no": 9,
+          "question": "Choose the word that differs from the other three in the position of primary stress: cinema, holiday, family, banana",
+          "options": {
+            "A": "cinema",
+            "B": "holiday",
+            "C": "family",
+            "D": "banana"
+          },
+          "answer": "D",
+          "explanation": "banana /bəˈnɑːnə/ nhấn âm 2. Các danh từ 3 âm tiết còn lại nhấn âm 1: family /ˈfæməli/, cinema /ˈsɪnəmə/, holiday /ˈhɒlədeɪ/."
+        },
+        {
+          "no": 10,
+          "question": "Choose the word that differs from the other three in the position of primary stress: natural, national, traditional, musical",
+          "options": {
+            "A": "natural",
+            "B": "national",
+            "C": "traditional",
+            "D": "musical"
+          },
+          "answer": "C",
+          "explanation": "traditional /trəˈdɪʃənl/ nhấn âm 2 vì giữ trọng âm của gốc tradition. Các từ còn lại nhấn âm 1 như gốc: natural /ˈnætʃrəl/, national /ˈnæʃnəl/, musical /ˈmjuːzɪkl/."
+        },
+        {
+          "no": 11,
+          "question": "Choose the word that differs from the other three in the position of primary stress: untidy, unhealthy, uniform, unhappy",
+          "options": {
+            "A": "untidy",
+            "B": "unhealthy",
+            "C": "uniform",
+            "D": "unhappy"
+          },
+          "answer": "C",
+          "explanation": "uniform /ˈjuːnɪfɔːm/ nhấn âm 1 vì \"uni-\" ở đây không phải tiền tố phủ định. Các từ còn lại có tiền tố un- không nhận trọng âm nên nhấn âm 2: unhappy /ʌnˈhæpi/, untidy /ʌnˈtaɪdi/, unhealthy /ʌnˈhelθi/."
+        },
+        {
+          "no": 12,
+          "question": "Choose the word that differs from the other three in the position of primary stress: enormous, famous, dangerous, generous",
+          "options": {
+            "A": "enormous",
+            "B": "famous",
+            "C": "dangerous",
+            "D": "generous"
+          },
+          "answer": "A",
+          "explanation": "enormous /ɪˈnɔːməs/ nhấn âm 2. Các từ còn lại nhấn âm 1: dangerous /ˈdeɪndʒərəs/, famous /ˈfeɪməs/, generous /ˈdʒenərəs/."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word that differs from the other three in the position of primary stress: classmate, understand, bookshelf, greenhouse",
+          "options": {
+            "A": "classmate",
+            "B": "understand",
+            "C": "bookshelf",
+            "D": "greenhouse"
+          },
+          "answer": "B",
+          "explanation": "understand /ˌʌndəˈstænd/ nhấn âm 3 (giữ trọng âm của động từ gốc stand). Ba danh từ ghép còn lại nhấn âm 1: classmate /ˈklɑːsmeɪt/, greenhouse /ˈɡriːnhaʊs/, bookshelf /ˈbʊkʃelf/."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word that differs from the other three in the position of primary stress: believe, borrow, enter, travel",
+          "options": {
+            "A": "believe",
+            "B": "borrow",
+            "C": "enter",
+            "D": "travel"
+          },
+          "answer": "A",
+          "explanation": "believe /bɪˈliːv/ nhấn âm 2 theo quy tắc động từ. Ba động từ còn lại là ngoại lệ nhấn âm 1: enter /ˈentə/, travel /ˈtrævl/, borrow /ˈbɒrəʊ/."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP - 15+ quy tắc đánh dấu trọng âm trong tiếng Anh",
+      "url": "https://prepedu.com/vi/blog/quy-tac-danh-dau-trong-am-trong-tieng-anh"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

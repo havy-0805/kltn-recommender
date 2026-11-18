@@ -1,0 +1,297 @@
+{
+  "material_id": "MAT_CD02",
+  "skill_id": "SK_TENSE_ASPECT",
+  "title": "Chuyên đề Thì",
+  "target_level": 2,
+  "summary": "Tổng hợp toàn diện các thì thường gặp trong đề thi vào lớp 10 (hiện tại, quá khứ, tương lai, hoàn thành) cùng quy tắc phối hợp thì, giúp học sinh làm chắc các câu chia động từ và điền từ vào đoạn văn.",
+  "theory": [
+    {
+      "heading": "Nhóm thì hiện tại",
+      "points": [
+        "Hiện tại đơn (S + V/V-s): thói quen, sự thật, lịch trình – always, usually, every..., once a week.",
+        "Hiện tại tiếp diễn (am/is/are + V-ing): đang xảy ra lúc nói hoặc kế hoạch đã sắp xếp cho tương lai gần – now, at the moment, Look!, this evening.",
+        "Hiện tại hoàn thành (have/has + V3): kéo dài từ quá khứ đến nay, kinh nghiệm, kết quả hiện tại – since, for, already, yet, ever, never, so far, recently."
+      ],
+      "examples": [
+        {
+          "en": "We are having a class party this Friday.",
+          "vi": "Thứ Sáu này lớp mình tổ chức tiệc (đã lên kế hoạch)."
+        },
+        {
+          "en": "My uncle has worked as a nurse for ten years.",
+          "vi": "Chú tôi đã làm y tá được mười năm."
+        }
+      ]
+    },
+    {
+      "heading": "Nhóm thì quá khứ",
+      "points": [
+        "Quá khứ đơn (V2/V-ed): đã xảy ra và kết thúc tại thời điểm xác định – yesterday, last..., ago, in 2015, when I was a child.",
+        "Quá khứ tiếp diễn (was/were + V-ing): đang diễn ra tại thời điểm quá khứ hoặc bị hành động khác xen vào.",
+        "Quá khứ hoàn thành (had + V3): xảy ra trước một hành động/mốc khác trong quá khứ – before, after, by the time, by + mốc quá khứ."
+      ],
+      "examples": [
+        {
+          "en": "When I phoned her, she was taking a shower.",
+          "vi": "Khi tôi gọi, cô ấy đang tắm."
+        },
+        {
+          "en": "The guests had left before we arrived.",
+          "vi": "Khách đã về trước khi chúng tôi tới."
+        }
+      ]
+    },
+    {
+      "heading": "Nhóm thì tương lai",
+      "points": [
+        "Will + V: quyết định tức thời, dự đoán chủ quan (I think, probably, perhaps), lời hứa, đề nghị.",
+        "Be going to + V: dự định có sẵn, dự đoán có căn cứ.",
+        "Will have + V3: hoàn tất trước một mốc tương lai – by the end of..., by next..., by the time + HTĐ."
+      ],
+      "examples": [
+        {
+          "en": "I think people will travel to Mars one day.",
+          "vi": "Tôi nghĩ một ngày nào đó con người sẽ du hành lên sao Hỏa."
+        },
+        {
+          "en": "By 2030, they will have finished the new metro line.",
+          "vi": "Đến năm 2030, họ sẽ hoàn thành tuyến metro mới."
+        }
+      ]
+    },
+    {
+      "heading": "Phối hợp thì trong câu phức",
+      "points": [
+        "Mệnh đề thời gian tương lai (when, as soon as, until, before, after): dùng hiện tại đơn/hoàn thành, mệnh đề chính dùng will.",
+        "When/While + QKTD, QKĐ: hành động đang diễn ra bị xen ngang.",
+        "S + HTHT + since + S + QKĐ."
+      ],
+      "examples": [
+        {
+          "en": "We will start the meeting when everyone arrives.",
+          "vi": "Chúng ta sẽ bắt đầu cuộc họp khi mọi người đến đủ."
+        },
+        {
+          "en": "He has changed a lot since he moved to the city.",
+          "vi": "Anh ấy đã thay đổi nhiều từ khi chuyển lên thành phố."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Quy trình 3 bước: (1) tìm dấu hiệu thời gian, (2) xét chủ ngữ số ít/số nhiều, (3) kiểm tra mối quan hệ trước–sau giữa các hành động.",
+    "Câu không có dấu hiệu rõ ràng: đọc câu trước/sau trong đoạn văn để xác định mạch thời gian (bài điền từ thường kể chuyện ở quá khứ).",
+    "Loại nhanh đáp án có 'will' trong mệnh đề sau when/as soon as/until khi nói về tương lai.",
+    "'ago' chỉ đi với quá khứ đơn, không đi với hiện tại hoàn thành."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My sister ______ English for five years, so she can speak it quite well.",
+          "options": {
+            "A": "learned",
+            "B": "has learned",
+            "C": "is learning",
+            "D": "learns"
+          },
+          "answer": "B",
+          "explanation": "'for five years' + kết quả ở hiện tại (nói khá tốt) → hiện tại hoàn thành 'has learned'."
+        },
+        {
+          "no": 2,
+          "question": "The students ______ a test when the fire alarm went off.",
+          "options": {
+            "A": "have done",
+            "B": "do",
+            "C": "did",
+            "D": "were doing"
+          },
+          "answer": "D",
+          "explanation": "Hành động đang diễn ra (làm bài kiểm tra) bị hành động khác xen vào (chuông báo cháy – QKĐ) → quá khứ tiếp diễn 'were doing'."
+        },
+        {
+          "no": 3,
+          "question": "Nam ______ to Hue twice so far, but he wants to go there again.",
+          "options": {
+            "A": "went",
+            "B": "has been",
+            "C": "had been",
+            "D": "goes"
+          },
+          "answer": "B",
+          "explanation": "'so far' và số lần 'twice' → hiện tại hoàn thành 'has been'."
+        },
+        {
+          "no": 4,
+          "question": "Every morning, my grandfather ______ a walk in the park.",
+          "options": {
+            "A": "takes",
+            "B": "has taken",
+            "C": "took",
+            "D": "is taking"
+          },
+          "answer": "A",
+          "explanation": "'Every morning' chỉ thói quen → hiện tại đơn; chủ ngữ số ít → 'takes'."
+        },
+        {
+          "no": 5,
+          "question": "Mai ______ a new laptop yesterday.",
+          "options": {
+            "A": "bought",
+            "B": "buys",
+            "C": "was buying",
+            "D": "has bought"
+          },
+          "answer": "A",
+          "explanation": "'yesterday' là thời điểm xác định trong quá khứ → quá khứ đơn 'bought'."
+        },
+        {
+          "no": 6,
+          "question": "Please don't make any noise! The baby ______.",
+          "options": {
+            "A": "sleeps",
+            "B": "slept",
+            "C": "is sleeping",
+            "D": "has slept"
+          },
+          "answer": "C",
+          "explanation": "Hành động đang diễn ra ngay lúc nói (lời nhắc giữ yên lặng) → hiện tại tiếp diễn 'is sleeping'."
+        },
+        {
+          "no": 7,
+          "question": "I think it ______ sunny tomorrow.",
+          "options": {
+            "A": "will be",
+            "B": "has been",
+            "C": "is",
+            "D": "was"
+          },
+          "answer": "A",
+          "explanation": "'I think' + 'tomorrow' – dự đoán chủ quan về tương lai → 'will be'."
+        },
+        {
+          "no": 8,
+          "question": "When I ______ home last night, my parents ______ dinner.",
+          "options": {
+            "A": "was getting / had",
+            "B": "get / have",
+            "C": "got / have had",
+            "D": "got / were having"
+          },
+          "answer": "D",
+          "explanation": "Hành động ngắn xen vào (về đến nhà – QKĐ 'got') khi hành động khác đang diễn ra (ăn tối – QKTD 'were having')."
+        },
+        {
+          "no": 9,
+          "question": "We ______ a party next Saturday. We have already invited all our friends.",
+          "options": {
+            "A": "have had",
+            "B": "had",
+            "C": "are having",
+            "D": "have"
+          },
+          "answer": "C",
+          "explanation": "Kế hoạch đã sắp xếp cho tương lai gần (đã mời bạn bè) → hiện tại tiếp diễn 'are having'."
+        },
+        {
+          "no": 10,
+          "question": "I'll phone you when I ______ my homework.",
+          "options": {
+            "A": "am finishing",
+            "B": "will finish",
+            "C": "finished",
+            "D": "finish"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề thời gian với 'when' nói về tương lai → hiện tại đơn 'finish', không dùng will."
+        },
+        {
+          "no": 11,
+          "question": "He ______ football every weekend when he was a child, but now he rarely plays.",
+          "options": {
+            "A": "played",
+            "B": "plays",
+            "C": "is playing",
+            "D": "has played"
+          },
+          "answer": "A",
+          "explanation": "'when he was a child' – thói quen trong quá khứ đã chấm dứt → quá khứ đơn 'played'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn từ thích hợp cho mỗi chỗ trống",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each numbered blank.",
+      "passage": "Last summer, my family (12) ______ a trip to Ha Long Bay. We left Ha Noi very early in the morning because my father wanted to avoid the traffic. While we (13) ______ along the highway, my little brother fell asleep and missed the beautiful views of the countryside. When we arrived at the hotel, it (14) ______ heavily, so we had to stay inside for the whole afternoon. Luckily, the rain stopped in the evening, and we enjoyed a delicious seafood dinner by the sea. The next day, we took a boat tour around the bay and visited a huge cave full of strange rocks. I took hundreds of photos and wrote about the trip in my diary. I loved the place so much that I (15) ______ back there three times since then, and I still want to return.",
+      "questions": [
+        {
+          "no": 12,
+          "question": "Choose the word for blank (12).",
+          "options": {
+            "A": "take",
+            "B": "took",
+            "C": "have taken",
+            "D": "are taking"
+          },
+          "answer": "B",
+          "explanation": "'Last summer' là thời điểm xác định trong quá khứ → quá khứ đơn 'took'."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word for blank (13).",
+          "options": {
+            "A": "drive",
+            "B": "have driven",
+            "C": "were driving",
+            "D": "drove"
+          },
+          "answer": "C",
+          "explanation": "While + hành động đang diễn ra trong quá khứ, bị xen ngang bởi 'fell asleep' → quá khứ tiếp diễn 'were driving'."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word for blank (14).",
+          "options": {
+            "A": "rains",
+            "B": "has rained",
+            "C": "was raining",
+            "D": "will rain"
+          },
+          "answer": "C",
+          "explanation": "Khi đến khách sạn thì trời đang mưa (hành động đang diễn ra tại thời điểm quá khứ) → 'was raining'."
+        },
+        {
+          "no": 15,
+          "question": "Choose the word for blank (15).",
+          "options": {
+            "A": "went",
+            "B": "have been",
+            "C": "was",
+            "D": "go"
+          },
+          "answer": "B",
+          "explanation": "'three times since then' – số lần tính đến hiện tại, có 'since' → hiện tại hoàn thành 'have been'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Dạng bài Chia động từ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-chia-dong-tu-cd2025.jsp"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    },
+    {
+      "title": "IDP IELTS Việt Nam – Mệnh đề trạng ngữ chỉ thời gian",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-adverbial-clause-of-time"
+    }
+  ]
+}

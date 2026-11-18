@@ -1,0 +1,278 @@
+{
+  "material_id": "MAT_STRESS_02",
+  "skill_id": "SK_PHON_STRESS",
+  "title": "Quy tắc trọng âm từ 2 âm tiết",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm các quy tắc nền tảng về trọng âm của từ có 2 âm tiết (danh từ, tính từ, động từ, từ có tiền tố/hậu tố, từ ghép) và nhận ra các ngoại lệ hay gặp trong đề thi.",
+  "theory": [
+    {
+      "heading": "Danh từ và tính từ 2 âm tiết",
+      "points": [
+        "Phần lớn danh từ và tính từ 2 âm tiết nhấn âm tiết thứ nhất: ˈhappy, ˈpretty, ˈtable, ˈmountain, ˈdoctor, ˈmodern.",
+        "Ngoại lệ hay gặp nhấn âm 2: hoˈtel, maˈchine, adˈvice, miˈstake, poˈlite, corˈrect, aˈlone, Juˈly, Jaˈpan."
+      ],
+      "examples": [
+        {
+          "en": "The mountain /ˈmaʊntən/ village /ˈvɪlɪdʒ/ is very quiet.",
+          "vi": "Ngôi làng miền núi rất yên tĩnh."
+        },
+        {
+          "en": "The hotel /həʊˈtel/ is near the station.",
+          "vi": "Khách sạn ở gần nhà ga."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ 2 âm tiết",
+      "points": [
+        "Phần lớn động từ 2 âm tiết nhấn âm tiết thứ hai: beˈgin, enˈjoy, deˈcide, reˈlax, inˈvite, colˈlect.",
+        "Ngoại lệ nhấn âm 1 (thường do âm tiết 2 là âm yếu /ə/, /ɪ/): ˈvisit, ˈopen, ˈanswer, ˈlisten, ˈhappen, ˈoffer, ˈenter, ˈtravel, ˈpromise.",
+        "Từ vừa là danh từ vừa là động từ: danh từ nhấn âm 1, động từ nhấn âm 2: ˈrecord (n) – reˈcord (v), ˈpresent (n) – preˈsent (v), ˈincrease (n) – inˈcrease (v), ˈexport (n) – exˈport (v)."
+      ],
+      "examples": [
+        {
+          "en": "Let's begin /bɪˈɡɪn/ the lesson.",
+          "vi": "Chúng ta bắt đầu bài học nhé."
+        },
+        {
+          "en": "Please open /ˈəʊpən/ your books.",
+          "vi": "Các em hãy mở sách ra."
+        }
+      ]
+    },
+    {
+      "heading": "Từ có tiền tố, hậu tố và đuôi đặc biệt",
+      "points": [
+        "Tiền tố (un-, dis-, im-, re-...) và hậu tố (-ful, -less, -ness, -ly, -er...) thường không nhận trọng âm; trọng âm giữ ở gốc: unˈkind, disˈlike, ˈcareful, ˈkindness, ˈuseful.",
+        "Các đuôi -ee, -eer, -ese, -oo, -oon nhận trọng âm: tyˈphoon, carˈtoon, balˈloon, bamˈboo, Chiˈnese.",
+        "Từ bắt đầu bằng \"a-\" (âm /ə/) thường nhấn âm 2: aˈbout, aˈlone, aˈsleep, aˈgain."
+      ],
+      "examples": [
+        {
+          "en": "It was very unkind /ʌnˈkaɪnd/ of him to say that.",
+          "vi": "Anh ấy nói vậy thật không tử tế."
+        },
+        {
+          "en": "The typhoon /taɪˈfuːn/ hit the coast last night.",
+          "vi": "Cơn bão đã đổ bộ vào bờ biển đêm qua."
+        }
+      ]
+    },
+    {
+      "heading": "Danh từ ghép",
+      "points": [
+        "Danh từ ghép 2 âm tiết thường nhấn vào thành phần thứ nhất: ˈbedroom, ˈairport, ˈsunshine, ˈblackboard, ˈclassroom."
+      ],
+      "examples": [
+        {
+          "en": "Our classroom /ˈklɑːsruːm/ has a new blackboard /ˈblækbɔːd/.",
+          "vi": "Lớp học của chúng tôi có bảng đen mới."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: xác định từ loại của 4 từ. Danh từ/tính từ → nghĩ đến âm 1; động từ → nghĩ đến âm 2.",
+    "Bước 2: soát ngoại lệ. Đề thi rất thích cài các từ như hotel, machine, visit, open, listen, correct.",
+    "Âm tiết chứa nguyên âm yếu /ə/ gần như không bao giờ mang trọng âm. Nếu âm 1 là /ə/ (about, polite, July) thì trọng âm rơi vào âm 2.",
+    "Đuôi -oon, -oo, -ee, -ese tự nhận trọng âm; tiền tố, hậu tố thì không."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Danh từ, tính từ và động từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word that differs from the other three in the position of primary stress: begin, happy, pretty, table",
+          "options": {
+            "A": "begin",
+            "B": "happy",
+            "C": "pretty",
+            "D": "table"
+          },
+          "answer": "A",
+          "explanation": "begin /bɪˈɡɪn/ là động từ, nhấn âm 2. Các từ còn lại nhấn âm 1: happy /ˈhæpi/, pretty /ˈprɪti/, table /ˈteɪbl/."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word that differs from the other three in the position of primary stress: invite, prefer, enjoy, garden",
+          "options": {
+            "A": "invite",
+            "B": "prefer",
+            "C": "enjoy",
+            "D": "garden"
+          },
+          "answer": "D",
+          "explanation": "garden /ˈɡɑːdn/ là danh từ, nhấn âm 1. Các động từ còn lại nhấn âm 2: enjoy /ɪnˈdʒɔɪ/, prefer /prɪˈfɜː/, invite /ɪnˈvaɪt/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word that differs from the other three in the position of primary stress: teacher, doctor, student, hotel",
+          "options": {
+            "A": "teacher",
+            "B": "doctor",
+            "C": "student",
+            "D": "hotel"
+          },
+          "answer": "D",
+          "explanation": "hotel /həʊˈtel/ là danh từ ngoại lệ nhấn âm 2. Các từ còn lại nhấn âm 1: doctor /ˈdɒktə/, student /ˈstjuːdnt/, teacher /ˈtiːtʃə/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word that differs from the other three in the position of primary stress: visit, decide, arrive, behave",
+          "options": {
+            "A": "visit",
+            "B": "decide",
+            "C": "arrive",
+            "D": "behave"
+          },
+          "answer": "A",
+          "explanation": "visit /ˈvɪzɪt/ là động từ ngoại lệ nhấn âm 1. Các từ còn lại nhấn âm 2: decide /dɪˈsaɪd/, behave /bɪˈheɪv/, arrive /əˈraɪv/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word that differs from the other three in the position of primary stress: mountain, village, machine, river",
+          "options": {
+            "A": "mountain",
+            "B": "village",
+            "C": "machine",
+            "D": "river"
+          },
+          "answer": "C",
+          "explanation": "machine /məˈʃiːn/ nhấn âm 2. Các từ còn lại nhấn âm 1: mountain /ˈmaʊntən/, village /ˈvɪlɪdʒ/, river /ˈrɪvə/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word that differs from the other three in the position of primary stress: listen, relax, open, answer",
+          "options": {
+            "A": "listen",
+            "B": "relax",
+            "C": "open",
+            "D": "answer"
+          },
+          "answer": "B",
+          "explanation": "relax /rɪˈlæks/ nhấn âm 2 theo quy tắc động từ. Ba động từ còn lại là ngoại lệ nhấn âm 1: open /ˈəʊpən/, answer /ˈɑːnsə/, listen /ˈlɪsn/."
+        },
+        {
+          "no": 7,
+          "question": "Choose the word that differs from the other three in the position of primary stress: contest (n), record (n), increase (v), export (n)",
+          "options": {
+            "A": "contest (n)",
+            "B": "record (n)",
+            "C": "increase (v)",
+            "D": "export (n)"
+          },
+          "answer": "C",
+          "explanation": "increase (v) /ɪnˈkriːs/ là động từ nên nhấn âm 2. Ba danh từ còn lại nhấn âm 1: record (n) /ˈrekɔːd/, export (n) /ˈekspɔːt/, contest (n) /ˈkɒntest/."
+        },
+        {
+          "no": 8,
+          "question": "Choose the word that differs from the other three in the position of primary stress: happen, promise, offer, collect",
+          "options": {
+            "A": "happen",
+            "B": "promise",
+            "C": "offer",
+            "D": "collect"
+          },
+          "answer": "D",
+          "explanation": "collect /kəˈlekt/ nhấn âm 2. Ba động từ còn lại nhấn âm 1: promise /ˈprɒmɪs/, offer /ˈɒfə/, happen /ˈhæpən/."
+        },
+        {
+          "no": 9,
+          "question": "Choose the word that differs from the other three in the position of primary stress: busy, correct, modern, lucky",
+          "options": {
+            "A": "busy",
+            "B": "correct",
+            "C": "modern",
+            "D": "lucky"
+          },
+          "answer": "B",
+          "explanation": "correct /kəˈrekt/ là tính từ ngoại lệ nhấn âm 2 (âm 1 là /ə/). Các tính từ còn lại nhấn âm 1: busy /ˈbɪzi/, lucky /ˈlʌki/, modern /ˈmɒdn/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tiền tố, hậu tố, đuôi đặc biệt và từ ghép",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "Choose the word that differs from the other three in the position of primary stress: careful, unkind, unfair, dislike",
+          "options": {
+            "A": "careful",
+            "B": "unkind",
+            "C": "unfair",
+            "D": "dislike"
+          },
+          "answer": "A",
+          "explanation": "careful /ˈkeəfl/ nhấn âm 1 vì hậu tố -ful không nhận trọng âm. Các từ còn lại có tiền tố nên trọng âm rơi vào gốc ở âm 2: unkind /ʌnˈkaɪnd/, unfair /ʌnˈfeə/, dislike /dɪsˈlaɪk/."
+        },
+        {
+          "no": 11,
+          "question": "Choose the word that differs from the other three in the position of primary stress: kindness, homeless, polite, useful",
+          "options": {
+            "A": "kindness",
+            "B": "homeless",
+            "C": "polite",
+            "D": "useful"
+          },
+          "answer": "C",
+          "explanation": "polite /pəˈlaɪt/ nhấn âm 2. Các từ còn lại có hậu tố không nhận trọng âm nên nhấn âm 1: useful /ˈjuːsfl/, kindness /ˈkaɪndnəs/, homeless /ˈhəʊmləs/."
+        },
+        {
+          "no": 12,
+          "question": "Choose the word that differs from the other three in the position of primary stress: typhoon, cotton, cartoon, balloon",
+          "options": {
+            "A": "typhoon",
+            "B": "cotton",
+            "C": "cartoon",
+            "D": "balloon"
+          },
+          "answer": "B",
+          "explanation": "cotton /ˈkɒtn/ nhấn âm 1. Các từ có đuôi -oon tự nhận trọng âm nên nhấn âm 2: typhoon /taɪˈfuːn/, balloon /bəˈluːn/, cartoon /kɑːˈtuːn/."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word that differs from the other three in the position of primary stress: active, about, asleep, alone",
+          "options": {
+            "A": "active",
+            "B": "about",
+            "C": "asleep",
+            "D": "alone"
+          },
+          "answer": "A",
+          "explanation": "active /ˈæktɪv/ nhấn âm 1 (\"a\" đọc /æ/ mạnh). Các từ còn lại bắt đầu bằng \"a\" đọc /ə/ nên nhấn âm 2: alone /əˈləʊn/, asleep /əˈsliːp/, about /əˈbaʊt/."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word that differs from the other three in the position of primary stress: sunshine, Japan, airport, bedroom",
+          "options": {
+            "A": "sunshine",
+            "B": "Japan",
+            "C": "airport",
+            "D": "bedroom"
+          },
+          "answer": "B",
+          "explanation": "Japan /dʒəˈpæn/ nhấn âm 2. Ba danh từ ghép còn lại nhấn vào thành phần đầu (âm 1): bedroom /ˈbedruːm/, sunshine /ˈsʌnʃaɪn/, airport /ˈeəpɔːt/."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP - 15+ quy tắc đánh dấu trọng âm trong tiếng Anh",
+      "url": "https://prepedu.com/vi/blog/quy-tac-danh-dau-trong-am-trong-tieng-anh"
+    },
+    {
+      "title": "Wiktionary - typhoon (đối chiếu phiên âm IPA)",
+      "url": "https://en.wiktionary.org/wiki/typhoon"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

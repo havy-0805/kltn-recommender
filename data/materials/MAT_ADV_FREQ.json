@@ -1,0 +1,254 @@
+{
+  "material_id": "MAT_ADV_FREQ",
+  "skill_id": "SK_ADV_FREQ",
+  "title": "Chuyên đề Trạng từ chỉ tần suất",
+  "target_level": 1,
+  "summary": "Tổng hợp nền tảng về trạng từ chỉ tần suất: ý nghĩa theo mức độ, vị trí trong câu, cụm chỉ tần suất xác định và câu hỏi How often, giúp học sinh làm chắc các câu cơ bản trong đề thi.",
+  "theory": [
+    {
+      "heading": "Ý nghĩa theo mức độ",
+      "points": [
+        "always (100%) > usually (~90%) > often (~70%) > sometimes (~50%) > rarely/seldom (~10%) > hardly ever (gần như không) > never (0%)",
+        "rarely, seldom, hardly ever, never mang nghĩa phủ định: không dùng thêm \"not\"",
+        "Chọn trạng từ dựa vào thông tin trong câu: \"every day\" → always; \"only once or twice a year\" → rarely"
+      ],
+      "examples": [
+        {
+          "en": "My mother always cooks dinner. She does it every day.",
+          "vi": "Mẹ tôi luôn nấu bữa tối. Ngày nào bà cũng nấu."
+        },
+        {
+          "en": "Nam rarely plays football. He prefers reading.",
+          "vi": "Nam hiếm khi chơi bóng đá. Cậu ấy thích đọc sách hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Vị trí trong câu",
+      "points": [
+        "Đứng TRƯỚC động từ thường: She often goes swimming.",
+        "Đứng SAU động từ to be: He is always late.",
+        "Đứng GIỮA trợ động từ và động từ chính: I have never been to Da Lat."
+      ],
+      "examples": [
+        {
+          "en": "Tom often goes swimming at weekends.",
+          "vi": "Tom thường đi bơi vào cuối tuần."
+        },
+        {
+          "en": "They are never late for school.",
+          "vi": "Họ không bao giờ đi học muộn."
+        }
+      ]
+    },
+    {
+      "heading": "Cụm tần suất xác định và câu hỏi How often",
+      "points": [
+        "once/twice/three times + a day/week/month/year; every day/week; on Mondays",
+        "Các cụm này thường đứng CUỐI câu: I go to the cinema twice a month.",
+        "Hỏi tần suất: How often + do/does + S + V? → Once a week. / Every day. / Sometimes."
+      ],
+      "examples": [
+        {
+          "en": "How often do you visit your grandparents? – Once a month.",
+          "vi": "Bạn thăm ông bà bao lâu một lần? – Mỗi tháng một lần."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu thứ hai (nếu có) để biết mức độ: \"every day\" → always; \"never in my life\" → never.",
+    "Nhớ công thức vị trí: trước động từ thường – sau to be – giữa trợ động từ và động từ chính.",
+    "Không ghép never/rarely/hardly ever với \"not\" (sai: doesn't never).",
+    "Câu hỏi \"How often\" trả lời bằng tần suất, không trả lời bằng thời lượng (for two hours) hay thời điểm (at 6 a.m.)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn trạng từ phù hợp nghĩa",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My father ______ drinks green tea after breakfast. He has it every single morning.",
+          "options": {
+            "A": "rarely",
+            "B": "seldom",
+            "C": "always",
+            "D": "never"
+          },
+          "answer": "C",
+          "explanation": "\"every single morning\" = mọi buổi sáng → \"always\" (100%)."
+        },
+        {
+          "no": 2,
+          "question": "I ______ eat fast food because it's unhealthy. I have had it only twice this year.",
+          "options": {
+            "A": "often",
+            "B": "hardly ever",
+            "C": "always",
+            "D": "usually"
+          },
+          "answer": "B",
+          "explanation": "Chỉ ăn hai lần trong năm → gần như không bao giờ: \"hardly ever\"."
+        },
+        {
+          "no": 3,
+          "question": "Nam ______ plays football. He prefers reading and plays only once or twice a year.",
+          "options": {
+            "A": "usually",
+            "B": "always",
+            "C": "often",
+            "D": "rarely"
+          },
+          "answer": "D",
+          "explanation": "Một hai lần mỗi năm → \"rarely\" (hiếm khi)."
+        },
+        {
+          "no": 4,
+          "question": "He has ______ been to Ho Chi Minh City, but he hopes to go there one day.",
+          "options": {
+            "A": "always",
+            "B": "usually",
+            "C": "never",
+            "D": "often"
+          },
+          "answer": "C",
+          "explanation": "\"hopes to go there one day\" → chưa từng đến: \"never\"."
+        },
+        {
+          "no": 5,
+          "question": "We ______ have a test on Fridays; it happens about half of the time.",
+          "options": {
+            "A": "sometimes",
+            "B": "never",
+            "C": "always",
+            "D": "rarely"
+          },
+          "answer": "A",
+          "explanation": "Khoảng một nửa số lần (~50%) → \"sometimes\"."
+        },
+        {
+          "no": 6,
+          "question": "Lan doesn't ______ walk to school; on rainy days she takes the bus.",
+          "options": {
+            "A": "rarely",
+            "B": "always",
+            "C": "hardly",
+            "D": "never"
+          },
+          "answer": "B",
+          "explanation": "Trong câu phủ định \"doesn't\" chỉ dùng được \"always\" (không phải lúc nào cũng). never/hardly/rarely đã mang nghĩa phủ định nên không đi với \"doesn't\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Vị trí trạng từ và câu hỏi How often",
+      "instructions": "Choose the best option (A, B, C or D) for each question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Always she is late for class.",
+            "B": "She is always late for class.",
+            "C": "She always is late for class.",
+            "D": "She is late always for class."
+          },
+          "answer": "B",
+          "explanation": "Trạng từ tần suất đứng SAU động từ to be: \"is always late\"."
+        },
+        {
+          "no": 8,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Tom often go swimming at weekends.",
+            "B": "Tom goes often swimming at weekends.",
+            "C": "Tom go often swimming at weekends.",
+            "D": "Tom often goes swimming at weekends."
+          },
+          "answer": "D",
+          "explanation": "Trạng từ tần suất đứng TRƯỚC động từ thường; chủ ngữ số ít → goes."
+        },
+        {
+          "no": 9,
+          "question": "The students are punctual. They ______ late for school.",
+          "options": {
+            "A": "always are",
+            "B": "are never",
+            "C": "never are",
+            "D": "are always"
+          },
+          "answer": "B",
+          "explanation": "Học sinh đúng giờ → không bao giờ muộn; trạng từ đứng sau to be: \"are never\"."
+        },
+        {
+          "no": 10,
+          "question": "\"How ______ do you visit your grandparents?\" – \"Once a month.\"",
+          "options": {
+            "A": "many",
+            "B": "often",
+            "C": "much",
+            "D": "long"
+          },
+          "answer": "B",
+          "explanation": "Hỏi tần suất dùng \"How often\"."
+        },
+        {
+          "no": 11,
+          "question": "I go to the cinema with my friends ______.",
+          "options": {
+            "A": "two a month",
+            "B": "a month twice",
+            "C": "twice a month",
+            "D": "twice month"
+          },
+          "answer": "C",
+          "explanation": "Cụm tần suất xác định: twice + a + month, đặt cuối câu."
+        },
+        {
+          "no": 12,
+          "question": "\"How often does your sister go jogging?\" – \"______\"",
+          "options": {
+            "A": "At 6 a.m.",
+            "B": "Three times a week.",
+            "C": "For two hours.",
+            "D": "Since last year."
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi How often cần câu trả lời về tần suất: \"Three times a week\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "She (A) goes usually (B) to the library (C) on (D) Saturday afternoons.",
+          "options": {
+            "A": "goes usually",
+            "B": "to the library",
+            "C": "on",
+            "D": "Saturday afternoons"
+          },
+          "answer": "A",
+          "explanation": "Trạng từ tần suất đứng trước động từ thường → \"usually goes\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LearnEnglish.life – Adverbs of frequency: rules and examples",
+      "url": "https://learnenglish.life/guides/adverbs-frequency-rules-examples/"
+    },
+    {
+      "title": "Perfect Your English – Position of frequency adverbs",
+      "url": "https://www.perfectyourenglish.com/grammar/frequency-adverbs-position.htm"
+    }
+  ]
+}

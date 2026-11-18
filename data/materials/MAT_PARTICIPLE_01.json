@@ -1,0 +1,246 @@
+{
+  "material_id": "MAT_PARTICIPLE_01",
+  "skill_id": "SK_PARTICIPLE",
+  "title": "Nhận biết và phân biệt Hiện tại phân từ (V-ing) và Quá khứ phân từ (V-ed)",
+  "target_level": 1,
+  "summary": "Giúp học sinh phân biệt hiện tại phân từ (V-ing, nghĩa chủ động) và quá khứ phân từ (V-ed/V3, nghĩa bị động) khi dùng như tính từ, đặc biệt các cặp tính từ cảm xúc -ing/-ed.",
+  "theory": [
+    {
+      "heading": "Hiện tại phân từ (V-ing): nghĩa chủ động",
+      "points": [
+        "Danh từ tự thực hiện hành động: a sleeping baby (em bé đang ngủ), rising prices (giá đang tăng)",
+        "Tính từ -ing mô tả tính chất của sự vật/người GÂY RA cảm xúc: an interesting film, a boring speech"
+      ],
+      "examples": [
+        {
+          "en": "Look at the sleeping baby in the cot.",
+          "vi": "Nhìn em bé đang ngủ trong nôi kìa."
+        },
+        {
+          "en": "The film was very interesting.",
+          "vi": "Bộ phim rất thú vị."
+        }
+      ]
+    },
+    {
+      "heading": "Quá khứ phân từ (V-ed/V3): nghĩa bị động",
+      "points": [
+        "Danh từ chịu tác động của hành động: broken glass (kính bị vỡ), frozen food (thực phẩm đông lạnh), a stolen bike",
+        "Tính từ -ed mô tả CẢM XÚC của người: I was surprised, she felt tired, they were interested in…",
+        "Động từ bất quy tắc dùng cột 3: break → broken, freeze → frozen, write → written"
+      ],
+      "examples": [
+        {
+          "en": "Remove the broken glass carefully.",
+          "vi": "Hãy dọn chỗ kính vỡ cẩn thận."
+        },
+        {
+          "en": "I was surprised when I heard the news.",
+          "vi": "Tôi ngạc nhiên khi nghe tin đó."
+        }
+      ]
+    },
+    {
+      "heading": "Các cặp tính từ -ing/-ed hay gặp",
+      "points": [
+        "interesting/interested, boring/bored, tiring/tired, exciting/excited",
+        "surprising/surprised, frightening/frightened, amazing/amazed, disappointing/disappointed",
+        "Dấu hiệu: sau \"feel/be + người\" và trước \"by/about/in/with\" thường là -ed"
+      ],
+      "examples": [
+        {
+          "en": "It was a tiring journey, so we all felt tired.",
+          "vi": "Đó là một chuyến đi mệt mỏi nên tất cả chúng tôi đều thấy mệt."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Hỏi: danh từ TỰ làm hành động (→ V-ing) hay BỊ tác động (→ V-ed/V3)?",
+    "Người cảm thấy → -ed; vật/việc gây ra cảm giác → -ing.",
+    "Có \"by + tác nhân\" phía sau thường là V-ed.",
+    "Loại ngay phương án là động từ nguyên mẫu, danh từ hay trạng từ khi chỗ trống cần tính từ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Tính từ cảm xúc -ing/-ed",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The documentary about sea turtles was very ______. I learned a lot from it.",
+          "options": {
+            "A": "interested",
+            "B": "interest",
+            "C": "interestingly",
+            "D": "interesting"
+          },
+          "answer": "D",
+          "explanation": "Bộ phim tài liệu (vật) gây ra hứng thú → tính từ -ing \"interesting\"."
+        },
+        {
+          "no": 2,
+          "question": "I was really ______ when I heard that I had won the prize.",
+          "options": {
+            "A": "surprising",
+            "B": "surprised",
+            "C": "surprise",
+            "D": "surprisingly"
+          },
+          "answer": "B",
+          "explanation": "Người (I) cảm thấy ngạc nhiên → tính từ -ed \"surprised\"."
+        },
+        {
+          "no": 3,
+          "question": "After the long exam, all the students felt ______.",
+          "options": {
+            "A": "tiring",
+            "B": "tired",
+            "C": "tiredness",
+            "D": "tire"
+          },
+          "answer": "B",
+          "explanation": "Sau \"felt\" diễn tả cảm giác của người → \"tired\"."
+        },
+        {
+          "no": 4,
+          "question": "His speech was so ______ that half of the audience fell asleep.",
+          "options": {
+            "A": "bore",
+            "B": "boring",
+            "C": "boredom",
+            "D": "bored"
+          },
+          "answer": "B",
+          "explanation": "Bài phát biểu (vật) gây ra sự chán → \"boring\"."
+        },
+        {
+          "no": 5,
+          "question": "Many people were ______ by the strange noise in the middle of the night.",
+          "options": {
+            "A": "frighten",
+            "B": "frightened",
+            "C": "fright",
+            "D": "frightening"
+          },
+          "answer": "B",
+          "explanation": "Người bị làm cho sợ, có \"by + tác nhân\" → \"frightened\"."
+        },
+        {
+          "no": 6,
+          "question": "Climbing Fansipan was an ______ experience. I will never forget it.",
+          "options": {
+            "A": "excited",
+            "B": "excite",
+            "C": "excitement",
+            "D": "exciting"
+          },
+          "answer": "D",
+          "explanation": "Trải nghiệm (vật) gây ra sự hào hứng → \"exciting\"; \"an\" đứng trước tính từ bắt đầu bằng nguyên âm."
+        },
+        {
+          "no": 7,
+          "question": "My younger brother is very ______ in robots and space travel.",
+          "options": {
+            "A": "interested",
+            "B": "interest",
+            "C": "interests",
+            "D": "interesting"
+          },
+          "answer": "A",
+          "explanation": "Người cảm thấy thích thú, đi với \"in\" → \"be interested in\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Phân từ bổ nghĩa cho danh từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "Look at the ______ baby in the cot. Please don't make any noise.",
+          "options": {
+            "A": "sleeping",
+            "B": "sleeps",
+            "C": "slept",
+            "D": "sleep"
+          },
+          "answer": "A",
+          "explanation": "Em bé tự thực hiện hành động ngủ (chủ động, đang diễn ra) → \"sleeping\"."
+        },
+        {
+          "no": 9,
+          "question": "After the storm, the workers removed the ______ branches from the road.",
+          "options": {
+            "A": "breaking",
+            "B": "break",
+            "C": "broke",
+            "D": "broken"
+          },
+          "answer": "D",
+          "explanation": "Cành cây bị gãy (bị động) → quá khứ phân từ \"broken\"."
+        },
+        {
+          "no": 10,
+          "question": "Fresh vegetables are healthier than ______ ones.",
+          "options": {
+            "A": "freezing",
+            "B": "froze",
+            "C": "freeze",
+            "D": "frozen"
+          },
+          "answer": "D",
+          "explanation": "Rau bị làm đông lạnh (bị động) → \"frozen\" (V3 của freeze)."
+        },
+        {
+          "no": 11,
+          "question": "The ______ cost of living worries many families in big cities.",
+          "options": {
+            "A": "rising",
+            "B": "rise",
+            "C": "risen",
+            "D": "rose"
+          },
+          "answer": "A",
+          "explanation": "Chi phí sinh hoạt tự tăng lên (chủ động, đang diễn ra) → \"rising\"."
+        },
+        {
+          "no": 12,
+          "question": "The police have found the ______ bicycle in a car park.",
+          "options": {
+            "A": "stole",
+            "B": "stealing",
+            "C": "stolen",
+            "D": "steal"
+          },
+          "answer": "C",
+          "explanation": "Chiếc xe đạp bị lấy cắp (bị động) → \"stolen\"."
+        },
+        {
+          "no": 13,
+          "question": "The children were ______ by the clown's funny tricks.",
+          "options": {
+            "A": "amusement",
+            "B": "amuse",
+            "C": "amused",
+            "D": "amusing"
+          },
+          "answer": "C",
+          "explanation": "Bọn trẻ được làm cho vui, có \"by + tác nhân\" → \"amused\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Participle clauses",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/participle-clauses"
+    },
+    {
+      "title": "British Council LearnEnglish – Participle clauses (Q&A on relative vs participle clauses)",
+      "url": "https://learnenglish.britishcouncil.org/comment/174410"
+    }
+  ]
+}

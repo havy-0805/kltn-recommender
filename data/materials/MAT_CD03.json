@@ -1,0 +1,283 @@
+{
+  "material_id": "MAT_CD03",
+  "skill_id": "SK_COMPLEX_SENT",
+  "title": "Chuyên đề Câu phụ thuộc",
+  "target_level": 2,
+  "summary": "Tổng hợp các loại mệnh đề phụ thuộc thường gặp (trạng ngữ chỉ thời gian, lý do, nhượng bộ, mục đích, kết quả, điều kiện; mệnh đề danh từ; mệnh đề quan hệ) giúp học sinh chọn đúng liên từ và nối câu trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Câu phức và mệnh đề phụ thuộc",
+      "points": [
+        "Câu phức = 1 mệnh đề chính (đứng độc lập được) + ít nhất 1 mệnh đề phụ thuộc (bắt đầu bằng liên từ phụ thuộc, không đứng một mình được).",
+        "Mệnh đề phụ thuộc đứng đầu câu → có dấu phẩy ngăn với mệnh đề chính.",
+        "Ba nhóm chính: mệnh đề trạng ngữ, mệnh đề danh từ, mệnh đề quan hệ."
+      ],
+      "examples": [
+        {
+          "en": "Because the road was flooded, we took another way.",
+          "vi": "Vì đường bị ngập nên chúng tôi đi đường khác."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề trạng ngữ: lý do, nhượng bộ, mục đích, điều kiện",
+      "points": [
+        "Lý do: because, as, since + S + V (nhưng because of + N/V-ing).",
+        "Nhượng bộ: although, though, even though + S + V (nhưng despite/in spite of + N/V-ing).",
+        "Mục đích: so that / in order that + S + can/could/will/would + V.",
+        "Điều kiện: if, unless (= if ... not), as long as.",
+        "Thời gian: when, while, before, after, until, as soon as, since."
+      ],
+      "examples": [
+        {
+          "en": "Although she was tired, she finished her essay.",
+          "vi": "Mặc dù mệt, cô ấy vẫn viết xong bài luận."
+        },
+        {
+          "en": "He speaks slowly so that everyone can understand him.",
+          "vi": "Anh ấy nói chậm để mọi người đều hiểu."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề kết quả: so ... that / such ... that",
+      "points": [
+        "S + be + so + adj + that + S + V; S + V + so + adv + that + S + V.",
+        "S + be + such + (a/an) + adj + N + that + S + V.",
+        "Đổi tương đương: too + adj + (for O) + to V = so + adj + that + S + can't/couldn't + V."
+      ],
+      "examples": [
+        {
+          "en": "It was such a hot day that we stayed indoors.",
+          "vi": "Trời nóng đến mức chúng tôi ở trong nhà."
+        },
+        {
+          "en": "The box was so heavy that I couldn't lift it.",
+          "vi": "Cái hộp nặng đến nỗi tôi không nhấc nổi."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề danh từ và mệnh đề quan hệ",
+      "points": [
+        "Mệnh đề danh từ bắt đầu bằng that, what, whether/if, từ để hỏi (who, where, when, why, how) – làm chủ ngữ hoặc tân ngữ.",
+        "Câu hỏi lồng: từ để hỏi + S + V (không đảo trợ động từ).",
+        "Mệnh đề quan hệ bổ nghĩa cho danh từ: who (người), which (vật), whose (sở hữu), whom (tân ngữ chỉ người), that."
+      ],
+      "examples": [
+        {
+          "en": "I don't know where she lives.",
+          "vi": "Tôi không biết cô ấy sống ở đâu."
+        },
+        {
+          "en": "The girl who won the prize is my cousin.",
+          "vi": "Cô gái giành giải là em họ tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định quan hệ nghĩa giữa hai vế trước: nguyên nhân – kết quả (because/so), trái ngược (although/but), mục đích (so that), điều kiện (if/unless).",
+    "Sau chỗ trống là mệnh đề (S + V) → chọn liên từ (because, although); là danh từ/V-ing → chọn giới từ (because of, despite).",
+    "so + adj/adv; such + (a/an) + adj + N – nhìn có danh từ hay không để chọn.",
+    "Câu nối có hai vế trái nghĩa nhưng đáp án dùng because → loại ngay."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn liên từ / cấu trúc đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ it rained heavily, the football match still went ahead.",
+          "options": {
+            "A": "So",
+            "B": "Because",
+            "C": "Despite",
+            "D": "Although"
+          },
+          "answer": "D",
+          "explanation": "Hai vế trái ngược (mưa to – trận đấu vẫn diễn ra), sau chỗ trống là mệnh đề → 'Although'. 'Despite' phải đi với N/V-ing."
+        },
+        {
+          "no": 2,
+          "question": "She stayed at home ______ she had a bad cold.",
+          "options": {
+            "A": "because",
+            "B": "so that",
+            "C": "unless",
+            "D": "although"
+          },
+          "answer": "A",
+          "explanation": "Vế sau là lý do của vế trước (bị cảm nặng → ở nhà) → 'because'."
+        },
+        {
+          "no": 3,
+          "question": "He saved money ______ he could buy a new bike.",
+          "options": {
+            "A": "because",
+            "B": "unless",
+            "C": "so that",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "Vế sau chỉ mục đích, có 'could + V' → 'so that'."
+        },
+        {
+          "no": 4,
+          "question": "You won't pass the exam ______ you study harder.",
+          "options": {
+            "A": "unless",
+            "B": "because",
+            "C": "so that",
+            "D": "if"
+          },
+          "answer": "A",
+          "explanation": "'Unless' = 'if ... not': Bạn sẽ không đỗ nếu bạn không học chăm hơn."
+        },
+        {
+          "no": 5,
+          "question": "The film was ______ boring that we left before the end.",
+          "options": {
+            "A": "such",
+            "B": "so",
+            "C": "very",
+            "D": "too"
+          },
+          "answer": "B",
+          "explanation": "so + adj (boring) + that + mệnh đề kết quả."
+        },
+        {
+          "no": 6,
+          "question": "It was ______ an interesting book that I read it twice.",
+          "options": {
+            "A": "such",
+            "B": "so",
+            "C": "too",
+            "D": "enough"
+          },
+          "answer": "A",
+          "explanation": "such + a/an + adj + N (an interesting book) + that ..."
+        },
+        {
+          "no": 7,
+          "question": "I don't know ______ he will come to the party or not.",
+          "options": {
+            "A": "which",
+            "B": "whether",
+            "C": "what",
+            "D": "that"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề danh từ diễn tả sự không chắc chắn có/không, có 'or not' → 'whether'."
+        },
+        {
+          "no": 8,
+          "question": "______ she said at the meeting surprised everyone.",
+          "options": {
+            "A": "What",
+            "B": "That",
+            "C": "Whether",
+            "D": "Which"
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề danh từ làm chủ ngữ, thiếu tân ngữ của 'said' → 'What' (điều mà)."
+        },
+        {
+          "no": 9,
+          "question": "The man ______ lives next door is a doctor.",
+          "options": {
+            "A": "whose",
+            "B": "which",
+            "C": "whom",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "Đại từ quan hệ chỉ người, làm chủ ngữ cho 'lives' → 'who'."
+        },
+        {
+          "no": 10,
+          "question": "Mai turned off all the lights ______ she left the classroom.",
+          "options": {
+            "A": "so that",
+            "B": "unless",
+            "C": "before",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "Quan hệ thời gian: tắt đèn trước khi rời lớp → 'before'."
+        },
+        {
+          "no": 11,
+          "question": "______ he was ill, he went to school as usual.",
+          "options": {
+            "A": "In spite of",
+            "B": "Even though",
+            "C": "Because of",
+            "D": "Since"
+          },
+          "answer": "B",
+          "explanation": "Hai vế trái ngược, sau chỗ trống là mệnh đề → 'Even though'. 'In spite of' cần N/V-ing."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu kết hợp / viết lại đúng nghĩa",
+      "instructions": "Choose the sentence that best combines the pair of sentences or is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "The weather was bad. We still went camping.",
+          "options": {
+            "A": "The weather was so bad that we went camping.",
+            "B": "Unless the weather was bad, we went camping.",
+            "C": "Because the weather was bad, we went camping.",
+            "D": "Although the weather was bad, we went camping."
+          },
+          "answer": "D",
+          "explanation": "Hai câu có quan hệ trái ngược (thời tiết xấu nhưng vẫn đi cắm trại) → dùng 'Although'."
+        },
+        {
+          "no": 13,
+          "question": "He is very tired. He can't keep his eyes open.",
+          "options": {
+            "A": "He is such tired that he can't keep his eyes open.",
+            "B": "He is so tired that he can't keep his eyes open.",
+            "C": "He is tired enough to keep his eyes open.",
+            "D": "He is too tired that he can't keep his eyes open."
+          },
+          "answer": "B",
+          "explanation": "so + adj + that + mệnh đề kết quả. 'such' cần danh từ; 'too' không đi với 'that'; C sai nghĩa."
+        },
+        {
+          "no": 14,
+          "question": "The coffee was too hot for me to drink.",
+          "options": {
+            "A": "The coffee was so hot that I could drink it.",
+            "B": "The coffee wasn't hot enough for me to drink.",
+            "C": "The coffee was so hot that I couldn't drink it.",
+            "D": "The coffee was such hot that I couldn't drink it."
+          },
+          "answer": "C",
+          "explanation": "too + adj + for O + to V = so + adj + that + S + couldn't + V + it. A sai nghĩa, D sai 'such', B sai nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Mệnh đề trạng ngữ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-menh-de-trang-ngu-cd2025.jsp"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    },
+    {
+      "title": "IDP IELTS Việt Nam – Noun clause",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-noun-clause/en-gb"
+    }
+  ]
+}

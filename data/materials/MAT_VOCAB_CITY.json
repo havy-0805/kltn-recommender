@@ -1,0 +1,275 @@
+{
+  "material_id": "MAT_VOCAB_CITY",
+  "skill_id": "SK_VOCAB_CITY",
+  "title": "Chuyên đề Từ vựng Cuộc sống đô thị",
+  "target_level": 2,
+  "summary": "Hệ thống từ vựng chủ đề Cuộc sống đô thị (Unit 2 City life – Tiếng Anh 9 Global Success): đặc điểm thành phố, giao thông, ưu – nhược điểm khi sống ở đô thị, giúp học sinh làm tốt câu hỏi từ vựng và collocation chủ đề City life.",
+  "theory": [
+    {
+      "heading": "Đặc điểm và địa điểm trong thành phố",
+      "points": [
+        "metropolitan (thuộc đô thị lớn), cosmopolitan (đa văn hóa, có người từ nhiều nước), urban (thuộc đô thị) ≠ rural (thuộc nông thôn).",
+        "downtown / city centre (trung tâm thành phố), suburbs (ngoại ô), skyscraper (nhà chọc trời), the Old Quarter (phố cổ).",
+        "bustling (nhộn nhịp), lively (sôi động), the hustle and bustle (sự hối hả, náo nhiệt), city dwellers / residents (cư dân thành phố)."
+      ],
+      "examples": [
+        {
+          "en": "Ho Chi Minh City is a cosmopolitan city with people from many countries.",
+          "vi": "Thành phố Hồ Chí Minh là thành phố đa văn hóa với người từ nhiều nước."
+        },
+        {
+          "en": "Many people live in the suburbs and work downtown.",
+          "vi": "Nhiều người sống ở ngoại ô và làm việc ở trung tâm."
+        }
+      ]
+    },
+    {
+      "heading": "Giao thông đô thị",
+      "points": [
+        "public transport (giao thông công cộng), the metro/sky train (tàu điện), rush hour (giờ cao điểm), traffic jam (tắc đường).",
+        "congested (tắc nghẽn), packed with / crowded with (chật kín), reliable (đáng tin cậy, đúng giờ), convenient (thuận tiện).",
+        "commuter (người đi làm xa hằng ngày), parking space (chỗ đỗ xe), pavement (vỉa hè)."
+      ],
+      "examples": [
+        {
+          "en": "The metro is reliable because it always comes on time.",
+          "vi": "Tàu điện đáng tin cậy vì luôn đến đúng giờ."
+        },
+        {
+          "en": "The roads are congested during rush hour.",
+          "vi": "Đường sá tắc nghẽn vào giờ cao điểm."
+        }
+      ]
+    },
+    {
+      "heading": "Ưu điểm và vấn đề của cuộc sống đô thị",
+      "points": [
+        "Ưu điểm: modern facilities (cơ sở vật chất hiện đại), a wide variety of entertainment (nhiều loại hình giải trí), job opportunities (cơ hội việc làm).",
+        "Vấn đề: the cost of living (chi phí sinh hoạt), pricey (đắt đỏ), noise/air pollution (ô nhiễm tiếng ồn/không khí), the crime rate (tỉ lệ tội phạm), lack of green spaces (thiếu không gian xanh).",
+        "liveable (đáng sống): one of the most liveable cities in the world."
+      ],
+      "examples": [
+        {
+          "en": "The cost of living in big cities is rising quickly.",
+          "vi": "Chi phí sinh hoạt ở các thành phố lớn đang tăng nhanh."
+        },
+        {
+          "en": "Noise pollution from traffic makes residents stressed.",
+          "vi": "Ô nhiễm tiếng ồn từ giao thông khiến cư dân căng thẳng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Học theo collocation: the cost of living, the crime rate, rush hour, noise pollution, public transport, packed with, bustling with.",
+    "Phân biệt các từ gần nghĩa: suburbs (ngoại ô) – countryside (nông thôn); cosmopolitan (đa văn hóa) – metropolitan (đô thị lớn).",
+    "Dựa vào phần giải thích/ví dụ trong câu (always comes on time → reliable; clean air and green parks → liveable) để chọn từ.",
+    "Chú ý từ loại: rely (v) – reliable (adj); vary (v) – variety (n) – various (adj); crime (n) – criminal (n/adj)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đặc điểm thành phố",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Ho Chi Minh City is a ______ city where people from many different countries and cultures live and work.",
+          "options": {
+            "A": "cosmopolitan",
+            "B": "ancient",
+            "C": "rural",
+            "D": "peaceful"
+          },
+          "answer": "A",
+          "explanation": "\"people from many different countries and cultures\" → \"cosmopolitan\" (đa văn hóa, mang tính quốc tế)."
+        },
+        {
+          "no": 2,
+          "question": "Many people live in the ______ and travel to the city centre to work every day.",
+          "options": {
+            "A": "pavements",
+            "B": "crossroads",
+            "C": "skyscrapers",
+            "D": "suburbs"
+          },
+          "answer": "D",
+          "explanation": "\"suburbs\" = vùng ngoại ô, nơi nhiều người sống rồi đi làm vào trung tâm."
+        },
+        {
+          "no": 3,
+          "question": "A ______ is a very tall modern building with many floors.",
+          "options": {
+            "A": "skyscraper",
+            "B": "cottage",
+            "C": "villa",
+            "D": "hut"
+          },
+          "answer": "A",
+          "explanation": "\"skyscraper\" = nhà chọc trời. \"cottage\", \"villa\", \"hut\" đều là nhà thấp."
+        },
+        {
+          "no": 4,
+          "question": "Hanoi's Old Quarter is always ______ with tourists and street vendors.",
+          "options": {
+            "A": "deserted",
+            "B": "bustling",
+            "C": "empty",
+            "D": "quiet"
+          },
+          "answer": "B",
+          "explanation": "Collocation \"bustling with\" (nhộn nhịp, tấp nập); ngữ cảnh có nhiều khách du lịch và người bán hàng rong."
+        },
+        {
+          "no": 5,
+          "question": "City ______ often complain about the lack of green spaces and parks.",
+          "options": {
+            "A": "villagers",
+            "B": "farmers",
+            "C": "dwellers",
+            "D": "tourists"
+          },
+          "answer": "C",
+          "explanation": "\"city dwellers\" = cư dân thành phố, người sống lâu dài ở đô thị."
+        },
+        {
+          "no": 6,
+          "question": "Life in the city is exciting, but I sometimes get tired of the ______ and bustle.",
+          "options": {
+            "A": "hurry",
+            "B": "rush",
+            "C": "crowd",
+            "D": "hustle"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định \"the hustle and bustle\" (sự hối hả, náo nhiệt)."
+        },
+        {
+          "no": 7,
+          "question": "Melbourne is often named one of the most ______ cities in the world, thanks to its clean air and green parks.",
+          "options": {
+            "A": "lived",
+            "B": "lives",
+            "C": "liveable",
+            "D": "living"
+          },
+          "answer": "C",
+          "explanation": "Sau \"the most\" và trước \"cities\" cần tính từ mang nghĩa \"đáng sống\" → \"liveable\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Giao thông và vấn đề đô thị",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "The ______ of living in big cities is getting higher, so many young people can't afford to rent a flat.",
+          "options": {
+            "A": "value",
+            "B": "cost",
+            "C": "fee",
+            "D": "price"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"the cost of living\" (chi phí sinh hoạt)."
+        },
+        {
+          "no": 9,
+          "question": "The metro is a ______ means of transport: it almost always arrives on time.",
+          "options": {
+            "A": "rely",
+            "B": "reliance",
+            "C": "reliable",
+            "D": "reliably"
+          },
+          "answer": "C",
+          "explanation": "Trước cụm danh từ \"means of transport\" cần tính từ; \"arrives on time\" → \"reliable\" (đáng tin cậy)."
+        },
+        {
+          "no": 10,
+          "question": "The ______ rate in this area has fallen thanks to more police patrols at night.",
+          "options": {
+            "A": "criminally",
+            "B": "crime",
+            "C": "criminal",
+            "D": "crimes"
+          },
+          "answer": "B",
+          "explanation": "Cụm danh từ ghép \"the crime rate\" (tỉ lệ tội phạm); danh từ \"crime\" làm bổ nghĩa ở dạng số ít."
+        },
+        {
+          "no": 11,
+          "question": "There is a wide ______ of entertainment in the city, from cinemas and theatres to night markets.",
+          "options": {
+            "A": "various",
+            "B": "vary",
+            "C": "variously",
+            "D": "variety"
+          },
+          "answer": "D",
+          "explanation": "Cụm \"a wide variety of\" (nhiều loại khác nhau); sau \"a wide\" cần danh từ."
+        },
+        {
+          "no": 12,
+          "question": "Living in the city centre is convenient, but it can be quite ______: a small flat costs a fortune.",
+          "options": {
+            "A": "reasonable",
+            "B": "pricey",
+            "C": "affordable",
+            "D": "cheap"
+          },
+          "answer": "B",
+          "explanation": "\"a small flat costs a fortune\" (căn hộ nhỏ cũng đắt) → \"pricey\" (đắt đỏ). Từ \"but\" báo hiệu ý trái ngược với \"convenient\"."
+        },
+        {
+          "no": 13,
+          "question": "Noise ______ from traffic and construction sites makes many city residents stressed.",
+          "options": {
+            "A": "pollution",
+            "B": "polluting",
+            "C": "pollutes",
+            "D": "polluted"
+          },
+          "answer": "A",
+          "explanation": "Cụm danh từ \"noise pollution\" (ô nhiễm tiếng ồn) làm chủ ngữ của câu."
+        },
+        {
+          "no": 14,
+          "question": "My cousin moved from a small village to the city to enjoy better ______ such as hospitals, libraries and schools.",
+          "options": {
+            "A": "skyscrapers",
+            "B": "crowds",
+            "C": "facilities",
+            "D": "traffic"
+          },
+          "answer": "C",
+          "explanation": "\"facilities\" = cơ sở vật chất, tiện ích (bệnh viện, thư viện, trường học)."
+        },
+        {
+          "no": 15,
+          "question": "It's very difficult to find a parking ______ in the downtown area at weekends.",
+          "options": {
+            "A": "space",
+            "B": "field",
+            "C": "house",
+            "D": "land"
+          },
+          "answer": "A",
+          "explanation": "Collocation \"parking space\" (chỗ đỗ xe)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success (Unit 2 City life)",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

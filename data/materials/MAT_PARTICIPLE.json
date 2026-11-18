@@ -1,0 +1,256 @@
+{
+  "material_id": "MAT_PARTICIPLE",
+  "skill_id": "SK_PARTICIPLE",
+  "title": "Rút gọn Mệnh đề quan hệ",
+  "target_level": 2,
+  "summary": "Giúp học sinh rút gọn mệnh đề quan hệ bằng V-ing, V-ed/V3 và to V, nhận diện cụm phân từ đứng sau danh từ trong câu và trong bài đọc điền từ của đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Rút gọn bằng V-ing (mệnh đề chủ động)",
+      "points": [
+        "Bỏ đại từ quan hệ (who/which/that) và trợ động từ, đưa động từ về V-ing",
+        "Áp dụng cho mọi thì chủ động: who sits / who is sitting / who wants → sitting / wanting",
+        "\"including\" thường dùng như cụm phân từ nghĩa \"bao gồm\""
+      ],
+      "examples": [
+        {
+          "en": "The man who is sitting next to me is my uncle. → The man sitting next to me is my uncle.",
+          "vi": "Người đàn ông ngồi cạnh tôi là chú tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Rút gọn bằng V-ed/V3 (mệnh đề bị động)",
+      "points": [
+        "Bỏ đại từ quan hệ và \"be\", giữ lại quá khứ phân từ",
+        "which was built → built; that are made → made; who was invited → invited"
+      ],
+      "examples": [
+        {
+          "en": "The bridge which was built last year is very modern. → The bridge built last year is very modern.",
+          "vi": "Cây cầu xây năm ngoái rất hiện đại."
+        }
+      ]
+    },
+    {
+      "heading": "Rút gọn bằng to V",
+      "points": [
+        "Sau the first, the second, the last, the only, so sánh nhất: the first student to arrive",
+        "Nghĩa bị động: the first + N + to be + V3 (the only room to be painted)"
+      ],
+      "examples": [
+        {
+          "en": "Lan was the first student who arrived this morning. → Lan was the first student to arrive this morning.",
+          "vi": "Lan là học sinh đến đầu tiên sáng nay."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định danh từ đứng trước chỗ trống TỰ làm hành động (→ V-ing) hay BỊ tác động (→ V3).",
+    "Thấy the first/the last/the only/so sánh nhất trước danh từ → nghĩ ngay tới to V.",
+    "Nếu câu đã có động từ chính, chỗ trống sau danh từ không thể là động từ chia thì (is sitting, was built) – phải là phân từ.",
+    "Có \"by + tác nhân\" phía sau thường là V3."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng rút gọn đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The man ______ next to my father at the meeting is our new headmaster.",
+          "options": {
+            "A": "is sitting",
+            "B": "sit",
+            "C": "sits",
+            "D": "sitting"
+          },
+          "answer": "D",
+          "explanation": "Người đàn ông tự ngồi (chủ động) → rút gọn V-ing; câu đã có động từ chính \"is\" nên không dùng \"is sitting\", \"sit\" hay \"sits\"."
+        },
+        {
+          "no": 2,
+          "question": "The bridge ______ across the Red River last year is very modern.",
+          "options": {
+            "A": "built",
+            "B": "building",
+            "C": "builds",
+            "D": "was built"
+          },
+          "answer": "A",
+          "explanation": "Cây cầu được xây (bị động) → V3 \"built\"."
+        },
+        {
+          "no": 3,
+          "question": "Students ______ part in the contest must register before Friday.",
+          "options": {
+            "A": "take",
+            "B": "taking",
+            "C": "taken",
+            "D": "took"
+          },
+          "answer": "B",
+          "explanation": "Học sinh tự tham gia (chủ động) → \"taking part\"."
+        },
+        {
+          "no": 4,
+          "question": "Lan was the first student ______ at school this morning.",
+          "options": {
+            "A": "arriving",
+            "B": "to arrive",
+            "C": "arrives",
+            "D": "arrived"
+          },
+          "answer": "B",
+          "explanation": "Sau \"the first + N\" dùng to V: \"to arrive\"."
+        },
+        {
+          "no": 5,
+          "question": "The letters ______ yesterday haven't arrived yet.",
+          "options": {
+            "A": "to send",
+            "B": "sending",
+            "C": "sent",
+            "D": "send"
+          },
+          "answer": "C",
+          "explanation": "Thư được gửi (bị động) → V3 \"sent\"."
+        },
+        {
+          "no": 6,
+          "question": "The road ______ the two villages was flooded after the storm.",
+          "options": {
+            "A": "connected",
+            "B": "connects",
+            "C": "connecting",
+            "D": "to connect"
+          },
+          "answer": "C",
+          "explanation": "Con đường nối hai làng (chủ động) → \"connecting\"."
+        },
+        {
+          "no": 7,
+          "question": "Anyone ______ to join the English club should contact Ms. Hoa.",
+          "options": {
+            "A": "wanted",
+            "B": "wanting",
+            "C": "to want",
+            "D": "want"
+          },
+          "answer": "B",
+          "explanation": "Người muốn tham gia (chủ động) → \"wanting\" (= who wants)."
+        },
+        {
+          "no": 8,
+          "question": "Is this the novel ______ by Nguyen Nhat Anh?",
+          "options": {
+            "A": "written",
+            "B": "writing",
+            "C": "to write",
+            "D": "wrote"
+          },
+          "answer": "A",
+          "explanation": "Cuốn tiểu thuyết được viết bởi … (bị động, có \"by\") → \"written\"."
+        },
+        {
+          "no": 9,
+          "question": "Our school held a charity fair, ______ food stalls, games and a book sale.",
+          "options": {
+            "A": "included",
+            "B": "include",
+            "C": "includes",
+            "D": "including"
+          },
+          "answer": "D",
+          "explanation": "\"including\" là phân từ dùng như giới từ nghĩa \"bao gồm\"."
+        },
+        {
+          "no": 10,
+          "question": "She is the only student in our school ______ the scholarship this year.",
+          "options": {
+            "A": "receive",
+            "B": "received",
+            "C": "receives",
+            "D": "to receive"
+          },
+          "answer": "D",
+          "explanation": "Sau \"the only + N\" dùng to V: \"to receive\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đồng nghĩa",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "The girl who is wearing a red dress is my sister.",
+          "options": {
+            "A": "The girl is wearing a red dress is my sister.",
+            "B": "The girl worn a red dress is my sister.",
+            "C": "The girl wearing a red dress is my sister.",
+            "D": "The girl to wear a red dress is my sister."
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề chủ động → bỏ \"who is\", giữ \"wearing\"."
+        },
+        {
+          "no": 12,
+          "question": "Most of the goods which are made in this factory are exported.",
+          "options": {
+            "A": "Most of the goods to make in this factory are exported.",
+            "B": "Most of the goods are made in this factory are exported.",
+            "C": "Most of the goods making in this factory are exported.",
+            "D": "Most of the goods made in this factory are exported."
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề bị động → bỏ \"which are\", giữ V3 \"made\"."
+        },
+        {
+          "no": 13,
+          "question": "He was the last person who left the office.",
+          "options": {
+            "A": "He was the last person to leaving the office.",
+            "B": "He was the last person to be left the office.",
+            "C": "He was the last person left the office.",
+            "D": "He was the last person to leave the office."
+          },
+          "answer": "D",
+          "explanation": "Sau \"the last + N\" dùng to V chủ động: \"to leave\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 14,
+          "question": "The (A) houses (B) destroying by the storm (C) are being (D) rebuilt by local people.",
+          "options": {
+            "A": "houses",
+            "B": "destroying",
+            "C": "are being",
+            "D": "rebuilt"
+          },
+          "answer": "B",
+          "explanation": "Những ngôi nhà bị bão phá hủy (bị động, có \"by the storm\") → \"destroyed\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Participle clauses",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/participle-clauses"
+    },
+    {
+      "title": "British Council LearnEnglish – Participle clauses (Q&A on relative vs participle clauses)",
+      "url": "https://learnenglish.britishcouncil.org/comment/174410"
+    }
+  ]
+}

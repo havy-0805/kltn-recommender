@@ -1,0 +1,278 @@
+{
+  "material_id": "MAT_CD05",
+  "skill_id": "SK_COMPARATIVE",
+  "title": "Chuyên đề So sánh",
+  "target_level": 2,
+  "summary": "Tổng hợp đầy đủ các cấu trúc so sánh (bằng, hơn, kém, hơn nhất, so sánh kép, so sánh với danh từ) và các dạng viết lại câu so sánh thường gặp trong đề thi vào lớp 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "So sánh bằng, hơn, kém",
+      "points": [
+        "Bằng: as + adj/adv + as; không bằng: not as/so + adj/adv + as.",
+        "Hơn: adj-er + than (tính từ ngắn) / more + adj + than (tính từ dài).",
+        "Kém: less + adj/adv + than (This test is less difficult than the last one).",
+        "Với danh từ: more/fewer + N đếm được số nhiều + than; more/less + N không đếm được + than; as many/much + N + as."
+      ],
+      "examples": [
+        {
+          "en": "My bike is not as new as yours.",
+          "vi": "Xe đạp của tôi không mới bằng của bạn."
+        },
+        {
+          "en": "There are fewer cars in my village than in the city.",
+          "vi": "Ở làng tôi có ít ô tô hơn ở thành phố."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh hơn nhất và bất quy tắc",
+      "points": [
+        "the + adj-est / the most + adj (+ in + nơi chốn / of + nhóm).",
+        "good/well → better → best; bad/badly → worse → worst; far → farther/further; little → less → least; many/much → more → most.",
+        "Trạng từ bổ nghĩa cho động từ: run faster, drive more carefully, work the hardest."
+      ],
+      "examples": [
+        {
+          "en": "Nam works the hardest of all the students.",
+          "vi": "Nam chăm chỉ nhất trong số tất cả học sinh."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh kép",
+      "points": [
+        "Càng ... càng: The + so sánh hơn + S + V, the + so sánh hơn + S + V.",
+        "Ngày càng: adj-er and adj-er / more and more + adj dài."
+      ],
+      "examples": [
+        {
+          "en": "The more reliable the buses are, the more people use them.",
+          "vi": "Xe buýt càng đáng tin cậy thì càng nhiều người đi."
+        },
+        {
+          "en": "Traffic is getting worse and worse.",
+          "vi": "Giao thông ngày càng tệ hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Các dạng viết lại câu thường gặp",
+      "points": [
+        "A is + so sánh hơn + than B = B is not as + adj + as A = B is + so sánh hơn (tính từ trái nghĩa) + than A.",
+        "This is the + so sánh nhất + N + S + have ever + V3 = S + have never + V3 + such a/an + adj + N / a more + adj + N.",
+        "Nobody/No N is + so sánh hơn + than X = X is the + so sánh nhất.",
+        "S + used to + V + better than now = S + doesn't + V + as well as he/she used to."
+      ],
+      "examples": [
+        {
+          "en": "I have never seen such a beautiful sunset. = This is the most beautiful sunset I have ever seen.",
+          "vi": "Tôi chưa từng thấy hoàng hôn nào đẹp như vậy. = Đây là cảnh hoàng hôn đẹp nhất tôi từng thấy."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định từ khóa: than → so sánh hơn/kém; as ... as → nguyên dạng; the ... in/of/ever → so sánh nhất; The ..., the ... → so sánh kép.",
+    "Bài đọc điền từ: để ý cấu trúc song hành (less stressed and more relaxed) để chọn cùng dạng so sánh.",
+    "Câu viết lại: kiểm tra xem nghĩa có bị đảo ngược không – đổi chủ ngữ thì phải đổi tính từ sang nghĩa trái ngược.",
+    "Đừng quên 'the' trước so sánh nhất và trước cả hai vế của so sánh kép."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Living in the city is ______ than living in the countryside.",
+          "options": {
+            "A": "more expensive",
+            "B": "the more expensive",
+            "C": "most expensive",
+            "D": "expensive"
+          },
+          "answer": "A",
+          "explanation": "Có 'than', tính từ dài 'expensive' → 'more expensive'."
+        },
+        {
+          "no": 2,
+          "question": "Minh runs ______ than his classmates.",
+          "options": {
+            "A": "faster",
+            "B": "fastest",
+            "C": "fast",
+            "D": "more fast"
+          },
+          "answer": "A",
+          "explanation": "'fast' là trạng từ ngắn → so sánh hơn 'faster'."
+        },
+        {
+          "no": 3,
+          "question": "The ______ the weather is, the ______ we feel.",
+          "options": {
+            "A": "hotter / more tired",
+            "B": "hottest / most tired",
+            "C": "hot / tired",
+            "D": "more hot / tireder"
+          },
+          "answer": "A",
+          "explanation": "So sánh kép: The + so sánh hơn ..., the + so sánh hơn ... → 'hotter / more tired'."
+        },
+        {
+          "no": 4,
+          "question": "This is ______ book in the school library.",
+          "options": {
+            "A": "the oldest",
+            "B": "old",
+            "C": "older",
+            "D": "the older"
+          },
+          "answer": "A",
+          "explanation": "So sánh nhất trong phạm vi thư viện → 'the oldest'."
+        },
+        {
+          "no": 5,
+          "question": "Life today is much ______ than it was 50 years ago.",
+          "options": {
+            "A": "comfortabler",
+            "B": "most comfortable",
+            "C": "more comfortable",
+            "D": "comfortable"
+          },
+          "answer": "C",
+          "explanation": "'much' nhấn mạnh so sánh hơn; tính từ dài → 'more comfortable'."
+        },
+        {
+          "no": 6,
+          "question": "Of all the students in the group, Nam works ______.",
+          "options": {
+            "A": "hard",
+            "B": "the hardest",
+            "C": "more hardly",
+            "D": "harder"
+          },
+          "answer": "B",
+          "explanation": "'Of all the students' → so sánh nhất 'the hardest' ('hardly' nghĩa là hầu như không)."
+        },
+        {
+          "no": 7,
+          "question": "The traffic in big cities is getting ______.",
+          "options": {
+            "A": "worst and worst",
+            "B": "more and more bad",
+            "C": "worse and worse",
+            "D": "bad and bad"
+          },
+          "answer": "C",
+          "explanation": "'Ngày càng tệ' → so sánh hơn lặp lại của 'bad' là 'worse and worse'."
+        },
+        {
+          "no": 8,
+          "question": "My grandmother walks ______ than she used to.",
+          "options": {
+            "A": "more slow",
+            "B": "most slowly",
+            "C": "slowlier",
+            "D": "more slowly"
+          },
+          "answer": "D",
+          "explanation": "Bổ nghĩa cho 'walks' cần trạng từ 'slowly' (dài) → 'more slowly'."
+        },
+        {
+          "no": 9,
+          "question": "This year's exam was ______ difficult than last year's, so more students passed.",
+          "options": {
+            "A": "least",
+            "B": "most",
+            "C": "more",
+            "D": "less"
+          },
+          "answer": "D",
+          "explanation": "Nhiều học sinh đỗ hơn → đề dễ hơn → so sánh kém 'less difficult than'."
+        },
+        {
+          "no": 10,
+          "question": "She is the same age ______ my sister.",
+          "options": {
+            "A": "than",
+            "B": "like",
+            "C": "as",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "Cấu trúc 'the same (+ N) as'."
+        },
+        {
+          "no": 11,
+          "question": "The ______ books you read, the ______ vocabulary you learn.",
+          "options": {
+            "A": "more / most",
+            "B": "more / more",
+            "C": "much / many",
+            "D": "most / most"
+          },
+          "answer": "B",
+          "explanation": "So sánh kép với danh từ: The more + N ..., the more + N ..."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "My house isn't as big as Lan's.",
+          "options": {
+            "A": "My house is bigger than Lan's.",
+            "B": "My house is the biggest.",
+            "C": "Lan's house is as small as mine.",
+            "D": "Lan's house is bigger than mine."
+          },
+          "answer": "D",
+          "explanation": "Nhà tôi không to bằng nhà Lan = Nhà Lan to hơn nhà tôi."
+        },
+        {
+          "no": 13,
+          "question": "I have never eaten such a delicious cake.",
+          "options": {
+            "A": "This cake is more delicious than I have eaten.",
+            "B": "This is the most delicious cake I have ever eaten.",
+            "C": "I have eaten more delicious cakes than this.",
+            "D": "This is a delicious cake I have never eaten."
+          },
+          "answer": "B",
+          "explanation": "never + such a/an + adj + N = the + so sánh nhất + N + I have ever + V3."
+        },
+        {
+          "no": 14,
+          "question": "Hoa sings better than anyone else in her class.",
+          "options": {
+            "A": "Nobody in her class sings worse than Hoa.",
+            "B": "Hoa is the best singer in her class.",
+            "C": "Hoa's class sings better than her.",
+            "D": "Hoa sings as well as the others in her class."
+          },
+          "answer": "B",
+          "explanation": "Hát hay hơn bất kỳ ai khác trong lớp = là người hát hay nhất lớp."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu so sánh",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-so-sanh-cd2025.jsp"
+    },
+    {
+      "title": "British Council LearnEnglish – Comparative and superlative adjectives",
+      "url": "https://learnenglish.britishcouncil.org/comment/166266"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    }
+  ]
+}

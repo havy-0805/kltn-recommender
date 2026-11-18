@@ -1,0 +1,126 @@
+material_id,skill_id,material_title,target_level
+MAT_CD01,SK_PHON_PRON,Chuyên đề Phát âm,1
+MAT_STRESS_02,SK_PHON_STRESS,Quy tắc trọng âm từ 2 âm tiết,1
+MAT_PHON_STRESS,SK_PHON_STRESS,Bí quyết Chinh phục bài tập Trọng âm,2
+MAT_CD02,SK_TENSE_ASPECT,Chuyên đề Thì,2
+MAT_CD03,SK_COMPLEX_SENT,Chuyên đề Câu phụ thuộc,2
+MAT_CD04,SK_PHRASAL_VERBS,Chuyên đề Phrasal verbs,2
+MAT_CD05,SK_COMPARATIVE,Chuyên đề So sánh,2
+MAT_CD06,SK_REPORT_SPEECH,Chuyên đề Câu gián tiếp,2
+MAT_CD07,SK_USED_TO,Chuyên đề USED TO - BE USED TO,1
+MAT_CD08,SK_WISH,Chuyên đề Câu ước,1
+MAT_CD09,SK_PASSIVE_VOICE,Chuyên đề Câu bị động,2
+MAT_CD10,SK_SUGGEST,Chuyên đề Cách sử dụng của Suggest,1
+MAT_CD11,SK_ADJ_STRUCTURE,Chuyên đề Cấu trúc tính từ,2
+MAT_CD12,SK_QUANTIFIER,Chuyên đề Từ chỉ định lượng,2
+MAT_CD13,SK_CONDITIONAL,Chuyên đề Câu điều kiện,2
+MAT_CD14,SK_ARTICLES,Chuyên đề Mạo từ,1
+MAT_CD15,SK_REL_CLAUSE,Chuyên đề Mệnh đề quan hệ,2
+MAT_CD16,SK_CONCESSION,Chuyên đề Despite/Although,2
+MAT_CD17,SK_VERB_FORMS,Chuyên đề Dạng của động từ,2
+MAT_CD18,SK_SUBJECT_VERB,Chuyên đề Sự hòa hợp của chủ ngữ - động từ,2
+MAT_CD19,SK_TAG_QUESTION,Chuyên đề Câu hỏi đuôi,1
+MAT_CD20,SK_PAST_PRESENT_REL,Chuyên đề Quá khứ đơn - Hiện tại hoàn thành,2
+MAT_EXT02,SK_WORD_FORM,Tổng hợp Vocab kì 1,2
+MAT_CD21,SK_WORD_FORM,Chuyên đề Cấu tạo từ,3
+MAT_CD22,SK_ADJ_ORDER,Chuyên đề Trật tự của tính từ,2
+MAT_CD23,SK_CONJUNCTIONS,Chuyên đề Liên từ,2
+MAT_CD24,SK_PREPOSITION,Chuyên đề Giới từ,2
+MAT_CD25,SK_ERROR_CORRECTION,Chuyên đề Tìm và sửa lỗi sai,3
+MAT_CD26,SK_SYNONYM_ANTONYM,Chuyên đề Đồng nghĩa - Trái nghĩa,2
+MAT_CD27,SK_COMM_FUNC,Chuyên đề Hội thoại,1
+MAT_CD28,SK_READING_SKILLS,Chuyên đề Luyện tập kĩ năng đọc hiểu,3
+MAT_TRANS_UNLESS,SK_SENT_TRANS,Tuyển tập bài tập Viết lại câu với Unless,2
+MAT_CD29,SK_SENT_TRANS,Chuyên đề Câu đồng nghĩa,3
+MAT_CD30,SK_GUIDED_REWRITE,Chuyên đề Viết lại câu với từ có sẵn,3
+MAT_COLLOC_01,SK_COLLOCATION,50 Collocations ăn điểm vào 10,2
+MAT_TEXT_ORG,SK_TEXT_ORG,Kỹ thuật sắp xếp logic đoạn văn,2
+MAT_TEXT_COHES,SK_TEXT_COHES,Kỹ thuật chọn câu kết đoạn,2
+MAT_PARTICIPLE,SK_PARTICIPLE,Rút gọn Mệnh đề quan hệ,2
+MAT_PARTICIPLE_CLAUSE,SK_PARTICIPLE,Kỹ thuật Rút gọn mệnh đề bằng Phân từ,3
+MAT_ADV_FREQ,SK_ADV_FREQ,Chuyên đề Trạng từ chỉ tần suất,1
+MAT_VOCAB_HOBBY,SK_VOCAB_HOBBY,Trọn bộ Từ vựng chủ đề Sở thích,1
+MAT_VOCAB_DISASTER,SK_VOCAB_DISASTER,Từ vựng chuyên sâu Thảm họa thiên nhiên,2
+MAT_VOCAB_HEALTH,SK_VOCAB_HEALTH,Trọn bộ Từ vựng chủ đề Sức khỏe,1
+MAT_SIGN_NOTICE,SK_SIGN_NOTICE,Thực chiến Đọc hiểu Biển báo và Thông báo,1
+MAT_READ_DETAIL,SK_READ_DETAIL,Chiến thuật Tìm thông tin chi tiết bài Đọc hiểu,2
+MAT_READ_NOTTRUE,SK_READ_NOTTRUE,Phương pháp Giải dạng bài NOT / EXCEPT,3
+MAT_READ_MAIN,SK_READ_MAIN,Kỹ năng Xác định ý chính và Chủ đề đoạn văn,2
+MAT_READ_TITLE,SK_READ_TITLE,Kỹ thuật Chọn tiêu đề phù hợp cho đoạn văn,2
+MAT_READ_CLOZE,SK_READ_CLOZE,Phương pháp Xử lý bài đọc Điền từ khuyết thiếu,2
+MAT_READ_GAPPED,SK_READ_GAPPED,Kỹ thuật Điền câu vào bài đọc Gapped text,3
+MAT_VOCAB_CITY,SK_VOCAB_CITY,Chuyên đề Từ vựng Cuộc sống đô thị,2
+MAT_PRON_02,SK_PHON_PRON,Luyện phát âm nâng cao nguyên âm đôi và phụ âm khó,2
+MAT_PRON_03,SK_PHON_PRON,"Quy tắc biến âm, nối âm và ngữ điệu câu nâng cao",3
+MAT_STRESS_03,SK_PHON_STRESS,Chinh phục quy tắc trọng âm từ 3 âm tiết trở lên và từ ghép,3
+MAT_READ_CLOZE_01,SK_READ_CLOZE,Cơ bản về dạng bài Đọc điền từ khuyết thiếu,1
+MAT_READ_CLOZE_03,SK_READ_CLOZE,Tuyệt chiêu bài đọc điền từ nâng cao và bẫy thường gặp,3
+MAT_READ_DETAIL_01,SK_READ_DETAIL,Làm quen kỹ thuật định vị thông tin chi tiết bài đọc,1
+MAT_READ_DETAIL_03,SK_READ_DETAIL,Xử lý câu hỏi chi tiết suy luận và mức độ phân hóa cao,3
+MAT_READ_MAIN_01,SK_READ_MAIN,Các bước cơ bản tìm ý chính và đại ý đoạn văn,1
+MAT_READ_MAIN_03,SK_READ_MAIN,Phân tích ý đồ tác giả và các bẫy ý chính nâng cao,3
+MAT_READ_NOTTRUE_01,SK_READ_NOTTRUE,Nhận diện câu hỏi ngoại lệ NOT/EXCEPT cơ bản,1
+MAT_READ_NOTTRUE_02,SK_READ_NOTTRUE,Chiến thuật loại trừ và đối chiếu thông tin câu hỏi NOT/EXCEPT,2
+MAT_READ_TITLE_01,SK_READ_TITLE,Nhận diện chủ đề và tiêu đề khái quát văn bản,1
+MAT_READ_TITLE_03,SK_READ_TITLE,Bí quyết chọn tiêu đề cho văn bản học thuật chuyên sâu,3
+MAT_READ_SKILL_01,SK_READING_SKILLS,Kỹ năng Skimming và Scanning cho người mới bắt đầu,1
+MAT_READ_SKILL_02,SK_READING_SKILLS,Rèn luyện kỹ năng đọc hiểu chuyên sâu theo dạng bài,2
+MAT_SIGN_NOTICE_02,SK_SIGN_NOTICE,Phân tích biển báo giao thông và thông báo công cộng,2
+MAT_SIGN_NOTICE_03,SK_SIGN_NOTICE,"Đọc hiểu bảng biểu, thông báo phức hợp và tình huống thực tế",3
+MAT_READ_GAPPED_01,SK_READ_GAPPED,Nhận diện cấu trúc liên kết câu trong bài Gapped text,1
+MAT_READ_GAPPED_02,SK_READ_GAPPED,Chiến thuật xác định ngữ cảnh và từ khóa bài Gapped text,2
+MAT_TEXT_ORG_01,SK_TEXT_ORG,Quy tắc cơ bản sắp xếp trật tự các câu trong đoạn,1
+MAT_TEXT_ORG_03,SK_TEXT_ORG,Sắp xếp đoạn văn phức tạp và văn bản nghị luận,3
+MAT_TEXT_COHES_01,SK_TEXT_COHES,Nhận diện vai trò câu kết và tóm tắt ý chính,1
+MAT_TEXT_COHES_03,SK_TEXT_COHES,Kỹ thuật viết và chọn câu kết đoạn mạch lạc nâng cao,3
+MAT_ADJ_ORDER_01,SK_ADJ_ORDER,Quy tắc ghi nhớ trật tự tính từ cơ bản (OSASCOMP),1
+MAT_ADJ_ORDER_03,SK_ADJ_ORDER,Bẫy trật tự tính từ phức hợp và biến thể nâng cao,3
+MAT_ADJ_STRUCT_01,SK_ADJ_STRUCTURE,"Các cấu trúc cơ bản với tính từ (adj + to V, that clause)",1
+MAT_ADJ_STRUCT_03,SK_ADJ_STRUCTURE,Cấu trúc tính từ nâng cao và cụm tính từ đặc biệt,3
+MAT_COMP_01,SK_COMPARATIVE,"Cấu trúc so sánh bằng, hơn và hơn nhất cơ bản",1
+MAT_COMP_03,SK_COMPARATIVE,"So sánh kép, so sánh bội số và trường hợp ngoại lệ nâng cao",3
+MAT_ART_02,SK_ARTICLES,"Quy tắc sử dụng mạo từ A, An, The chuyên sâu",2
+MAT_ART_03,SK_ARTICLES,Trường hợp không dùng mạo từ và ngoại lệ nâng cao,3
+MAT_COND_01,SK_CONDITIONAL,"Câu điều kiện loại 0, 1 và 2 cơ bản",1
+MAT_COND_03,SK_CONDITIONAL,Đảo ngữ câu điều kiện và câu điều kiện hỗn hợp nâng cao,3
+MAT_COMPLEX_01,SK_COMPLEX_SENT,Nhận biết và sử dụng câu phức cơ bản,1
+MAT_COMPLEX_03,SK_COMPLEX_SENT,Phân tích cấu trúc câu phức nâng cao và mệnh đề danh từ,3
+MAT_CONCESS_01,SK_CONCESSION,"Phân biệt Although, Though và In spite of cơ bản",1
+MAT_CONCESS_03,SK_CONCESSION,"Cấu trúc nhượng bộ nâng cao với However, No matter how, Adj+as",3
+MAT_CONJ_01,SK_CONJUNCTIONS,Các liên từ kết hợp và liên từ tương quan cơ bản,1
+MAT_CONJ_03,SK_CONJUNCTIONS,Liên từ phụ thuộc và liên từ chuyển tiếp nâng cao,3
+MAT_PASSIVE_01,SK_PASSIVE_VOICE,Nguyên tắc chuyển đổi câu bị động cơ bản các thì,1
+MAT_PASSIVE_03,SK_PASSIVE_VOICE,"Câu bị động đặc biệt (truyền khiến, kép, động từ chỉ giác quan)",3
+MAT_TENSE_01,SK_TENSE_ASPECT,"Nhận diện và chia các thì cơ bản (Hiện tại, Quá khứ, Tương lai)",1
+MAT_TENSE_03,SK_TENSE_ASPECT,Sự phối hợp thì nâng cao trong câu phức và mệnh đề thời gian,3
+MAT_PAST_PRES_01,SK_PAST_PRESENT_REL,Phân biệt Quá khứ đơn và Hiện tại hoàn thành cơ bản,1
+MAT_PAST_PRES_03,SK_PAST_PRESENT_REL,Biến đổi câu giữa Quá khứ đơn và Hiện tại hoàn thành nâng cao,3
+MAT_QUANT_01,SK_QUANTIFIER,"Cách dùng Some, Any, Much, Many, A lot of cơ bản",1
+MAT_QUANT_03,SK_QUANTIFIER,"Lượng từ phân hóa nâng cao (Few, A few, Little, A little, None)",3
+MAT_PREP_01,SK_PREPOSITION,"Giới từ chỉ thời gian và nơi chốn cơ bản (In, On, At)",1
+MAT_PREP_03,SK_PREPOSITION,Cụm giới từ cố định và bẫy giới từ trong bài thi,3
+MAT_ADV_FREQ_02,SK_ADV_FREQ,Vị trí và cách dùng trạng từ chỉ tần suất trong câu,2
+MAT_ADV_FREQ_03,SK_ADV_FREQ,"Đảo ngữ với trạng từ tần suất phủ định (Hardly, Seldom, Rarely)",3
+MAT_REL_01,SK_REL_CLAUSE,"Đại từ quan hệ và trạng từ quan hệ cơ bản (Who, Whom, Which, That, Where)",1
+MAT_REL_03,SK_REL_CLAUSE,Mệnh đề quan hệ xác định/không xác định và giới từ đi kèm nâng cao,3
+MAT_REPORT_01,SK_REPORT_SPEECH,"Quy tắc lùi thì, đổi ngôi và trạng từ chỉ thời gian câu gián tiếp cơ bản",1
+MAT_REPORT_03,SK_REPORT_SPEECH,Câu tường thuật với các động từ đặc biệt và câu hỏi gián tiếp nâng cao,3
+MAT_WISH_02,SK_WISH,Cấu trúc câu ước ở hiện tại và tương lai với Wish / If only,2
+MAT_WISH_03,SK_WISH,Câu ước ở quá khứ và các biến thể nâng cao của cấu trúc Wish,3
+MAT_SUGGEST_02,SK_SUGGEST,Cấu trúc Suggest + V-ing và Suggest that + S + (should) V,2
+MAT_SUGGEST_03,SK_SUGGEST,Cấu trúc giả định thức với Suggest và các động từ đề xuất nâng cao,3
+MAT_USED_TO_02,SK_USED_TO,"Phân biệt Used to, Be used to và Get used to",2
+MAT_USED_TO_03,SK_USED_TO,Các bẫy ngữ pháp và bài tập nâng cao về thói quen trong quá khứ/hiện tại,3
+MAT_TAG_02,SK_TAG_QUESTION,Quy tắc thành lập câu hỏi đuôi với các thì cơ bản và trợ động từ,2
+MAT_TAG_03,SK_TAG_QUESTION,"Trường hợp đặc biệt câu hỏi đuôi (Let's, mệnh lệnh, đại từ bất định, I think)",3
+MAT_SUBJ_VERB_01,SK_SUBJECT_VERB,Quy tắc hòa hợp chủ ngữ và động từ cơ bản số ít/số nhiều,1
+MAT_SUBJ_VERB_03,SK_SUBJECT_VERB,"Quy tắc hòa hợp đặc biệt (Either...or, Neither...nor, Along with, danh từ tập hợp)",3
+MAT_VERB_FORM_01,SK_VERB_FORMS,Các động từ thông dụng theo sau bởi To-inf và V-ing cơ bản,1
+MAT_VERB_FORM_03,SK_VERB_FORMS,"Động từ biến đổi nghĩa theo sau (Remember, Stop, Forget, Regret, Try)",3
+MAT_PARTICIPLE_01,SK_PARTICIPLE,Nhận biết và phân biệt Hiện tại phân từ (V-ing) và Quá khứ phân từ (V-ed),1
+MAT_SENT_TRANS_01,SK_SENT_TRANS,Nguyên tắc biến đổi câu tương đương cơ bản không đổi nghĩa,1
+MAT_GUIDED_REWRITE_01,SK_GUIDED_REWRITE,Phương pháp làm bài viết lại câu với từ gợi ý cơ bản,1
+MAT_GUIDED_REWRITE_02,SK_GUIDED_REWRITE,Thực hành viết lại câu với từ cho sẵn theo các cấu trúc trọng điểm,2
+MAT_ERROR_CORR_01,SK_ERROR_CORRECTION,Nhận diện các lỗi sai cơ bản về thì và sự hòa hợp chủ vị,1
+MAT_ERROR_CORR_02,SK_ERROR_CORRECTION,"Kỹ thuật phát hiện lỗi sai về từ loại, giới từ và liên từ",2
+MAT_WORD_FORM_01,SK_WORD_FORM,"Nhận diện từ loại cơ bản (Danh từ, Động từ, Tính từ, Trạng từ) và vị trí trong câu",1

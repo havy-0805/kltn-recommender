@@ -1,0 +1,159 @@
+{
+  "material_id": "MAT_READ_NOTTRUE_01",
+  "skill_id": "SK_READ_NOTTRUE",
+  "title": "Nhận diện câu hỏi ngoại lệ NOT/EXCEPT cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận ra câu hỏi phủ định (NOT true, NOT mentioned, EXCEPT) và làm quen cách đánh dấu đúng/sai từng phương án để tìm ra phương án duy nhất không khớp với bài đọc.",
+  "theory": [
+    {
+      "heading": "Nhận diện câu hỏi ngoại lệ",
+      "points": [
+        "Từ khóa phủ định thường được VIẾT HOA: NOT, EXCEPT, LEAST.",
+        "Dạng 1 – NOT true: 'Which of the following is NOT true according to the passage?' → tìm phương án SAI so với bài.",
+        "Dạng 2 – NOT mentioned: 'Which of the following is NOT mentioned?' → tìm phương án bài KHÔNG nhắc tới.",
+        "Dạng 3 – EXCEPT: 'All of the following are mentioned EXCEPT ...' → giống NOT mentioned."
+      ],
+      "examples": [
+        { "en": "Which sport is NOT mentioned in the passage?", "vi": "Môn thể thao nào KHÔNG được nhắc tới trong bài? → 3 phương án có trong bài, 1 phương án không có." }
+      ]
+    },
+    {
+      "heading": "Cách làm: đánh dấu T/F cho từng phương án",
+      "points": [
+        "Coi mỗi phương án là một câu đúng/sai riêng biệt.",
+        "Tìm trong bài: phương án nào có trong bài và khớp nghĩa → ghi T (True) và gạch bỏ.",
+        "Phương án còn lại (sai hoặc không có trong bài) chính là đáp án."
+      ],
+      "examples": [
+        { "en": "Text: 'The sports club has football, badminton and table tennis teams.' → football (T), badminton (T), table tennis (T), basketball (?) → answer: basketball.", "vi": "Ba môn có trong bài được đánh T, môn còn lại là đáp án." }
+      ]
+    },
+    {
+      "heading": "Thông tin liệt kê là nơi hay ra đề",
+      "points": [
+        "Câu NOT/EXCEPT thường dựa vào câu có danh sách (A, B and C) hoặc nhiều câu nối tiếp mô tả các hoạt động.",
+        "Khi đọc, khoanh tròn các danh sách để quay lại đối chiếu nhanh."
+      ],
+      "examples": [
+        { "en": "Banh chung is a square sticky rice cake with green bean and pork inside.", "vi": "Danh sách nguyên liệu: gạo nếp, đậu xanh, thịt lợn → nguyên liệu khác (ví dụ thịt gà) là 'NOT mentioned'." }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân chữ NOT/EXCEPT ngay khi đọc câu hỏi để không vô tình chọn phương án đúng với bài.",
+    "Làm câu NOT sau các câu hỏi khác của cùng bài đọc, vì cần kiểm tra cả 4 phương án.",
+    "Phương án dùng từ tuyệt đối như 'all', 'always', 'every' thường là phương án sai với bài.",
+    "Sau khi chọn, đọc lại câu hỏi một lần nữa: 'Mình đang tìm câu SAI hay câu ĐÚNG?'"
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Our school's Club Day takes place every September. This year, there were twelve clubs at the fair in the school hall. The art club showed paintings and clay models made by its members. The English club organised a short quiz, and the winners got free notebooks. At the music club's table, students could try playing the guitar and the drums. The sports club invited new members to join its football, badminton and table tennis teams. Each club had a poster with the meeting time and the name of the club leader. The fair started at 2 p.m. and finished at 5 p.m. More than three hundred students visited it, and about one hundred and fifty of them signed up for at least one club. Our principal said it was the most successful Club Day ever.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which sport is NOT mentioned as a team of the sports club?",
+          "options": { "A": "Football", "B": "Badminton", "C": "Table tennis", "D": "Basketball" },
+          "answer": "D",
+          "explanation": "Bài viết: 'join its football, badminton and table tennis teams'. Football, badminton, table tennis đều có; basketball không được nhắc."
+        },
+        {
+          "no": 2,
+          "question": "Which club is NOT mentioned in the passage?",
+          "options": { "A": "The science club", "B": "The art club", "C": "The English club", "D": "The music club" },
+          "answer": "A",
+          "explanation": "Bài có 'The art club...', 'The English club...', 'the music club's table'. Không có câu nào nhắc 'science club'."
+        },
+        {
+          "no": 3,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "The fair took place in the school hall.", "B": "The fair lasted three hours.", "C": "All of the visitors signed up for a club.", "D": "The art club showed paintings." },
+          "answer": "C",
+          "explanation": "Bài viết: 'More than three hundred students visited it, and about one hundred and fifty of them signed up' → chỉ khoảng một nửa đăng ký, không phải tất cả. A đúng ('in the school hall'), B đúng (2 p.m.–5 p.m.), D đúng."
+        },
+        {
+          "no": 4,
+          "question": "Which of the following is NOT true about the English club?",
+          "options": { "A": "It organised a short quiz.", "B": "It showed clay models.", "C": "The winners of its quiz got free notebooks.", "D": "It had a poster with its meeting time." },
+          "answer": "B",
+          "explanation": "Clay models là của câu lạc bộ mỹ thuật: 'The art club showed paintings and clay models'. A, C đúng theo câu 'The English club organised a short quiz, and the winners got free notebooks'; D đúng vì 'Each club had a poster with the meeting time'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Tet is the most important festival in Viet Nam. Before Tet, families clean and decorate their houses. People in the North often buy peach blossoms, while people in the South prefer yellow apricot blossoms. Families also make banh chung, a square sticky rice cake with green bean and pork inside. On New Year's Eve, many people go to pagodas to pray for good luck. During the first days of the new year, children wear new clothes and visit their grandparents and relatives. Adults give children lucky money in red envelopes. People also try to avoid arguing or sweeping the floor because they believe these things may bring bad luck. Today, some families travel during the holiday instead of staying at home, but most people still return to their hometowns to celebrate with their families.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following is NOT mentioned as something inside banh chung?",
+          "options": { "A": "Chicken", "B": "Sticky rice", "C": "Green bean", "D": "Pork" },
+          "answer": "A",
+          "explanation": "Bài viết: 'banh chung, a square sticky rice cake with green bean and pork inside'. Chicken không có trong danh sách."
+        },
+        {
+          "no": 6,
+          "question": "Which activity is NOT mentioned as something families do before Tet?",
+          "options": { "A": "Cleaning their houses", "B": "Buying peach or apricot blossoms", "C": "Writing cards to their friends", "D": "Making banh chung" },
+          "answer": "C",
+          "explanation": "Bài có: 'families clean and decorate their houses', 'buy peach blossoms... apricot blossoms', 'Families also make banh chung'. Việc viết thiệp không được nhắc."
+        },
+        {
+          "no": 7,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "People in the South prefer yellow apricot blossoms.", "B": "All families stay at home during the holiday.", "C": "Adults give children lucky money in red envelopes.", "D": "Many people go to pagodas on New Year's Eve." },
+          "answer": "B",
+          "explanation": "Bài viết: 'Today, some families travel during the holiday instead of staying at home' → không phải tất cả đều ở nhà. Từ tuyệt đối 'All' là dấu hiệu sai."
+        },
+        {
+          "no": 8,
+          "question": "Which of the following is NOT mentioned as something children do during the first days of the new year?",
+          "options": { "A": "Wear new clothes", "B": "Visit their grandparents", "C": "Receive lucky money", "D": "Go back to school" },
+          "answer": "D",
+          "explanation": "Bài viết: 'children wear new clothes and visit their grandparents and relatives. Adults give children lucky money' → A, B, C đều có. Đi học lại không được nhắc."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "My uncle Tuan recently turned his flat in Da Nang into a smart home. Now he can control many things with his phone. Before he gets home from work, he turns on the air conditioner so that the rooms are cool when he arrives. The lights switch on automatically when someone enters a room and turn off when the room is empty. A small camera at the front door shows him who is visiting, even when he is not at home. He also has a robot vacuum cleaner that cleans the floor every morning at nine. My uncle says his electricity bill is now lower than before. However, he admits that the system was quite expensive to install, and he sometimes worries about what will happen if the internet stops working.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which device is NOT mentioned in Uncle Tuan's smart home?",
+          "options": { "A": "A smart washing machine", "B": "An air conditioner", "C": "A camera at the front door", "D": "A robot vacuum cleaner" },
+          "answer": "A",
+          "explanation": "Bài nhắc 'the air conditioner', 'A small camera at the front door', 'a robot vacuum cleaner'. Không có máy giặt thông minh."
+        },
+        {
+          "no": 10,
+          "question": "Which of the following is NOT true about the lights in the flat?",
+          "options": { "A": "They switch on when someone enters a room.", "B": "They turn off when a room is empty.", "C": "They work automatically.", "D": "They stay on all night." },
+          "answer": "D",
+          "explanation": "Bài viết: 'The lights switch on automatically when someone enters a room and turn off when the room is empty.' → A, B, C đúng; D trái với bài."
+        },
+        {
+          "no": 11,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "Uncle Tuan's flat is in Da Nang.", "B": "The robot vacuum cleaner works every evening.", "C": "The camera shows visitors even when he is away.", "D": "His electricity bill is lower than before." },
+          "answer": "B",
+          "explanation": "Bài viết: 'a robot vacuum cleaner that cleans the floor every morning at nine' → buổi sáng, không phải buổi tối."
+        },
+        {
+          "no": 12,
+          "question": "Which of the following is NOT mentioned about Uncle Tuan's smart home?",
+          "options": { "A": "He can control it with his phone.", "B": "It was quite expensive to install.", "C": "It was installed by his son.", "D": "He worries about internet problems." },
+          "answer": "C",
+          "explanation": "A: 'he can control many things with his phone'; B: 'the system was quite expensive to install'; D: 'he sometimes worries about what will happen if the internet stops working'. Bài không nói ai lắp đặt."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Single Passages: Question Types & Strategies (NOT questions)", "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

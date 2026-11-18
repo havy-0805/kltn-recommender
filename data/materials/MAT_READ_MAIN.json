@@ -1,0 +1,159 @@
+{
+  "material_id": "MAT_READ_MAIN",
+  "skill_id": "SK_READ_MAIN",
+  "title": "Kỹ năng Xác định ý chính và Chủ đề đoạn văn",
+  "target_level": 2,
+  "summary": "Giúp học sinh trả lời câu hỏi ý chính toàn bài, ý chính từng đoạn và mục đích của tác giả trong bài đọc nhiều đoạn của đề thi vào lớp 10, biết loại phương án quá rộng, quá hẹp hoặc sai lệch.",
+  "theory": [
+    {
+      "heading": "Các dạng câu hỏi ý chính trong đề thi",
+      "points": [
+        "Ý chính toàn bài: 'What is the passage mainly about?', 'What is the main idea of the passage?', 'Which best summarises the passage?'",
+        "Ý chính một đoạn: 'What is paragraph 2 mainly about?', 'Paragraph 3 mainly discusses ...'",
+        "Mục đích: 'What is the writer's main purpose?', 'What is the purpose of paragraph 4?' (to inform, to explain, to give advice, to compare, to persuade)."
+      ],
+      "examples": [
+        { "en": "What is paragraph 2 mainly about? → The health benefits of green spaces.", "vi": "Đoạn 2 chủ yếu nói về điều gì? → Lợi ích sức khỏe của không gian xanh (tóm tắt mọi câu trong đoạn 2)." }
+      ]
+    },
+    {
+      "heading": "Tìm ý chính bài nhiều đoạn",
+      "points": [
+        "Đọc đoạn mở đầu (giới thiệu chủ đề) và câu đầu của mỗi đoạn thân bài (thường là câu chủ đề của đoạn).",
+        "Ghép ý chính các đoạn lại: ý chính toàn bài phải 'phủ' được tất cả các đoạn, không chỉ đoạn đầu.",
+        "Chú ý từ nối chuyển đoạn: However, On the other hand, Still → bài có hai mặt (lợi – hại, vấn đề – giải pháp); ý chính đúng thường nhắc cả hai mặt."
+      ],
+      "examples": [
+        { "en": "P2: There are clear advantages. P3: On the other hand, using social media too much can be harmful. → Main idea: Social media has both benefits and risks.", "vi": "Đoạn 2 nói lợi ích, đoạn 3 nói tác hại → ý chính toàn bài phải bao gồm cả hai." }
+      ]
+    },
+    {
+      "heading": "Loại ba kiểu phương án sai",
+      "points": [
+        "Quá hẹp (too narrow): chỉ là một chi tiết hoặc ý của một đoạn (ví dụ 'How to practise tai chi in parks').",
+        "Quá rộng (too broad): vượt quá nội dung bài (ví dụ 'The history of parks in Ha Noi' khi bài không nói về lịch sử).",
+        "Sai lệch: trái với quan điểm của tác giả (ví dụ 'Social media should be banned' khi bài khuyên 'not to ban social media')."
+      ],
+      "examples": [
+        { "en": "Main idea: The value of green spaces in cities and the threats they face. ✗ Too narrow: Why land in cities is expensive.", "vi": "Phương án 'Vì sao đất thành phố đắt' chỉ là một chi tiết trong đoạn 3 → quá hẹp." }
+      ]
+    }
+  ],
+  "tips": [
+    "Làm câu ý chính SAU các câu chi tiết: lúc đó bạn đã nắm nội dung từng đoạn.",
+    "Viết nhanh 3–5 từ tóm tắt mỗi đoạn bên lề (P1: intro; P2: benefits; P3: problems + solutions) rồi so với phương án.",
+    "Thấy However / On the other hand giữa bài thì ý chính thường có dạng 'both ... and ...' hoặc 'benefits and challenges'.",
+    "Câu hỏi mục đích: chú ý động từ trong phương án (to advise, to explain, to describe) có khớp với giọng văn của đoạn không."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "As cities grow, green spaces such as parks, gardens and tree-lined streets are becoming more valuable than ever. In Ha Noi, for example, many residents go to small parks early in the morning to walk, dance or practise tai chi before work.\nGreen spaces are good for people's health. Trees clean the air by absorbing dust and harmful gases, and they provide shade on hot summer days. Studies have shown that people who spend time in nature feel less stressed and sleep better. Parks also give children a safe place to play and run.\nHowever, green spaces in many cities are shrinking. Land is expensive, so empty areas are often used to build apartments, offices and shopping centres. Some old trees have been cut down to make roads wider. To protect what is left, city planners suggest turning rooftops and walls into gardens and requiring every new housing project to include a park.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What is the passage mainly about?",
+          "options": { "A": "How to practise tai chi in parks", "B": "The value of green spaces in cities and the threats they face", "C": "Why land in cities is expensive", "D": "The history of parks in Ha Noi" },
+          "answer": "B",
+          "explanation": "Đoạn 1 giới thiệu không gian xanh 'more valuable than ever', đoạn 2 nêu lợi ích, đoạn 3 nêu việc chúng 'are shrinking' và giải pháp → B bao quát cả bài. A, C quá hẹp (chi tiết); D bài không nói về lịch sử."
+        },
+        {
+          "no": 2,
+          "question": "What is paragraph 2 mainly about?",
+          "options": { "A": "The health benefits of green spaces", "B": "Games that children play in parks", "C": "Air pollution in Ha Noi", "D": "How trees absorb harmful gases" },
+          "answer": "A",
+          "explanation": "Câu chủ đề đoạn 2: 'Green spaces are good for people's health.' Các câu sau (không khí sạch, bóng mát, giảm căng thẳng, chỗ chơi cho trẻ) đều minh họa. D chỉ là một chi tiết nên quá hẹp."
+        },
+        {
+          "no": 3,
+          "question": "Paragraph 3 mainly discusses ______.",
+          "options": { "A": "why people enjoy shopping centres", "B": "how to build a rooftop garden", "C": "the loss of green spaces and ways to protect them", "D": "the rising cost of apartments" },
+          "answer": "C",
+          "explanation": "Đoạn 3 mở đầu 'However, green spaces in many cities are shrinking' rồi kết thúc bằng giải pháp 'To protect what is left, city planners suggest...'. B, D chỉ là chi tiết của đoạn."
+        },
+        {
+          "no": 4,
+          "question": "What is the writer's main purpose in the passage?",
+          "options": { "A": "To advertise a new park in Ha Noi", "B": "To describe how to practise tai chi", "C": "To complain about traffic on wide roads", "D": "To explain why green spaces matter and should be protected" },
+          "answer": "D",
+          "explanation": "Tác giả giải thích giá trị của không gian xanh (đoạn 1–2) và kêu gọi bảo vệ chúng (đoạn 3: 'To protect what is left...'). A, B, C không phải mục đích chính."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Social media has changed the way teenagers communicate. Most Grade 9 students have at least one account, and many spend two or three hours a day scrolling, chatting and posting photos.\nThere are clear advantages. Social media helps young people keep in touch with friends who live far away, join online groups that share their hobbies, and find useful information for their studies. Some students even use it to raise money for charity or to promote their small businesses.\nOn the other hand, using social media too much can be harmful. Many teenagers compare themselves with the perfect pictures they see online and start to feel unhappy about their own lives. Others stay up late watching videos, which affects their sleep and schoolwork. There is also the risk of cyberbullying, when people send unkind messages to hurt someone.\nExperts believe the answer is not to ban social media but to use it wisely. Teenagers should set time limits, follow positive accounts and talk to parents or teachers when something online feels wrong.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following best states the main idea of the passage?",
+          "options": { "A": "Social media should be banned for teenagers.", "B": "Social media has both benefits and risks, so teenagers should use it wisely.", "C": "Teenagers spend too much time on social media every day.", "D": "Social media helps students raise money for charity." },
+          "answer": "B",
+          "explanation": "Đoạn 2 nêu ưu điểm ('There are clear advantages'), đoạn 3 nêu tác hại ('On the other hand... can be harmful'), đoạn 4 khuyên 'use it wisely' → B. A trái với 'not to ban social media'; C, D là chi tiết."
+        },
+        {
+          "no": 6,
+          "question": "Paragraph 3 mainly describes ______.",
+          "options": { "A": "the advantages of online groups", "B": "ways to stop cyberbullying", "C": "the harmful effects of using social media too much", "D": "how teenagers take perfect pictures" },
+          "answer": "C",
+          "explanation": "Câu chủ đề đoạn 3: 'On the other hand, using social media too much can be harmful.' Các câu sau liệt kê tác hại (tự ti, thiếu ngủ, bắt nạt qua mạng)."
+        },
+        {
+          "no": 7,
+          "question": "What is the purpose of paragraph 4?",
+          "options": { "A": "To give advice on using social media sensibly", "B": "To introduce some new social media apps", "C": "To give more examples of advantages", "D": "To tell a story about a student" },
+          "answer": "A",
+          "explanation": "Đoạn 4: 'the answer is not to ban social media but to use it wisely. Teenagers should set time limits...' → đưa ra lời khuyên (should)."
+        },
+        {
+          "no": 8,
+          "question": "In which paragraph does the writer talk about the good points of social media?",
+          "options": { "A": "Paragraph 4", "B": "Paragraph 3", "C": "Paragraph 1", "D": "Paragraph 2" },
+          "answer": "D",
+          "explanation": "Đoạn 2 bắt đầu bằng 'There are clear advantages.' rồi liệt kê lợi ích. Đoạn 1 giới thiệu, đoạn 3 nói tác hại, đoạn 4 đưa lời khuyên."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "In recent years, homestays have become a popular choice for travellers in Viet Nam, especially in mountainous areas such as Ha Giang, Sa Pa and Mai Chau. Instead of staying in a hotel, visitors sleep in a local family's house, eat home-cooked meals and join in daily activities.\nFor tourists, a homestay offers a real cultural experience. They can learn how to cook local dishes, help in the rice fields or listen to the family's stories by the fire. Many say these moments are more memorable than visiting famous sights.\nHomestays also bring benefits to local communities. Families earn extra income without leaving their villages, and young people have a reason to keep traditional crafts, songs and festivals alive. In some villages, part of the money is used to build roads and schools.\nStill, homestays must be managed carefully. If too many visitors arrive, villages can become noisy and crowded, and traditions may be changed just to please tourists.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "What is the passage mainly about?",
+          "options": { "A": "Homestays in Viet Nam and their effects on visitors and local people", "B": "How to cook local dishes in the mountains", "C": "Famous sights in Ha Giang and Sa Pa", "D": "The problems of staying in hotels" },
+          "answer": "A",
+          "explanation": "Bài giới thiệu homestay (đoạn 1), lợi ích cho du khách (đoạn 2), lợi ích cho cộng đồng (đoạn 3) và lưu ý quản lý (đoạn 4) → A. B là chi tiết; C, D không phải nội dung bài."
+        },
+        {
+          "no": 10,
+          "question": "The main idea of paragraph 3 is that homestays ______.",
+          "options": { "A": "make villages noisy and crowded", "B": "are cheaper than hotels", "C": "help local communities in several ways", "D": "are found only in Sa Pa" },
+          "answer": "C",
+          "explanation": "Câu chủ đề đoạn 3: 'Homestays also bring benefits to local communities.' rồi nêu nhiều lợi ích (thu nhập, giữ truyền thống, xây đường, trường). A là ý của đoạn 4."
+        },
+        {
+          "no": 11,
+          "question": "Which paragraph mentions a possible disadvantage of homestays?",
+          "options": { "A": "Paragraph 1", "B": "Paragraph 2", "C": "Paragraph 3", "D": "Paragraph 4" },
+          "answer": "D",
+          "explanation": "Đoạn 4 mở đầu bằng 'Still' (tuy nhiên) và nói: 'villages can become noisy and crowded, and traditions may be changed just to please tourists.'"
+        },
+        {
+          "no": 12,
+          "question": "Which statement best summarises paragraph 2?",
+          "options": { "A": "Tourists prefer visiting famous sights to staying with families.", "B": "Tourists can have a genuine cultural experience at a homestay.", "C": "Tourists have to work in the rice fields every day.", "D": "Homestays have modern facilities like hotels." },
+          "answer": "B",
+          "explanation": "Câu chủ đề đoạn 2: 'For tourists, a homestay offers a real cultural experience.' (real = genuine). A trái với 'more memorable than visiting famous sights'; C nói quá ('can help' ≠ 'have to ... every day')."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Main Idea, Title Selection, and Author's Purpose", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

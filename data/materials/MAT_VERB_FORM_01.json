@@ -1,0 +1,227 @@
+{
+  "material_id": "MAT_VERB_FORM_01",
+  "skill_id": "SK_VERB_FORMS",
+  "title": "Các động từ thông dụng theo sau bởi To-inf và V-ing cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh ghi nhớ các động từ thông dụng đi với To-infinitive và V-ing để chọn đúng dạng động từ trong những câu trắc nghiệm cơ bản.",
+  "theory": [
+    {
+      "heading": "Động từ + To-infinitive",
+      "points": [
+        "want, would like, hope, plan, decide, agree, refuse, promise, offer, learn, afford, expect, manage, need + to V.",
+        "Mẹo nhớ: phần lớn là động từ chỉ mong muốn, dự định, quyết định – hướng tới tương lai.",
+        "Câu phủ định: not đứng trước to: decide not to go."
+      ],
+      "examples": [
+        {
+          "en": "We decided to visit Ha Long Bay this summer.",
+          "vi": "Chúng tôi quyết định đi thăm vịnh Hạ Long vào hè này."
+        },
+        {
+          "en": "She promised not to be late again.",
+          "vi": "Cô ấy hứa sẽ không đến muộn nữa."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ + V-ing",
+      "points": [
+        "enjoy, finish, mind, avoid, practise, miss, suggest, consider, keep, give up, dislike, can't help, can't stand + V-ing.",
+        "Sau giới từ luôn dùng V-ing: be interested in, be good at, be fond of, think about, instead of + V-ing.",
+        "Would you mind + V-ing ...? dùng để nhờ ai đó lịch sự."
+      ],
+      "examples": [
+        {
+          "en": "My father enjoys reading the newspaper in the morning.",
+          "vi": "Bố tôi thích đọc báo vào buổi sáng."
+        },
+        {
+          "en": "Would you mind opening the window?",
+          "vi": "Bạn có phiền mở cửa sổ giúp không?"
+        }
+      ]
+    },
+    {
+      "heading": "Động từ đi với cả hai dạng (nghĩa gần như không đổi)",
+      "points": [
+        "like, love, hate, prefer, start, begin, continue + to V hoặc V-ing.",
+        "Lưu ý: would like / would love / would prefer luôn + to V."
+      ],
+      "examples": [
+        {
+          "en": "It started raining / to rain at noon.",
+          "vi": "Trời bắt đầu mưa vào buổi trưa."
+        },
+        {
+          "en": "I would like to drink some orange juice.",
+          "vi": "Tôi muốn uống một ít nước cam."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Học thuộc theo nhóm: nhóm 'kế hoạch – mong muốn' + to V; nhóm 'thích/ghét/thói quen/hoàn tất' + V-ing.",
+    "Thấy giới từ (in, on, at, of, about, for, without) ngay trước chỗ trống → chọn V-ing.",
+    "Phân biệt 'like + V-ing' (sở thích nói chung) và 'would like + to V' (muốn làm lúc này).",
+    "Loại ngay phương án 'to + V-ing' hoặc 'to + V-ed' vì luôn sai."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My sister wants ______ a doctor in the future.",
+          "options": {
+            "A": "become",
+            "B": "became",
+            "C": "to become",
+            "D": "becoming"
+          },
+          "answer": "C",
+          "explanation": "want + to V → to become."
+        },
+        {
+          "no": 2,
+          "question": "Minh enjoys ______ football with his friends after school.",
+          "options": {
+            "A": "play",
+            "B": "playing",
+            "C": "to play",
+            "D": "played"
+          },
+          "answer": "B",
+          "explanation": "enjoy + V-ing → playing."
+        },
+        {
+          "no": 3,
+          "question": "Have you finished ______ your homework yet?",
+          "options": {
+            "A": "doing",
+            "B": "do",
+            "C": "to do",
+            "D": "did"
+          },
+          "answer": "A",
+          "explanation": "finish + V-ing → doing."
+        },
+        {
+          "no": 4,
+          "question": "They hope ______ the final match next week.",
+          "options": {
+            "A": "won",
+            "B": "to win",
+            "C": "winning",
+            "D": "win"
+          },
+          "answer": "B",
+          "explanation": "hope + to V → to win."
+        },
+        {
+          "no": 5,
+          "question": "Would you mind ______ the door, please?",
+          "options": {
+            "A": "close",
+            "B": "closed",
+            "C": "closing",
+            "D": "to close"
+          },
+          "answer": "C",
+          "explanation": "mind + V-ing → Would you mind closing...?"
+        },
+        {
+          "no": 6,
+          "question": "Lan is interested in ______ English songs.",
+          "options": {
+            "A": "learn",
+            "B": "to learn",
+            "C": "learned",
+            "D": "learning"
+          },
+          "answer": "D",
+          "explanation": "Sau giới từ 'in' dùng V-ing → learning."
+        },
+        {
+          "no": 7,
+          "question": "The boy refused ______ his vegetables.",
+          "options": {
+            "A": "ate",
+            "B": "to eat",
+            "C": "eating",
+            "D": "eat"
+          },
+          "answer": "B",
+          "explanation": "refuse + to V → to eat."
+        },
+        {
+          "no": 8,
+          "question": "You should avoid ______ too much fast food.",
+          "options": {
+            "A": "eating",
+            "B": "eat",
+            "C": "to eat",
+            "D": "ate"
+          },
+          "answer": "A",
+          "explanation": "avoid + V-ing → eating. ('should' đã đứng trước 'avoid' nên 'avoid' ở dạng nguyên mẫu.)"
+        },
+        {
+          "no": 9,
+          "question": "I'd like ______ a cup of tea, please.",
+          "options": {
+            "A": "having",
+            "B": "have",
+            "C": "had",
+            "D": "to have"
+          },
+          "answer": "D",
+          "explanation": "would like + to V → to have."
+        },
+        {
+          "no": 10,
+          "question": "My grandfather gave up ______ ten years ago.",
+          "options": {
+            "A": "smoked",
+            "B": "smoke",
+            "C": "to smoke",
+            "D": "smoking"
+          },
+          "answer": "D",
+          "explanation": "give up + V-ing → smoking."
+        },
+        {
+          "no": 11,
+          "question": "We can't afford ______ a new car this year.",
+          "options": {
+            "A": "to buy",
+            "B": "buying",
+            "C": "bought",
+            "D": "buy"
+          },
+          "answer": "A",
+          "explanation": "afford + to V → to buy."
+        },
+        {
+          "no": 12,
+          "question": "Hoa practises ______ English with foreign tourists every weekend.",
+          "options": {
+            "A": "spoke",
+            "B": "to speak",
+            "C": "speaking",
+            "D": "speak"
+          },
+          "answer": "C",
+          "explanation": "practise + V-ing → speaking."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Verbs followed by '-ing' or infinitive",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/verbs-followed-ing-or-infinitive"
+    }
+  ]
+}

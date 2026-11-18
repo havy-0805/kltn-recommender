@@ -1,0 +1,236 @@
+{
+  "material_id": "MAT_TEXT_COHES_03",
+  "skill_id": "SK_TEXT_COHES",
+  "title": "Kỹ thuật viết và chọn câu kết đoạn mạch lạc nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh khá giỏi chọn câu kết cho đoạn nghị luận và thư trang trọng khi các phương án đều 'nghe có vẻ đúng', bằng cách đối chiếu lập trường người viết, phạm vi ý và quan hệ logic của từ nối.",
+  "theory": [
+    {
+      "heading": "Câu kết phải khớp lập trường người viết",
+      "points": [
+        "Xác định đoạn văn là MỘT CHIỀU (ủng hộ/phản đối) hay HAI CHIỀU (cân nhắc lợi – hại).",
+        "Đoạn hai chiều (On the other hand…) → câu kết dung hòa: 'Perhaps the answer is not to ban… but to…'.",
+        "Đoạn phản bác quan điểm khác (Some people think… While this was true…, More importantly…) → câu kết khẳng định lập trường của người viết, không lặp lại quan điểm bị phản bác.",
+        "Câu kết cực đoan (should be banned for all…) thường sai nếu đoạn văn đang cân nhắc hai mặt."
+      ],
+      "examples": [
+        {
+          "en": "Phones distract students. On the other hand, they help teenagers keep in touch. Perhaps the answer is to teach teenagers to use them responsibly.",
+          "vi": "Điện thoại làm học sinh mất tập trung. Mặt khác, chúng giúp giữ liên lạc. Có lẽ giải pháp là dạy các em dùng điện thoại có trách nhiệm."
+        }
+      ]
+    },
+    {
+      "heading": "Tổng hợp chứ không lặp lại (synthesize, don't repeat)",
+      "points": [
+        "Câu kết chép nguyên văn câu chủ đề là câu kết yếu – nó không thêm giá trị gì.",
+        "Câu kết mạnh diễn đạt lại ý chính bằng từ mới và cho thấy ý nghĩa rộng hơn (hệ quả, bài học, lời kêu gọi).",
+        "Hình ảnh khái quát (a double-edged sword, a head start) giúp gom nhiều ý thành một nhận định."
+      ],
+      "examples": [
+        {
+          "en": "Urbanisation, therefore, is a double-edged sword that needs careful planning.",
+          "vi": "Vì vậy, đô thị hóa là con dao hai lưỡi cần được quy hoạch cẩn thận. (Gom cả mặt lợi và mặt hại vào một hình ảnh.)"
+        }
+      ]
+    },
+    {
+      "heading": "Bẫy từ nối ở câu kết",
+      "points": [
+        "On the other hand / However: chỉ dùng khi có ý tương phản thật sự; đặt ở câu cuối sẽ mở ra hướng mới mà không khép lại.",
+        "Admittedly: dùng để nhượng bộ – đặt ở cuối sẽ làm yếu lập trường đã xây dựng.",
+        "Thus / Therefore / For these reasons / No wonder: phù hợp để kết vì diễn tả kết quả rút ra từ các ý trước.",
+        "For example / Furthermore / Besides: thêm ý, không phải kết."
+      ],
+      "examples": [
+        {
+          "en": "Young children imitate sounds easily and are less afraid of mistakes. Thus, starting early can give them a valuable head start.",
+          "vi": "Trẻ nhỏ bắt chước âm dễ dàng và ít sợ mắc lỗi. Do đó, học sớm có thể giúp trẻ có lợi thế khởi đầu quý giá."
+        }
+      ]
+    },
+    {
+      "heading": "Câu kết trong thư trang trọng và bài nghị luận nhiều đoạn",
+      "points": [
+        "Thư phàn nàn: kết bằng yêu cầu cụ thể, lịch sự (I would be grateful if you could…).",
+        "Bài có các chỗ trống liên tiếp: chỗ trống sau 'In conclusion,' cần mệnh đề độc lập phản ánh lập trường cuối cùng; các chỗ trống giữa bài cần cụm phù hợp ngữ pháp (because…, If…, since…).",
+        "Kết luận có điều kiện (… as long as …) thể hiện quan điểm cân bằng, rất hay gặp ở bài nghị luận hai chiều."
+      ],
+      "examples": [
+        {
+          "en": "In conclusion, a part-time job can be beneficial as long as it does not harm a student's health or studies.",
+          "vi": "Tóm lại, việc làm thêm có thể có ích miễn là nó không ảnh hưởng đến sức khỏe hay việc học của học sinh."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Trước khi đọc phương án, tự trả lời: 'Người viết đang ủng hộ, phản đối hay cân bằng?' – rồi loại các câu trái lập trường.",
+    "Câu kết nhắc lại nguyên văn câu chủ đề hiếm khi là đáp án 'most appropriately' khi có phương án diễn đạt lại và mở rộng ý nghĩa.",
+    "Soi từ nối đầu câu: On the other hand, However, Admittedly, Furthermore, For example đều là tín hiệu mở ý – nghi ngờ ngay khi chúng xuất hiện ở câu kết.",
+    "Với bài điền nhiều chỗ trống dùng chung 4 phương án, làm chỗ 'In conclusion' cuối cùng (hoặc đầu tiên nếu dễ) để thu hẹp lựa chọn cho các chỗ còn lại.",
+    "Kiểm tra ngữ pháp sau khi ghép: chữ in hoa đầu cụm, dấu phẩy, mệnh đề độc lập hay phụ thuộc."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu kết cho đoạn nghị luận và thư",
+      "instructions": "Choose the sentence (A, B, C or D) that can end each text most appropriately.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Many parents believe that teenagers should not have smartphones until they are older. They worry that phones distract students from studying and expose them to harmful content. On the other hand, smartphones can help teenagers keep in touch with their families and find useful learning materials. ______",
+          "options": {
+            "A": "Therefore, smartphones should be banned for all teenagers.",
+            "B": "Smartphones have become much cheaper in recent years.",
+            "C": "Perhaps the answer is not to ban phones but to teach teenagers to use them responsibly.",
+            "D": "In addition, smartphones have very good cameras."
+          },
+          "answer": "C",
+          "explanation": "Đoạn văn cân nhắc hai mặt (lo ngại – 'On the other hand' lợi ích) nên câu kết phải dung hòa: C kết hợp cả hai bằng giải pháp 'dạy dùng có trách nhiệm'. A cực đoan, bỏ qua mặt lợi; D mở thêm ý mới bằng 'In addition'; B lạc đề."
+        },
+        {
+          "no": 2,
+          "question": "Some people think that zoos should be closed because animals are kept in small cages. While this was true in the past, many modern zoos now provide large, natural habitats. More importantly, zoos play a key role in protecting endangered species through breeding programmes. They also teach millions of visitors, especially children, about wildlife. ______",
+          "options": {
+            "A": "For these reasons, well-managed zoos still deserve our support.",
+            "B": "Admittedly, it is cruel to keep animals in cages.",
+            "C": "Many endangered animals live in Africa.",
+            "D": "Therefore, all zoos should be closed as soon as possible."
+          },
+          "answer": "A",
+          "explanation": "Người viết phản bác ý kiến 'đóng cửa sở thú' bằng ba lý lẽ, nên câu kết phải khẳng định lập trường ủng hộ: 'For these reasons' gom các lý lẽ. D lặp lại quan điểm bị phản bác; B nhượng bộ ở cuối làm yếu lập trường; C chỉ là chi tiết."
+        },
+        {
+          "no": 3,
+          "question": "Rapid urbanisation has changed the lives of many Vietnamese people. On the positive side, cities offer better jobs, schools and hospitals. However, they also suffer from overcrowding, traffic jams and rising house prices. Meanwhile, many villages are left with only the elderly and young children. ______",
+          "options": {
+            "A": "As a result, house prices in cities have risen sharply.",
+            "B": "Urbanisation, therefore, is a double-edged sword that needs careful planning to benefit both cities and the countryside.",
+            "C": "Hospitals in the countryside should hire more doctors.",
+            "D": "In the past, most Vietnamese people were farmers."
+          },
+          "answer": "B",
+          "explanation": "B lặp lại từ khóa 'urbanisation' và hình ảnh 'double-edged sword' gom cả mặt tích cực lẫn tiêu cực; 'both cities and the countryside' bao quát cả ý về làng quê. A quá hẹp (chỉ một chi tiết giá nhà); C chỉ nói một giải pháp nhỏ; D lùi về quá khứ, lạc trọng tâm."
+        },
+        {
+          "no": 4,
+          "question": "Learning a foreign language at an early age has clear advantages. Young children can imitate sounds easily, so they often develop a natural accent. They are also less afraid of making mistakes than adults. As a result, they tend to speak more confidently. ______",
+          "options": {
+            "A": "On the other hand, children learn languages faster than adults.",
+            "B": "For example, my younger brother started learning English at five.",
+            "C": "However, adults are better at learning grammar rules.",
+            "D": "Thus, starting early can give children a valuable head start in language learning."
+          },
+          "answer": "D",
+          "explanation": "'Thus' rút ra kết luận từ các ưu điểm, 'starting early' diễn đạt lại 'at an early age' của câu chủ đề. A dùng sai từ nối 'On the other hand' (không có tương phản); B là ví dụ, không phải kết; C mở ra ý trái chiều mới."
+        },
+        {
+          "no": 5,
+          "question": "Bat Trang ceramic village near Ha Noi has a history of several hundred years. Visitors can watch skilled potters shape clay on traditional wheels. They can even make and paint their own cups or vases under the guidance of local artisans. ______",
+          "options": {
+            "A": "Clay is a kind of soil that is found in many places.",
+            "B": "No wonder it has become a popular destination for both students and foreign tourists.",
+            "C": "Besides, there are many other craft villages in Viet Nam.",
+            "D": "Ceramic products are sometimes very heavy to carry."
+          },
+          "answer": "B",
+          "explanation": "'No wonder' rút ra kết quả hợp lý từ những trải nghiệm hấp dẫn đã nêu; 'it' quy chiếu Bat Trang. C mở rộng sang làng nghề khác (quá rộng, có 'Besides' mở ý); A, D là chi tiết nhỏ, lạc trọng tâm."
+        },
+        {
+          "no": 6,
+          "question": "Reading for pleasure is one of the most valuable habits a teenager can develop. Unlike textbooks, novels allow young readers to experience lives very different from their own, which builds empathy. Regular reading also widens vocabulary and improves concentration, skills that are becoming rare in the age of short videos. ______",
+          "options": {
+            "A": "Reading for pleasure is one of the most valuable habits a teenager can develop.",
+            "B": "Short videos are usually less than one minute long.",
+            "C": "Furthermore, reading textbooks is necessary for exams.",
+            "D": "In a world of endless scrolling, then, picking up a book may be the simplest way for teenagers to grow both intellectually and emotionally."
+          },
+          "answer": "D",
+          "explanation": "D tổng hợp: 'grow intellectually' (vốn từ, tập trung) + 'emotionally' (sự đồng cảm), đồng thời nối lại bối cảnh 'short videos' bằng 'endless scrolling'. A chép nguyên văn câu chủ đề – không thêm giá trị; C dùng 'Furthermore' và chuyển sang sách giáo khoa; B là chi tiết lạc đề."
+        },
+        {
+          "no": 7,
+          "question": "Dear Sir or Madam,\nI am writing to complain about the bicycle I bought from your online shop on 5 May. When it arrived, the front brake did not work and the chain was broken. I contacted your customer service twice, but nobody has replied to me so far. ______\nYours faithfully,\nLe Thu Trang",
+          "options": {
+            "A": "Thank you for your lovely gift; I really like it.",
+            "B": "Firstly, I would like to tell you about my bicycle.",
+            "C": "I would be grateful if you could replace the bicycle or give me a full refund as soon as possible.",
+            "D": "Cycling is a healthy way to travel to school."
+          },
+          "answer": "C",
+          "explanation": "Thư phàn nàn trang trọng kết bằng một yêu cầu cụ thể, lịch sự ('I would be grateful if you could…'). A sai mục đích và sai giọng điệu; B mở ý bằng 'Firstly' trong khi sự việc đã được kể; D lạc đề."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Điền cụm/câu vào bài nghị luận",
+      "instructions": "Four phrases/sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "Nowadays, more and more high school students in big cities take part-time jobs, such as working in cafés or tutoring younger children. Many of them say they work to earn pocket money or to gain real-life experience. Supporters believe these jobs are valuable (8) ______. Students who earn their own money also learn how hard it is to make a living, so they tend to spend more wisely. However, critics argue that part-time work can take time away from studying. (9) ______, students may feel exhausted and fall behind in class. There is also a risk that young workers are paid unfairly, (10) ______. Parents and schools, therefore, should keep an eye on the kind of work teenagers do and the hours they spend on it. In conclusion, (11) ______.",
+      "questions": [
+        {
+          "no": 8,
+          "question": "Choose the option that best fits blank (8).",
+          "options": {
+            "A": "If they work late into the evening",
+            "B": "because they help teenagers become more independent and responsible",
+            "C": "a part-time job can be beneficial as long as it does not harm a student's health or studies",
+            "D": "since some employers take advantage of their lack of experience"
+          },
+          "answer": "B",
+          "explanation": "Sau 'these jobs are valuable' cần một mệnh đề nêu lý do ủng hộ: 'because… more independent and responsible'. Câu sau dùng 'also' để bổ sung lợi ích thứ hai, xác nhận chỗ (8) là lợi ích thứ nhất. D cũng bắt đầu bằng liên từ chỉ lý do nhưng nêu mặt trái – mâu thuẫn với 'Supporters'."
+        },
+        {
+          "no": 9,
+          "question": "Choose the option that best fits blank (9).",
+          "options": {
+            "A": "If they work late into the evening",
+            "B": "because they help teenagers become more independent and responsible",
+            "C": "a part-time job can be beneficial as long as it does not harm a student's health or studies",
+            "D": "since some employers take advantage of their lack of experience"
+          },
+          "answer": "A",
+          "explanation": "Chỗ trống đứng đầu câu (viết hoa) và theo sau là ', students may feel exhausted' – cần mệnh đề điều kiện 'If…'. 'they' quy chiếu học sinh; làm khuya là nguyên nhân dẫn đến mệt mỏi, khớp với lập luận của 'critics'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the option that best fits blank (10).",
+          "options": {
+            "A": "If they work late into the evening",
+            "B": "because they help teenagers become more independent and responsible",
+            "C": "a part-time job can be beneficial as long as it does not harm a student's health or studies",
+            "D": "since some employers take advantage of their lack of experience"
+          },
+          "answer": "D",
+          "explanation": "'paid unfairly, since some employers take advantage of their lack of experience' – mệnh đề 'since' giải thích lý do bị trả lương bất công; 'their' quy chiếu 'young workers'."
+        },
+        {
+          "no": 11,
+          "question": "Choose the option that best fits blank (11).",
+          "options": {
+            "A": "If they work late into the evening",
+            "B": "because they help teenagers become more independent and responsible",
+            "C": "a part-time job can be beneficial as long as it does not harm a student's health or studies",
+            "D": "since some employers take advantage of their lack of experience"
+          },
+          "answer": "C",
+          "explanation": "Sau 'In conclusion,' cần mệnh đề độc lập tổng kết bài hai chiều: 'can be beneficial' (ý của supporters) + 'as long as it does not harm health or studies' (lo ngại của critics). Đây là kết luận cân bằng, khớp với cấu trúc lợi – hại của bài."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "UNC Writing Center – Conclusions",
+      "url": "https://writingcenter.unc.edu/tips-and-tools/conclusions/"
+    },
+    {
+      "title": "Breakout English – C1 Advanced Reading Part 7 (gapped text: reference and linking words)",
+      "url": "https://breakoutenglish.com/advanced-cae/cae-reading-part-7/"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

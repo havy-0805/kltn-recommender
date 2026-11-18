@@ -1,0 +1,268 @@
+{
+  "material_id": "MAT_ADV_FREQ_03",
+  "skill_id": "SK_ADV_FREQ",
+  "title": "Đảo ngữ với trạng từ tần suất phủ định (Hardly, Seldom, Rarely)",
+  "target_level": 3,
+  "summary": "Giúp học sinh dùng thành thạo đảo ngữ với Seldom, Rarely, Never, Hardly (ever), Little và các cấu trúc Hardly … when, No sooner … than – dạng câu phân hóa trong viết lại câu và tìm lỗi sai.",
+  "theory": [
+    {
+      "heading": "Công thức đảo ngữ với trạng từ tần suất phủ định",
+      "points": [
+        "Seldom/Rarely/Never/Hardly ever + trợ động từ + S + V",
+        "Hiện tại đơn → do/does; quá khứ đơn → did; hoàn thành → have/has/had; động từ khuyết thiếu → can/will…",
+        "Chỉ đảo khi trạng từ đứng ĐẦU câu; đứng sau chủ ngữ thì giữ trật tự bình thường",
+        "Câu gốc: She seldom goes out. → Seldom does she go out. (trợ động từ \"does\" + V nguyên mẫu)"
+      ],
+      "examples": [
+        {
+          "en": "Seldom does she go out at weekends.",
+          "vi": "Cô ấy hiếm khi ra ngoài vào cuối tuần."
+        },
+        {
+          "en": "Rarely have I heard such a funny story.",
+          "vi": "Hiếm khi tôi được nghe một câu chuyện buồn cười như vậy."
+        }
+      ]
+    },
+    {
+      "heading": "Hardly … when / No sooner … than",
+      "points": [
+        "Hardly/Scarcely + had + S + V3 + when + S + V2 (vừa mới … thì …)",
+        "No sooner + had + S + V3 + than + S + V2",
+        "Không dùng chéo: Hardly … than ✗, No sooner … when ✗",
+        "Tương đương: As soon as S + V2, S + V2 / S + had only just V3 when …"
+      ],
+      "examples": [
+        {
+          "en": "Hardly had we left the house when it started to snow.",
+          "vi": "Chúng tôi vừa ra khỏi nhà thì tuyết bắt đầu rơi."
+        },
+        {
+          "en": "No sooner had the film started than the lights went out.",
+          "vi": "Phim vừa bắt đầu thì mất điện."
+        }
+      ]
+    },
+    {
+      "heading": "Never before, Little và các dạng khác",
+      "points": [
+        "Never (before) + have/has + S + V3: Never have I been so frightened.",
+        "Little + did + S + V (hầu như không biết/nghĩ): Little did he know that…",
+        "Hardly + do/does/did + S + V + any…: Hardly do I have any free time."
+      ],
+      "examples": [
+        {
+          "en": "Little did he know that his friends were planning a party for him.",
+          "vi": "Anh ấy hoàn toàn không biết bạn bè đang chuẩn bị tiệc cho mình."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: viết lại câu ở trật tự thường (S + V). Bước 2: xác định trợ động từ theo thì. Bước 3: đưa trợ động từ lên trước chủ ngữ, động từ chính về dạng phù hợp.",
+    "Sau do/does/did động từ chính luôn ở dạng nguyên mẫu: Seldom does she go (không phải goes).",
+    "Giữ nguyên thì của câu gốc khi chuyển đổi: rarely have heard → Rarely have I heard (không đổi sang had).",
+    "Ghi nhớ cặp: Hardly – when, No sooner – than."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Seldom ______ such a beautiful sunset as the one we saw in Mui Ne.",
+          "options": {
+            "A": "did I saw",
+            "B": "I have seen",
+            "C": "I saw",
+            "D": "have I seen"
+          },
+          "answer": "D",
+          "explanation": "Seldom đầu câu → đảo trợ động từ lên trước chủ ngữ: \"have I seen\"."
+        },
+        {
+          "no": 2,
+          "question": "Rarely ______ to bed before midnight during the exam season.",
+          "options": {
+            "A": "my brother goes",
+            "B": "my brother does go",
+            "C": "does my brother goes",
+            "D": "does my brother go"
+          },
+          "answer": "D",
+          "explanation": "Hiện tại đơn → mượn \"does\" đảo lên trước chủ ngữ, động từ chính nguyên mẫu \"go\"."
+        },
+        {
+          "no": 3,
+          "question": "Hardly ______ home when it started to rain heavily.",
+          "options": {
+            "A": "had we arrived",
+            "B": "did we arrived",
+            "C": "we had arrived",
+            "D": "we arrived"
+          },
+          "answer": "A",
+          "explanation": "Hardly + had + S + V3 + when + S + V2."
+        },
+        {
+          "no": 4,
+          "question": "No sooner had the teacher entered the room ______ the students stopped talking.",
+          "options": {
+            "A": "then",
+            "B": "than",
+            "C": "when",
+            "D": "that"
+          },
+          "answer": "B",
+          "explanation": "Cặp cố định \"No sooner … than\"."
+        },
+        {
+          "no": 5,
+          "question": "Hardly had I sat down ______ the phone rang.",
+          "options": {
+            "A": "then",
+            "B": "so",
+            "C": "than",
+            "D": "when"
+          },
+          "answer": "D",
+          "explanation": "Cặp cố định \"Hardly … when\"."
+        },
+        {
+          "no": 6,
+          "question": "Never ______ so frightened as when I got lost in the forest.",
+          "options": {
+            "A": "have I been",
+            "B": "I was",
+            "C": "I have been",
+            "D": "was being I"
+          },
+          "answer": "A",
+          "explanation": "Never đầu câu → đảo: \"have I been\"."
+        },
+        {
+          "no": 7,
+          "question": "Little ______ that his friends were planning a surprise party for him.",
+          "options": {
+            "A": "he knew",
+            "B": "he did know",
+            "C": "knew he",
+            "D": "did he know"
+          },
+          "answer": "D",
+          "explanation": "Little đầu câu → đảo với trợ động từ \"did\" + V nguyên mẫu: \"did he know\"."
+        },
+        {
+          "no": 8,
+          "question": "Hardly ______ any free time during the exam season, so I can't join the club.",
+          "options": {
+            "A": "I have",
+            "B": "I do have",
+            "C": "do I have",
+            "D": "am I having"
+          },
+          "answer": "C",
+          "explanation": "Hiện tại đơn → mượn \"do\" đảo lên trước chủ ngữ: \"Hardly do I have any free time\". \"have\" chỉ trạng thái sở hữu nên không dùng tiếp diễn."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đồng nghĩa",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "I have rarely heard such a funny story.",
+          "options": {
+            "A": "Rarely had I heard such a funny story.",
+            "B": "Rarely have I heard such a funny story.",
+            "C": "Rarely I have heard such a funny story.",
+            "D": "Rarely heard I such a funny story."
+          },
+          "answer": "B",
+          "explanation": "Đưa \"Rarely\" lên đầu, đảo \"have\" lên trước \"I\", giữ nguyên thì hiện tại hoàn thành."
+        },
+        {
+          "no": 10,
+          "question": "She seldom goes out at weekends.",
+          "options": {
+            "A": "Seldom does she go out at weekends.",
+            "B": "Seldom she goes out at weekends.",
+            "C": "Seldom did she go out at weekends.",
+            "D": "Seldom does she goes out at weekends."
+          },
+          "answer": "A",
+          "explanation": "Hiện tại đơn → \"does she go\"; không đổi sang quá khứ."
+        },
+        {
+          "no": 11,
+          "question": "As soon as the film started, the lights went out.",
+          "options": {
+            "A": "No sooner had the film started than the lights went out.",
+            "B": "No sooner had the film started when the lights went out.",
+            "C": "Hardly had the film started than the lights went out.",
+            "D": "No sooner the film had started than the lights went out."
+          },
+          "answer": "A",
+          "explanation": "No sooner + had + S + V3 + than …; các phương án khác sai trật tự đảo hoặc sai cặp liên từ."
+        },
+        {
+          "no": 12,
+          "question": "We had only just left the house when it started to snow.",
+          "options": {
+            "A": "Hardly did we leave the house than it started to snow.",
+            "B": "Hardly we had left the house when it started to snow.",
+            "C": "Hardly had we left the house when it started to snow.",
+            "D": "No sooner had we left the house when it started to snow."
+          },
+          "answer": "C",
+          "explanation": "\"had only just … when\" = \"Hardly had + S + V3 + when\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "Seldom (A) we have seen (B) our teacher (C) so angry (D) before.",
+          "options": {
+            "A": "we have seen",
+            "B": "our teacher",
+            "C": "so angry",
+            "D": "before"
+          },
+          "answer": "A",
+          "explanation": "Seldom đầu câu → phải đảo: \"have we seen\"."
+        },
+        {
+          "no": 14,
+          "question": "No sooner (A) had the bell (B) rung (C) when the students (D) rushed out of the classroom.",
+          "options": {
+            "A": "had the bell",
+            "B": "rung",
+            "C": "when",
+            "D": "rushed"
+          },
+          "answer": "C",
+          "explanation": "\"No sooner\" đi với \"than\", không đi với \"when\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LibreTexts – ESL Grammar: Negative Adverbs (stylistic inversion)",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/ESL_Grammar_The_Way_You_Like_It_(Bissonnette)/05%3A_Book_5/5.12%3A_Negative_Adverbs"
+    },
+    {
+      "title": "ZIM – Viết lại câu thi vào 10 (Hardly … when / No sooner … than)",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    }
+  ]
+}

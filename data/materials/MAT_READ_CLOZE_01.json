@@ -1,0 +1,180 @@
+{
+  "material_id": "MAT_READ_CLOZE_01",
+  "skill_id": "SK_READ_CLOZE",
+  "title": "Cơ bản về dạng bài Đọc điền từ khuyết thiếu",
+  "target_level": 1,
+  "summary": "Giúp học sinh làm quen dạng bài đọc điền từ (thông báo, quảng cáo, đoạn văn ngắn) và biết dựa vào từ đứng trước, đứng sau chỗ trống để chọn đúng giới từ, mạo từ, dạng từ, dạng động từ và cụm từ cố định cơ bản.",
+  "theory": [
+    {
+      "heading": "Bài điền từ trong đề thi vào 10 Hà Nội",
+      "points": [
+        "Thường gồm một thông báo hoặc quảng cáo ngắn có 4 chỗ trống và một đoạn văn dài hơn có khoảng 6 chỗ trống, mỗi chỗ có 4 phương án A–D.",
+        "Mỗi chỗ trống kiểm tra một điểm: giới từ, mạo từ, từ loại (word form), dạng động từ, từ nối hoặc từ vựng theo ngữ cảnh.",
+        "Cách làm cơ bản: đọc lướt cả bài để biết nội dung, rồi xử lý từng chỗ trống bằng cách nhìn các từ xung quanh."
+      ],
+      "examples": [
+        { "en": "Hon Tam is well-known (10) ____ its clean, long beaches. → for", "vi": "Hòn Tằm nổi tiếng với những bãi biển sạch, dài. (Cụm cố định: be well-known for.)" }
+      ]
+    },
+    {
+      "heading": "Nhìn trước – nhìn sau chỗ trống để đoán từ loại",
+      "points": [
+        "Sau the most / very / so / be thường cần tính từ: the most important.",
+        "Sau động từ thường cần trạng từ hoặc tân ngữ; trước danh từ cần tính từ.",
+        "Sau giới từ, sau spend time, enjoy, avoid… dùng V-ing; sau to, can, must… dùng động từ nguyên mẫu."
+      ],
+      "examples": [
+        { "en": "Water is one of the most important resources on Earth.", "vi": "Nước là một trong những tài nguyên quan trọng nhất trên Trái Đất. (Sau 'the most' và trước danh từ → tính từ 'important'.)" }
+      ]
+    },
+    {
+      "heading": "Giới từ và cụm từ cố định thường gặp",
+      "points": [
+        "Thời gian: at 7 a.m., on Monday, in March, by Wednesday (trước/chậm nhất là).",
+        "Cụm động từ – giới từ: suffer from, be famous for, go on a trip, have a picnic.",
+        "Cấu trúc: so + adj + that…, have something done (nhờ ai làm gì), use something to do something."
+      ],
+      "examples": [
+        { "en": "Please give the money to Ms Lan by Wednesday.", "vi": "Vui lòng nộp tiền cho cô Lan chậm nhất vào thứ Tư. ('by' = trước hoặc đúng hạn.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc toàn bài một lượt trước khi điền để nắm loại văn bản (thông báo, quảng cáo, lời khuyên) và nội dung chính.",
+    "Với mỗi chỗ trống, đọc trọn câu chứa nó, đặc biệt là từ ngay trước và ngay sau.",
+    "Nếu 4 phương án là 4 dạng của cùng một từ (important, importance…), đó là câu từ loại: xác định vị trí cần danh từ, tính từ, trạng từ hay động từ.",
+    "Điền xong, đọc lại cả câu xem có tự nhiên không; không bỏ trống câu nào."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. A class announcement",
+      "instructions": "Read the following announcement and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "Dear students,\n\nOur class is going (1)____ a field trip to Ba Vi National Park next Saturday. It will be a great chance to relax after the mid-term tests. The bus will leave the school gate (2)____ 7 a.m., so please arrive ten minutes early. In the park, we will walk along forest paths, learn about different kinds of trees and (3)____ a picnic by the lake. Please bring a hat, comfortable shoes and enough water for the day. Do not (4)____ any rubbish in the park; there are bins near the car park. The trip costs 150,000 dong, which includes lunch and the entrance ticket. If you want to join, please give your name and the money to Ms Lan (5)____ Wednesday. We hope everyone can come and enjoy a day in nature!\n\nClass 9A Monitor",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the best option for blank (1).",
+          "options": { "A": "on", "B": "in", "C": "at", "D": "with" },
+          "answer": "A",
+          "explanation": "Cụm cố định 'go on a (field) trip' = đi dã ngoại/tham quan: 'Our class is going on a field trip'."
+        },
+        {
+          "no": 2,
+          "question": "Choose the best option for blank (2).",
+          "options": { "A": "in", "B": "on", "C": "at", "D": "for" },
+          "answer": "C",
+          "explanation": "Dùng 'at' trước giờ cụ thể: 'leave the school gate at 7 a.m.'. 'in' dùng cho tháng/năm, 'on' cho ngày/thứ."
+        },
+        {
+          "no": 3,
+          "question": "Choose the best option for blank (3).",
+          "options": { "A": "make", "B": "do", "C": "take", "D": "have" },
+          "answer": "D",
+          "explanation": "Cụm cố định 'have a picnic' = đi/ăn dã ngoại: 'have a picnic by the lake'. Không nói 'make/do/take a picnic'."
+        },
+        {
+          "no": 4,
+          "question": "Choose the best option for blank (4).",
+          "options": { "A": "pick", "B": "drop", "C": "clean", "D": "collect" },
+          "answer": "B",
+          "explanation": "Vế sau 'there are bins near the car park' cho thấy đây là lời nhắc không vứt rác bừa bãi: 'Do not drop any rubbish'. 'pick/clean/collect rubbish' là việc tốt, không cần cấm."
+        },
+        {
+          "no": 5,
+          "question": "Choose the best option for blank (5).",
+          "options": { "A": "at", "B": "in", "C": "by", "D": "since" },
+          "answer": "C",
+          "explanation": "'by Wednesday' = chậm nhất là thứ Tư, dùng cho hạn chót. 'at/in' không đi với thứ trong tuần; 'since' dùng với thì hoàn thành."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Save every drop",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "Water is one of the most (6)____ resources on Earth, but in many places it is becoming scarce. In Viet Nam, some areas in the Mekong Delta suffer (7)____ salt water in the dry season. People there cannot use river water for cooking or farming, and they have to buy clean water at a high price.\n\nEveryone can help to save water at home. Turn off the tap (8)____ you brush your teeth. Take short showers instead of long baths. Fix leaking taps as soon as possible, because a single leaking tap can waste hundreds of litres a month. You can also collect rainwater and use it (9)____ your plants.\n\nThese actions seem small, but if millions of people do them, the result will be huge. Let's start today and (10)____ every drop count!",
+      "questions": [
+        {
+          "no": 6,
+          "question": "Choose the best option for blank (6).",
+          "options": { "A": "important", "B": "importance", "C": "importantly", "D": "import" },
+          "answer": "A",
+          "explanation": "Sau 'the most' và trước danh từ 'resources' cần tính từ: 'the most important resources'. 'importance' là danh từ, 'importantly' là trạng từ."
+        },
+        {
+          "no": 7,
+          "question": "Choose the best option for blank (7).",
+          "options": { "A": "with", "B": "from", "C": "of", "D": "at" },
+          "answer": "B",
+          "explanation": "Cụm cố định 'suffer from' = chịu đựng, bị ảnh hưởng bởi: 'suffer from salt water in the dry season'."
+        },
+        {
+          "no": 8,
+          "question": "Choose the best option for blank (8).",
+          "options": { "A": "because", "B": "but", "C": "while", "D": "so" },
+          "answer": "C",
+          "explanation": "Hai hành động xảy ra cùng lúc: khóa vòi trong khi đánh răng → 'while'. 'because' (vì), 'but' (nhưng), 'so' (nên) không hợp nghĩa."
+        },
+        {
+          "no": 9,
+          "question": "Choose the best option for blank (9).",
+          "options": { "A": "to water", "B": "watering", "C": "watered", "D": "water" },
+          "answer": "A",
+          "explanation": "Cấu trúc 'use something to do something' (dùng cái gì để làm gì): 'use it to water your plants'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the best option for blank (10).",
+          "options": { "A": "do", "B": "take", "C": "get", "D": "make" },
+          "answer": "D",
+          "explanation": "Cụm 'make every drop count' = làm cho từng giọt nước đều có giá trị (cấu trúc make + O + V nguyên mẫu). 'do/take/get' không đi với cấu trúc này."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Visit Hoi An",
+      "instructions": "Read the advertisement and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "Welcome to Hoi An Ancient Town, (11)____ of the most charming places in Viet Nam! The town is famous (12)____ its old yellow houses, wooden bridges and colourful lanterns. It was recognised as a UNESCO World Heritage Site in 1999.\n\nIn the evening, visitors can take a boat trip on the Hoai River and (13)____ paper lanterns on the water. Don't forget to try local dishes such as cao lau and banh mi. If you like shopping, you can have clothes (14)____ by local tailors in just one day.\n\nThe best time to visit is from February to April, when the weather is warm and dry. Hoi An is (15)____ beautiful that many visitors decide to stay longer than they planned. Book your trip today!",
+      "questions": [
+        {
+          "no": 11,
+          "question": "Choose the best option for blank (11).",
+          "options": { "A": "one", "B": "some", "C": "many", "D": "each" },
+          "answer": "A",
+          "explanation": "Cấu trúc 'one of the + so sánh nhất + danh từ số nhiều': 'one of the most charming places'."
+        },
+        {
+          "no": 12,
+          "question": "Choose the best option for blank (12).",
+          "options": { "A": "of", "B": "in", "C": "for", "D": "with" },
+          "answer": "C",
+          "explanation": "Cụm cố định 'be famous for' = nổi tiếng về: 'famous for its old yellow houses'."
+        },
+        {
+          "no": 13,
+          "question": "Choose the best option for blank (13).",
+          "options": { "A": "sink", "B": "float", "C": "fly", "D": "burn" },
+          "answer": "B",
+          "explanation": "Thả đèn hoa đăng trôi trên sông: 'float paper lanterns on the water'. 'sink' (làm chìm), 'burn' (đốt) trái ngữ cảnh du lịch; 'fly' không đi với 'on the water'."
+        },
+        {
+          "no": 14,
+          "question": "Choose the best option for blank (14).",
+          "options": { "A": "make", "B": "making", "C": "to make", "D": "made" },
+          "answer": "D",
+          "explanation": "Cấu trúc nhờ ai làm gì ở dạng bị động: 'have + something + V3/ed (+ by someone)': 'have clothes made by local tailors'."
+        },
+        {
+          "no": 15,
+          "question": "Choose the best option for blank (15).",
+          "options": { "A": "such", "B": "too", "C": "so", "D": "very" },
+          "answer": "C",
+          "explanation": "Cấu trúc 'so + adj + that + mệnh đề': 'so beautiful that many visitors decide to stay longer'. 'such' cần danh từ (such a beautiful town that…); 'too' đi với 'to V'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Multiple-choice cloze strategy – Flo-Joe (Cambridge English)", "url": "https://www.flo-joe.co.uk/fce/students/strategy/fce_multiple_choice_cloze.htm" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

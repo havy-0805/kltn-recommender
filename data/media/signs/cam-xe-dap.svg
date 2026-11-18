@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Biển cấm xe đạp">
+  <circle cx="100" cy="100" r="88" fill="#fff" stroke="#dc2626" stroke-width="16"/>
+  <g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="62" cy="122" r="24"/>
+    <circle cx="138" cy="122" r="24"/>
+    <path d="M62 122 L98 122 L86 84 Z M86 84 L128 86 L98 122 M128 86 L138 122"/>
+    <path d="M78 78 H96 M122 72 L128 86 M116 72 H132"/>
+  </g>
+</svg>

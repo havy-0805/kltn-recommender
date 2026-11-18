@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_COMPLEX_03",
+  "skill_id": "SK_COMPLEX_SENT",
+  "title": "Phân tích cấu trúc câu phức nâng cao và mệnh đề danh từ",
+  "target_level": 3,
+  "summary": "Giúp học sinh phân tích chức năng của mệnh đề danh từ (chủ ngữ, tân ngữ, bổ ngữ), phân biệt that/what/whether/if, trật tự từ trong câu hỏi lồng và các liên từ nâng cao (in case, as if, however, whoever) – nhóm câu phân hóa điểm cao.",
+  "theory": [
+    {
+      "heading": "Mệnh đề danh từ: chức năng và từ nối",
+      "points": [
+        "Làm chủ ngữ: That he lied upset me. / What she said was true. → động từ chính chia số ít.",
+        "Làm tân ngữ: I believe (that) he is honest. / I don't know what he wants.",
+        "Làm bổ ngữ sau be: The problem is that we have no money.",
+        "Đồng vị với danh từ: the fact that, the news that, the idea that.",
+        "'that' không mang nghĩa, chỉ nối; 'what' = the thing(s) that, đóng vai trò chủ ngữ/tân ngữ trong mệnh đề."
+      ],
+      "examples": [
+        {
+          "en": "What you need is a good rest.",
+          "vi": "Điều bạn cần là nghỉ ngơi thật tốt."
+        },
+        {
+          "en": "The fact that he apologised made us feel better.",
+          "vi": "Việc anh ấy xin lỗi khiến chúng tôi thấy dễ chịu hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Whether và if; câu hỏi lồng",
+      "points": [
+        "Whether/if = liệu có ... không. Chỉ dùng whether: đầu câu làm chủ ngữ, sau giới từ, trước to V, ngay trước 'or not'.",
+        "Câu hỏi lồng (embedded question): từ để hỏi + S + V, không đảo trợ động từ: Can you tell me where the station is?",
+        "Không dùng dấu chấm hỏi nếu câu chính là câu trần thuật: I wonder why he left."
+      ],
+      "examples": [
+        {
+          "en": "Whether we go or not depends on the weather.",
+          "vi": "Chúng ta có đi hay không phụ thuộc vào thời tiết."
+        },
+        {
+          "en": "Do you know what time the museum opens?",
+          "vi": "Bạn có biết mấy giờ bảo tàng mở cửa không?"
+        }
+      ]
+    },
+    {
+      "heading": "Liên từ và cấu trúc nâng cao",
+      "points": [
+        "in case + S + V (phòng khi): Take a map in case you get lost.",
+        "as if / as though + S + V (cứ như thể): mệnh đề không có thật ở hiện tại dùng quá khứ đơn.",
+        "However + adj/adv + S + V (dù ... đến đâu) = No matter how ...",
+        "Whoever / Whatever / Wherever + V = Anyone who / Anything that / Anywhere ... – làm chủ ngữ thì động từ chia số ít."
+      ],
+      "examples": [
+        {
+          "en": "However hard he tried, he couldn't open the door.",
+          "vi": "Dù cố gắng thế nào, anh ấy vẫn không mở được cửa."
+        },
+        {
+          "en": "She talks as if she knew everything.",
+          "vi": "Cô ấy nói chuyện cứ như thể cô ấy biết mọi thứ."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Mệnh đề sau chỗ trống đã đủ thành phần (S + V + O) → chọn 'that'; còn thiếu chủ ngữ/tân ngữ → chọn 'what'.",
+    "Câu hỏi lồng luôn theo trật tự câu khẳng định: loại ngay đáp án có 'does/did/is' đảo lên trước chủ ngữ.",
+    "Mệnh đề danh từ làm chủ ngữ → động từ chính chia số ít.",
+    "Gặp 'or not' đứng ngay sau chỗ trống, hoặc mệnh đề đứng đầu câu làm chủ ngữ → chọn 'whether', không chọn 'if'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ he passed the exam surprised all his teachers.",
+          "options": {
+            "A": "What",
+            "B": "That",
+            "C": "Which",
+            "D": "If"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề 'he passed the exam' đã đủ thành phần, làm chủ ngữ → dùng 'That'. 'If' không mở đầu mệnh đề chủ ngữ; 'What' thừa vì không thiếu thành phần."
+        },
+        {
+          "no": 2,
+          "question": "Can you tell me where ______?",
+          "options": {
+            "A": "is the station",
+            "B": "the station does",
+            "C": "does the station is",
+            "D": "the station is"
+          },
+          "answer": "D",
+          "explanation": "Câu hỏi lồng dùng trật tự câu khẳng định: where + S + V → 'the station is'."
+        },
+        {
+          "no": 3,
+          "question": "I'm not sure ______ or not the shop opens on Sundays.",
+          "options": {
+            "A": "if",
+            "B": "that",
+            "C": "whether",
+            "D": "what"
+          },
+          "answer": "C",
+          "explanation": "Ngay sau chỗ trống là 'or not' → chỉ dùng 'whether', không dùng 'if'."
+        },
+        {
+          "no": 4,
+          "question": "______ we need now is more practice.",
+          "options": {
+            "A": "Whether",
+            "B": "Which",
+            "C": "That",
+            "D": "What"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề chủ ngữ thiếu tân ngữ của 'need' → 'What' (điều mà chúng ta cần)."
+        },
+        {
+          "no": 5,
+          "question": "What they told us about the trip ______ not true.",
+          "options": {
+            "A": "were",
+            "B": "have been",
+            "C": "was",
+            "D": "are"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề danh từ làm chủ ngữ → động từ chia số ít; ngữ cảnh quá khứ (told) → 'was'."
+        },
+        {
+          "no": 6,
+          "question": "The problem is ______ we don't have enough time.",
+          "options": {
+            "A": "whether",
+            "B": "that",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề bổ ngữ sau 'is', đã đủ thành phần, mang nghĩa khẳng định → 'that'."
+        },
+        {
+          "no": 7,
+          "question": "______ hard he tries, he can't solve the puzzle.",
+          "options": {
+            "A": "Although",
+            "B": "However",
+            "C": "Despite",
+            "D": "Whatever"
+          },
+          "answer": "B",
+          "explanation": "However + adj/adv + S + V (dù ... đến đâu). 'Although/Despite' không đứng trước 'hard' như vậy; 'Whatever' đi với danh từ."
+        },
+        {
+          "no": 8,
+          "question": "Take an umbrella ______ it rains this afternoon.",
+          "options": {
+            "A": "in case",
+            "B": "so that",
+            "C": "although",
+            "D": "unless"
+          },
+          "answer": "A",
+          "explanation": "'in case' = phòng khi: mang ô phòng khi trời mưa."
+        },
+        {
+          "no": 9,
+          "question": "She talks ______ she knew everything about the topic.",
+          "options": {
+            "A": "in case",
+            "B": "as if",
+            "C": "so that",
+            "D": "because"
+          },
+          "answer": "B",
+          "explanation": "'as if' + quá khứ đơn (knew) diễn tả điều không có thật ở hiện tại: cứ như thể cô ấy biết mọi thứ."
+        },
+        {
+          "no": 10,
+          "question": "The fact ______ she apologised made everyone feel better.",
+          "options": {
+            "A": "that",
+            "B": "whether",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề đồng vị giải thích nội dung danh từ 'the fact' → 'that'."
+        },
+        {
+          "no": 11,
+          "question": "Whoever ______ the competition will receive a scholarship.",
+          "options": {
+            "A": "win",
+            "B": "to win",
+            "C": "wins",
+            "D": "winning"
+          },
+          "answer": "C",
+          "explanation": "'Whoever' (bất cứ ai) làm chủ ngữ số ít của mệnh đề → động từ thêm -s: 'wins'."
+        },
+        {
+          "no": 12,
+          "question": "I wonder ______ he'll be able to come – he's been very busy lately.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "which",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "'wonder' + whether/if (tự hỏi liệu...). 'that' không đi sau 'wonder'; 'what/which' thừa vì mệnh đề đã đủ thành phần."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đúng",
+      "instructions": "Choose the sentence that is grammatically correct or closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "\"Where does she live? I don't know.\"",
+          "options": {
+            "A": "I don't know where she lives.",
+            "B": "I don't know where she does live.",
+            "C": "I don't know where lives she.",
+            "D": "I don't know where does she live."
+          },
+          "answer": "A",
+          "explanation": "Câu hỏi lồng: where + S + V chia theo chủ ngữ (she lives), bỏ trợ động từ 'does'."
+        },
+        {
+          "no": 14,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "What he said was unclear.",
+            "B": "Which he said was unclear.",
+            "C": "That he said was unclear.",
+            "D": "What did he say was unclear."
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề danh từ làm chủ ngữ, thiếu tân ngữ của 'said' → 'What he said', không đảo trợ động từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "IDP IELTS Việt Nam – Noun clause",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-noun-clause/en-gb"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Mệnh đề trạng ngữ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-menh-de-trang-ngu-cd2025.jsp"
+    }
+  ]
+}

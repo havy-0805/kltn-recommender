@@ -1,0 +1,277 @@
+{
+  "material_id": "MAT_ADJ_STRUCT_03",
+  "skill_id": "SK_ADJ_STRUCTURE",
+  "title": "Cấu trúc tính từ nâng cao và cụm tính từ đặc biệt",
+  "target_level": 3,
+  "summary": "Xử lý các câu phân hóa về cấu trúc tính từ: of/for sau It is + adj, too/enough không lặp tân ngữ, chuyển tân ngữ lên làm chủ ngữ (hard to please), tính từ ghép có số đếm, trật tự tính từ và be likely/used to.",
+  "theory": [
+    {
+      "heading": "It is + adj + of sb / for sb + to V",
+      "points": [
+        "of sb: tính từ nhận xét tính cách, phẩm chất người làm (kind, nice, careless, rude, impolite, generous, silly)",
+        "for sb: tính từ đánh giá hành động (easy, hard, essential, necessary, important, possible)",
+        "Mẹo kiểm tra: nói được 'sb is + adj' (You are careless) → dùng 'of'"
+      ],
+      "examples": [
+        {
+          "en": "It was careless of you to leave the door unlocked.",
+          "vi": "Bạn thật bất cẩn khi để cửa không khóa."
+        },
+        {
+          "en": "It is essential for young people to learn life skills.",
+          "vi": "Người trẻ cần phải học kỹ năng sống."
+        }
+      ]
+    },
+    {
+      "heading": "Tân ngữ đưa lên làm chủ ngữ: không lặp lại tân ngữ",
+      "points": [
+        "It is hard to please my boss. → My boss is hard to please. (KHÔNG: hard to please him)",
+        "too + adj + (for sb) + to V và adj + enough + (for sb) + to V: nếu chủ ngữ chính là tân ngữ của động từ sau 'to', bỏ tân ngữ",
+        "so + adj + that + S + can + V + O ↔ adj + enough + for sb + to V (bỏ O)"
+      ],
+      "examples": [
+        {
+          "en": "This question is too difficult for me to answer.",
+          "vi": "Câu hỏi này quá khó để tôi trả lời."
+        },
+        {
+          "en": "The exercise was easy enough for everyone to do.",
+          "vi": "Bài tập đủ dễ để mọi người đều làm được."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ ghép và trật tự tính từ",
+      "points": [
+        "Số đếm + danh từ số ít (có gạch nối) làm tính từ: a ten-year-old girl, a two-hour journey, a five-storey building",
+        "Trật tự: Opinion – Size – Age – Shape – Colour – Origin – Material – Purpose + N (OSASCOMP)",
+        "so + adj + a/an + N + that = such + a/an + adj + N + that"
+      ],
+      "examples": [
+        {
+          "en": "She bought a beautiful brown leather bag.",
+          "vi": "Cô ấy mua một chiếc túi da màu nâu rất đẹp."
+        },
+        {
+          "en": "It was so interesting a film that we watched it twice.",
+          "vi": "Bộ phim hay đến mức chúng tôi xem hai lần."
+        }
+      ]
+    },
+    {
+      "heading": "Cụm tính từ đặc biệt",
+      "points": [
+        "be likely / sure / certain / bound + to V: có khả năng/chắc chắn sẽ",
+        "be used to / accustomed to + V-ing: quen với (to là giới từ)",
+        "be capable of / keen on / proud of / responsible for + N / V-ing"
+      ],
+      "examples": [
+        {
+          "en": "Prices are likely to rise again next month.",
+          "vi": "Giá có thể sẽ tăng tiếp vào tháng sau."
+        },
+        {
+          "en": "My grandfather is used to getting up early.",
+          "vi": "Ông tôi quen dậy sớm."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Trước khi chọn of/for, thử ghép 'người + be + tính từ': nghe hợp lý → 'of'.",
+    "Câu dùng too/enough/hard to...: nếu chủ ngữ chính chính là đối tượng của động từ sau 'to', loại các phương án thừa 'it/them/him'.",
+    "Tính từ ghép có số đếm đứng trước danh từ: danh từ trong cụm luôn ở số ít (ten-year-old, không phải ten-years-old).",
+    "be used to + V-ing (quen) khác used to + V (đã từng): nhìn có 'be/get' phía trước hay không."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "This maths problem is too difficult for me ______.",
+          "options": {
+            "A": "to solve",
+            "B": "to solve it",
+            "C": "that I solve it",
+            "D": "solving"
+          },
+          "answer": "A",
+          "explanation": "too + adj + for sb + to V; chủ ngữ 'this maths problem' đã là tân ngữ của 'solve' nên không lặp 'it'."
+        },
+        {
+          "no": 2,
+          "question": "The box was light enough for a child ______.",
+          "options": {
+            "A": "to carry it",
+            "B": "carry",
+            "C": "to carry",
+            "D": "carrying"
+          },
+          "answer": "C",
+          "explanation": "adj + enough + for sb + to V; 'the box' là tân ngữ của 'carry' → không thêm 'it'."
+        },
+        {
+          "no": 3,
+          "question": "It was careless ______ you to leave the door unlocked.",
+          "options": {
+            "A": "with",
+            "B": "of",
+            "C": "for",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "'careless' nhận xét tính cách người (You were careless) → It is + adj + of sb + to V."
+        },
+        {
+          "no": 4,
+          "question": "It is essential ______ young people to learn basic life skills.",
+          "options": {
+            "A": "with",
+            "B": "to",
+            "C": "of",
+            "D": "for"
+          },
+          "answer": "D",
+          "explanation": "'essential' đánh giá hành động, không nhận xét tính cách người → 'for'."
+        },
+        {
+          "no": 5,
+          "question": "It is ______ of him to say such a rude thing to his grandmother.",
+          "options": {
+            "A": "impolite",
+            "B": "possible",
+            "C": "important",
+            "D": "necessary"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc 'of sb' chỉ đi với tính từ chỉ tính cách → 'impolite'. Các tính từ còn lại đi với 'for'."
+        },
+        {
+          "no": 6,
+          "question": "Nam's brother is a ______ boy who can already read English stories.",
+          "options": {
+            "A": "ten years old",
+            "B": "ten-years-old",
+            "C": "ten-year-old",
+            "D": "ten-year-olds"
+          },
+          "answer": "C",
+          "explanation": "Tính từ ghép đứng trước danh từ: số + danh từ số ít, nối bằng gạch → 'ten-year-old'."
+        },
+        {
+          "no": 7,
+          "question": "It was ______ interesting a film that we watched it twice.",
+          "options": {
+            "A": "such",
+            "B": "too",
+            "C": "very",
+            "D": "so"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc so + adj + a/an + N + that. 'such' phải đứng trước 'a': such an interesting film."
+        },
+        {
+          "no": 8,
+          "question": "He is not ______ to lift that heavy suitcase on his own.",
+          "options": {
+            "A": "enough strong",
+            "B": "strong enough",
+            "C": "so strong",
+            "D": "too strong"
+          },
+          "answer": "B",
+          "explanation": "enough đứng sau tính từ: 'strong enough to lift'. 'too strong' sai nghĩa."
+        },
+        {
+          "no": 9,
+          "question": "According to experts, prices are likely ______ again next month.",
+          "options": {
+            "A": "risen",
+            "B": "to rise",
+            "C": "rise",
+            "D": "rising"
+          },
+          "answer": "B",
+          "explanation": "be likely + to V: có khả năng sẽ."
+        },
+        {
+          "no": 10,
+          "question": "My grandfather is used ______ up early, even at weekends.",
+          "options": {
+            "A": "to get",
+            "B": "getting",
+            "C": "to getting",
+            "D": "get"
+          },
+          "answer": "C",
+          "explanation": "be used to + V-ing (quen với) – 'to' ở đây là giới từ."
+        },
+        {
+          "no": 11,
+          "question": "She bought a ______ bag for her mother's birthday.",
+          "options": {
+            "A": "beautiful brown leather",
+            "B": "beautiful leather brown",
+            "C": "leather brown beautiful",
+            "D": "brown beautiful leather"
+          },
+          "answer": "A",
+          "explanation": "Trật tự: ý kiến (beautiful) – màu sắc (brown) – chất liệu (leather)."
+        },
+        {
+          "no": 12,
+          "question": "We were all ______ of what our team had achieved.",
+          "options": {
+            "A": "proudly",
+            "B": "pride",
+            "C": "prided",
+            "D": "proud"
+          },
+          "answer": "D",
+          "explanation": "Sau 'be' cần tính từ, đi với giới từ 'of': 'be proud of'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu",
+      "instructions": "Choose the sentence closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "The exercise was so easy that everyone could do it.",
+          "options": {
+            "A": "The exercise was easy enough for everyone to do it.",
+            "B": "The exercise was easy enough for everyone to do.",
+            "C": "The exercise was so easy for everyone to do.",
+            "D": "The exercise was too easy for everyone to do it."
+          },
+          "answer": "B",
+          "explanation": "so...that + can ↔ adj + enough + for sb + to V, bỏ tân ngữ 'it' vì trùng chủ ngữ. D sai nghĩa (too = quá đến mức không), C sai cấu trúc."
+        },
+        {
+          "no": 14,
+          "question": "It is hard to please my boss.",
+          "options": {
+            "A": "My boss is hard to please him.",
+            "B": "My boss is hard pleasing.",
+            "C": "My boss is hard to please.",
+            "D": "My boss is hardly to please."
+          },
+          "answer": "C",
+          "explanation": "Tân ngữ 'my boss' được đưa lên làm chủ ngữ → không lặp 'him'. D sai vì 'hardly' là trạng từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Lời giải hay – Trắc nghiệm ngữ pháp adj + to V / that + mệnh đề Tiếng Anh 9",
+      "url": "https://loigiaihay.com/trac-nghiem-tieng-anh-9-moi-ngu-phap-adj-tov-that-menh-de-co-dap-an-a127307.html"
+    }
+  ]
+}

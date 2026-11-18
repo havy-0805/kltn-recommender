@@ -1,0 +1,229 @@
+{
+  "material_id": "MAT_READ_TITLE_03",
+  "skill_id": "SK_READ_TITLE",
+  "title": "Bí quyết chọn tiêu đề cho văn bản học thuật chuyên sâu",
+  "target_level": 3,
+  "summary": "Giúp học sinh chọn tiêu đề cho bài đọc dài, mang tính học thuật (khoa học, xã hội, giáo dục) bằng cách phân tích cấu trúc lập luận và lập trường của tác giả, đồng thời tránh các tiêu đề bẫy nói quá, lệch trọng tâm hoặc trái quan điểm.",
+  "theory": [
+    {
+      "heading": "Nhận diện cấu trúc lập luận của bài học thuật",
+      "points": [
+        "Problem – Solution – Evaluation: nêu vấn đề, giải pháp, rồi đánh giá giới hạn của giải pháp.",
+        "Common view – Counter-view – Conclusion: nêu quan niệm phổ biến, đưa mặt đối lập, kết luận cân bằng.",
+        "Cause – Effect – Response: nguyên nhân, hệ quả, cách ứng phó.",
+        "Tiêu đề tốt thường phản chiếu cấu trúc này, ví dụ 'Why X Happens – and What Can Be Done', 'X: Threat or Tool?'."
+      ],
+      "examples": [
+        { "en": "Why Cities Are Hotter – and What Can Be Done", "vi": "Vì sao thành phố nóng hơn – và có thể làm gì. (Tiêu đề phản ánh cấu trúc vấn đề – giải pháp.)" }
+      ]
+    },
+    {
+      "heading": "Tiêu đề phải khớp lập trường của tác giả",
+      "points": [
+        "Nếu bài kết luận cân bằng, loại tiêu đề một chiều như 'Why Schools Must Ban AI' hay 'The Perfect Solution'.",
+        "Tiêu đề dạng câu hỏi ('Threat or Tool?') hợp với bài trình bày hai mặt.",
+        "Từ ngữ mạnh trong tiêu đề (must, perfect, end of, always) cần được bài ủng hộ rõ ràng."
+      ],
+      "examples": [
+        { "en": "Such measures are not free, and their benefits are not always immediate.", "vi": "Những biện pháp này không miễn phí và lợi ích không phải lúc nào cũng có ngay. (Vì vậy tiêu đề 'Green Roofs: The Perfect Solution' là nói quá.)" }
+      ]
+    },
+    {
+      "heading": "Vai trò của ví dụ và số liệu",
+      "points": [
+        "Ví dụ cụ thể (một quốc gia, một thành phố, một con số) chỉ là bằng chứng; tiêu đề lấy ví dụ làm trung tâm là quá hẹp.",
+        "Câu hỏi 'Why does the author mention X?' thường có đáp án dạng 'to give an example/evidence that…'."
+      ],
+      "examples": [
+        { "en": "In New Zealand, the Maori language was declining fast until communities set up “language nests”.", "vi": "Ở New Zealand, tiếng Maori từng suy giảm nhanh cho đến khi cộng đồng lập ra các 'tổ ngôn ngữ'. (Đây là ví dụ minh họa, không phải chủ đề của cả bài.)" }
+      ]
+    },
+    {
+      "heading": "Tìm câu luận điểm (thesis sentence)",
+      "points": [
+        "Trong bài học thuật, câu luận điểm hay nằm ở cuối đoạn 1 hoặc ở đoạn kết, thường sau then, therefore, nevertheless, yet.",
+        "Tiêu đề đúng là bản rút gọn của câu luận điểm."
+      ],
+      "examples": [
+        { "en": "The difference, then, lies less in the technology than in how it is used.", "vi": "Vậy sự khác biệt nằm ở cách sử dụng hơn là ở bản thân công nghệ. (Câu luận điểm, đứng sau 'then'.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Vẽ nhanh sơ đồ chức năng các đoạn (vấn đề / giải pháp / hạn chế / ví dụ) trước khi đọc phương án tiêu đề.",
+    "Gạch bỏ tiêu đề có từ tuyệt đối (must, perfect, only, always) nếu bài có câu nhượng bộ như 'not enough', 'not always', 'nevertheless'.",
+    "Tiêu đề lấy tên một quốc gia hay một ví dụ cụ thể làm trung tâm thường quá hẹp, trừ khi cả bài chỉ nói về nơi đó.",
+    "Ở bài học thuật, đọc lại đoạn cuối: nếu tiêu đề mâu thuẫn với kết luận thì loại ngay dù nó khớp với đoạn đầu."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Hot cities",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "On a summer afternoon, the centre of a large city can be several degrees hotter than the countryside only a few kilometres away. Scientists call this the “urban heat island” effect. Dark roofs and roads absorb sunlight during the day and release it slowly at night, while air conditioners pump even more heat into the streets. As a result, residents may struggle to sleep, and elderly people face a higher risk of heat-related illness.\n\nCities cannot simply move into the countryside, but they can change the materials they are built from. In several cities, light-coloured roofs now reflect sunlight instead of absorbing it. Others are covering buildings with “green roofs” – layers of soil and plants that cool the air as water evaporates from their leaves. Even a single row of trees along a street can make the pavement beneath it much cooler.\n\nSuch measures are not free, and their benefits are not always immediate. Trees take years to grow, and green roofs need regular care. Nevertheless, as summers become hotter, many planners argue that the cost of doing nothing will be far greater.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "Green Roofs: The Perfect Solution",
+            "B": "Climate Change Around the World",
+            "C": "Why Cities Are Hotter – and What Can Be Done",
+            "D": "The Dangers of Air Conditioners"
+          },
+          "answer": "C",
+          "explanation": "Đoạn 1 giải thích nguyên nhân 'urban heat island', đoạn 2 nêu giải pháp (mái sáng màu, mái xanh, cây xanh), đoạn 3 đánh giá chi phí và kết luận. C phản ánh đúng cấu trúc vấn đề – giải pháp. A nói quá, B quá rộng, D quá hẹp (máy lạnh chỉ là một nguyên nhân)."
+        },
+        {
+          "no": 2,
+          "question": "Why is “Green Roofs: The Perfect Solution” NOT a suitable title?",
+          "options": {
+            "A": "Green roofs are not mentioned in the passage.",
+            "B": "It focuses on only one measure and ignores the drawbacks the author mentions.",
+            "C": "It is much too general for the passage.",
+            "D": "The author believes green roofs make cities hotter."
+          },
+          "answer": "B",
+          "explanation": "Mái xanh có được nhắc (đoạn 2) nhưng chỉ là một trong ba giải pháp, và đoạn 3 nêu hạn chế: 'green roofs need regular care', 'not free... not always immediate'. Vì vậy tiêu đề vừa hẹp vừa nói quá ('Perfect'). D trái với 'cool the air'."
+        },
+        {
+          "no": 3,
+          "question": "Which of the following best describes how the passage is organised?",
+          "options": {
+            "A": "A problem is explained, solutions are described, and their limits are discussed.",
+            "B": "A story is told in the order in which events happened.",
+            "C": "Two cities are compared point by point.",
+            "D": "Only the advantages of city life are listed."
+          },
+          "answer": "A",
+          "explanation": "Đoạn 1: vấn đề và nguyên nhân; đoạn 2: 'they can change the materials...' (giải pháp); đoạn 3: 'Such measures are not free...' (giới hạn) rồi kết luận. Bài không kể chuyện theo thời gian, không so sánh hai thành phố cụ thể."
+        },
+        {
+          "no": 4,
+          "question": "It can be inferred from the last paragraph that the author thinks cooling measures are ______.",
+          "options": {
+            "A": "useless because they are expensive",
+            "B": "worth doing despite their costs",
+            "C": "only suitable for the countryside",
+            "D": "able to solve the problem immediately"
+          },
+          "answer": "B",
+          "explanation": "Tác giả thừa nhận chi phí ('not free', 'Trees take years to grow') nhưng dùng 'Nevertheless' để dẫn tới ý 'the cost of doing nothing will be far greater' → các biện pháp vẫn đáng làm. D trái với 'benefits are not always immediate'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. AI in the classroom",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "When AI chatbots first became widely available, many teachers feared that students would simply let machines do their homework. Some schools banned the tools altogether. A few years later, the picture looks more complicated.\n\nUsed carelessly, AI can indeed replace thinking. A student who copies an essay produced in seconds learns nothing about organising ideas. Worse, chatbots sometimes invent facts with great confidence, and inexperienced users may not notice the mistakes.\n\nUsed wisely, however, the same tools can act as a patient tutor. A learner struggling with a maths problem can ask for a hint rather than the answer, or request an explanation in simpler words. Language learners can practise conversation at any hour without feeling embarrassed about their mistakes.\n\nThe difference, then, lies less in the technology than in how it is used. Rather than banning AI, a growing number of educators believe schools should teach students to question its answers, check its sources and use it to support, not replace, their own effort.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "AI in the Classroom: Threat or Tool?",
+            "B": "Chatbots Do Students' Homework",
+            "C": "The History of Artificial Intelligence",
+            "D": "Why Schools Must Ban AI"
+          },
+          "answer": "A",
+          "explanation": "Bài trình bày cả mặt hại (đoạn 2: 'AI can indeed replace thinking') và mặt lợi (đoạn 3: 'act as a patient tutor'), rồi kết luận cách dùng quyết định tất cả. Tiêu đề dạng câu hỏi hai mặt (A) phù hợp nhất. B chỉ một mặt; C không có trong bài; D trái với 'Rather than banning AI'."
+        },
+        {
+          "no": 6,
+          "question": "Which sentence from the passage best expresses its main idea?",
+          "options": {
+            "A": "Some schools banned the tools altogether.",
+            "B": "Used carelessly, AI can indeed replace thinking.",
+            "C": "Language learners can practise conversation at any hour.",
+            "D": "The difference, then, lies less in the technology than in how it is used."
+          },
+          "answer": "D",
+          "explanation": "Câu ở đoạn cuối, sau từ kết luận 'then', tổng hợp cả hai mặt đã trình bày → câu luận điểm. A là bối cảnh, B và C chỉ đại diện cho một đoạn."
+        },
+        {
+          "no": 7,
+          "question": "What is the relationship between paragraph 2 and paragraph 3?",
+          "options": {
+            "A": "Paragraph 3 gives more examples of the same problem.",
+            "B": "Paragraph 3 presents the opposite side of the issue described in paragraph 2.",
+            "C": "Paragraph 3 repeats the ideas of paragraph 2 in different words.",
+            "D": "Paragraph 3 tells a story about one particular student."
+          },
+          "answer": "B",
+          "explanation": "Đoạn 2 bắt đầu 'Used carelessly...' (mặt tiêu cực), đoạn 3 bắt đầu 'Used wisely, however...' (mặt tích cực). Từ 'however' và cặp đối 'carelessly/wisely' cho thấy quan hệ đối lập."
+        },
+        {
+          "no": 8,
+          "question": "The sentence “the picture looks more complicated” in paragraph 1 suggests that ______.",
+          "options": {
+            "A": "AI tools are too difficult for students to use",
+            "B": "teachers now take more photos in class",
+            "C": "the effects of AI on learning are neither simply good nor simply bad",
+            "D": "most schools have now banned AI"
+          },
+          "answer": "C",
+          "explanation": "'the picture' ở đây là tình hình chung, 'more complicated' đối lập với nỗi lo đơn giản ban đầu. Hai đoạn sau đúng là trình bày cả hại lẫn lợi → không thể kết luận đơn giản là tốt hay xấu. D không được nói tới."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Endangered languages",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "Of the roughly 7,000 languages spoken in the world today, linguists estimate that around 40 per cent are in danger of disappearing. Many of them have fewer than a thousand speakers, and some are spoken only by elderly people. When the last speaker of a language dies, a unique way of seeing the world dies too.\n\nThe reasons are not difficult to understand. Parents often believe that their children will have better opportunities if they speak a national or global language, so they stop using their mother tongue at home. Schools, television and the internet rarely offer content in small languages.\n\nYet loss is not inevitable. In New Zealand, the Maori language was declining fast until communities set up “language nests” – preschools where young children hear and speak Maori all day. Today, many more people can speak it. Similar projects in Wales and Hawaii show that, with determination and support, a language can be brought back from the edge.\n\nSaving a language is not about rejecting English or other major languages. Children can grow up speaking two or three languages, and research suggests that bilingual people often benefit from greater flexibility of thought.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "English: The Language of the World",
+            "B": "The Maori Language of New Zealand",
+            "C": "Learning Foreign Languages Is Easy",
+            "D": "Endangered Languages: Why They Disappear and How They Can Survive"
+          },
+          "answer": "D",
+          "explanation": "Đoạn 1: thực trạng ngôn ngữ có nguy cơ biến mất; đoạn 2: nguyên nhân; đoạn 3: các dự án hồi sinh; đoạn 4: hồi sinh không có nghĩa là bài xích ngôn ngữ lớn. D bao quát nhất. B chỉ là ví dụ ở đoạn 3; A và C lệch trọng tâm."
+        },
+        {
+          "no": 10,
+          "question": "Why does the author mention New Zealand, Wales and Hawaii?",
+          "options": {
+            "A": "To give examples showing that a declining language can be revived",
+            "B": "To list the places where English is not spoken",
+            "C": "To show that small languages are disappearing fastest there",
+            "D": "To compare the education systems of three places"
+          },
+          "answer": "A",
+          "explanation": "Các ví dụ đứng sau câu 'Yet loss is not inevitable' và được tóm lại bằng 'a language can be brought back from the edge' → minh họa rằng ngôn ngữ đang suy giảm có thể được hồi sinh."
+        },
+        {
+          "no": 11,
+          "question": "The last paragraph mainly argues that ______.",
+          "options": {
+            "A": "children should learn only their mother tongue",
+            "B": "protecting small languages does not mean rejecting major ones",
+            "C": "English is more useful than other languages",
+            "D": "bilingual people find it hard to think clearly"
+          },
+          "answer": "B",
+          "explanation": "Câu chủ đề đoạn 4: 'Saving a language is not about rejecting English or other major languages', kèm ý trẻ có thể nói hai, ba thứ tiếng. D trái với 'greater flexibility of thought'; A trái với 'two or three languages'."
+        },
+        {
+          "no": 12,
+          "question": "The word “inevitable” in paragraph 3 is closest in meaning to ______.",
+          "options": {
+            "A": "very expensive",
+            "B": "easy to understand",
+            "C": "impossible to avoid",
+            "D": "rarely noticed"
+          },
+          "answer": "C",
+          "explanation": "'Yet loss is not inevitable' rồi đưa ví dụ ngôn ngữ được cứu → việc mất ngôn ngữ không phải là điều không tránh khỏi. 'inevitable' = impossible to avoid."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Main Idea, Title Selection, and Author's Purpose – Open Exam Prep", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "material_id": "MAT_PRON_03",
+  "skill_id": "SK_PHON_PRON",
+  "title": "Quy tắc biến âm, nối âm và ngữ điệu câu nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các câu phát âm bẫy (đuôi -ed/-s ngoại lệ, chữ câm, nguồn gốc từ) và hiểu quy tắc nối âm, biến âm, nuốt âm, ngữ điệu câu để nghe – nói tự nhiên và phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Ngoại lệ đuôi -ed và -s/-es",
+      "points": [
+        "Một số tính từ tận cùng -ed đọc /ɪd/ dù âm trước không phải /t/, /d/: naked /ˈneɪkɪd/, wicked /ˈwɪkɪd/, ragged /ˈræɡɪd/, crooked (cong, quanh co) /ˈkrʊkɪd/.",
+        "\"gh\" có thể đọc /f/ (laugh, cough, enough) hoặc câm (plough /plaʊ/, though /ðəʊ/), nên ploughed đọc /d/ còn laughed đọc /t/.",
+        "th cuối từ: breath /θ/ nhưng breathe /ð/, nên breaths /s/ còn breathes /z/; clothes /kləʊðz/ đọc /z/ chứ không phải /ɪz/."
+      ],
+      "examples": [
+        {
+          "en": "The wicked /ˈwɪkɪd/ witch laughed /lɑːft/ loudly.",
+          "vi": "Mụ phù thủy độc ác cười to."
+        },
+        {
+          "en": "She breathes /briːðz/ deeply and takes three deep breaths /breθs/.",
+          "vi": "Cô ấy thở sâu và hít ba hơi thật sâu."
+        }
+      ]
+    },
+    {
+      "heading": "Nối âm (linking)",
+      "points": [
+        "Phụ âm cuối + nguyên âm đầu từ sau được nối liền: \"turn off\" → /tɜː nɒf/, \"pick it up\" → /pɪ kɪ tʌp/.",
+        "Nguyên âm + nguyên âm: chèn /w/ sau /uː/, /əʊ/, /aʊ/ (go out → /ɡəʊ waʊt/, two eggs → /tuː weɡz/); chèn /j/ sau /iː/, /eɪ/, /aɪ/, /ɔɪ/ (see it → /siː jɪt/, my uncle → /maɪ jʌŋkl/).",
+        "Trong giọng Anh – Anh, chữ \"r\" cuối từ không đọc nhưng sẽ được đọc /r/ khi từ sau bắt đầu bằng nguyên âm (far away → /fɑː rəˈweɪ/, car engine)."
+      ],
+      "examples": [
+        {
+          "en": "Can I have an apple? → /kə naɪ hæ və ˈnæpl/",
+          "vi": "Cho tôi xin một quả táo được không?"
+        },
+        {
+          "en": "Go out and play! → /ɡəʊ waʊt/",
+          "vi": "Ra ngoài chơi đi!"
+        }
+      ]
+    },
+    {
+      "heading": "Biến âm (assimilation) và nuốt âm (elision)",
+      "points": [
+        "/t/, /d/, /s/, /z/ + /j/ hòa thành /tʃ/, /dʒ/, /ʃ/, /ʒ/: \"meet you\" → /miːtʃuː/, \"did you\" → /dɪdʒuː/, \"miss you\" → /mɪʃuː/.",
+        "/n/ trước /p/, /b/, /m/ thường biến thành /m/: \"ten boys\" → /tem bɔɪz/, \"green park\" → /ɡriːm pɑːk/.",
+        "/t/, /d/ nằm giữa hai phụ âm thường bị nuốt: \"next week\" → /neks wiːk/, \"last night\" → /lɑːs naɪt/, \"old man\" → /əʊl mæn/."
+      ],
+      "examples": [
+        {
+          "en": "Nice to meet you! → /miːtʃuː/",
+          "vi": "Rất vui được gặp bạn!"
+        },
+        {
+          "en": "See you next week! → /neks wiːk/",
+          "vi": "Hẹn gặp bạn tuần sau!"
+        }
+      ]
+    },
+    {
+      "heading": "Ngữ điệu và trọng âm câu",
+      "points": [
+        "Ngữ điệu xuống (falling): câu trần thuật, câu mệnh lệnh, câu cảm thán, câu hỏi có từ để hỏi (Wh-questions).",
+        "Ngữ điệu lên (rising): câu hỏi Yes/No; câu hỏi đuôi khi người nói KHÔNG chắc chắn và thật sự muốn hỏi.",
+        "Câu hỏi đuôi xuống giọng khi người nói đã chắc chắn, chỉ muốn người nghe xác nhận/đồng tình.",
+        "Trọng âm tương phản (contrastive stress): nhấn vào từ mang thông tin mới hoặc thông tin sửa lại (\"No, her bag is BLUE.\")."
+      ],
+      "examples": [
+        {
+          "en": "Are you ready? ↗  /  Where do you live? ↘",
+          "vi": "Bạn sẵn sàng chưa? / Bạn sống ở đâu?"
+        },
+        {
+          "en": "It's a lovely day, isn't it? ↘",
+          "vi": "Hôm nay trời đẹp nhỉ? (người nói chắc chắn, chờ đồng tình)"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu phát âm mức vận dụng cao thường cài ngoại lệ: tính từ -ed (naked, wicked, ragged), chữ \"gh\" câm, \"th\" trong breath/breathe, \"ch\" gốc Hy Lạp/Pháp. Hãy học thuộc danh sách ngoại lệ.",
+    "Đừng xét đuôi theo chữ viết: clothes viết \"-es\" nhưng đọc /z/; ploughed có \"gh\" nhưng không phải /f/.",
+    "Với câu hỏi về nối âm/biến âm: xác định âm CUỐI của từ trước và âm ĐẦU của từ sau, rồi áp quy tắc (phụ âm + nguyên âm, /t/+/j/ → /tʃ/, /n/+/b/ → /m/b/...).",
+    "Với câu hỏi về ngữ điệu: Yes/No hỏi thật → lên giọng; Wh-question, câu khẳng định, hỏi đuôi chờ đồng tình → xuống giọng."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Câu phát âm bẫy",
+      "instructions": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): raggED, bookED, wickED, nakED",
+          "options": {
+            "A": "raggED",
+            "B": "bookED",
+            "C": "wickED",
+            "D": "nakED"
+          },
+          "answer": "B",
+          "explanation": "booked /bʊkt/ là động từ, \"book\" tận cùng /k/ nên -ed đọc /t/. Ba tính từ còn lại là ngoại lệ đọc /ɪd/: naked /ˈneɪkɪd/, wicked /ˈwɪkɪd/, ragged /ˈræɡɪd/."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): coughED, laughED, ploughED, mixED",
+          "options": {
+            "A": "coughED",
+            "B": "laughED",
+            "C": "ploughED",
+            "D": "mixED"
+          },
+          "answer": "C",
+          "explanation": "ploughed /plaʊd/ đọc /d/ vì \"gh\" trong plough là âm câm, từ tận cùng bằng nguyên âm đôi /aʊ/. Các từ còn lại đọc /t/: coughed /kɒft/, laughed /lɑːft/ (\"gh\" = /f/), mixed /mɪkst/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): clothES, rosES, housES, horsES",
+          "options": {
+            "A": "clothES",
+            "B": "rosES",
+            "C": "housES",
+            "D": "horsES"
+          },
+          "answer": "A",
+          "explanation": "clothes /kləʊðz/ có đuôi đọc /z/ (âm /ð/ không phải âm xuýt). Các từ còn lại đọc /ɪz/: houses /ˈhaʊzɪz/, roses /ˈrəʊzɪz/, horses /ˈhɔːsɪz/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): breatheS, breathS, monthS, mythS",
+          "options": {
+            "A": "breatheS",
+            "B": "breathS",
+            "C": "monthS",
+            "D": "mythS"
+          },
+          "answer": "A",
+          "explanation": "breathes /briːðz/ đọc /z/ vì động từ breathe tận cùng bằng /ð/ (hữu thanh). Các danh từ còn lại tận cùng bằng /θ/ (vô thanh) nên đọc /s/: breaths /breθs/, months /mʌnθs/, myths /mɪθs/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): CHaos, CHef, CHoir, arCHitect",
+          "options": {
+            "A": "CHaos",
+            "B": "CHef",
+            "C": "CHoir",
+            "D": "arCHitect"
+          },
+          "answer": "B",
+          "explanation": "chef /ʃef/ (gốc Pháp) có \"ch\" đọc /ʃ/. Các từ gốc Hy Lạp còn lại đọc /k/: choir /ˈkwaɪə/, chaos /ˈkeɪɒs/, architect /ˈɑːkɪtekt/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): bUsy, bUsiness, cUt, minUte (n)",
+          "options": {
+            "A": "bUsy",
+            "B": "bUsiness",
+            "C": "cUt",
+            "D": "minUte (n)"
+          },
+          "answer": "C",
+          "explanation": "cut /kʌt/ có \"u\" đọc /ʌ/. Các từ còn lại có \"u\" đọc /ɪ/: busy /ˈbɪzi/, business /ˈbɪznəs/, minute (danh từ, phút) /ˈmɪnɪt/."
+        },
+        {
+          "no": 7,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): touGH, couGH, enouGH, thouGH",
+          "options": {
+            "A": "touGH",
+            "B": "couGH",
+            "C": "enouGH",
+            "D": "thouGH"
+          },
+          "answer": "D",
+          "explanation": "though /ðəʊ/ có \"gh\" là âm câm. Ở các từ còn lại \"gh\" đọc /f/: enough /ɪˈnʌf/, tough /tʌf/, cough /kɒf/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Nối âm, biến âm và ngữ điệu",
+      "instructions": "Choose the best option (A, B, C or D) to answer each question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "In natural, fast speech, how is 'Did you...?' usually pronounced?",
+          "options": {
+            "A": "/ˈdɪzjuː/",
+            "B": "/ˈdɪdʒuː/",
+            "C": "/ˈdɪduː/",
+            "D": "/ˈdɪtjuː/"
+          },
+          "answer": "B",
+          "explanation": "/d/ + /j/ hòa vào nhau thành /dʒ/ (biến âm), nên \"Did you\" thường đọc /ˈdɪdʒuː/."
+        },
+        {
+          "no": 9,
+          "question": "In British English, which phrase is linked with an extra /r/ sound between the two words?",
+          "options": {
+            "A": "go out",
+            "B": "big apple",
+            "C": "see it",
+            "D": "far away"
+          },
+          "answer": "D",
+          "explanation": "\"far\" tận cùng bằng chữ r (không đọc khi đứng một mình) và \"away\" bắt đầu bằng nguyên âm, nên xuất hiện /r/ nối: /fɑː rəˈweɪ/. \"go out\" nối bằng /w/, \"see it\" nối bằng /j/, \"big apple\" là phụ âm + nguyên âm thông thường."
+        },
+        {
+          "no": 10,
+          "question": "Which phrase is linked with a /w/ sound between the two words?",
+          "options": {
+            "A": "two eggs",
+            "B": "the end",
+            "C": "car engine",
+            "D": "my uncle"
+          },
+          "answer": "A",
+          "explanation": "\"two\" tận cùng bằng /uː/ nên khi gặp nguyên âm sẽ chèn /w/: /tuː weɡz/. \"my uncle\" và \"the end\" chèn /j/; \"car engine\" chèn /r/ (giọng Anh – Anh)."
+        },
+        {
+          "no": 11,
+          "question": "In the phrase 'ten boys', the /n/ in 'ten' often changes into which sound?",
+          "options": {
+            "A": "/m/",
+            "B": "/d/",
+            "C": "/l/",
+            "D": "/ŋ/"
+          },
+          "answer": "A",
+          "explanation": "/n/ đứng trước âm môi /b/ thường biến thành /m/ cho dễ đọc: /tem bɔɪz/. /ŋ/ chỉ xuất hiện khi /n/ đứng trước /k/, /ɡ/."
+        },
+        {
+          "no": 12,
+          "question": "Which sound is usually dropped in the phrase 'next week' in natural speech?",
+          "options": {
+            "A": "/n/",
+            "B": "/w/",
+            "C": "/t/",
+            "D": "/k/"
+          },
+          "answer": "C",
+          "explanation": "/t/ nằm giữa hai phụ âm /s/ và /w/ nên thường bị nuốt: /neks wiːk/."
+        },
+        {
+          "no": 13,
+          "question": "Which sentence normally ends with a RISING intonation?",
+          "options": {
+            "A": "Where do you live?",
+            "B": "Close the door, please.",
+            "C": "Are you coming to the party tonight?",
+            "D": "What a beautiful day!"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi Yes/No \"Are you coming...?\" thường lên giọng ở cuối. Câu hỏi Wh-, câu mệnh lệnh và câu cảm thán đều xuống giọng."
+        },
+        {
+          "no": 14,
+          "question": "Minh is quite sure that Nam is Lan's brother and only wants him to agree: \"You're Lan's brother, aren't you?\" How should Minh say the tag 'aren't you'?",
+          "options": {
+            "A": "with no stress at all",
+            "B": "with a rising intonation",
+            "C": "with a pause before every word",
+            "D": "with a falling intonation"
+          },
+          "answer": "D",
+          "explanation": "Khi người nói đã chắc chắn và chỉ chờ người nghe xác nhận, câu hỏi đuôi xuống giọng. Lên giọng dùng khi người nói chưa chắc và thật sự muốn hỏi."
+        },
+        {
+          "no": 15,
+          "question": "A: \"Is Mai's bag red?\" – B: \"No, Mai's bag is blue.\" Which word in B's answer should receive the strongest stress?",
+          "options": {
+            "A": "bag",
+            "B": "blue",
+            "C": "Mai's",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "B đang sửa thông tin sai (màu đỏ → màu xanh), nên từ mang thông tin mới \"blue\" nhận trọng âm câu mạnh nhất (trọng âm tương phản)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pronounce.tv - Linking and connected speech",
+      "url": "https://pronounce.tv/blog/linking-and-connected-speech"
+    },
+    {
+      "title": "PREP - Bài tập phát âm -ed (các trường hợp ngoại lệ naked, wicked)",
+      "url": "https://prepedu.com/vi/blog/bai-tap-phat-am-ed"
+    },
+    {
+      "title": "Wiktionary - choir (đối chiếu phiên âm IPA)",
+      "url": "https://en.wiktionary.org/wiki/choir"
+    }
+  ]
+}

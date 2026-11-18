@@ -1,0 +1,261 @@
+{
+  "material_id": "MAT_CONJ_03",
+  "skill_id": "SK_CONJUNCTIONS",
+  "title": "Liên từ phụ thuộc và liên từ chuyển tiếp nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh phân biệt các liên từ phụ thuộc dễ nhầm (in case/if, as long as, now that, so...that/such...that, since/as) và các trạng từ liên kết (however, therefore, otherwise, nevertheless, moreover, instead) cùng cách dùng dấu câu – nhóm câu phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Liên từ phụ thuộc dễ nhầm",
+      "points": [
+        "in case + S + V (hiện tại): phòng khi (làm trước để đề phòng) ≠ if (chỉ làm khi điều kiện xảy ra).",
+        "as long as / provided (that): miễn là, với điều kiện là. now that: vì giờ đây.",
+        "since / as: vừa chỉ thời gian vừa chỉ nguyên nhân – dựa vào ngữ cảnh; while: trong khi (thời gian) hoặc trong khi đó (đối lập).",
+        "so + adj/adv + that ...; such + (a/an) + adj + N + that ...: quá ... đến nỗi."
+      ],
+      "examples": [
+        {
+          "en": "Take an umbrella in case it rains.",
+          "vi": "Mang theo ô phòng khi trời mưa."
+        },
+        {
+          "en": "It was such a hot day that we stayed indoors.",
+          "vi": "Hôm đó nóng đến mức chúng tôi ở trong nhà."
+        }
+      ]
+    },
+    {
+      "heading": "Trạng từ liên kết (conjunctive adverbs)",
+      "points": [
+        "Tương phản: however, nevertheless, on the other hand. Kết quả: therefore, consequently, as a result.",
+        "Bổ sung: moreover, furthermore, in addition, besides. Thay thế: instead. Điều kiện ngược: otherwise (nếu không thì).",
+        "Dấu câu: S + V. However, S + V. hoặc S + V; however, S + V. KHÔNG dùng dấu phẩy đơn thuần để nối hai mệnh đề bằng however.",
+        "Trạng từ liên kết không phải liên từ nên không đứng sau 'and/but': KHÔNG viết 'but however'."
+      ],
+      "examples": [
+        {
+          "en": "The tickets were expensive; nevertheless, we bought them.",
+          "vi": "Vé đắt; dù vậy, chúng tôi vẫn mua."
+        },
+        {
+          "en": "You must leave now; otherwise, you'll miss the train.",
+          "vi": "Bạn phải đi ngay; nếu không, bạn sẽ lỡ tàu."
+        }
+      ]
+    },
+    {
+      "heading": "Liên từ hay giới từ?",
+      "points": [
+        "Liên từ + mệnh đề: because, although, while, as. Giới từ + cụm danh từ/V-ing: because of, despite, during, due to.",
+        "during + N (trong suốt) ≠ while + S + V / V-ing.",
+        "Phân biệt: so that + mệnh đề (mục đích) ≠ so (kết quả) ≠ in order to + V."
+      ],
+      "examples": [
+        {
+          "en": "He fell asleep during the lecture. / He fell asleep while the teacher was talking.",
+          "vi": "Cậu ấy ngủ gật trong buổi giảng / trong khi thầy đang giảng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu hỏi về in case: hành động ở mệnh đề chính được làm TRƯỚC để phòng ngừa – không phụ thuộc điều kiện có xảy ra hay không.",
+    "Chỗ trống đứng đầu câu sau dấu chấm và có dấu phẩy theo sau → gần như chắc chắn là trạng từ liên kết (However, Therefore...), không phải liên từ.",
+    "Phân biệt so/such: such đi với danh từ (such a good film), so đi với tính từ/trạng từ đứng một mình (so good).",
+    "Nhìn sau chỗ trống: mệnh đề → liên từ; cụm danh từ → giới từ (during, despite, because of)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Write down my phone number ______ you need to contact me.",
+          "options": {
+            "A": "so that",
+            "B": "although",
+            "C": "unless",
+            "D": "in case"
+          },
+          "answer": "D",
+          "explanation": "Ghi số điện thoại trước để phòng khi cần liên lạc → in case."
+        },
+        {
+          "no": 2,
+          "question": "You can borrow my bike ______ you bring it back before six.",
+          "options": {
+            "A": "in case",
+            "B": "as long as",
+            "C": "whereas",
+            "D": "unless"
+          },
+          "answer": "B",
+          "explanation": "Điều kiện 'miễn là bạn trả trước 6 giờ' → as long as."
+        },
+        {
+          "no": 3,
+          "question": "______ you have finished your exams, you can relax a bit.",
+          "options": {
+            "A": "Even if",
+            "B": "Unless",
+            "C": "Now that",
+            "D": "So that"
+          },
+          "answer": "C",
+          "explanation": "'Now that' = vì giờ đây (đã thi xong) → bạn có thể nghỉ ngơi."
+        },
+        {
+          "no": 4,
+          "question": "It was ______ an interesting book that I read it in one night.",
+          "options": {
+            "A": "so",
+            "B": "too",
+            "C": "very",
+            "D": "such"
+          },
+          "answer": "D",
+          "explanation": "such + a/an + adj + N + that → such an interesting book."
+        },
+        {
+          "no": 5,
+          "question": "The road was icy. ______, many accidents happened.",
+          "options": {
+            "A": "Instead",
+            "B": "Consequently",
+            "C": "Otherwise",
+            "D": "However"
+          },
+          "answer": "B",
+          "explanation": "Vế sau là kết quả của đường đóng băng → Consequently."
+        },
+        {
+          "no": 6,
+          "question": "Put on your helmet; ______, the police will fine you.",
+          "options": {
+            "A": "moreover",
+            "B": "nevertheless",
+            "C": "therefore",
+            "D": "otherwise"
+          },
+          "answer": "D",
+          "explanation": "'otherwise' = nếu không thì (nếu không đội mũ sẽ bị phạt)."
+        },
+        {
+          "no": 7,
+          "question": "Hoa didn't go to the party. ______, she stayed at home to study.",
+          "options": {
+            "A": "Therefore",
+            "B": "Besides",
+            "C": "Instead",
+            "D": "However"
+          },
+          "answer": "C",
+          "explanation": "Thay vì đi tiệc, cô ấy ở nhà học → Instead (thay vào đó)."
+        },
+        {
+          "no": 8,
+          "question": "The phone rang ______ we were having dinner.",
+          "options": {
+            "A": "while",
+            "B": "because of",
+            "C": "during",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "Sau chỗ trống là mệnh đề 'we were having dinner' → liên từ while. 'during' chỉ đi với danh từ."
+        },
+        {
+          "no": 9,
+          "question": "The hotel is near the beach. ______, it has a great swimming pool.",
+          "options": {
+            "A": "Moreover",
+            "B": "However",
+            "C": "Otherwise",
+            "D": "Instead"
+          },
+          "answer": "A",
+          "explanation": "Bổ sung thêm một ưu điểm → Moreover."
+        },
+        {
+          "no": 10,
+          "question": "______ he is my best friend, I trust him completely.",
+          "options": {
+            "A": "As",
+            "B": "Whereas",
+            "C": "Unless",
+            "D": "Although"
+          },
+          "answer": "A",
+          "explanation": "'As' chỉ nguyên nhân (vì cậu ấy là bạn thân nhất) → tôi hoàn toàn tin tưởng."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đúng / có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is correct or closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Which sentence is punctuated and used correctly?",
+          "options": {
+            "A": "He was tired, however he kept working.",
+            "B": "He was tired; however, he kept working.",
+            "C": "He was tired, but however he kept working.",
+            "D": "He was tired however, he kept working."
+          },
+          "answer": "B",
+          "explanation": "Trạng từ liên kết nối hai mệnh đề: dấu chấm phẩy trước, dấu phẩy sau. A, D thiếu dấu câu đúng; C dùng 'but however' là thừa."
+        },
+        {
+          "no": 12,
+          "question": "The coffee was so hot that I couldn't drink it.",
+          "options": {
+            "A": "It was such hot coffee that I couldn't drink it.",
+            "B": "It was so hot coffee that I couldn't drink it.",
+            "C": "It was such a hot coffee that I could drink it.",
+            "D": "The coffee was too hot that I couldn't drink it."
+          },
+          "answer": "A",
+          "explanation": "so + adj + that = such + (adj + N không đếm được) + that. 'coffee' không đếm được nên không có 'a'. B sai 'so' + N; C sai nghĩa; D sai cấu trúc 'too...that'."
+        },
+        {
+          "no": 13,
+          "question": "I took a map with me because I thought I might get lost.",
+          "options": {
+            "A": "I took a map with me unless I got lost.",
+            "B": "I took a map with me although I got lost.",
+            "C": "I took a map with me so I got lost.",
+            "D": "I took a map with me in case I got lost."
+          },
+          "answer": "D",
+          "explanation": "Mang bản đồ để đề phòng bị lạc → in case. Các phương án khác sai nghĩa."
+        },
+        {
+          "no": 14,
+          "question": "She practised every day. Nevertheless, she didn't win the competition.",
+          "options": {
+            "A": "She practised every day, so she didn't win the competition.",
+            "B": "Because she practised every day, she didn't win the competition.",
+            "C": "Although she practised every day, she didn't win the competition.",
+            "D": "She practised every day; therefore, she didn't win the competition."
+          },
+          "answer": "C",
+          "explanation": "Nevertheless = tương phản ↔ Although. A, B, D chuyển thành quan hệ nguyên nhân – kết quả, sai nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP – Liên từ phụ thuộc (Subordinating Conjunctions): Cách dùng, phân loại và bài tập",
+      "url": "https://prepedu.com/vi/blog/lien-tu-phu-thuoc-trong-tieng-anh"
+    },
+    {
+      "title": "IDP IELTS Việt Nam – Trạng từ liên kết (Conjunctive adverbs)",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-conjunctive-adverbs"
+    }
+  ]
+}

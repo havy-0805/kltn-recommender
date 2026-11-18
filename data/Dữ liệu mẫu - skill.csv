@@ -1,0 +1,48 @@
+skill_id,skill_name,category,group_id,group_name
+SK_ADJ_ORDER,Trật tự của tính từ,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_ADJ_STRUCTURE,Cấu trúc của tính từ,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_ADV_FREQ,Trạng từ chỉ tần suất,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_ARTICLES,Mạo từ,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_COLLOCATION,Cụm từ cố định,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_COMM_FUNC,Chức năng giao tiếp,Giao tiếp,GRP_COMM,Giao tiếp
+SK_COMPARATIVE,Cấu trúc so sánh,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_COMPLEX_SENT,Câu phức,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_CONCESSION,Cách sử dụng của Despite và Although,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_CONDITIONAL,Câu điều kiện,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_CONJUNCTIONS,Liên từ,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_ERROR_CORRECTION,Tìm và sửa lỗi sai,Ngữ pháp,GRP_REWRITE,Viết lại câu và sửa lỗi
+SK_GUIDED_REWRITE,Viết lại câu với các từ cho sẵn,Ngữ pháp,GRP_REWRITE,Viết lại câu và sửa lỗi
+SK_PARTICIPLE,Mệnh đề phân từ và rút gọn mệnh đề,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_PASSIVE_VOICE,Câu bị động,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_PAST_PRESENT_REL,Mối liên quan giữa QKĐ và HTHT,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_PHON_PRON,Phát âm nguyên âm và phụ âm,Ngữ âm,GRP_PHON,Ngữ âm: phát âm và trọng âm
+SK_PHON_STRESS,Trọng âm từ 2 và 3 âm tiết,Ngữ âm,GRP_PHON,Ngữ âm: phát âm và trọng âm
+SK_PHRASAL_VERBS,Cụm động từ,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_PREPOSITION,Giới từ và cụm giới từ,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_QUANTIFIER,Từ chỉ định lượng,Ngữ pháp,GRP_WORDCLASS,"Ngữ pháp: từ loại, mạo từ, giới từ, so sánh"
+SK_READ_CLOZE,Bài đọc điền từ khuyết thiếu,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_READ_DETAIL,Đọc hiểu: Tìm kiếm thông tin chi tiết trong đoạn văn,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_READ_GAPPED,Điền từ/câu vào đoạn văn hoàn chỉnh,Kỹ năng đọc - viết,GRP_WRITE,Kỹ năng đọc - viết: tổ chức văn bản
+SK_READ_MAIN,Đọc hiểu: Xác định ý chính đoạn văn,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_READ_NOTTRUE,Đọc hiểu: Tìm thông tin không đúng / ngoại lệ,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_READ_TITLE,Đọc hiểu: Xác định tiêu đề phù hợp,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_READING_SKILLS,Kĩ năng đọc hiểu,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_REL_CLAUSE,Mệnh đề quan hệ và đại từ quan hệ,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_REPORT_SPEECH,Câu gián tiếp,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_SENT_TRANS,Viết lại câu tương đương,Ngữ pháp,GRP_REWRITE,Viết lại câu và sửa lỗi
+SK_SIGN_NOTICE,Đọc hiểu biển báo và thông báo thực tế,Đọc hiểu,GRP_READ,Đọc hiểu đoạn văn
+SK_SUBJECT_VERB,Sự hòa hợp giữa chủ ngữ và động từ,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_SUGGEST,Cách sử dụng của Suggest,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_SYNONYM_ANTONYM,"Từ đồng nghĩa, trái nghĩa",Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_TAG_QUESTION,Câu hỏi đuôi,Ngữ pháp,GRP_CLAUSE,Ngữ pháp: câu và mệnh đề
+SK_TENSE_ASPECT,Các thì trong tiếng Anh và sự phối hợp thì,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_TEXT_COHES,Kỹ năng chọn câu kết đoạn mạch lạc,Kỹ năng đọc - viết,GRP_WRITE,Kỹ năng đọc - viết: tổ chức văn bản
+SK_TEXT_ORG,Kỹ năng sắp xếp trật tự câu tạo đoạn văn,Kỹ năng đọc - viết,GRP_WRITE,Kỹ năng đọc - viết: tổ chức văn bản
+SK_USED_TO,Used to và be/get used to,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_VERB_FORMS,Dạng của động từ,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_VOCAB_CITY,Từ vựng chủ đề Cuộc sống đô thị,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_VOCAB_DISASTER,Từ vựng chủ đề Thảm họa thiên nhiên,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_VOCAB_HEALTH,Từ vựng chủ đề Sức khỏe,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_VOCAB_HOBBY,Từ vựng chủ đề Sở thích,Từ vựng,GRP_VOCAB,Từ vựng: chủ đề và cụm từ
+SK_WISH,Câu ước,Ngữ pháp,GRP_VERB,Ngữ pháp: thì và dạng động từ
+SK_WORD_FORM,Cấu tạo từ và biến đổi từ loại,Từ vựng - Ngữ pháp,GRP_VOCAB,Từ vựng: chủ đề và cụm từ

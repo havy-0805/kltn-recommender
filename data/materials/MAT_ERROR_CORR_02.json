@@ -1,0 +1,272 @@
+{
+  "material_id": "MAT_ERROR_CORR_02",
+  "skill_id": "SK_ERROR_CORRECTION",
+  "title": "Kỹ thuật phát hiện lỗi sai về từ loại, giới từ và liên từ",
+  "target_level": 2,
+  "summary": "Giúp học sinh phát hiện lỗi sai về từ loại (tính từ/trạng từ/danh từ), giới từ đi kèm và liên từ – nhóm lỗi xuất hiện thường xuyên trong dạng tìm lỗi sai của đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Lỗi từ loại",
+      "points": [
+        "Bổ nghĩa cho động từ thường → trạng từ (sing beautifully, drive carefully)",
+        "Sau to be/linking verb (feel, look, seem, become) → tính từ (feel tired, look happy)",
+        "Sau mạo từ/tính từ sở hữu và trước giới từ \"of\" → danh từ (the decision to…, the beauty of…)",
+        "Trước danh từ → tính từ (economic policies, not economy policies)",
+        "Tính từ -ed (cảm xúc của người) ≠ -ing (tính chất gây ra cảm xúc): feel relaxed / a relaxing trip"
+      ],
+      "examples": [
+        {
+          "en": "She sings beautifully.",
+          "vi": "Cô ấy hát hay."
+        },
+        {
+          "en": "The trip made us feel relaxed.",
+          "vi": "Chuyến đi khiến chúng tôi thấy thư thái."
+        }
+      ]
+    },
+    {
+      "heading": "Lỗi giới từ đi kèm",
+      "points": [
+        "interested in, good at, dangerous to/for, take care of, depend on, keen on",
+        "because of / despite / in spite of + danh từ/V-ing (không đi với mệnh đề)"
+      ],
+      "examples": [
+        {
+          "en": "He is interested in learning English.",
+          "vi": "Cậu ấy thích học tiếng Anh."
+        },
+        {
+          "en": "We should take care of the environment.",
+          "vi": "Chúng ta nên bảo vệ môi trường."
+        }
+      ]
+    },
+    {
+      "heading": "Lỗi liên từ",
+      "points": [
+        "Although/Though + mệnh đề, KHÔNG dùng thêm \"but\" ở vế sau",
+        "because + mệnh đề ≠ because of + cụm danh từ",
+        "Câu mệnh lệnh + or (nếu không thì) / + and (thì sẽ)",
+        "Cặp liên từ: not only … but also, both … and, either … or, neither … nor"
+      ],
+      "examples": [
+        {
+          "en": "Although the weather was bad, we went camping.",
+          "vi": "Mặc dù thời tiết xấu, chúng tôi vẫn đi cắm trại."
+        },
+        {
+          "en": "Hurry up, or you will miss the bus.",
+          "vi": "Nhanh lên, nếu không bạn sẽ lỡ xe buýt."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định vị trí của phần được đánh dấu trong câu (trước danh từ? sau động từ? sau to be?) rồi suy ra từ loại cần dùng.",
+    "Gặp because/because of, although/despite: nhìn ngay phía sau là mệnh đề (có S + V) hay cụm danh từ.",
+    "Gặp cặp liên từ (not only, both, either, neither) thì kiểm tra vế còn lại có đúng cặp không.",
+    "Giới từ sai thường nằm ngay sau tính từ/động từ quen thuộc: đọc to cả cụm (interested on? → in) để phát hiện."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Lỗi từ loại",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "She (A) sings very (B) beautiful, (C) so everyone (D) enjoys her concerts.",
+          "options": {
+            "A": "sings",
+            "B": "beautiful",
+            "C": "so",
+            "D": "enjoys"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho động từ \"sings\" cần trạng từ → \"beautifully\"."
+        },
+        {
+          "no": 2,
+          "question": "The beauty (A) of the scenery (B) made us (C) feel (D) relaxing during the trip.",
+          "options": {
+            "A": "of",
+            "B": "made",
+            "C": "feel",
+            "D": "relaxing"
+          },
+          "answer": "D",
+          "explanation": "Sau \"feel\" mô tả cảm xúc của người → tính từ đuôi -ed: \"relaxed\"."
+        },
+        {
+          "no": 3,
+          "question": "The (A) decide to build (B) a new park (C) was welcomed by (D) local residents.",
+          "options": {
+            "A": "decide",
+            "B": "a new park",
+            "C": "was welcomed",
+            "D": "local"
+          },
+          "answer": "A",
+          "explanation": "Sau mạo từ \"The\" cần danh từ → \"decision\"."
+        },
+        {
+          "no": 4,
+          "question": "The government (A) has introduced many (B) economy policies (C) to reduce (D) poverty.",
+          "options": {
+            "A": "has introduced",
+            "B": "economy",
+            "C": "to reduce",
+            "D": "poverty"
+          },
+          "answer": "B",
+          "explanation": "Đứng trước danh từ \"policies\" cần tính từ → \"economic\"."
+        },
+        {
+          "no": 5,
+          "question": "Please drive (A) careful because the roads (B) are (C) very slippery (D) after the rain.",
+          "options": {
+            "A": "careful",
+            "B": "are",
+            "C": "very slippery",
+            "D": "after"
+          },
+          "answer": "A",
+          "explanation": "Bổ nghĩa cho động từ \"drive\" cần trạng từ → \"carefully\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Lỗi giới từ",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 6,
+          "question": "My cousin (A) is very (B) interested (C) on (D) learning Korean.",
+          "options": {
+            "A": "is",
+            "B": "interested",
+            "C": "on",
+            "D": "learning"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"be interested in\" → sửa \"on\" thành \"in\"."
+        },
+        {
+          "no": 7,
+          "question": "We should all (A) take (B) care (C) for (D) the environment we live in.",
+          "options": {
+            "A": "take",
+            "B": "care",
+            "C": "for",
+            "D": "the environment"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"take care of\" (chăm sóc, bảo vệ) → sửa \"for\" thành \"of\"."
+        },
+        {
+          "no": 8,
+          "question": "My sister is (A) very good (B) in playing the piano (C) and she also (D) sings well.",
+          "options": {
+            "A": "very good",
+            "B": "in",
+            "C": "and",
+            "D": "sings well"
+          },
+          "answer": "B",
+          "explanation": "Cụm \"be good at + V-ing\" (giỏi về) → sửa \"in\" thành \"at\"."
+        },
+        {
+          "no": 9,
+          "question": "Whether we go camping (A) or not (B) depends (C) of (D) the weather.",
+          "options": {
+            "A": "or not",
+            "B": "depends",
+            "C": "of",
+            "D": "the weather"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"depend on\" → sửa \"of\" thành \"on\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Lỗi liên từ",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "(A) Although the weather (B) was bad, (C) but we went (D) camping as planned.",
+          "options": {
+            "A": "Although",
+            "B": "was",
+            "C": "but we went",
+            "D": "camping"
+          },
+          "answer": "C",
+          "explanation": "Đã có \"Although\" thì không dùng \"but\" ở vế sau → bỏ \"but\": \"we went\"."
+        },
+        {
+          "no": 11,
+          "question": "(A) Because of it rained heavily, (B) the match (C) was cancelled (D) at the last minute.",
+          "options": {
+            "A": "Because of",
+            "B": "the match",
+            "C": "was cancelled",
+            "D": "at"
+          },
+          "answer": "A",
+          "explanation": "Phía sau là mệnh đề \"it rained heavily\" → dùng \"Because\", không dùng \"Because of\"."
+        },
+        {
+          "no": 12,
+          "question": "Hurry up, (A) and you (B) will miss (C) the last bus (D) home.",
+          "options": {
+            "A": "and",
+            "B": "will miss",
+            "C": "the last bus",
+            "D": "home"
+          },
+          "answer": "A",
+          "explanation": "Câu mệnh lệnh + \"or\" = nếu không thì. Theo nghĩa (nhanh lên, nếu không sẽ lỡ xe) phải dùng \"or\"."
+        },
+        {
+          "no": 13,
+          "question": "He failed the exam (A) last year (B) because (C) his laziness (D) and lack of practice.",
+          "options": {
+            "A": "last year",
+            "B": "because",
+            "C": "his laziness",
+            "D": "and"
+          },
+          "answer": "B",
+          "explanation": "\"his laziness and lack of practice\" là cụm danh từ → dùng \"because of\"."
+        },
+        {
+          "no": 14,
+          "question": "Nam is (A) not only intelligent (B) and also (C) hard-working, so his teachers (D) like him.",
+          "options": {
+            "A": "not only",
+            "B": "and also",
+            "C": "hard-working",
+            "D": "like"
+          },
+          "answer": "B",
+          "explanation": "Cặp liên từ \"not only … but also\" → sửa \"and also\" thành \"but also\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – Dạng bài Tìm lỗi sai (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-tim-loi-sai-cd2025.jsp"
+    },
+    {
+      "title": "IELTS Australia – Master dependent prepositions",
+      "url": "https://ielts.com.au/australia/prepare/article-ielts-grammar-master-dependent-prepositions"
+    }
+  ]
+}

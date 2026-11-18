@@ -1,0 +1,255 @@
+{
+  "material_id": "MAT_READ_GAPPED_02",
+  "skill_id": "SK_READ_GAPPED",
+  "title": "Chiến thuật xác định ngữ cảnh và từ khóa bài Gapped text",
+  "target_level": 2,
+  "summary": "Giúp học sinh làm dạng điền 4 cụm/câu vào bài đọc (câu 37–40 đề thi vào lớp 10 Hà Nội) theo quy trình: đọc lướt ngữ cảnh, phân loại chỗ trống, bắt từ khóa trước – sau và loại trừ.",
+  "theory": [
+    {
+      "heading": "Quy trình 4 bước",
+      "points": [
+        "Bước 1 – Đọc lướt cả bài (30 giây) để nắm chủ đề và hướng lập luận (lợi ích, vấn đề – giải pháp, thông báo…).",
+        "Bước 2 – Đọc 4 phương án, đánh dấu loại của từng phương án: câu hoàn chỉnh (viết hoa, có S + V) hay cụm/mệnh đề phụ (viết thường, bắt đầu bằng from, because, or, and, which…).",
+        "Bước 3 – Với từng chỗ trống, đọc câu trước và câu sau, gạch chân từ khóa và tín hiệu liên kết.",
+        "Bước 4 – Làm chỗ chắc chắn nhất trước, gạch phương án đã dùng, rồi đọc lại toàn bài."
+      ],
+      "examples": [
+        {
+          "en": "Students are responsible for everything, from planting seeds to picking the vegetables.",
+          "vi": "Học sinh chịu trách nhiệm mọi việc, từ gieo hạt đến hái rau. (Chỗ trống sau dấu phẩy → cụm viết thường 'from… to…' giải thích 'everything'.)"
+        }
+      ]
+    },
+    {
+      "heading": "Phân loại vị trí chỗ trống",
+      "points": [
+        "Đầu câu (sau dấu chấm): cần phương án viết hoa – câu đầy đủ hoặc mệnh đề phụ đứng đầu (Although…, If…).",
+        "Sau dấu phẩy, giữa câu: cần cụm bổ nghĩa (from… to…, which…, because…, or…).",
+        "Trước dấu phẩy và một mệnh đề chính: thường là mệnh đề phụ (Although LED bulbs are more expensive to buy, they last longer).",
+        "Trước ', which…': cần một câu đầy đủ mà 'which' có thể bổ nghĩa."
+      ],
+      "examples": [
+        {
+          "en": "Although LED bulbs are more expensive to buy, they last much longer.",
+          "vi": "Mặc dù bóng đèn LED đắt hơn khi mua, chúng bền hơn nhiều. ('they' = LED bulbs.)"
+        }
+      ]
+    },
+    {
+      "heading": "Từ khóa trước – sau chỗ trống",
+      "points": [
+        "Câu SAU có 'For example' → chỗ trống là ý chung (It also helps them understand lessons in other subjects. For example…).",
+        "Câu SAU có 'This/These/them' → chỗ trống chứa danh từ được quy chiếu.",
+        "Phương án có 'also', 'another' → cần một ý cùng loại đã được nêu trước.",
+        "Từ lặp lại hoặc đồng nghĩa: 'tokens' – 'them'; 'set it at around 26°C' – 'A few degrees higher can cut your bill'."
+      ],
+      "examples": [
+        {
+          "en": "For each book you bring, you will receive one token, and you can then use them to 'buy' other books.",
+          "vi": "Mỗi cuốn sách bạn mang đến, bạn sẽ nhận một phiếu, và sau đó có thể dùng chúng để 'mua' sách khác. ('them' = tokens.)"
+        }
+      ]
+    },
+    {
+      "heading": "Văn bản thông báo / email (dạng mới từ 2025)",
+      "points": [
+        "Thông báo thường theo thứ tự: sự kiện gì → thời gian, địa điểm → cách tham gia → lưu ý → liên hệ → lời chúc/mong muốn.",
+        "Câu 'If you have any questions, please contact…' thường đứng gần cuối thông báo.",
+        "Câu nêu thời gian – địa điểm thường đứng ngay sau câu giới thiệu sự kiện."
+      ],
+      "examples": [
+        {
+          "en": "The library is holding a Book Exchange Day. The event will take place in the school hall.",
+          "vi": "Thư viện tổ chức Ngày hội trao đổi sách. Sự kiện sẽ diễn ra ở hội trường trường. ('The event' nhắc lại 'Book Exchange Day'.)"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhìn chữ cái đầu và dấu câu quanh chỗ trống trước khi nghĩ về nghĩa – cách này thường loại ngay 2 phương án.",
+    "Mỗi phương án chỉ dùng một lần: làm chỗ dễ nhất trước rồi gạch đi để giảm lựa chọn cho chỗ khó.",
+    "Với mỗi đại từ hoặc 'this/these' trong phương án hay câu sau chỗ trống, phải chỉ ra được danh từ nó thay thế.",
+    "Đọc lại toàn bài sau khi điền; nếu phương án hợp ngữ pháp nhưng đảo chiều lập luận (ủng hộ thành phản đối) thì sai."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. School gardens",
+      "instructions": "Four phrases/sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "In recent years, many schools in Viet Nam have started their own vegetable gardens. Students are responsible for everything, (1) ______. Working in the garden teaches them how food is grown. (2) ______. For example, they learn to measure the size of each vegetable bed in Maths and study plant life cycles in Biology. In addition, gardening gets students outdoors and away from their screens. (3) ______, which helps them reduce stress after long hours in class. The vegetables are later used in the school canteen (4) ______. Some schools even hold a small harvest festival at the end of each term. Thanks to these gardens, students not only eat healthier food but also learn to value farmers' hard work.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the option that best fits blank (1).",
+          "options": {
+            "A": "Spending time with plants and fresh air makes them feel relaxed",
+            "B": "It also helps them understand lessons in other subjects",
+            "C": "from planting seeds to watering and picking the vegetables",
+            "D": "or given to poor families in the neighbourhood"
+          },
+          "answer": "C",
+          "explanation": "Chỗ trống đứng sau dấu phẩy, giữa câu → cần cụm viết thường. 'from… to…' liệt kê cụ thể 'everything' mà học sinh phụ trách. D cũng viết thường nhưng 'or given' cần một động từ bị động đứng trước (are used… or given)."
+        },
+        {
+          "no": 2,
+          "question": "Choose the option that best fits blank (2).",
+          "options": {
+            "A": "Spending time with plants and fresh air makes them feel relaxed",
+            "B": "It also helps them understand lessons in other subjects",
+            "C": "from planting seeds to watering and picking the vegetables",
+            "D": "or given to poor families in the neighbourhood"
+          },
+          "answer": "B",
+          "explanation": "'It' = 'Working in the garden'; 'also' bổ sung lợi ích thứ hai sau 'teaches them how food is grown'. Câu sau 'For example… Maths… Biology' minh họa đúng cho 'other subjects'."
+        },
+        {
+          "no": 3,
+          "question": "Choose the option that best fits blank (3).",
+          "options": {
+            "A": "Spending time with plants and fresh air makes them feel relaxed",
+            "B": "It also helps them understand lessons in other subjects",
+            "C": "from planting seeds to watering and picking the vegetables",
+            "D": "or given to poor families in the neighbourhood"
+          },
+          "answer": "A",
+          "explanation": "Chỗ trống đầu câu (viết hoa) và theo sau là ', which helps them reduce stress' → cần mệnh đề đầy đủ. 'feel relaxed' khớp với 'reduce stress'; 'plants and fresh air' nối với ý 'outdoors' ở câu trước."
+        },
+        {
+          "no": 4,
+          "question": "Choose the option that best fits blank (4).",
+          "options": {
+            "A": "Spending time with plants and fresh air makes them feel relaxed",
+            "B": "It also helps them understand lessons in other subjects",
+            "C": "from planting seeds to watering and picking the vegetables",
+            "D": "or given to poor families in the neighbourhood"
+          },
+          "answer": "D",
+          "explanation": "'are later used in the school canteen or given to poor families' – 'or' nối hai động từ bị động cùng chủ ngữ 'The vegetables'. Đây là chỗ duy nhất có cấu trúc 'be + V3' để 'or given' đi theo."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Saving energy at home",
+      "instructions": "Four phrases/sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "Saving energy at home is easier than many people think. Many families do not realise how much electricity they waste every month. (5) ______. Turning off lights and fans when you leave a room is the simplest way to start. You should also unplug chargers and TVs when they are not in use, (6) ______. Another good idea is to replace old light bulbs with LED ones. (7) ______, they last much longer and use far less electricity. In summer, when temperatures in Ha Noi can reach 40°C, instead of keeping the air conditioner at a very low temperature, set it at around 26°C. (8) ______. If every family follows these simple steps, we can save money and protect the environment at the same time.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Choose the option that best fits blank (5).",
+          "options": {
+            "A": "Although LED bulbs are more expensive to buy",
+            "B": "A few degrees higher can cut your electricity bill without making you feel uncomfortable",
+            "C": "because they still use a little power while they are plugged in",
+            "D": "In fact, a few small changes in daily habits can make a big difference"
+          },
+          "answer": "D",
+          "explanation": "Sau câu chủ đề 'Saving energy… is easier than many people think', 'In fact' nhấn mạnh và cụ thể hóa ý 'dễ hơn' (chỉ cần thay đổi nhỏ). Câu này dẫn vào các ví dụ cụ thể ở sau. B nói về việc tăng nhiệt độ ('a few degrees higher') trong khi bài chưa hề nhắc tới điều hòa, nên không thể đứng ở đây."
+        },
+        {
+          "no": 6,
+          "question": "Choose the option that best fits blank (6).",
+          "options": {
+            "A": "Although LED bulbs are more expensive to buy",
+            "B": "A few degrees higher can cut your electricity bill without making you feel uncomfortable",
+            "C": "because they still use a little power while they are plugged in",
+            "D": "In fact, a few small changes in daily habits can make a big difference"
+          },
+          "answer": "C",
+          "explanation": "Sau dấu phẩy giữa câu cần mệnh đề viết thường; 'because' giải thích lý do nên rút phích cắm; 'they' = 'chargers and TVs'."
+        },
+        {
+          "no": 7,
+          "question": "Choose the option that best fits blank (7).",
+          "options": {
+            "A": "Although LED bulbs are more expensive to buy",
+            "B": "A few degrees higher can cut your electricity bill without making you feel uncomfortable",
+            "C": "because they still use a little power while they are plugged in",
+            "D": "In fact, a few small changes in daily habits can make a big difference"
+          },
+          "answer": "A",
+          "explanation": "Chỗ trống đứng trước ', they last much longer' → cần mệnh đề phụ. 'Although' tạo tương phản: đắt hơn khi mua >< bền hơn, tốn ít điện hơn; 'they' = LED bulbs, lặp từ khóa 'LED' ở câu trước."
+        },
+        {
+          "no": 8,
+          "question": "Choose the option that best fits blank (8).",
+          "options": {
+            "A": "Although LED bulbs are more expensive to buy",
+            "B": "A few degrees higher can cut your electricity bill without making you feel uncomfortable",
+            "C": "because they still use a little power while they are plugged in",
+            "D": "In fact, a few small changes in daily habits can make a big difference"
+          },
+          "answer": "B",
+          "explanation": "'A few degrees higher' nối trực tiếp với việc đặt điều hòa ở khoảng 26°C thay vì nhiệt độ rất thấp ở câu trước; 'without making you feel uncomfortable' khẳng định 26°C vẫn đủ mát."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. A school notice",
+      "instructions": "Four sentences/phrases have been removed from the notice below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "Dear students,\nThe school library is going to hold a Book Exchange Day on Friday, 15 November. (9) ______. Students from all grades are welcome to join. Each student can bring up to five used books in good condition. Comics and English storybooks are especially welcome. (10) ______, and you can then use them to 'buy' other books at the fair. Please note that textbooks and damaged books will not be accepted. All books that are not exchanged will be donated to a primary school in Ha Giang. Volunteers are also needed to help set up the tables on Thursday afternoon. (11) ______. We hope this event will encourage everyone to read more (12) ______. Happy reading!\nThe Library Team",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Choose the option that best fits blank (9).",
+          "options": {
+            "A": "For each book you bring, you will receive one token",
+            "B": "The event will take place in the school hall from 2 p.m. to 5 p.m.",
+            "C": "If you have any questions, please contact Ms Lan at the library",
+            "D": "and give old books a new life"
+          },
+          "answer": "B",
+          "explanation": "'The event' nhắc lại 'a Book Exchange Day'; thông báo thường nêu địa điểm, giờ ngay sau khi giới thiệu sự kiện và ngày tổ chức."
+        },
+        {
+          "no": 10,
+          "question": "Choose the option that best fits blank (10).",
+          "options": {
+            "A": "For each book you bring, you will receive one token",
+            "B": "The event will take place in the school hall from 2 p.m. to 5 p.m.",
+            "C": "If you have any questions, please contact Ms Lan at the library",
+            "D": "and give old books a new life"
+          },
+          "answer": "A",
+          "explanation": "'them' trong ', and you can then use them to buy other books' cần một danh từ số nhiều có thể dùng để 'mua' – chính là 'token(s)'. 'For each book you bring' nối với câu trước về việc mang sách đến."
+        },
+        {
+          "no": 11,
+          "question": "Choose the option that best fits blank (11).",
+          "options": {
+            "A": "For each book you bring, you will receive one token",
+            "B": "The event will take place in the school hall from 2 p.m. to 5 p.m.",
+            "C": "If you have any questions, please contact Ms Lan at the library",
+            "D": "and give old books a new life"
+          },
+          "answer": "C",
+          "explanation": "Sau phần lưu ý (sách không được nhận, sách còn lại sẽ quyên góp), thông báo đưa thông tin liên hệ: 'If you have any questions, please contact…' – vị trí điển hình gần cuối thông báo."
+        },
+        {
+          "no": 12,
+          "question": "Choose the option that best fits blank (12).",
+          "options": {
+            "A": "For each book you bring, you will receive one token",
+            "B": "The event will take place in the school hall from 2 p.m. to 5 p.m.",
+            "C": "If you have any questions, please contact Ms Lan at the library",
+            "D": "and give old books a new life"
+          },
+          "answer": "D",
+          "explanation": "Chỗ trống nằm giữa câu, không có dấu phẩy → cần cụm viết thường. 'encourage everyone to read more and give old books a new life' – 'and' nối hai động từ nguyên mẫu cùng chịu tác động của 'encourage… to'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 (dạng điền cụm/câu 37–40)",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI – Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội năm 2025 (dạng đọc điền thông báo)",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    },
+    {
+      "title": "Breakout English – C1 Advanced Reading Part 7 (gapped text strategy)",
+      "url": "https://breakoutenglish.com/advanced-cae/cae-reading-part-7/"
+    }
+  ]
+}

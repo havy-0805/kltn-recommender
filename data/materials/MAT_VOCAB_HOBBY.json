@@ -1,0 +1,264 @@
+{
+  "material_id": "MAT_VOCAB_HOBBY",
+  "skill_id": "SK_VOCAB_HOBBY",
+  "title": "Trọn bộ Từ vựng chủ đề Sở thích",
+  "target_level": 1,
+  "summary": "Cung cấp trọn bộ từ vựng về sở thích và hoạt động thời gian rảnh (collecting, gardening, knitting, DIY...), các động từ đi kèm play/do/go và cấu trúc diễn đạt sở thích, giúp học sinh làm đúng câu hỏi từ vựng chủ đề Hobbies.",
+  "theory": [
+    {
+      "heading": "Tên các sở thích phổ biến",
+      "points": [
+        "Sưu tầm: collecting stamps/coins/postcards/dolls (sưu tầm tem/tiền xu/bưu thiếp/búp bê).",
+        "Thủ công – sáng tạo: knitting (đan len), sewing (may vá), carving wood (khắc gỗ), making models (làm mô hình), arranging flowers (cắm hoa), making pottery (làm gốm), doing DIY (tự làm đồ).",
+        "Ngoài trời: gardening (làm vườn), bird-watching (ngắm chim), mountain climbing (leo núi), horse-riding (cưỡi ngựa), camping (cắm trại), fishing (câu cá).",
+        "Trong nhà: playing board games (chơi cờ bàn), doing puzzles (giải đố), reading comics (đọc truyện tranh), cooking (nấu ăn)."
+      ],
+      "examples": [
+        {
+          "en": "My grandfather enjoys bird-watching in the park every morning.",
+          "vi": "Ông tôi thích ngắm chim trong công viên mỗi sáng."
+        },
+        {
+          "en": "Knitting scarves is my sister's favourite hobby.",
+          "vi": "Đan khăn là sở thích yêu thích của chị tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ đi kèm: PLAY, DO, GO",
+      "points": [
+        "PLAY + môn thể thao dùng bóng, trò chơi, nhạc cụ: play football, play table tennis, play chess, play the guitar.",
+        "DO + môn thể thao cá nhân không dùng bóng, hoạt động: do yoga, do karate, do gymnastics, do DIY, do puzzles.",
+        "GO + V-ing (hoạt động di chuyển): go swimming, go camping, go horse-riding, go fishing, go shopping."
+      ],
+      "examples": [
+        {
+          "en": "We go horse-riding every Sunday.",
+          "vi": "Chúng tôi đi cưỡi ngựa vào mỗi Chủ nhật."
+        },
+        {
+          "en": "My sister does gymnastics after school.",
+          "vi": "Chị tôi tập thể dục dụng cụ sau giờ học."
+        }
+      ]
+    },
+    {
+      "heading": "Cấu trúc diễn đạt sở thích",
+      "points": [
+        "like / love / enjoy / prefer / hate / detest + V-ing (enjoy, detest chỉ đi với V-ing).",
+        "be keen on / be fond of / be into / be interested in / be crazy about + V-ing / N.",
+        "spend + time + V-ing: dành thời gian làm gì. help sb (to) V: giúp ai làm gì."
+      ],
+      "examples": [
+        {
+          "en": "My brother is keen on making models of planes.",
+          "vi": "Anh tôi rất thích làm mô hình máy bay."
+        },
+        {
+          "en": "Mai spends her free time knitting.",
+          "vi": "Mai dành thời gian rảnh để đan len."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Học từ vựng theo cụm động từ + danh từ (collect stamps, carve wood, arrange flowers) thay vì từng từ riêng lẻ.",
+    "Ghi nhớ giới từ đi kèm: keen ON, fond OF, interested IN, good AT, crazy ABOUT.",
+    "Sau enjoy, love, like, be fond of, be keen on... dùng V-ing.",
+    "Đọc kỹ thông tin gợi ý trong câu (grows roses, scarves, wood) để đoán đúng tên sở thích."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Tên các sở thích",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My grandfather enjoys ______ birds in the park early in the morning.",
+          "options": {
+            "A": "making",
+            "B": "growing",
+            "C": "collecting",
+            "D": "watching"
+          },
+          "answer": "D",
+          "explanation": "\"bird-watching / watching birds\" (ngắm chim) là sở thích phổ biến."
+        },
+        {
+          "no": 2,
+          "question": "Lan's favourite hobby is ______. She grows roses and orchids in her garden.",
+          "options": {
+            "A": "gardening",
+            "B": "cooking",
+            "C": "painting",
+            "D": "knitting"
+          },
+          "answer": "A",
+          "explanation": "\"grows roses... in her garden\" → sở thích làm vườn: \"gardening\"."
+        },
+        {
+          "no": 3,
+          "question": "Mai spends her free time ______ scarves and hats for her family.",
+          "options": {
+            "A": "climbing",
+            "B": "knitting",
+            "C": "carving",
+            "D": "collecting"
+          },
+          "answer": "B",
+          "explanation": "\"knit scarves and hats\" (đan khăn và mũ). Cấu trúc \"spend time + V-ing\"."
+        },
+        {
+          "no": 4,
+          "question": "My uncle's hobby is carving ______. He makes beautiful animals from old tree trunks.",
+          "options": {
+            "A": "soap",
+            "B": "wood",
+            "C": "ice",
+            "D": "stone"
+          },
+          "answer": "B",
+          "explanation": "\"tree trunks\" (thân cây) là gỗ → \"carving wood\" (khắc gỗ)."
+        },
+        {
+          "no": 5,
+          "question": "Mountain ______ is an exciting but quite dangerous hobby.",
+          "options": {
+            "A": "climbing",
+            "B": "running",
+            "C": "riding",
+            "D": "walking"
+          },
+          "answer": "A",
+          "explanation": "\"mountain climbing\" (leo núi) là cụm từ chỉ sở thích mạo hiểm."
+        },
+        {
+          "no": 6,
+          "question": "Playing ______ games such as chess is good for your brain.",
+          "options": {
+            "A": "water",
+            "B": "team",
+            "C": "outdoor",
+            "D": "board"
+          },
+          "answer": "D",
+          "explanation": "Cờ vua là trò chơi bàn cờ → \"board games\"."
+        },
+        {
+          "no": 7,
+          "question": "My dad likes repairing chairs and painting walls himself. This hobby is called DIY, which stands for \"______\".",
+          "options": {
+            "A": "Draw It Yourself",
+            "B": "Dream It Yourself",
+            "C": "Design It Yourself",
+            "D": "Do It Yourself"
+          },
+          "answer": "D",
+          "explanation": "DIY là viết tắt của \"Do It Yourself\" (tự tay làm, sửa chữa đồ đạc)."
+        },
+        {
+          "no": 8,
+          "question": "Collecting stamps is a(n) ______ hobby because you don't need much money for it.",
+          "options": {
+            "A": "expensive",
+            "B": "boring",
+            "C": "cheap",
+            "D": "dangerous"
+          },
+          "answer": "C",
+          "explanation": "\"don't need much money\" → sở thích rẻ, ít tốn kém: \"cheap\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Động từ và cấu trúc đi kèm",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "My brother is very ______ on making models of planes and ships.",
+          "options": {
+            "A": "good",
+            "B": "keen",
+            "C": "interested",
+            "D": "fond"
+          },
+          "answer": "B",
+          "explanation": "Chỉ \"keen\" đi với giới từ \"on\": be keen on (rất thích). interested đi với in, fond đi với of, good đi với at."
+        },
+        {
+          "no": 10,
+          "question": "She is interested ______ learning to play the guitar.",
+          "options": {
+            "A": "with",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc \"be interested in + V-ing\" (thích, quan tâm đến)."
+        },
+        {
+          "no": 11,
+          "question": "I'm fond of ______ comic books in my free time.",
+          "options": {
+            "A": "to read",
+            "B": "reads",
+            "C": "reading",
+            "D": "read"
+          },
+          "answer": "C",
+          "explanation": "Sau giới từ \"of\" trong \"be fond of\" dùng V-ing → \"reading\"."
+        },
+        {
+          "no": 12,
+          "question": "My sister ______ gymnastics after school three times a week.",
+          "options": {
+            "A": "goes",
+            "B": "plays",
+            "C": "does",
+            "D": "makes"
+          },
+          "answer": "C",
+          "explanation": "Môn thể thao cá nhân không dùng bóng đi với \"do\": do gymnastics."
+        },
+        {
+          "no": 13,
+          "question": "We ______ horse-riding in the countryside every Sunday.",
+          "options": {
+            "A": "go",
+            "B": "play",
+            "C": "make",
+            "D": "do"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc \"go + V-ing\" với hoạt động di chuyển: go horse-riding."
+        },
+        {
+          "no": 14,
+          "question": "Hobbies can help us ______ after a long day at school.",
+          "options": {
+            "A": "relax",
+            "B": "relaxing",
+            "C": "relaxed",
+            "D": "relaxation"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc \"help sb (to) V\" → động từ nguyên thể \"relax\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    }
+  ]
+}

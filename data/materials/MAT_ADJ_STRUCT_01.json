@@ -1,0 +1,245 @@
+{
+  "material_id": "MAT_ADJ_STRUCT_01",
+  "skill_id": "SK_ADJ_STRUCTURE",
+  "title": "Các cấu trúc cơ bản với tính từ (adj + to V, that clause)",
+  "target_level": 1,
+  "summary": "Nhận biết và dùng đúng hai cấu trúc nền tảng: tính từ + to V (kể cả câu có chủ ngữ giả It) và tính từ + that + mệnh đề.",
+  "theory": [
+    {
+      "heading": "S + be + adj + to V",
+      "points": [
+        "Diễn tả cảm xúc hoặc trạng thái của người khi làm việc gì: happy, glad, sad, sorry, surprised, ready, pleased + to V",
+        "Sau 'to' luôn là động từ nguyên mẫu"
+      ],
+      "examples": [
+        {
+          "en": "I'm happy to see you again.",
+          "vi": "Mình rất vui được gặp lại bạn."
+        },
+        {
+          "en": "They were sad to say goodbye to their teacher.",
+          "vi": "Họ buồn khi phải chia tay thầy giáo."
+        }
+      ]
+    },
+    {
+      "heading": "It + be + adj + to V (chủ ngữ giả)",
+      "points": [
+        "Dùng để nhận xét một hành động: easy, difficult, important, useful, dangerous, safe, interesting + to V",
+        "Câu có chủ ngữ là V-ing có thể viết lại: Learning English is useful. → It is useful to learn English.",
+        "Vị trí sau 'be' phải là tính từ (safe), không phải trạng từ (safely) hay danh từ (safety)"
+      ],
+      "examples": [
+        {
+          "en": "It is important to exercise every day.",
+          "vi": "Tập thể dục mỗi ngày là điều quan trọng."
+        },
+        {
+          "en": "It is dangerous to swim in this river.",
+          "vi": "Bơi ở con sông này rất nguy hiểm."
+        }
+      ]
+    },
+    {
+      "heading": "S + be + adj + that + mệnh đề",
+      "points": [
+        "Dùng khi sau tính từ là một câu đầy đủ (S + V)",
+        "Tính từ thường gặp: glad, pleased, sorry, afraid, sure, certain, surprised, worried",
+        "'that' có thể lược trong văn nói, nhưng trong đề trắc nghiệm thường là đáp án cần chọn"
+      ],
+      "examples": [
+        {
+          "en": "My parents are pleased that I got good marks.",
+          "vi": "Bố mẹ vui vì tôi được điểm cao."
+        },
+        {
+          "en": "I'm afraid that I can't come to your party.",
+          "vi": "Mình e là không đến dự tiệc của bạn được."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Sau chỗ trống là động từ → chọn 'to V'; sau chỗ trống là chủ ngữ + động từ → chọn 'that'.",
+    "Câu bắt đầu bằng 'It is + tính từ' thì phía sau thường là 'to V'.",
+    "Ô trống ngay sau 'be' và trước 'to V' → cần tính từ, loại trạng từ (-ly) và danh từ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I'm happy ______ you again after the summer holiday.",
+          "options": {
+            "A": "seeing",
+            "B": "to see",
+            "C": "see",
+            "D": "saw"
+          },
+          "answer": "B",
+          "explanation": "S + be + adj + to V → 'happy to see'."
+        },
+        {
+          "no": 2,
+          "question": "It is easy ______ this game. You just need to press one button.",
+          "options": {
+            "A": "plays",
+            "B": "play",
+            "C": "to play",
+            "D": "played"
+          },
+          "answer": "C",
+          "explanation": "It is + adj + to V → 'It is easy to play'."
+        },
+        {
+          "no": 3,
+          "question": "She is glad ______ her friends are coming to visit.",
+          "options": {
+            "A": "what",
+            "B": "which",
+            "C": "to",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "Sau 'glad' là mệnh đề 'her friends are coming' → dùng 'that'."
+        },
+        {
+          "no": 4,
+          "question": "The students were sad ______ goodbye to their teacher.",
+          "options": {
+            "A": "to say",
+            "B": "said",
+            "C": "say",
+            "D": "says"
+          },
+          "answer": "A",
+          "explanation": "adj + to V → 'sad to say goodbye'."
+        },
+        {
+          "no": 5,
+          "question": "We are ready ______ the test now.",
+          "options": {
+            "A": "took",
+            "B": "take",
+            "C": "to take",
+            "D": "takes"
+          },
+          "answer": "C",
+          "explanation": "be ready + to V → 'ready to take'."
+        },
+        {
+          "no": 6,
+          "question": "It is important ______ regularly to stay healthy.",
+          "options": {
+            "A": "exercised",
+            "B": "exercises",
+            "C": "exercise",
+            "D": "to exercise"
+          },
+          "answer": "D",
+          "explanation": "It is + adj + to V → 'important to exercise'."
+        },
+        {
+          "no": 7,
+          "question": "I am sorry ______ I broke your pen.",
+          "options": {
+            "A": "that",
+            "B": "to",
+            "C": "what",
+            "D": "for"
+          },
+          "answer": "A",
+          "explanation": "Sau 'sorry' là mệnh đề 'I broke your pen' → dùng 'that'. 'sorry for' chỉ đi với danh từ/V-ing."
+        },
+        {
+          "no": 8,
+          "question": "He was surprised ______ the news about the new school.",
+          "options": {
+            "A": "hear",
+            "B": "to hear",
+            "C": "heard",
+            "D": "hears"
+          },
+          "answer": "B",
+          "explanation": "be surprised + to V → 'surprised to hear'."
+        },
+        {
+          "no": 9,
+          "question": "It is dangerous ______ in this river because the water is deep.",
+          "options": {
+            "A": "to swim",
+            "B": "swim",
+            "C": "swam",
+            "D": "swims"
+          },
+          "answer": "A",
+          "explanation": "It is + adj + to V → 'dangerous to swim'."
+        },
+        {
+          "no": 10,
+          "question": "My parents are pleased ______ I got good marks this term.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "to",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "Sau 'pleased' là mệnh đề 'I got good marks' → 'that'."
+        },
+        {
+          "no": 11,
+          "question": "It is ______ to walk in this park at night because there are many lights.",
+          "options": {
+            "A": "save",
+            "B": "safe",
+            "C": "safely",
+            "D": "safety"
+          },
+          "answer": "B",
+          "explanation": "Sau 'It is' cần tính từ → 'safe'. 'safely' là trạng từ, 'safety' là danh từ, 'save' là động từ."
+        },
+        {
+          "no": 12,
+          "question": "I'm afraid ______ I can't come to your birthday party.",
+          "options": {
+            "A": "to",
+            "B": "of",
+            "C": "that",
+            "D": "what"
+          },
+          "answer": "C",
+          "explanation": "Sau 'afraid' là mệnh đề 'I can't come' → 'that'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu",
+      "instructions": "Choose the sentence closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "Learning English is useful.",
+          "options": {
+            "A": "It is useful learn English.",
+            "B": "It is useful to learn English.",
+            "C": "It is useful for learn English.",
+            "D": "It is usefully to learn English."
+          },
+          "answer": "B",
+          "explanation": "V-ing làm chủ ngữ → It is + adj + to V. D sai vì 'usefully' là trạng từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Lời giải hay – Trắc nghiệm ngữ pháp adj + to V / that + mệnh đề Tiếng Anh 9",
+      "url": "https://loigiaihay.com/trac-nghiem-tieng-anh-9-moi-ngu-phap-adj-tov-that-menh-de-co-dap-an-a127307.html"
+    }
+  ]
+}

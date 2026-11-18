@@ -1,0 +1,215 @@
+{
+  "material_id": "MAT_ADJ_ORDER_01",
+  "skill_id": "SK_ADJ_ORDER",
+  "title": "Quy tắc ghi nhớ trật tự tính từ cơ bản (OSASCOMP)",
+  "target_level": 1,
+  "summary": "Giúp học sinh ghi nhớ quy tắc OSASCOMP để sắp xếp đúng thứ tự 2–3 tính từ đứng trước danh từ trong các câu trắc nghiệm cơ bản.",
+  "theory": [
+    {
+      "heading": "Quy tắc OSASCOMP",
+      "points": [
+        "Opinion (ý kiến): beautiful, nice, lovely, ugly, delicious",
+        "Size (kích cỡ): big, small, large, tiny, tall, long",
+        "Age (tuổi/độ mới cũ): old, new, young, ancient, modern",
+        "Shape (hình dạng): round, square, oval, flat",
+        "Colour (màu sắc): red, blue, white, black",
+        "Origin (nguồn gốc): Vietnamese, Japanese, French, Italian",
+        "Material (chất liệu): wooden, plastic, silk, cotton, leather",
+        "Purpose (mục đích): sleeping (bag), running (shoes), dining (table) – đứng sát danh từ."
+      ],
+      "examples": [
+        {
+          "en": "She has a beautiful long black dress.",
+          "vi": "Cô ấy có một chiếc váy đen dài rất đẹp."
+        },
+        {
+          "en": "I bought a small round wooden table.",
+          "vi": "Tôi đã mua một chiếc bàn gỗ tròn nhỏ."
+        }
+      ]
+    },
+    {
+      "heading": "Câu thần chú dễ nhớ",
+      "points": [
+        "OpSACOMP: Ông – Sáu – Ăn – Súp – Cua – Ông – Mập – Phì (Opinion – Size – Age – Shape – Colour – Origin – Material – Purpose).",
+        "Mạo từ/từ hạn định (a, an, the, my, this, two) luôn đứng TRƯỚC tất cả tính từ.",
+        "Tính từ chỉ ý kiến (chủ quan) đứng trước tính từ chỉ đặc điểm (khách quan)."
+      ],
+      "examples": [
+        {
+          "en": "My grandfather has an old Japanese car.",
+          "vi": "Ông tôi có một chiếc ô tô Nhật cũ."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gán nhãn O, S, A, Sh, C, O, M, P cho từng tính từ trong đáp án, rồi chọn đáp án có thứ tự đúng.",
+    "Thường chỉ cần kiểm tra 2 tính từ đầu tiên là đã loại được phần lớn đáp án sai.",
+    "Màu sắc luôn đứng trước nguồn gốc và chất liệu: a red Italian leather bag.",
+    "Chất liệu thường đứng gần danh từ nhất (trừ tính từ chỉ mục đích)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn trật tự tính từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My mother bought a ______ vase.",
+          "options": {
+            "A": "beautiful blue",
+            "B": "beautifully blue",
+            "C": "blue and beautiful a",
+            "D": "blue beautiful"
+          },
+          "answer": "A",
+          "explanation": "Opinion (beautiful) đứng trước Colour (blue)."
+        },
+        {
+          "no": 2,
+          "question": "They live in a ______ house near the river.",
+          "options": {
+            "A": "big oldest",
+            "B": "old big",
+            "C": "big old",
+            "D": "bigly old"
+          },
+          "answer": "C",
+          "explanation": "Size (big) đứng trước Age (old)."
+        },
+        {
+          "no": 3,
+          "question": "He gave me a ______ watch for my birthday.",
+          "options": {
+            "A": "Swiss new",
+            "B": "Swiss newly",
+            "C": "newly Swiss",
+            "D": "new Swiss"
+          },
+          "answer": "D",
+          "explanation": "Age (new) đứng trước Origin (Swiss)."
+        },
+        {
+          "no": 4,
+          "question": "Lan is wearing a ______ scarf.",
+          "options": {
+            "A": "silk red",
+            "B": "red silk",
+            "C": "silk and red",
+            "D": "silky red a"
+          },
+          "answer": "B",
+          "explanation": "Colour (red) đứng trước Material (silk)."
+        },
+        {
+          "no": 5,
+          "question": "There is a ______ table in the kitchen.",
+          "options": {
+            "A": "woodenly round",
+            "B": "round woods",
+            "C": "wooden round",
+            "D": "round wooden"
+          },
+          "answer": "D",
+          "explanation": "Shape (round) đứng trước Material (wooden)."
+        },
+        {
+          "no": 6,
+          "question": "We stayed in a ______ hotel by the sea.",
+          "options": {
+            "A": "small lovely",
+            "B": "lovely smally",
+            "C": "small and lovely a",
+            "D": "lovely small"
+          },
+          "answer": "D",
+          "explanation": "Opinion (lovely) đứng trước Size (small)."
+        },
+        {
+          "no": 7,
+          "question": "My father has just bought a pair of ______ shoes.",
+          "options": {
+            "A": "black leather",
+            "B": "leathery black",
+            "C": "black leathers",
+            "D": "leather black"
+          },
+          "answer": "A",
+          "explanation": "Colour (black) đứng trước Material (leather)."
+        },
+        {
+          "no": 8,
+          "question": "She showed us some ______ photos of Ha Noi.",
+          "options": {
+            "A": "old black-and-white",
+            "B": "black-and-white old",
+            "C": "olds black-and-white",
+            "D": "black-and-white olds"
+          },
+          "answer": "A",
+          "explanation": "Age (old) đứng trước Colour (black-and-white). Tính từ không có dạng số nhiều nên C, D sai."
+        },
+        {
+          "no": 9,
+          "question": "Minh needs a new pair of ______ shoes for the marathon.",
+          "options": {
+            "A": "run white",
+            "B": "running white",
+            "C": "white running",
+            "D": "white runs"
+          },
+          "answer": "C",
+          "explanation": "Purpose (running) luôn đứng sát danh từ, sau Colour (white)."
+        },
+        {
+          "no": 10,
+          "question": "Which phrase is in the correct order?",
+          "options": {
+            "A": "a Vietnamese tall young singer",
+            "B": "a tall young Vietnamese singer",
+            "C": "a Vietnamese young tall singer",
+            "D": "a young tall Vietnamese singer"
+          },
+          "answer": "B",
+          "explanation": "Size (tall) → Age (young) → Origin (Vietnamese) → danh từ."
+        },
+        {
+          "no": 11,
+          "question": "Which phrase is in the correct order?",
+          "options": {
+            "A": "an Italian large delicious pizza",
+            "B": "a large Italian delicious pizza",
+            "C": "a delicious large Italian pizza",
+            "D": "a large delicious Italian pizza"
+          },
+          "answer": "C",
+          "explanation": "Opinion (delicious) → Size (large) → Origin (Italian) → danh từ."
+        },
+        {
+          "no": 12,
+          "question": "Which phrase is in the correct order?",
+          "options": {
+            "A": "a green small plastic bottle",
+            "B": "a small green plastic bottle",
+            "C": "a plastic green small bottle",
+            "D": "a small plastic green bottle"
+          },
+          "answer": "B",
+          "explanation": "Size (small) → Colour (green) → Material (plastic) → danh từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Order of Adjectives",
+      "url": "https://www.perfect-english-grammar.com/order-of-adjectives.html"
+    },
+    {
+      "title": "Englisch-hilfen.de – Order of adjectives in English Grammar",
+      "url": "https://www.englisch-hilfen.de/en/grammar/adjectives_order.htm"
+    }
+  ]
+}

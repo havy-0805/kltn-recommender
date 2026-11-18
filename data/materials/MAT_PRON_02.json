@@ -1,0 +1,269 @@
+{
+  "material_id": "MAT_PRON_02",
+  "skill_id": "SK_PHON_PRON",
+  "title": "Luyện phát âm nâng cao nguyên âm đôi và phụ âm khó",
+  "target_level": 2,
+  "summary": "Giúp học sinh phân biệt các nguyên âm đôi dễ nhầm (/aʊ/–/əʊ/, /ɪə/–/eə/, /aɪ/–/ɪ/) và các phụ âm khó (/ʃ/, /ʒ/, /tʃ/, /dʒ/, /θ/, /ð/, âm câm) trong dạng bài chọn từ có phần gạch chân phát âm khác.",
+  "theory": [
+    {
+      "heading": "Nguyên âm đôi dễ nhầm",
+      "points": [
+        "\"ow\" có hai cách đọc: /aʊ/ (crowd, flower, town, towel) và /əʊ/ (know, slow, show, window).",
+        "\"ou\" có thể đọc /aʊ/ (house), /ʌ/ (country), /əʊ/ (though, soul, shoulder), /ɒ/ (cough), /uː/ (soup, group).",
+        "\"ear/ere\": /ɪə/ (hear, near, beard, here, severe) hoặc /eə/ (bear, pear, wear, where, there).",
+        "\"i\" trong âm tiết mang dấu nhấn: /aɪ/ (mind, climb, private) hoặc /ɪ/ (river, city, give)."
+      ],
+      "examples": [
+        {
+          "en": "I know /nəʊ/ that the town /taʊn/ is very crowded /ˈkraʊdɪd/ now.",
+          "vi": "Tôi biết thị trấn bây giờ rất đông đúc."
+        },
+        {
+          "en": "Where /weə/ did you hear /hɪə/ that news?",
+          "vi": "Bạn nghe tin đó ở đâu?"
+        }
+      ]
+    },
+    {
+      "heading": "Các phụ âm xuýt /ʃ/, /ʒ/, /tʃ/, /dʒ/",
+      "points": [
+        "\"ch\" đọc /k/ trong từ gốc Hy Lạp (chemistry, character, stomach, school), đọc /ʃ/ trong từ gốc Pháp (machine, chef, brochure).",
+        "\"s\" đọc /ʒ/ trong đuôi -sure, -sual, -sion sau nguyên âm (pleasure, measure, usual, decision); đọc /ʃ/ trong sugar, sure.",
+        "\"ti\" trước nguyên âm thường đọc /ʃ/ (nation, patient, essential) nhưng sau \"s\" thì đọc /tʃ/ (question, suggestion).",
+        "\"g\" thường đọc /dʒ/ trước e, i, y (giant, energy, village) và /ɡ/ trước a, o, u; một số ngoại lệ: gift, get, girl, give đọc /ɡ/."
+      ],
+      "examples": [
+        {
+          "en": "It is a pleasure /ˈpleʒə/ to meet you.",
+          "vi": "Rất hân hạnh được gặp bạn."
+        },
+        {
+          "en": "The chef /ʃef/ studied chemistry /ˈkemɪstri/ at university.",
+          "vi": "Người đầu bếp đã học hóa học ở đại học."
+        }
+      ]
+    },
+    {
+      "heading": "/θ/, /ð/, /ks/, /ɡz/ và âm câm",
+      "points": [
+        "\"th\" đọc /ð/ trong các từ chức năng và nhiều từ có -ther (this, mother, weather, together); đọc /θ/ trong các từ nội dung (think, health, healthy, month).",
+        "\"x\" đọc /ɡz/ khi đứng trước nguyên âm mang trọng âm (exam, exist, example); đọc /ks/ trước phụ âm (explain, expensive, next).",
+        "Âm câm: \"b\" sau \"m\" (climb, comb, thumb, bomb); \"h\" đầu từ trong hour, honest, honour; \"k\" trước \"n\" (know, knife); \"w\" trước \"r\" (write, wrong)."
+      ],
+      "examples": [
+        {
+          "en": "My mother /ˈmʌðə/ says exercise is good for our health /helθ/.",
+          "vi": "Mẹ tôi nói tập thể dục tốt cho sức khỏe."
+        },
+        {
+          "en": "He is an honest /ˈɒnɪst/ boy who likes to climb /klaɪm/ trees.",
+          "vi": "Cậu ấy là một cậu bé trung thực thích trèo cây."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Khi gặp nhóm \"ow\", \"ou\", \"ea\", \"ear\", hãy nhớ mỗi nhóm chữ có nhiều cách đọc. Học theo cặp từ đối lập (know và now, bear và beard) để nhớ lâu.",
+    "Với phụ âm \"ch\", \"s\", \"ti\", \"x\", \"g\": xét âm đứng sau hoặc trước nó, và nguồn gốc từ (Hy Lạp thì \"ch\" đọc /k/, Pháp thì \"ch\" đọc /ʃ/).",
+    "Âm câm vẫn được tính là \"phát âm khác\". Nếu ba từ câm và một từ đọc rõ (hoặc ngược lại) thì từ lẻ là đáp án.",
+    "Ghi phiên âm phần gạch chân của cả 4 từ ra nháp, đừng chỉ đọc nhẩm, vì nguyên âm đôi rất dễ đọc nhầm khi vội."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Nguyên âm đôi",
+      "instructions": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): knOW, tOWel, crOWd, flOWer",
+          "options": {
+            "A": "knOW",
+            "B": "tOWel",
+            "C": "crOWd",
+            "D": "flOWer"
+          },
+          "answer": "A",
+          "explanation": "know /nəʊ/ có \"ow\" đọc /əʊ/. Các từ còn lại đọc /aʊ/: crowd /kraʊd/, flower /ˈflaʊə/, towel /ˈtaʊəl/."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): sevERE, hERE, atmosphERE, whERE",
+          "options": {
+            "A": "sevERE",
+            "B": "hERE",
+            "C": "atmosphERE",
+            "D": "whERE"
+          },
+          "answer": "D",
+          "explanation": "where /weə/ có \"ere\" đọc /eə/. Các từ còn lại đọc /ɪə/: here /hɪə/, severe /sɪˈvɪə/, atmosphere /ˈætməsfɪə/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): pEAR, wEAR, bEAR, bEARd",
+          "options": {
+            "A": "pEAR",
+            "B": "wEAR",
+            "C": "bEAR",
+            "D": "bEARd"
+          },
+          "answer": "D",
+          "explanation": "beard /bɪəd/ có \"ear\" đọc /ɪə/. Các từ còn lại đọc /eə/: pear /peə/, wear /weə/, bear /beə/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): clImb, mInd, rIver, prIvate",
+          "options": {
+            "A": "clImb",
+            "B": "mInd",
+            "C": "rIver",
+            "D": "prIvate"
+          },
+          "answer": "C",
+          "explanation": "river /ˈrɪvə/ có \"i\" đọc /ɪ/. Các từ còn lại đọc /aɪ/: mind /maɪnd/, private /ˈpraɪvət/, climb /klaɪm/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): cOUgh, thOUgh, sOUl, shOUlder",
+          "options": {
+            "A": "cOUgh",
+            "B": "thOUgh",
+            "C": "sOUl",
+            "D": "shOUlder"
+          },
+          "answer": "A",
+          "explanation": "cough /kɒf/ có \"ou\" đọc /ɒ/. Các từ còn lại đọc /əʊ/: though /ðəʊ/, soul /səʊl/, shoulder /ˈʃəʊldə/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): strAnge, dAnger, orAnge, chAnge",
+          "options": {
+            "A": "strAnge",
+            "B": "dAnger",
+            "C": "orAnge",
+            "D": "chAnge"
+          },
+          "answer": "C",
+          "explanation": "orange /ˈɒrɪndʒ/ có \"a\" đọc /ɪ/ (âm tiết không nhấn). Các từ còn lại đọc /eɪ/: danger /ˈdeɪndʒə/, change /tʃeɪndʒ/, strange /streɪndʒ/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Phụ âm khó và âm câm",
+      "instructions": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): CHemistry, maCHine, stomaCH, CHaracter",
+          "options": {
+            "A": "CHemistry",
+            "B": "maCHine",
+            "C": "stomaCH",
+            "D": "CHaracter"
+          },
+          "answer": "B",
+          "explanation": "machine /məˈʃiːn/ có \"ch\" đọc /ʃ/. Các từ còn lại đọc /k/: chemistry /ˈkemɪstri/, character /ˈkærəktə/, stomach /ˈstʌmək/."
+        },
+        {
+          "no": 8,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): meaSure, Sugar, pleaSure, uSual",
+          "options": {
+            "A": "meaSure",
+            "B": "Sugar",
+            "C": "pleaSure",
+            "D": "uSual"
+          },
+          "answer": "B",
+          "explanation": "sugar /ˈʃʊɡə/ có \"s\" đọc /ʃ/. Các từ còn lại đọc /ʒ/: pleasure /ˈpleʒə/, measure /ˈmeʒə/, usual /ˈjuːʒuəl/."
+        },
+        {
+          "no": 9,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): moTHer, healTHy, togeTHer, weaTHer",
+          "options": {
+            "A": "moTHer",
+            "B": "healTHy",
+            "C": "togeTHer",
+            "D": "weaTHer"
+          },
+          "answer": "B",
+          "explanation": "healthy /ˈhelθi/ có \"th\" đọc /θ/. Các từ còn lại đọc /ð/: weather /ˈweðə/, together /təˈɡeðə/, mother /ˈmʌðə/."
+        },
+        {
+          "no": 10,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): thumB, climB, comB, descriBe",
+          "options": {
+            "A": "thumB",
+            "B": "climB",
+            "C": "comB",
+            "D": "descriBe"
+          },
+          "answer": "D",
+          "explanation": "describe /dɪˈskraɪb/ có \"b\" được phát âm /b/. Ở các từ còn lại \"b\" đứng sau \"m\" là âm câm: climb /klaɪm/, comb /kəʊm/, thumb /θʌm/."
+        },
+        {
+          "no": 11,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): History, Hour, Honest, Honour",
+          "options": {
+            "A": "History",
+            "B": "Hour",
+            "C": "Honest",
+            "D": "Honour"
+          },
+          "answer": "A",
+          "explanation": "history /ˈhɪstri/ có \"h\" được phát âm /h/. Ở các từ còn lại \"h\" là âm câm: honest /ˈɒnɪst/, hour /ˈaʊə/, honour /ˈɒnə/."
+        },
+        {
+          "no": 12,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): enerGy, villaGe, Gift, Giant",
+          "options": {
+            "A": "enerGy",
+            "B": "villaGe",
+            "C": "Gift",
+            "D": "Giant"
+          },
+          "answer": "C",
+          "explanation": "gift /ɡɪft/ có \"g\" đọc /ɡ/ (ngoại lệ dù đứng trước \"i\"). Các từ còn lại đọc /dʒ/: giant /ˈdʒaɪənt/, energy /ˈenədʒi/, village /ˈvɪlɪdʒ/."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): quesTIon, naTIon, paTIent, essenTIal",
+          "options": {
+            "A": "quesTIon",
+            "B": "naTIon",
+            "C": "paTIent",
+            "D": "essenTIal"
+          },
+          "answer": "A",
+          "explanation": "question /ˈkwestʃən/ có \"ti\" đọc /tʃ/ vì đứng sau \"s\". Các từ còn lại đọc /ʃ/: nation /ˈneɪʃn/, patient /ˈpeɪʃnt/, essential /ɪˈsenʃl/."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word whose underlined part is pronounced differently from the other three (the underlined part is written in CAPITALS): eXample, eXplain, eXist, eXam",
+          "options": {
+            "A": "eXample",
+            "B": "eXplain",
+            "C": "eXist",
+            "D": "eXam"
+          },
+          "answer": "B",
+          "explanation": "explain /ɪkˈspleɪn/ có \"x\" đọc /ks/ vì đứng trước phụ âm. Các từ còn lại đọc /ɡz/ vì đứng trước nguyên âm mang trọng âm: exam /ɪɡˈzæm/, exist /ɪɡˈzɪst/, example /ɪɡˈzɑːmpl/."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Wiktionary - typhoon (đối chiếu phiên âm IPA)",
+      "url": "https://en.wiktionary.org/wiki/typhoon"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    },
+    {
+      "title": "Pronounce.tv - Linking and connected speech",
+      "url": "https://pronounce.tv/blog/linking-and-connected-speech"
+    }
+  ]
+}

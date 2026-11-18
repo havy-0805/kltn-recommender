@@ -1,0 +1,255 @@
+{
+  "material_id": "MAT_READ_GAPPED",
+  "skill_id": "SK_READ_GAPPED",
+  "title": "Kỹ thuật Điền câu vào bài đọc Gapped text",
+  "target_level": 3,
+  "summary": "Giúp học sinh khá giỏi xử lý các bài gapped text khó: văn bản nghị luận, khoa học với mệnh đề quan hệ 'which' bổ nghĩa cả câu, đồng vị ngữ, quy chiếu số ít – số nhiều và các phương án bẫy đúng ngữ pháp nhưng sai logic.",
+  "theory": [
+    {
+      "heading": "Cấu trúc ngữ pháp 'khó' quanh chỗ trống",
+      "points": [
+        "', which + V(số ít)…' có thể bổ nghĩa cho CẢ mệnh đề phía trước (Clothes are cheap, which encourages shoppers to buy more).",
+        "Đồng vị ngữ (appositive) sau dấu phẩy: ', an amount that…' giải thích lại một con số/danh từ ngay trước nó.",
+        "Cụm phân từ / giới từ đầu câu (By choosing…, Adapting…) phải có cùng chủ ngữ với mệnh đề chính.",
+        "Mệnh đề phụ đứng đầu (Although…, If…) cần một mệnh đề chính theo sau dấu phẩy."
+      ],
+      "examples": [
+        {
+          "en": "A T-shirt needs about 2,700 litres of water, an amount that one person would normally drink in more than two years.",
+          "vi": "Một chiếc áo phông cần khoảng 2.700 lít nước – lượng nước mà một người thường uống trong hơn hai năm. (Đồng vị ngữ giải thích con số 2.700 lít.)"
+        }
+      ]
+    },
+    {
+      "heading": "Quy chiếu chính xác: số ít/số nhiều, người/vật",
+      "points": [
+        "'algae', 'data', 'people', 'garments' là số nhiều → dùng 'they/them', không dùng 'it'.",
+        "'Most of them', 'such tools', 'these measures' phải chỉ về đúng nhóm danh từ ở câu trước.",
+        "Bẫy kinh điển: hai phương án gần giống nhau, chỉ khác 'it' và 'them' – phải xác định danh từ gốc."
+      ],
+      "examples": [
+        {
+          "en": "Corals push out the tiny algae living inside them. Without them, the corals lose their colour.",
+          "vi": "San hô đẩy những tảo nhỏ sống bên trong ra ngoài. Không có chúng, san hô mất màu. ('them' = algae, số nhiều.)"
+        }
+      ]
+    },
+    {
+      "heading": "Quan hệ logic: đừng để từ nối đánh lừa",
+      "points": [
+        "Nevertheless/Yet: tương phản (diện tích nhỏ >< nhiều loài sinh vật) – khác với As a result/Therefore (quan hệ nhân quả).",
+        "Although + S + V; Despite + N/V-ing. 'Despite the situation is serious' sai ngữ pháp.",
+        "Critics, however, … : chuyển từ quan điểm ủng hộ sang phản đối; 'The message, then, is clear' : kết luận.",
+        "Phương án đúng ngữ pháp nhưng trái chiều lập luận hoặc nói quá (no longer need any protection) là bẫy phổ biến ở mức 9–10 điểm."
+      ],
+      "examples": [
+        {
+          "en": "Coral reefs cover less than one per cent of the ocean floor. Nevertheless, they are home to about a quarter of all marine species.",
+          "vi": "Rạn san hô chiếm chưa tới 1% đáy đại dương. Tuy vậy, chúng là nơi sống của khoảng một phần tư số loài sinh vật biển."
+        }
+      ]
+    },
+    {
+      "heading": "Chiến thuật cho bài khó",
+      "points": [
+        "Với bộ 4 phương án dùng chung: phân loại phương án theo hình thức (mệnh đề quan hệ, đồng vị ngữ, câu đầy đủ, cụm giới từ đầu câu) rồi khớp với 4 vị trí.",
+        "Với câu có 4 phương án riêng: so sánh các phương án theo từng cặp để tìm điểm khác (từ nối, đại từ, thì, mức độ khẳng định).",
+        "Kiểm tra cả hai chiều: phương án phải nối được với câu TRƯỚC và dẫn được sang câu SAU."
+      ],
+      "examples": [
+        {
+          "en": "By choosing quality items, repairing clothes and buying second-hand, consumers can enjoy fashion while reducing their impact on the planet.",
+          "vi": "Bằng cách chọn đồ chất lượng, sửa quần áo và mua đồ cũ, người tiêu dùng có thể vừa tận hưởng thời trang vừa giảm tác động lên hành tinh. (Chủ ngữ ngầm của 'By choosing' = consumers.)"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc lướt toàn bài trước để nắm hướng lập luận; ở bài nghị luận, đánh dấu chỗ chuyển ý (However, Yet, Critics…).",
+    "Khi gặp ', which…' trong phương án, hỏi: 'which' bổ nghĩa cho danh từ nào hay cho cả mệnh đề? Nghĩa có hợp không?",
+    "Luôn kiểm tra số ít/số nhiều của đại từ trong phương án so với danh từ gốc – đây là nơi đề hay đặt bẫy.",
+    "Loại phương án nói quá hoặc trái với thông tin trong bài (no longer, never, all…) dù đúng ngữ pháp.",
+    "Sau khi điền xong, đọc liền mạch cả bài một lần; chỗ nào 'gượng' thì thử hoán đổi với phương án còn nghi ngờ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Fast fashion",
+      "instructions": "Four phrases/sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "Fast fashion has transformed the way young people shop. Thanks to online shopping and low prices, new styles appear in stores almost every week. Clothes that once cost a week's wages can now be bought for the price of a meal, (1) ______. Yet this convenience comes at a hidden cost. Producing a single cotton T-shirt requires about 2,700 litres of water, (2) ______. What is more, many cheap garments are worn only a few times before being thrown away. (3) ______. Making clothes at such speed also releases large amounts of greenhouse gases. Some experts believe the solution lies not in buying nothing but in buying better. (4) ______, consumers can enjoy fashion while reducing their impact on the planet.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the option that best fits blank (1).",
+          "options": {
+            "A": "Most of them end up in landfills, where synthetic fabrics may take centuries to break down",
+            "B": "By choosing quality items, repairing clothes and buying second-hand",
+            "C": "which encourages shoppers to buy far more than they actually need",
+            "D": "an amount that one person would normally drink in more than two years"
+          },
+          "answer": "C",
+          "explanation": "', which encourages…' bổ nghĩa cho cả mệnh đề trước (quần áo rẻ như một bữa ăn) – việc rẻ khuyến khích mua nhiều. Câu sau 'Yet this convenience…' xác nhận đoạn trước đang nói mặt 'tiện lợi'. D là đồng vị ngữ chỉ một lượng nước – không hợp với 'the price of a meal'."
+        },
+        {
+          "no": 2,
+          "question": "Choose the option that best fits blank (2).",
+          "options": {
+            "A": "Most of them end up in landfills, where synthetic fabrics may take centuries to break down",
+            "B": "By choosing quality items, repairing clothes and buying second-hand",
+            "C": "which encourages shoppers to buy far more than they actually need",
+            "D": "an amount that one person would normally drink in more than two years"
+          },
+          "answer": "D",
+          "explanation": "Đồng vị ngữ ', an amount that…' giải thích con số '2,700 litres of water' ngay trước nó, giúp người đọc hình dung chi phí ẩn. C đúng hình thức (', which…') nhưng 'water… encourages shoppers to buy' là vô nghĩa – bẫy hình thức."
+        },
+        {
+          "no": 3,
+          "question": "Choose the option that best fits blank (3).",
+          "options": {
+            "A": "Most of them end up in landfills, where synthetic fabrics may take centuries to break down",
+            "B": "By choosing quality items, repairing clothes and buying second-hand",
+            "C": "which encourages shoppers to buy far more than they actually need",
+            "D": "an amount that one person would normally drink in more than two years"
+          },
+          "answer": "A",
+          "explanation": "Chỗ trống là một câu độc lập (sau dấu chấm, trước dấu chấm). 'Most of them' = 'many cheap garments… thrown away' ở câu trước; số phận ở bãi rác tiếp nối ý 'bị vứt bỏ'."
+        },
+        {
+          "no": 4,
+          "question": "Choose the option that best fits blank (4).",
+          "options": {
+            "A": "Most of them end up in landfills, where synthetic fabrics may take centuries to break down",
+            "B": "By choosing quality items, repairing clothes and buying second-hand",
+            "C": "which encourages shoppers to buy far more than they actually need",
+            "D": "an amount that one person would normally drink in more than two years"
+          },
+          "answer": "B",
+          "explanation": "Cụm 'By + V-ing' đứng đầu câu, chủ ngữ ngầm trùng với 'consumers' của mệnh đề chính; nội dung cụ thể hóa ý 'buying better' ở câu trước."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. AI in the classroom",
+      "instructions": "Four phrases/sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "Artificial intelligence (AI) tools are becoming common in classrooms around the world. From chatbots that answer questions to apps that mark homework, these tools promise to make learning faster and easier. Supporters claim that they can act as personal tutors, (5) ______. A student who struggles with algebra, for instance, can receive extra exercises at exactly the right level. (6) ______. If students rely on AI to write their essays, they may never develop the ability to organise their own ideas. There is also the question of accuracy, (7) ______. For this reason, many teachers now ask students to check every piece of information against reliable sources such as textbooks and official websites. (8) ______: AI should support learning, not replace the thinking that learning requires.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Choose the option that best fits blank (5).",
+          "options": {
+            "A": "Critics, however, warn that such tools can make students lazy",
+            "B": "since AI programs sometimes produce answers that sound convincing but are completely wrong",
+            "C": "The message, then, is clear",
+            "D": "adapting lessons to each learner's strengths and weaknesses"
+          },
+          "answer": "D",
+          "explanation": "Cụm phân từ 'adapting…' (chủ ngữ ngầm: AI tools) giải thích vai trò 'personal tutors'. Câu sau là ví dụ 'for instance' về bài tập vừa đúng trình độ – minh họa chính cho ý 'adapting lessons'."
+        },
+        {
+          "no": 6,
+          "question": "Choose the option that best fits blank (6).",
+          "options": {
+            "A": "Critics, however, warn that such tools can make students lazy",
+            "B": "since AI programs sometimes produce answers that sound convincing but are completely wrong",
+            "C": "The message, then, is clear",
+            "D": "adapting lessons to each learner's strengths and weaknesses"
+          },
+          "answer": "A",
+          "explanation": "'Critics, however' chuyển từ quan điểm 'Supporters' sang phản đối; 'such tools' = AI tools. Câu sau ('If students rely on AI to write their essays…') giải thích vì sao học sinh trở nên lười suy nghĩ."
+        },
+        {
+          "no": 7,
+          "question": "Choose the option that best fits blank (7).",
+          "options": {
+            "A": "Critics, however, warn that such tools can make students lazy",
+            "B": "since AI programs sometimes produce answers that sound convincing but are completely wrong",
+            "C": "The message, then, is clear",
+            "D": "adapting lessons to each learner's strengths and weaknesses"
+          },
+          "answer": "B",
+          "explanation": "'the question of accuracy, since…' – mệnh đề 'since' giải thích vì sao độ chính xác là vấn đề. Câu sau 'For this reason, … check every piece of information' là hệ quả trực tiếp của việc AI có thể sai."
+        },
+        {
+          "no": 8,
+          "question": "Choose the option that best fits blank (8).",
+          "options": {
+            "A": "Critics, however, warn that such tools can make students lazy",
+            "B": "since AI programs sometimes produce answers that sound convincing but are completely wrong",
+            "C": "The message, then, is clear",
+            "D": "adapting lessons to each learner's strengths and weaknesses"
+          },
+          "answer": "C",
+          "explanation": "Dấu hai chấm sau chỗ trống báo hiệu một câu dẫn ra kết luận; 'then' mang nghĩa 'vậy thì', tổng kết cả hai mặt: AI hỗ trợ chứ không thay thế tư duy."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Coral reefs in danger",
+      "instructions": "Read the text and choose the option (A, B, C or D) that best fits each numbered blank. Each blank has its own set of options.",
+      "passage": "Coral reefs cover less than one per cent of the ocean floor. (9) ______ For this reason, scientists often call them 'the rainforests of the sea'. Reefs also protect coastlines from storms and provide food and jobs for millions of people. Unfortunately, reefs are in serious danger. When the water becomes too warm, corals push out the tiny algae living inside them. (10) ______ If the water does not cool down quickly, the corals may die. This process, known as coral bleaching, has become more common as ocean temperatures rise. Pollution and overfishing make the problem even worse. (11) ______, there is still hope: in some protected areas where fishing is banned, damaged reefs have started to recover. (12) ______",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Choose the sentence that best fits blank (9).",
+          "options": {
+            "A": "As a result, they are home to about a quarter of all marine species.",
+            "B": "Therefore, very few sea creatures live around them.",
+            "C": "Nevertheless, they are home to about a quarter of all marine species.",
+            "D": "They are mostly found in cold, deep water."
+          },
+          "answer": "C",
+          "explanation": "Diện tích rất nhỏ >< nơi sống của 1/4 số loài → quan hệ tương phản, dùng 'Nevertheless'. A cùng nội dung nhưng 'As a result' sai quan hệ (diện tích nhỏ không phải nguyên nhân). B trái với 'rainforests of the sea' ở câu sau; D không dẫn tới 'For this reason… rainforests'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the sentence that best fits blank (10).",
+          "options": {
+            "A": "Without them, the corals lose their colour and turn white.",
+            "B": "Without it, the corals lose their colour and turn white.",
+            "C": "Then the algae grow faster and the corals become brighter.",
+            "D": "This makes the water cooler again."
+          },
+          "answer": "A",
+          "explanation": "'them' = 'the tiny algae' (danh từ số nhiều) bị đẩy ra ngoài; mất tảo, san hô mất màu và trắng đi. B sai đại từ 'it' (số ít) – không có danh từ số ít phù hợp; C mâu thuẫn vì tảo đã bị đẩy ra; D vô lý vì câu sau vẫn nói nước chưa mát lại."
+        },
+        {
+          "no": 11,
+          "question": "Choose the option that best fits blank (11).",
+          "options": {
+            "A": "Because the situation is serious",
+            "B": "Although the situation is serious",
+            "C": "Despite the situation is serious",
+            "D": "However the situation is serious"
+          },
+          "answer": "B",
+          "explanation": "Hai vế tương phản: tình hình nghiêm trọng >< vẫn còn hy vọng → 'Although + S + V'. A sai logic (nguyên nhân – kết quả); C sai ngữ pháp vì 'Despite' + danh từ/V-ing; D sai vì 'However' không nối hai mệnh đề theo cách này (phải là 'However serious the situation is')."
+        },
+        {
+          "no": 12,
+          "question": "Choose the sentence that best fits blank (12).",
+          "options": {
+            "A": "These shows that reefs are no longer in danger.",
+            "B": "This shows that, with enough protection, they can be survived for future generations.",
+            "C": "This shows that reefs no longer need any protection.",
+            "D": "This shows that, with enough protection, reefs can survive for future generations."
+          },
+          "answer": "D",
+          "explanation": "'This' = việc rạn san hô ở khu bảo tồn phục hồi; kết luận 'with enough protection' khớp với 'protected areas'. A sai ngữ pháp ('These shows') và nói quá; B sai nghĩa: 'they can be survived' biến rạn san hô thành đối tượng bị người khác vượt qua, trong khi ý cần nói là rạn san hô tự sống sót → chủ động 'reefs can survive'; C trái với nội dung (san hô vẫn đang gặp nguy)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Breakout English – C1 Advanced Reading Part 7 (gapped text: reference, linking and lexical links)",
+      "url": "https://breakoutenglish.com/advanced-cae/cae-reading-part-7/"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 (dạng điền cụm/câu 37–40)",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI – Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội năm 2025, hướng dẫn giải",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

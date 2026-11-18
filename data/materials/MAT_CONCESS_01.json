@@ -1,0 +1,225 @@
+{
+  "material_id": "MAT_CONCESS_01",
+  "skill_id": "SK_CONCESSION",
+  "title": "Phân biệt Although, Though và In spite of cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận biết khi nào dùng Although/Though (+ mệnh đề) và khi nào dùng In spite of/Despite (+ cụm danh từ/V-ing) để diễn tả sự tương phản 'mặc dù'.",
+  "theory": [
+    {
+      "heading": "Although / Though / Even though + mệnh đề",
+      "points": [
+        "Although/Though/Even though + S + V, S + V: mặc dù ... nhưng ...",
+        "Sau Although/Though/Even though luôn là một mệnh đề đầy đủ (có chủ ngữ và động từ chia thì).",
+        "Even though nhấn mạnh hơn Although; Though thân mật hơn và có thể đứng cuối câu: 'It was cold. We went out, though.'",
+        "Không dùng 'but' trong cùng câu với Although: KHÔNG viết 'Although it rained, but we went out.'"
+      ],
+      "examples": [
+        {
+          "en": "Although it was raining, we went to school on time.",
+          "vi": "Mặc dù trời mưa, chúng tôi vẫn đến trường đúng giờ."
+        },
+        {
+          "en": "Though he is young, he can cook very well.",
+          "vi": "Mặc dù còn nhỏ, cậu ấy nấu ăn rất giỏi."
+        }
+      ]
+    },
+    {
+      "heading": "In spite of / Despite + cụm danh từ / V-ing",
+      "points": [
+        "In spite of/Despite + Noun phrase / V-ing / đại từ, S + V.",
+        "Despite KHÔNG có 'of'; In spite of PHẢI có 'of'.",
+        "Ví dụ cụm danh từ hay gặp: the rain, the heavy traffic, his illness, her tiredness, the cold weather."
+      ],
+      "examples": [
+        {
+          "en": "In spite of the heavy rain, we went to school on time.",
+          "vi": "Bất chấp cơn mưa lớn, chúng tôi vẫn đến trường đúng giờ."
+        },
+        {
+          "en": "Despite being tired, she finished her homework.",
+          "vi": "Mặc dù mệt, cô ấy vẫn làm xong bài tập."
+        }
+      ]
+    },
+    {
+      "heading": "Cách nhận diện nhanh phía sau chỗ trống",
+      "points": [
+        "Sau chỗ trống có S + V chia thì (it was, he is, they had...) → Although/Though/Even though.",
+        "Sau chỗ trống chỉ là danh từ/cụm danh từ hoặc V-ing → Despite/In spite of.",
+        "Phân biệt với Because (vì) / Because of (vì): chỉ nguyên nhân, không phải tương phản."
+      ],
+      "examples": [
+        {
+          "en": "Because of the rain, the match was cancelled.",
+          "vi": "Vì trời mưa, trận đấu bị hủy (nguyên nhân – kết quả, không phải tương phản)."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhìn ngay sau chỗ trống: có động từ chia thì → Although; không có → Despite/In spite of.",
+    "Hai vế trái ngược nhau mới dùng 'mặc dù'; nếu hai vế là nguyên nhân – kết quả thì chọn Because/Because of.",
+    "Gặp 'Despite of' là đáp án sai – không tồn tại cấu trúc này.",
+    "Câu có Although thì không có 'but' ở vế sau."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ it was very hot, the children played football in the yard.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Because of",
+            "D": "Although"
+          },
+          "answer": "D",
+          "explanation": "Sau chỗ trống là mệnh đề 'it was very hot' (S + V) → dùng Although. Despite/In spite of/Because of chỉ đi với cụm danh từ."
+        },
+        {
+          "no": 2,
+          "question": "______ the cold weather, my grandfather goes jogging every morning.",
+          "options": {
+            "A": "Though",
+            "B": "In spite of",
+            "C": "Even though",
+            "D": "Although"
+          },
+          "answer": "B",
+          "explanation": "'the cold weather' là cụm danh từ → dùng In spite of. Although/Though/Even though phải đi với mệnh đề."
+        },
+        {
+          "no": 3,
+          "question": "______ having a bad cold, Lan still went to her English class.",
+          "options": {
+            "A": "Though",
+            "B": "Despite",
+            "C": "Although",
+            "D": "Because"
+          },
+          "answer": "B",
+          "explanation": "Sau chỗ trống là V-ing 'having a bad cold' → dùng Despite. Hai vế tương phản (bị cảm nhưng vẫn đi học)."
+        },
+        {
+          "no": 4,
+          "question": "He didn't pass the exam ______ he studied very hard.",
+          "options": {
+            "A": "although",
+            "B": "because",
+            "C": "in spite of",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "Vế sau là mệnh đề 'he studied very hard' và trái nghĩa với vế trước (học chăm nhưng trượt) → although."
+        },
+        {
+          "no": 5,
+          "question": "We enjoyed our trip ______ the bad weather.",
+          "options": {
+            "A": "despite",
+            "B": "even though",
+            "C": "despite of",
+            "D": "although"
+          },
+          "answer": "A",
+          "explanation": "'the bad weather' là cụm danh từ → despite. 'despite of' sai cấu trúc; although/even though cần mệnh đề."
+        },
+        {
+          "no": 6,
+          "question": "______ the traffic was heavy, we arrived at the airport on time.",
+          "options": {
+            "A": "Even though",
+            "B": "Despite",
+            "C": "Because of",
+            "D": "In spite of"
+          },
+          "answer": "A",
+          "explanation": "'the traffic was heavy' là mệnh đề có động từ 'was' → Even though."
+        },
+        {
+          "no": 7,
+          "question": "My brother is very rich. He isn't happy, ______.",
+          "options": {
+            "A": "despite",
+            "B": "because",
+            "C": "in spite of",
+            "D": "though"
+          },
+          "answer": "D",
+          "explanation": "'Though' có thể đứng cuối câu với nghĩa 'tuy vậy'. Despite/In spite of/because không đứng cuối câu như vậy."
+        },
+        {
+          "no": 8,
+          "question": "______ her illness, Mai came to the party.",
+          "options": {
+            "A": "Although",
+            "B": "Because",
+            "C": "Though",
+            "D": "In spite of"
+          },
+          "answer": "D",
+          "explanation": "'her illness' là cụm danh từ, nghĩa tương phản (ốm nhưng vẫn đến) → In spite of."
+        },
+        {
+          "no": 9,
+          "question": "______ the bus was late, Nam didn't miss the first lesson.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite",
+            "C": "Although",
+            "D": "Because of"
+          },
+          "answer": "C",
+          "explanation": "Sau chỗ trống là mệnh đề 'the bus was late' → Although. 'In spite' thiếu 'of'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Although she was tired, but she kept working.",
+            "B": "Despite she was tired, she kept working.",
+            "C": "Although she was tired, she kept working.",
+            "D": "In spite of she was tired, she kept working."
+          },
+          "answer": "C",
+          "explanation": "Although + mệnh đề và không dùng thêm 'but' → C đúng. A thừa 'but'; B, D dùng Despite/In spite of với mệnh đề là sai."
+        },
+        {
+          "no": 11,
+          "question": "______ the noise outside, the baby slept well.",
+          "options": {
+            "A": "Though",
+            "B": "Despite",
+            "C": "Because",
+            "D": "Although"
+          },
+          "answer": "B",
+          "explanation": "'the noise outside' là cụm danh từ, ý tương phản (ồn nhưng em bé vẫn ngủ ngon) → Despite."
+        },
+        {
+          "no": 12,
+          "question": "The match was cancelled ______ the heavy rain.",
+          "options": {
+            "A": "although",
+            "B": "despite",
+            "C": "because of",
+            "D": "in spite of"
+          },
+          "answer": "C",
+          "explanation": "Mưa lớn là nguyên nhân khiến trận đấu bị hủy (không phải tương phản) và 'the heavy rain' là cụm danh từ → because of."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Contrasting ideas: 'although', 'despite' and others",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others"
+    }
+  ]
+}

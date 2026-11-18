@@ -1,0 +1,33 @@
+error_type,skill_id,error_name
+PRON_ENDING,SK_PHON_PRON,Phát âm đuôi -ed và -s/-es
+PRON_SOUND,SK_PHON_PRON,Phát âm nguyên âm và phụ âm
+STRESS_2SYL,SK_PHON_STRESS,Trọng âm từ 2 âm tiết
+STRESS_3SYL,SK_PHON_STRESS,Trọng âm từ 3 âm tiết trở lên và quy tắc hậu tố
+TENSE_SINGLE,SK_TENSE_ASPECT,Chia thì theo dấu hiệu thời gian
+TENSE_SEQUENCE,SK_TENSE_ASPECT,Phối hợp thì trong câu phức
+VF_TO_ING,SK_VERB_FORMS,Động từ đi với to V hoặc V-ing
+VF_MEANING,SK_VERB_FORMS,"Động từ đổi nghĩa theo dạng (remember, stop, try...)"
+WISH_PRESENT,SK_WISH,Câu ước ở hiện tại và tương lai
+WISH_PAST,SK_WISH,Câu ước ở quá khứ
+COND_BASIC,SK_CONDITIONAL,"Câu điều kiện loại 0, 1, 2"
+COND_REWRITE,SK_CONDITIONAL,Unless và viết lại câu điều kiện
+COND_ADVANCED,SK_CONDITIONAL,Câu điều kiện hỗn hợp và đảo ngữ
+REL_PRONOUN,SK_REL_CLAUSE,"Đại từ quan hệ (who, whom, which, that)"
+REL_ADVERB,SK_REL_CLAUSE,"Trạng từ quan hệ (where, when, why)"
+REL_ADVANCED,SK_REL_CLAUSE,Giới từ + đại từ quan hệ và rút gọn mệnh đề
+CONJ_COORD,SK_CONJUNCTIONS,Liên từ kết hợp và liên từ tương quan
+CONJ_SUBORD,SK_CONJUNCTIONS,"Liên từ phụ thuộc (when, while, because, whether...)"
+REPORT_STATEMENT,SK_REPORT_SPEECH,Câu trần thuật gián tiếp và lùi thì
+REPORT_QUESTION,SK_REPORT_SPEECH,Câu hỏi gián tiếp
+REPORT_VERB,SK_REPORT_SPEECH,Động từ tường thuật đặc biệt
+ART_A_AN_THE,SK_ARTICLES,"Dùng a, an, the"
+ART_ZERO,SK_ARTICLES,Không dùng mạo từ
+PREP_TIME_PLACE,SK_PREPOSITION,"Giới từ chỉ thời gian, nơi chốn"
+PREP_COLLOC,SK_PREPOSITION,"Giới từ đi sau tính từ, động từ, danh từ và cụm cố định"
+COMP_BASIC,SK_COMPARATIVE,"So sánh bằng, hơn, nhất"
+COMP_DOUBLE,SK_COMPARATIVE,So sánh kép và so sánh bội số
+QUANT_BASIC,SK_QUANTIFIER,"Some, any, much, many, a lot of"
+QUANT_FEW_LITTLE,SK_QUANTIFIER,"Few, a few, little, a little, none"
+WF_POSITION,SK_WORD_FORM,Chọn từ loại theo vị trí trong câu
+WF_AFFIX,SK_WORD_FORM,Tiền tố và hậu tố (nghĩa phủ định)
+WF_CONFUSABLE,SK_WORD_FORM,Cặp từ cùng gốc dễ nhầm

@@ -1,0 +1,233 @@
+{
+  "material_id": "MAT_READ_GAPPED_01",
+  "skill_id": "SK_READ_GAPPED",
+  "title": "Nhận diện cấu trúc liên kết câu trong bài Gapped text",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận ra các công cụ liên kết cơ bản (đại từ, mạo từ 'the', từ nối, từ lặp lại) để điền đúng câu hoặc cụm từ vào chỗ trống trong đoạn văn ngắn.",
+  "theory": [
+    {
+      "heading": "Đại từ quy chiếu (it, they, he, she, them, this)",
+      "points": [
+        "Đại từ trong câu SAU chỗ trống cần một danh từ ở câu điền vào hoặc câu trước đó.",
+        "Số ít – số nhiều phải khớp: 'it' thay danh từ số ít (the park), 'they/them' thay danh từ số nhiều (ducks and fish).",
+        "Đại từ trong câu ĐIỀN VÀO phải chỉ được về một danh từ đã có ở câu trước."
+      ],
+      "examples": [
+        {
+          "en": "My uncle has a small farm. It is not very big, but it is very green.",
+          "vi": "Chú tôi có một trang trại nhỏ. Nó không rộng lắm nhưng rất xanh. ('It' = the farm.)"
+        }
+      ]
+    },
+    {
+      "heading": "Mạo từ 'a' → 'the': nhắc lại danh từ đã biết",
+      "points": [
+        "Lần đầu nhắc đến: a/an + danh từ (a wallet, a new laptop).",
+        "Lần sau nhắc lại: the + danh từ (the wallet, the laptop).",
+        "Nếu câu sau chỗ trống có 'the + danh từ', câu cần điền thường giới thiệu hoặc mô tả danh từ đó."
+      ],
+      "examples": [
+        {
+          "en": "Mai found a wallet on her way to school. The wallet had some money inside.",
+          "vi": "Mai nhặt được một chiếc ví trên đường đến trường. Chiếc ví có ít tiền bên trong."
+        }
+      ]
+    },
+    {
+      "heading": "Từ nối cơ bản và quan hệ ý",
+      "points": [
+        "and (thêm ý cùng chiều), but / However (tương phản), so (kết quả), because (nguyên nhân).",
+        "For example: câu đứng TRƯỚC phải là ý chung để được minh họa.",
+        "Phân biệt: 'so' đứng trước kết quả (tired, so she went to bed); 'because' đứng trước nguyên nhân (went to bed because she was tired)."
+      ],
+      "examples": [
+        {
+          "en": "Linh was very tired, so she went to bed early.",
+          "vi": "Linh rất mệt nên cô ấy đi ngủ sớm."
+        }
+      ]
+    },
+    {
+      "heading": "Dấu hiệu hình thức của chỗ trống",
+      "points": [
+        "Chỗ trống đứng đầu câu → phương án phải viết hoa chữ đầu.",
+        "Chỗ trống đứng sau dấu phẩy hoặc giữa câu → thường là cụm/mệnh đề viết thường.",
+        "Chỗ trống đứng trước ', so…' hoặc ', and…' → cần một mệnh đề hoàn chỉnh có chủ ngữ và động từ."
+      ],
+      "examples": [
+        {
+          "en": "There is a small lake in the park. The lake has many ducks and fish, so we often feed them.",
+          "vi": "Có một hồ nhỏ trong công viên. Hồ có nhiều vịt và cá nên chúng tôi thường cho chúng ăn. ('them' = ducks and fish.)"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu TRƯỚC và câu SAU chỗ trống; gạch chân mọi đại từ (it, they, them) và 'the + danh từ' ở câu sau.",
+    "Hỏi: 'Đại từ này chỉ cái gì?' – phương án đúng phải chứa hoặc nối được tới danh từ đó, đúng số ít/số nhiều.",
+    "Với chỗ trống chỉ cần một từ nối, xác định quan hệ hai vế: cùng chiều, ngược chiều, nguyên nhân hay kết quả.",
+    "Điền xong, đọc lại cả ba câu liền nhau; nếu có chỗ 'vấp' (đại từ không rõ chỉ ai, ý bị mâu thuẫn) thì chọn lại."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Điền câu hoặc từ nối vào đoạn ngắn",
+      "instructions": "Choose the option (A, B, C or D) that best fits the blank in each short text.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My uncle has a small farm in Bac Ninh. ______. He grows vegetables and keeps some chickens there.",
+          "options": {
+            "A": "It is not very big, but it is very green",
+            "B": "They are very busy every day",
+            "C": "He works in a big office in Ha Noi",
+            "D": "My village is far from the city centre"
+          },
+          "answer": "A",
+          "explanation": "'It' ở phương án A quy chiếu 'a small farm' (số ít); câu sau 'there' cũng chỉ trang trại. B dùng 'They' không có danh từ số nhiều nào để thay; C mâu thuẫn với việc chú trồng rau ở trang trại; D lạc chủ đề."
+        },
+        {
+          "no": 2,
+          "question": "Nam bought a new laptop last week. ______ He uses the laptop to do his homework and watch English videos.",
+          "options": {
+            "A": "However, he doesn't like computers at all.",
+            "B": "It was a present for his sister.",
+            "C": "Laptops are expensive in some countries.",
+            "D": "He paid for it with the money he had saved for a year."
+          },
+          "answer": "D",
+          "explanation": "'it' trong D = 'a new laptop'; câu sau 'He uses the laptop' tiếp tục nói về chiếc laptop của Nam. B mâu thuẫn (quà cho em gái nhưng Nam lại dùng); A mâu thuẫn với việc dùng laptop; C là nhận định chung, lạc trọng tâm."
+        },
+        {
+          "no": 3,
+          "question": "Many students in my class love playing badminton. ______, only a few of them like playing chess.",
+          "options": {
+            "A": "Because",
+            "B": "However",
+            "C": "So",
+            "D": "For example"
+          },
+          "answer": "B",
+          "explanation": "Hai câu đối lập: nhiều bạn thích cầu lông >< chỉ vài bạn thích cờ vua → dùng 'However' (tuy nhiên). 'Because', 'So' chỉ nguyên nhân/kết quả; 'For example' cần câu sau minh họa câu trước."
+        },
+        {
+          "no": 4,
+          "question": "Linh was very tired after the long journey, ______ she went to bed early.",
+          "options": {
+            "A": "but",
+            "B": "because",
+            "C": "so",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "Vế trước là nguyên nhân (mệt), vế sau là kết quả (đi ngủ sớm) → dùng 'so'. 'because' phải đứng trước nguyên nhân; 'but', 'although' chỉ sự tương phản."
+        },
+        {
+          "no": 5,
+          "question": "Ha Noi has many interesting museums. ______ For example, the Museum of Ethnology shows the cultures of the 54 ethnic groups in Viet Nam.",
+          "options": {
+            "A": "They help visitors learn about the country's history and culture.",
+            "B": "The Museum of Ethnology opened in 1997.",
+            "C": "Many tourists prefer shopping to visiting museums.",
+            "D": "My house is near West Lake."
+          },
+          "answer": "A",
+          "explanation": "'They' = 'many interesting museums'; A nêu ý chung (giúp tìm hiểu lịch sử, văn hóa) và câu 'For example' sau đó minh họa đúng ý này. B lặp tên bảo tàng ngay trước 'For example' – không hợp lý; C, D lạc ý."
+        },
+        {
+          "no": 6,
+          "question": "There is a big tree in front of my school. ______ In summer, students often sit under it to read books.",
+          "options": {
+            "A": "Trees are cut down every day around the world.",
+            "B": "They were planted by my classmates.",
+            "C": "The tree is more than fifty years old and gives a lot of shade.",
+            "D": "My school has thirty classrooms."
+          },
+          "answer": "C",
+          "explanation": "'The tree' nhắc lại 'a big tree' ở câu trước; ý 'gives a lot of shade' (cho nhiều bóng mát) dẫn tới việc học sinh ngồi dưới gốc cây. 'it' ở câu sau = the tree. B dùng 'They' số nhiều, không khớp với một cái cây."
+        },
+        {
+          "no": 7,
+          "question": "Mai found a wallet on her way to school. ______ She took it to the police station immediately.",
+          "options": {
+            "A": "A wallet is a useful thing to have.",
+            "B": "The wallet had some money and an ID card inside.",
+            "C": "She bought a new wallet for her mother.",
+            "D": "Wallets are often made of leather."
+          },
+          "answer": "B",
+          "explanation": "'The wallet' quy chiếu 'a wallet' Mai vừa nhặt; có tiền và giấy tờ tùy thân là lý do Mai mang nó đến đồn công an. C làm 'it' ở câu sau chỉ chiếc ví mới mua – vô lý; A, D là nhận định chung."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Điền câu vào bài đọc",
+      "instructions": "Four sentences have been removed from the text below. Choose the option (A, B, C or D) that best fits each numbered blank. Each option is used only once.",
+      "passage": "My favourite place in my neighbourhood is a small park just five minutes' walk from my house. (8) ______. In the morning, old people do exercise there, and in the afternoon, children play football on the grass. I usually go to the park with my younger brother after school. (9) ______. Sometimes we sit on a bench and read comics together. There is also a small lake in the middle of the park. (10) ______, so we often feed them with bread. On Sundays, my parents and I have a picnic in the park. My mother always brings sandwiches and fresh fruit. (11) ______ because it gives my family so many happy memories, and I hope it will always stay green and peaceful.",
+      "questions": [
+        {
+          "no": 8,
+          "question": "Choose the option that best fits blank (8).",
+          "options": {
+            "A": "We like flying kites when the weather is windy",
+            "B": "It is not very big, but it has lots of trees and flowers",
+            "C": "I love this park very much",
+            "D": "The lake has many ducks and fish"
+          },
+          "answer": "B",
+          "explanation": "'It' = 'a small park' ở câu trước; câu mô tả công viên tự nhiên đi ngay sau câu giới thiệu. A dùng 'We' khi chưa nhắc đến người em; D nói về 'the lake' khi hồ chưa được giới thiệu."
+        },
+        {
+          "no": 9,
+          "question": "Choose the option that best fits blank (9).",
+          "options": {
+            "A": "We like flying kites when the weather is windy",
+            "B": "It is not very big, but it has lots of trees and flowers",
+            "C": "I love this park very much",
+            "D": "The lake has many ducks and fish"
+          },
+          "answer": "A",
+          "explanation": "'We' = 'I' và 'my younger brother' ở câu trước. Câu sau 'Sometimes we sit on a bench…' tiếp tục kể các hoạt động của hai anh em, nối bằng 'Sometimes'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the option that best fits blank (10).",
+          "options": {
+            "A": "We like flying kites when the weather is windy",
+            "B": "It is not very big, but it has lots of trees and flowers",
+            "C": "I love this park very much",
+            "D": "The lake has many ducks and fish"
+          },
+          "answer": "D",
+          "explanation": "'The lake' nhắc lại 'a small lake' ở câu trước; 'them' trong ', so we often feed them' = 'ducks and fish' (số nhiều)."
+        },
+        {
+          "no": 11,
+          "question": "Choose the option that best fits blank (11).",
+          "options": {
+            "A": "We like flying kites when the weather is windy",
+            "B": "It is not very big, but it has lots of trees and flowers",
+            "C": "I love this park very much",
+            "D": "The lake has many ducks and fish"
+          },
+          "answer": "C",
+          "explanation": "Câu kết bài nêu cảm xúc: 'I love this park very much because it gives my family so many happy memories' – 'because' giải thích lý do yêu công viên, 'this park' quy chiếu công viên được kể trong cả bài."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Breakout English – C1 Advanced Reading Part 7 (gapped text: reference and linking words)",
+      "url": "https://breakoutenglish.com/advanced-cae/cae-reading-part-7/"
+    },
+    {
+      "title": "Purdue OWL – On Paragraphs (verbal bridges: pronouns, repeated words, transitions)",
+      "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

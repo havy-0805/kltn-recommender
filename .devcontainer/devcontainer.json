@@ -1,0 +1,14 @@
+{
+  "name": "KLTN - Khuyến nghị học liệu Tiếng Anh",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "24" }
+  },
+  "postCreateCommand": "pipx install uv && cd backend && uv sync && cd ../frontend && npm ci",
+  "postAttachCommand": "./dev.sh",
+  "forwardPorts": [5173, 8000],
+  "portsAttributes": {
+    "5173": { "label": "Web", "onAutoForward": "openBrowser" },
+    "8000": { "label": "API", "onAutoForward": "silent" }
+  }
+}

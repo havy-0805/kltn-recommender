@@ -1,0 +1,269 @@
+{
+  "material_id": "MAT_READ_MAIN_03",
+  "skill_id": "SK_READ_MAIN",
+  "title": "Phân tích ý đồ tác giả và các bẫy ý chính nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh xác định ý chính khi câu chủ đề không nằm ở đầu bài, nhận ra mục đích và thái độ của tác giả, và loại được các phương án bẫy (quá hẹp, quá rộng, nói quá, trái ý tác giả) ở câu hỏi phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Ý chính không phải lúc nào cũng nằm ở câu đầu",
+      "points": [
+        "Bài dạng 'nêu quan niệm phổ biến → phản bác' thường đặt ý chính sau từ nối However, Yet, But, In fact ở đoạn 2 hoặc cuối bài.",
+        "Bài mở đầu bằng một câu chuyện hay ví dụ (anecdote) thường chỉ nêu ý chính ở câu kết, sau các từ therefore, it seems, in short, the point is.",
+        "Quy tắc: ý chính = điều tác giả muốn người đọc tin sau khi đọc xong, không phải điều được nhắc nhiều chữ nhất."
+      ],
+      "examples": [
+        { "en": "Many people think robots will take all our jobs. In fact, history shows that new technology usually creates new kinds of work.", "vi": "Nhiều người nghĩ robot sẽ lấy hết việc làm. Thực ra, lịch sử cho thấy công nghệ mới thường tạo ra những loại việc làm mới. (Ý chính nằm sau 'In fact'.)" }
+      ]
+    },
+    {
+      "heading": "Mục đích của tác giả (author's purpose)",
+      "points": [
+        "to inform/explain: cung cấp thông tin, giọng trung lập, nhiều số liệu.",
+        "to persuade/encourage: có lời khuyên, câu mệnh lệnh, should, let's, ask yourself…",
+        "to question/challenge a belief: nêu một quan niệm rồi chỉ ra hạn chế của nó.",
+        "Câu hỏi 'Why does the author mention X?' hỏi vai trò của chi tiết X trong lập luận (làm ví dụ, làm bằng chứng, làm phản đề), không hỏi X là gì."
+      ],
+      "examples": [
+        { "en": "Before buying something new, ask yourself whether you will wear it at least thirty times.", "vi": "Trước khi mua đồ mới, hãy tự hỏi bạn có mặc nó ít nhất ba mươi lần không. (Câu mệnh lệnh → mục đích thuyết phục.)" }
+      ]
+    },
+    {
+      "heading": "Thái độ của tác giả (author's attitude)",
+      "points": [
+        "Tìm tính từ, trạng từ đánh giá: impressive, serious, surprisingly, unfortunately…",
+        "Bài có cả ưu điểm và hạn chế, kết luận có điều kiện → thái độ cautious / balanced / realistic.",
+        "Cảnh giác với phương án cực đoan: strongly against, completely enthusiastic, totally useless."
+      ],
+      "examples": [
+        { "en": "Such measures are useful, but technology alone cannot solve the problem.", "vi": "Những biện pháp như vậy hữu ích, nhưng chỉ công nghệ thôi thì không giải quyết được vấn đề. (Thái độ thận trọng, cân bằng.)" }
+      ]
+    },
+    {
+      "heading": "Bốn loại bẫy ý chính thường gặp",
+      "points": [
+        "Quá hẹp (too narrow): đúng nhưng chỉ là một chi tiết hoặc một đoạn.",
+        "Quá rộng (too broad): chủ đề lớn hơn nhiều so với nội dung bài.",
+        "Nói quá (overstatement): dùng only, always, never, completely trong khi bài nói có chừng mực.",
+        "Trái ý (distortion): dùng đúng từ trong bài nhưng ghép sai quan hệ, hoặc so sánh mà bài không hề so sánh."
+      ],
+      "examples": [
+        { "en": "Nobody expects young people to stop buying clothes.", "vi": "Không ai mong người trẻ ngừng mua quần áo. (Phương án 'Young people should never buy new clothes' là bẫy nói quá, trái ý tác giả.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu đầu và câu cuối của từng đoạn, khoanh các từ đổi hướng (However, Yet, In fact, therefore) trước khi đọc phương án.",
+    "Tự tóm tắt bài bằng một câu tiếng Việt rồi mới so với các phương án; phương án đúng thường diễn đạt lại (paraphrase), không chép nguyên câu.",
+    "Thử từng phương án với mọi đoạn: nếu bỏ một đoạn mà phương án vẫn đúng y nguyên thì đó là phương án quá hẹp.",
+    "Gạch bỏ ngay phương án có từ tuyệt đối (only, always, never, completely) nếu bài viết có chừng mực.",
+    "Với câu 'Why does the author mention…', hỏi lại: chi tiết này đứng sau câu nào và đang chứng minh cho câu nào?"
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Smart cities",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "Many cities around the world are spending huge amounts of money to become “smart”. Sensors count cars at traffic lights, apps tell passengers exactly when the next bus will arrive, and street lamps switch themselves off when nobody is around. Supporters say that such technology saves energy and time, and in some places the results are impressive. In several European cities, for example, smart watering systems have greatly reduced water waste in public parks.\n\nHowever, technology alone cannot make a city a better place to live. A traffic app may help drivers avoid a jam, but it does nothing to reduce the number of cars on the road. In fact, when journeys become easier, more people may decide to drive. Similarly, cameras can collect information about how residents move, but they raise serious questions about privacy that many governments have not yet answered.\n\nThe smartest cities, therefore, may not be those with the most devices. They are the ones that ask what problem a device is meant to solve before buying it. Sometimes the best solution is surprisingly simple: a wider pavement, a safer bike lane or a shady park where neighbours can meet.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What is the main idea of the passage?",
+          "options": {
+            "A": "Smart technology is the only way to solve traffic problems in cities.",
+            "B": "Cities should think about the real problems they want to solve before investing in smart devices.",
+            "C": "Cameras in smart cities are a serious threat to residents' privacy.",
+            "D": "Smart cities save a great deal of energy and water."
+          },
+          "answer": "B",
+          "explanation": "Ý chính nằm ở đoạn cuối sau 'therefore': 'The smartest cities... are the ones that ask what problem a device is meant to solve before buying it.' C và D chỉ là chi tiết của từng đoạn (quá hẹp); A là bẫy nói quá và trái ý tác giả ('technology alone cannot make a city a better place')."
+        },
+        {
+          "no": 2,
+          "question": "What is the author's main purpose in writing the passage?",
+          "options": {
+            "A": "To advertise new traffic apps for drivers",
+            "B": "To explain in detail how traffic sensors work",
+            "C": "To compare smart cities in Europe and Asia",
+            "D": "To question the belief that more technology automatically makes a better city"
+          },
+          "answer": "D",
+          "explanation": "Đoạn 1 nêu quan điểm của 'Supporters', đoạn 2 phản bác bằng 'However, technology alone cannot make a city a better place to live', đoạn 3 kết luận 'The smartest cities... may not be those with the most devices'. Tác giả đang chất vấn quan niệm 'càng nhiều công nghệ càng tốt'. Bài không quảng cáo, không giải thích cơ chế cảm biến, không so sánh châu Âu với châu Á."
+        },
+        {
+          "no": 3,
+          "question": "Paragraph 2 mainly discusses ______.",
+          "options": {
+            "A": "the limits and risks of smart technology",
+            "B": "the history of traffic apps",
+            "C": "the benefits of street cameras",
+            "D": "the reasons why people prefer driving to cycling"
+          },
+          "answer": "A",
+          "explanation": "Câu chủ đề đoạn 2: 'However, technology alone cannot make a city a better place to live.' Sau đó là hai hạn chế: app không giảm số xe, camera gây lo ngại 'privacy'. Đoạn này nói về giới hạn và rủi ro, không phải lợi ích hay lịch sử."
+        },
+        {
+          "no": 4,
+          "question": "Which of the following best describes the author's attitude towards smart technology?",
+          "options": {
+            "A": "Strongly against it",
+            "B": "Completely enthusiastic about it",
+            "C": "Not interested in it at all",
+            "D": "Cautious and balanced"
+          },
+          "answer": "D",
+          "explanation": "Tác giả thừa nhận 'in some places the results are impressive' nhưng cũng nêu 'technology alone cannot make a city a better place to live'. Có khen có chê, kết luận có điều kiện → thận trọng, cân bằng. A và B là bẫy cực đoan."
+        },
+        {
+          "no": 5,
+          "question": "Why does the author mention “a wider pavement, a safer bike lane or a shady park”?",
+          "options": {
+            "A": "To describe what smart cities have already built",
+            "B": "To show that simple solutions can sometimes be better than expensive devices",
+            "C": "To prove that parks also need sensors",
+            "D": "To list the main problems of modern cities"
+          },
+          "answer": "B",
+          "explanation": "Các ví dụ này đứng ngay sau câu 'Sometimes the best solution is surprisingly simple'. Vai trò của chúng là minh họa cho giải pháp đơn giản, đối lập với 'the most devices'. Chúng không phải vấn đề (D) và bài không nói chúng đã được xây ở thành phố thông minh (A)."
+        },
+        {
+          "no": 6,
+          "question": "The word “they” in paragraph 2 refers to ______.",
+          "options": {
+            "A": "residents",
+            "B": "governments",
+            "C": "cameras",
+            "D": "questions"
+          },
+          "answer": "C",
+          "explanation": "Câu gốc: 'cameras can collect information about how residents move, but they raise serious questions about privacy'. Chủ thể gây ra lo ngại về quyền riêng tư là 'cameras', chủ ngữ của mệnh đề trước 'but'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Fast fashion",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "Every year, teenagers buy more clothes than their parents did at the same age, yet they wear each item fewer times. Cheap T-shirts and jeans appear in shops every week, and social media makes last month's outfit feel old-fashioned. This trend, known as “fast fashion”, seems harmless. After all, a T-shirt that costs less than a lunch is hardly a serious problem.\n\nThe real cost, however, is paid elsewhere. Producing a single cotton T-shirt can require more than two thousand litres of water, and many cheap clothes are made from plastic-based fabrics that release tiny fibres into rivers and seas every time they are washed. Most of these garments end up in landfills after only a few uses.\n\nNobody expects young people to stop buying clothes. But small habits can make a difference. Before buying something new, ask yourself whether you will wear it at least thirty times. Swap clothes with friends, learn to sew on a button, or visit a second-hand shop. Style does not have to cost the earth.",
+      "questions": [
+        {
+          "no": 7,
+          "question": "Which of the following best expresses the main idea of the passage?",
+          "options": {
+            "A": "Teenagers today spend too much money on lunch.",
+            "B": "Cotton T-shirts use more water than clothes made from plastic-based fabrics.",
+            "C": "Fast fashion looks cheap but harms the environment, so young people should change their shopping habits.",
+            "D": "Second-hand shops are more fashionable than ordinary clothes shops."
+          },
+          "answer": "C",
+          "explanation": "Đoạn 1 nêu xu hướng 'fast fashion' có vẻ vô hại, đoạn 2 chỉ ra 'The real cost, however, is paid elsewhere' (nước, sợi nhựa, bãi rác), đoạn 3 khuyên 'small habits can make a difference'. C bao quát cả ba đoạn. B là bẫy so sánh: bài không hề so sánh lượng nước của hai loại vải."
+        },
+        {
+          "no": 8,
+          "question": "The author's main purpose in the passage is to ______.",
+          "options": {
+            "A": "persuade readers to shop for clothes more responsibly",
+            "B": "describe step by step how T-shirts are made",
+            "C": "criticise social media companies",
+            "D": "explain why parents buy fewer clothes than teenagers"
+          },
+          "answer": "A",
+          "explanation": "Đoạn cuối dùng nhiều câu mệnh lệnh: 'ask yourself...', 'Swap clothes with friends...', 'visit a second-hand shop' → mục đích thuyết phục người đọc mua sắm có trách nhiệm. Mạng xã hội chỉ được nhắc lướt (C), quy trình may áo không được mô tả (B)."
+        },
+        {
+          "no": 9,
+          "question": "What is the function of the first paragraph?",
+          "options": {
+            "A": "It gives the author's final conclusion.",
+            "B": "It presents a common belief that the author later challenges.",
+            "C": "It provides scientific data about water use.",
+            "D": "It describes the history of jeans."
+          },
+          "answer": "B",
+          "explanation": "Đoạn 1 kết thúc bằng quan niệm phổ biến: fast fashion 'seems harmless... hardly a serious problem'. Đoạn 2 mở đầu bằng 'The real cost, however, is paid elsewhere' để phản bác. Số liệu về nước nằm ở đoạn 2 (C), kết luận nằm ở đoạn 3 (A)."
+        },
+        {
+          "no": 10,
+          "question": "The sentence “Style does not have to cost the earth” suggests that ______.",
+          "options": {
+            "A": "fashionable clothes are always expensive",
+            "B": "the earth is too expensive to protect",
+            "C": "only second-hand clothes are stylish",
+            "D": "people can look good without damaging the environment"
+          },
+          "answer": "D",
+          "explanation": "'cost the earth' vừa có nghĩa thành ngữ 'rất đắt' vừa chơi chữ 'gây hại cho Trái Đất'. Câu này đứng sau các lời khuyên đổi đồ, mua đồ cũ, nên ý là vẫn có thể mặc đẹp mà không hại môi trường. C là bẫy nói quá ('only')."
+        },
+        {
+          "no": 11,
+          "question": "Which statement would the author most likely agree with?",
+          "options": {
+            "A": "Young people should never buy new clothes.",
+            "B": "Wearing an item of clothing many times is better than buying new ones often.",
+            "C": "Washing plastic-based clothes has no effect on the environment.",
+            "D": "Fast fashion is a problem only for parents."
+          },
+          "answer": "B",
+          "explanation": "Tác giả khuyên 'ask yourself whether you will wear it at least thirty times' → ủng hộ mặc một món nhiều lần. A trái với 'Nobody expects young people to stop buying clothes'; C trái với 'release tiny fibres into rivers and seas every time they are washed'; D không có trong bài."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. A two-way exchange",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "When Minh's class first visited the elderly care home near their school, nobody knew what to say. The residents sat quietly in front of the television, and the students stood awkwardly by the door. Then one old man noticed Minh's phone and asked how people could make video calls. Twenty minutes later, half the room was gathered around the students, learning to send photos to their grandchildren.\n\nThat visit became a weekly event. The students teach basic technology skills, and in return the residents share stories about Ha Noi in the 1960s, traditional games, and recipes that are rarely cooked today. Several students have used these stories in their history projects.\n\nProjects like this are often described as young people “helping” the old. Yet the students themselves say they have gained just as much: patience, listening skills and a deeper understanding of their city's past. Real volunteering, it seems, is not a one-way gift but an exchange in which both sides learn.",
+      "questions": [
+        {
+          "no": 12,
+          "question": "Where is the main idea of the passage most clearly stated?",
+          "options": {
+            "A": "In the first sentence of paragraph 1",
+            "B": "In the old man's question in paragraph 1",
+            "C": "In the last sentence of the passage",
+            "D": "In the second sentence of paragraph 2"
+          },
+          "answer": "C",
+          "explanation": "Bài mở đầu bằng một câu chuyện (anecdote); ý chính chỉ được nêu ở câu cuối sau 'it seems': 'Real volunteering... is not a one-way gift but an exchange in which both sides learn.' Câu đầu đoạn 1 chỉ kể bối cảnh buổi thăm."
+        },
+        {
+          "no": 13,
+          "question": "What is the main idea of the passage?",
+          "options": {
+            "A": "Elderly people find it difficult to use mobile phones.",
+            "B": "Care homes should have more televisions.",
+            "C": "Students should use old people's stories in history projects.",
+            "D": "Volunteering benefits both the volunteers and the people they help."
+          },
+          "answer": "D",
+          "explanation": "Câu kết: 'an exchange in which both sides learn', cùng với 'the students themselves say they have gained just as much'. A và C là chi tiết đúng nhưng quá hẹp; B không có trong bài."
+        },
+        {
+          "no": 14,
+          "question": "Why does the author begin the passage with the story of the first visit?",
+          "options": {
+            "A": "To introduce the topic through a real example before stating the main point",
+            "B": "To show that the students were badly prepared for volunteering",
+            "C": "To complain about the conditions in the care home",
+            "D": "To explain how video calls work"
+          },
+          "answer": "A",
+          "explanation": "Câu chuyện buổi đầu (học sinh dạy gọi video, người già kể chuyện) là ví dụ cụ thể dẫn tới kết luận ở cuối bài về sự trao đổi hai chiều. Chi tiết 'nobody knew what to say' chỉ tạo tình huống, không nhằm phê phán sự chuẩn bị (B) hay chê nhà dưỡng lão (C)."
+        },
+        {
+          "no": 15,
+          "question": "The word “exchange” in the last sentence is closest in meaning to ______.",
+          "options": {
+            "A": "a place where people change money",
+            "B": "a short conversation",
+            "C": "a situation in which both sides give and receive something",
+            "D": "a present given by one person"
+          },
+          "answer": "C",
+          "explanation": "'exchange' được đặt đối lập với 'a one-way gift', và được giải thích bằng 'in which both sides learn' → tình huống hai bên cùng cho và nhận. D chính là 'one-way gift' mà tác giả phủ định."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Main Idea, Title Selection, and Author's Purpose – Open Exam Prep", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

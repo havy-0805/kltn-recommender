@@ -1,0 +1,161 @@
+{
+  "material_id": "MAT_READ_DETAIL_01",
+  "skill_id": "SK_READ_DETAIL",
+  "title": "Làm quen kỹ thuật định vị thông tin chi tiết bài đọc",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận diện câu hỏi chi tiết (Wh-questions, According to the passage...) và dùng từ khóa để tìm nhanh câu chứa đáp án trong đoạn văn ngắn.",
+  "theory": [
+    {
+      "heading": "Câu hỏi chi tiết là gì?",
+      "points": [
+        "Câu hỏi chi tiết hỏi về một thông tin cụ thể được nêu trực tiếp trong bài: ai, cái gì, ở đâu, khi nào, bao nhiêu, vì sao.",
+        "Dấu hiệu thường gặp: 'According to the passage, ...', 'What/Who/When/Where/How many ...?', 'Which of the following is mentioned ...?'",
+        "Đáp án luôn có căn cứ trong bài, không cần dùng hiểu biết bên ngoài."
+      ],
+      "examples": [
+        { "en": "According to the passage, how often does the club meet?", "vi": "Theo bài đọc, câu lạc bộ họp bao lâu một lần? (tìm từ chỉ tần suất: every Saturday, twice a week...)" }
+      ]
+    },
+    {
+      "heading": "Ba bước định vị thông tin",
+      "points": [
+        "Bước 1: Gạch chân từ khóa trong câu hỏi – ưu tiên tên riêng, con số, mốc thời gian, danh từ đặc biệt.",
+        "Bước 2: Lướt (scan) bài để tìm đúng từ khóa đó hoặc từ đồng nghĩa; không đọc lại từng chữ.",
+        "Bước 3: Đọc kỹ câu chứa từ khóa và một câu trước – sau, rồi so sánh với 4 phương án."
+      ],
+      "examples": [
+        { "en": "Question: How far is the beach from the town centre? → Keyword: 'far', 'town centre' → look for a distance (km).", "vi": "Câu hỏi về khoảng cách → tìm con số kèm đơn vị km trong bài." }
+      ]
+    },
+    {
+      "heading": "Từ hỏi gợi ý loại thông tin cần tìm",
+      "points": [
+        "How many / How much → con số, số lượng.",
+        "When / What time / How long → thời gian, khoảng thời gian.",
+        "Why → tìm 'because, so, since, the reason is...'.",
+        "How (did they travel) → phương tiện, cách thức (by train, on foot...)."
+      ],
+      "examples": [
+        { "en": "Why do most students sleep only six hours? → 'The main reason is that they use their phones in bed.'", "vi": "Câu hỏi Why → tìm cụm 'the main reason is that' để lấy lý do." }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu hỏi trước rồi mới đọc bài để biết mình cần tìm gì.",
+    "Câu hỏi thường đi theo thứ tự bài đọc: đáp án câu 2 thường nằm sau đáp án câu 1.",
+    "Cẩn thận với các con số gần nhau trong bài (twenty-five thành viên, forty cây): đọc kỹ con số đi với danh từ nào.",
+    "Phương án đúng có thể diễn đạt lại (paraphrase) bằng từ khác; phương án lặp y nguyên chữ trong bài chưa chắc đã đúng."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Minh is a Grade 9 student at Hoa Binh Secondary School in Ha Noi. Last year, he and his friends started a green club called \"Clean Hands\". The club has twenty-five members, and they meet every Saturday morning. In their first project, they collected plastic bottles from the school yard and the park near the school. They sold the bottles to a recycling shop and used the money to buy small trees. So far, the club has planted forty trees along the road to the school. Minh's teacher, Ms Lan, helps the club with its plans. She says that the students have become more responsible since they joined the club. Next month, the club will hold a workshop to teach younger students how to make pencil cases from old jeans. Minh hopes that more students will join the club soon.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "How often does the club meet?",
+          "options": { "A": "Every Sunday morning", "B": "Every Saturday morning", "C": "Twice a week", "D": "Every day after school" },
+          "answer": "B",
+          "explanation": "Từ khóa 'how often' → tìm tần suất. Bài viết: 'they meet every Saturday morning'."
+        },
+        {
+          "no": 2,
+          "question": "How many trees has the club planted so far?",
+          "options": { "A": "Twenty-five", "B": "Fifteen", "C": "Forty", "D": "Fifty" },
+          "answer": "C",
+          "explanation": "Bài viết: 'So far, the club has planted forty trees along the road to the school.' Bẫy: 'twenty-five' là số thành viên, không phải số cây."
+        },
+        {
+          "no": 3,
+          "question": "What did the club do with the money from the plastic bottles?",
+          "options": { "A": "They bought new jeans.", "B": "They gave it to the school.", "C": "They bought more plastic bottles.", "D": "They bought small trees." },
+          "answer": "D",
+          "explanation": "Bài viết: 'They sold the bottles to a recycling shop and used the money to buy small trees.'"
+        },
+        {
+          "no": 4,
+          "question": "What will the club teach younger students next month?",
+          "options": { "A": "How to make pencil cases from old jeans", "B": "How to plant trees along the road", "C": "How to sell bottles to a shop", "D": "How to clean the park" },
+          "answer": "A",
+          "explanation": "Từ khóa 'next month' → câu: 'Next month, the club will hold a workshop to teach younger students how to make pencil cases from old jeans.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Last summer, Lan and her family visited Hoi An, an ancient town in central Viet Nam. They travelled by train from Ha Noi to Da Nang, and the journey took about sixteen hours. From Da Nang, they took a taxi to Hoi An. They stayed in a small family hotel near the Thu Bon River for three nights. On the first day, they walked around the old town and visited the Japanese Covered Bridge, which was built in the 16th century. Lan enjoyed the colourful lanterns that hang in front of many shops. In the evening, they tried cao lau, a famous local noodle dish. On the second day, they rode bicycles to An Bang Beach, which is about four kilometres from the town centre. Lan's younger brother liked swimming there most. Before leaving, Lan bought a red silk lantern as a present for her best friend, Hoa.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "How did Lan's family travel from Ha Noi to Da Nang?",
+          "options": { "A": "By plane", "B": "By coach", "C": "By train", "D": "By car" },
+          "answer": "C",
+          "explanation": "Câu hỏi 'How did ... travel' → tìm phương tiện. Bài viết: 'They travelled by train from Ha Noi to Da Nang'. Taxi là chặng từ Đà Nẵng đến Hội An, không phải chặng được hỏi (bẫy D)."
+        },
+        {
+          "no": 6,
+          "question": "How long did the family stay in Hoi An?",
+          "options": { "A": "Two nights", "B": "Three nights", "C": "Four nights", "D": "One week" },
+          "answer": "B",
+          "explanation": "Bài viết: 'They stayed in a small family hotel near the Thu Bon River for three nights.' Lưu ý 'sixteen hours' là thời gian đi tàu, không phải thời gian lưu trú."
+        },
+        {
+          "no": 7,
+          "question": "How far is An Bang Beach from the town centre?",
+          "options": { "A": "About four kilometres", "B": "About sixteen kilometres", "C": "About forty kilometres", "D": "About one kilometre" },
+          "answer": "A",
+          "explanation": "Bài viết: 'An Bang Beach, which is about four kilometres from the town centre.'"
+        },
+        {
+          "no": 8,
+          "question": "What did Lan buy for her best friend?",
+          "options": { "A": "A bicycle", "B": "A bowl of cao lau", "C": "A silk dress", "D": "A red silk lantern" },
+          "answer": "D",
+          "explanation": "Từ khóa 'best friend' → câu cuối: 'Lan bought a red silk lantern as a present for her best friend, Hoa.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Doctors say that teenagers need eight to ten hours of sleep every night. However, a survey at Nguyen Du School shows that most Grade 9 students sleep only about six hours. The main reason is that they use their phones in bed. Many students say they chat with friends or watch videos until midnight. Without enough sleep, students often feel tired in the morning and find it hard to focus in class. To help students, the school has started a \"Phone-Free Night\" campaign. Students are asked to put their phones in another room at 10 p.m. Parents also join by turning off the Wi-Fi at the same time. After one month, more than half of the students said they fell asleep faster and felt more active at school. The school plans to continue the campaign until the end of the school year.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "According to doctors, how many hours of sleep do teenagers need every night?",
+          "options": { "A": "Six to eight hours", "B": "Eight to ten hours", "C": "Ten to twelve hours", "D": "About six hours" },
+          "answer": "B",
+          "explanation": "Câu đầu: 'Doctors say that teenagers need eight to ten hours of sleep every night.' Phương án D (about six hours) là số giờ học sinh thực tế ngủ."
+        },
+        {
+          "no": 10,
+          "question": "Why do most Grade 9 students at the school sleep only about six hours?",
+          "options": { "A": "They have too much homework.", "B": "They get up early to exercise.", "C": "They use their phones in bed.", "D": "Their homes are too noisy." },
+          "answer": "C",
+          "explanation": "Câu hỏi Why → tìm lý do: 'The main reason is that they use their phones in bed.'"
+        },
+        {
+          "no": 11,
+          "question": "What time are students asked to put their phones in another room?",
+          "options": { "A": "At 9 p.m.", "B": "At midnight", "C": "At 6 a.m.", "D": "At 10 p.m." },
+          "answer": "D",
+          "explanation": "Bài viết: 'Students are asked to put their phones in another room at 10 p.m.' 'Midnight' là giờ học sinh thường thức đến."
+        },
+        {
+          "no": 12,
+          "question": "What happened after one month of the campaign?",
+          "options": { "A": "More than half of the students fell asleep faster.", "B": "All students stopped using their phones.", "C": "The school banned phones forever.", "D": "Parents bought a new Wi-Fi system." },
+          "answer": "A",
+          "explanation": "Từ khóa 'after one month' → 'After one month, more than half of the students said they fell asleep faster and felt more active at school.'"
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" },
+    { "title": "Open Exam Prep - Single Passages: Question Types & Strategies", "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies" },
+    { "title": "SGGP - Đề thi tiếng Anh vào lớp 10 ở Hà Nội: Dự đoán nhiều điểm 10", "url": "https://www.sggp.org.vn/de-thi-tieng-anh-vao-lop-10-o-ha-noi-du-doan-nhieu-diem-10-post561990.html" }
+  ]
+}

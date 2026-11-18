@@ -1,0 +1,293 @@
+{
+  "material_id": "MAT_CD29",
+  "skill_id": "SK_SENT_TRANS",
+  "title": "Chuyên đề Câu đồng nghĩa",
+  "target_level": 3,
+  "summary": "Tổng hợp toàn diện các cấu trúc câu đồng nghĩa hay gặp và các bẫy đổi nghĩa tinh vi, giúp học sinh xử lý câu viết lại khó ở mức phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Đảo ngữ và nhấn mạnh",
+      "points": [
+        "As soon as S + V2, S + V2 = No sooner had S + V3 than S + V2 = Hardly had S + V3 when S + V2",
+        "S + didn't + V + until … = Not until … did S + V = It was not until … that S + V2",
+        "Although S + be + adj = Adj + as/though + S + be (Rich as he is, …)"
+      ],
+      "examples": [
+        {
+          "en": "As soon as she arrived home, she turned on the computer. → No sooner had she arrived home than she turned on the computer.",
+          "vi": "Cô ấy vừa về đến nhà là bật máy tính."
+        }
+      ]
+    },
+    {
+      "heading": "Câu ước, câu điều kiện, would rather",
+      "points": [
+        "It's a pity/I'm sorry + S + can't/don't … = S + wish + S + could/V2 (ước ở hiện tại)",
+        "Sự thật quá khứ (… so …) → điều kiện loại 3 với nghĩa ngược: If + had (not) V3, S + would (not) have V3",
+        "prefer V-ing to V-ing = would rather V than V"
+      ],
+      "examples": [
+        {
+          "en": "She didn't study hard, so she failed. → If she had studied hard, she wouldn't have failed.",
+          "vi": "Nếu cô ấy học chăm thì đã không trượt."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động, tường thuật, động từ khuyết thiếu",
+      "points": [
+        "Bị động tiếp diễn: are building → is being built; bị động kép: It is said that S + V = S + is said + to V",
+        "Câu mệnh lệnh phủ định \"Don't …\" → told sb not to V",
+        "It's not necessary for sb to V = sb don't have to / needn't V (khác mustn't = cấm)",
+        "S + stopped V-ing + time ago = S + haven't/hasn't V3 + for + time"
+      ],
+      "examples": [
+        {
+          "en": "It is said that he is a talented painter. → He is said to be a talented painter.",
+          "vi": "Người ta nói anh ấy là một họa sĩ tài năng."
+        },
+        {
+          "en": "It's not necessary for you to bring your laptop. → You don't have to bring your laptop.",
+          "vi": "Bạn không cần mang máy tính."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh và các cấu trúc nguyên nhân – kết quả",
+      "points": [
+        "the most + adj = No + N + is as adj as … = … + adj-er than any other + N số ít",
+        "so + adj + that = such + (a/an) + adj + N + that",
+        "S + couldn't V because of N = N + prevented S from V-ing"
+      ],
+      "examples": [
+        {
+          "en": "The film was so boring that we left halfway. → It was such a boring film that we left halfway.",
+          "vi": "Bộ phim chán đến mức chúng tôi bỏ về giữa chừng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bẫy phổ biến nhất: phương án đúng ngữ pháp nhưng đổi nghĩa (mustn't ≠ don't have to; As = vì ≠ Although).",
+    "Với câu điều kiện loại 3 từ sự thật quá khứ: đổi khẳng định ↔ phủ định ở CẢ hai vế.",
+    "Đảo ngữ: kiểm tra đủ ba thứ – trợ động từ đúng thì, chủ ngữ sau trợ động từ, liên từ đúng cặp (No sooner … than, Hardly … when).",
+    "So sánh nhất ↔ so sánh hơn: phải có \"any other + N số ít\"; thiếu \"other\" là sai logic."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đảo ngữ, câu ước, câu điều kiện",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "As soon as she arrived home, she turned on the computer.",
+          "options": {
+            "A": "She had turned on the computer before she arrived home.",
+            "B": "No sooner had she arrived home than she turned on the computer.",
+            "C": "No sooner did she arrive home when she turned on the computer.",
+            "D": "Hardly she had arrived home when she turned on the computer."
+          },
+          "answer": "B",
+          "explanation": "No sooner + had + S + V3 + than … diễn tả hai hành động liên tiếp. \"Hardly\" thiếu đảo ngữ; \"No sooner … when\" sai cặp liên từ."
+        },
+        {
+          "no": 2,
+          "question": "I didn't know the answer until the teacher explained it.",
+          "options": {
+            "A": "Not until the teacher explained it I knew the answer.",
+            "B": "Not until the teacher explained it did I know the answer.",
+            "C": "Not until did the teacher explain it I knew the answer.",
+            "D": "Not until the teacher had explained it did I not know the answer."
+          },
+          "answer": "B",
+          "explanation": "Not until + mệnh đề thường + đảo ngữ ở mệnh đề chính: \"did I know\"."
+        },
+        {
+          "no": 3,
+          "question": "It's a pity I can't speak French.",
+          "options": {
+            "A": "I wish I could speak French.",
+            "B": "I wish I can speak French.",
+            "C": "I wish I couldn't speak French.",
+            "D": "I wished I could speak French."
+          },
+          "answer": "A",
+          "explanation": "Ước trái với hiện tại: wish + could + V. \"wished\" chuyển sang thời điểm quá khứ nên lệch thời gian."
+        },
+        {
+          "no": 4,
+          "question": "She didn't study hard, so she failed the exam.",
+          "options": {
+            "A": "Unless she had studied hard, she wouldn't have failed the exam.",
+            "B": "If she studied hard, she wouldn't fail the exam.",
+            "C": "If she had studied hard, she wouldn't have failed the exam.",
+            "D": "If she had studied hard, she would have failed the exam."
+          },
+          "answer": "C",
+          "explanation": "Sự thật quá khứ → điều kiện loại 3, đổi nghĩa ngược ở cả hai vế: had studied … wouldn't have failed."
+        },
+        {
+          "no": 5,
+          "question": "Although he is very rich, he isn't happy.",
+          "options": {
+            "A": "Despite rich, he isn't happy.",
+            "B": "Rich though is he, he isn't happy.",
+            "C": "Rich as he is, he isn't happy.",
+            "D": "As he is rich, he isn't happy."
+          },
+          "answer": "C",
+          "explanation": "Adj + as + S + be = mặc dù. \"As he is rich\" lại mang nghĩa \"vì\", làm sai quan hệ nhượng bộ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Bị động, tường thuật, động từ khuyết thiếu",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 6,
+          "question": "They are building a new hospital in my town.",
+          "options": {
+            "A": "A new hospital is building in my town.",
+            "B": "A new hospital has been built in my town.",
+            "C": "A new hospital is being built in my town.",
+            "D": "A new hospital is built in my town."
+          },
+          "answer": "C",
+          "explanation": "Hiện tại tiếp diễn bị động: is/are + being + V3."
+        },
+        {
+          "no": 7,
+          "question": "\"Don't touch the broken wire,\" the electrician said to us.",
+          "options": {
+            "A": "The electrician asked us to touch the broken wire.",
+            "B": "The electrician said us not to touch the broken wire.",
+            "C": "The electrician told us not to touch the broken wire.",
+            "D": "The electrician told us don't touch the broken wire."
+          },
+          "answer": "C",
+          "explanation": "Mệnh lệnh phủ định → told sb not to V. \"said\" không đi trực tiếp với tân ngữ người."
+        },
+        {
+          "no": 8,
+          "question": "It's not necessary for you to bring your laptop tomorrow.",
+          "options": {
+            "A": "You must bring your laptop tomorrow.",
+            "B": "You mustn't bring your laptop tomorrow.",
+            "C": "You don't have to bring your laptop tomorrow.",
+            "D": "You needn't to bring your laptop tomorrow."
+          },
+          "answer": "C",
+          "explanation": "\"not necessary\" = don't have to (không cần). \"mustn't\" là cấm – đổi nghĩa; \"needn't to\" sai ngữ pháp."
+        },
+        {
+          "no": 9,
+          "question": "My father stopped smoking two years ago.",
+          "options": {
+            "A": "My father has smoked for two years.",
+            "B": "My father didn't smoke two years ago.",
+            "C": "My father stopped to smoke two years ago.",
+            "D": "My father hasn't smoked for two years."
+          },
+          "answer": "D",
+          "explanation": "stopped V-ing + time ago = haven't/hasn't + V3 + for + time. \"stopped to smoke\" nghĩa là dừng lại để hút thuốc."
+        },
+        {
+          "no": 10,
+          "question": "It is said that he is a talented painter.",
+          "options": {
+            "A": "He is said to be a talented painter.",
+            "B": "He is said to have been a talented painter.",
+            "C": "He is said being a talented painter.",
+            "D": "He said to be a talented painter."
+          },
+          "answer": "A",
+          "explanation": "Bị động kép, hai động từ cùng thì hiện tại → is said + to V. \"to have been\" chỉ dùng khi hành động xảy ra trước."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. So sánh và nguyên nhân – kết quả",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Lan is the most intelligent student in her class.",
+          "options": {
+            "A": "Some students in her class are more intelligent than Lan.",
+            "B": "Lan is as intelligent as the other students in her class.",
+            "C": "Lan is more intelligent than any student in her class.",
+            "D": "No student in her class is as intelligent as Lan."
+          },
+          "answer": "D",
+          "explanation": "So sánh nhất = \"No + N + as … as\". \"than any student\" thiếu \"other\" nên sai logic (Lan cũng là một học sinh trong lớp)."
+        },
+        {
+          "no": 12,
+          "question": "The film was so boring that we left halfway.",
+          "options": {
+            "A": "It was so a boring film that we left halfway.",
+            "B": "The film was too boring for us to leave halfway.",
+            "C": "It was such boring film that we left halfway.",
+            "D": "It was such a boring film that we left halfway."
+          },
+          "answer": "D",
+          "explanation": "so + adj + that = such + a + adj + N + that. \"too … for us to leave\" đảo ngược nghĩa."
+        },
+        {
+          "no": 13,
+          "question": "He prefers reading books to watching TV.",
+          "options": {
+            "A": "He prefers to watch TV than read books.",
+            "B": "He would rather watch TV than read books.",
+            "C": "He would rather read books than watch TV.",
+            "D": "He would rather reading books than watching TV."
+          },
+          "answer": "C",
+          "explanation": "prefer V-ing to V-ing = would rather + V + than + V; giữ đúng thứ tự ưu tiên (đọc sách > xem TV)."
+        },
+        {
+          "no": 14,
+          "question": "We couldn't go out because of the heavy rain.",
+          "options": {
+            "A": "Despite the heavy rain, we couldn't go out.",
+            "B": "The heavy rain made us go out.",
+            "C": "The heavy rain prevented us from going out.",
+            "D": "The heavy rain prevented us to go out."
+          },
+          "answer": "C",
+          "explanation": "N + prevented + sb + from V-ing = vì N mà ai đó không thể làm gì. \"Despite\" đổi quan hệ nguyên nhân thành nhượng bộ."
+        },
+        {
+          "no": 15,
+          "question": "The last time I went swimming was in 2022.",
+          "options": {
+            "A": "I have gone swimming since 2022.",
+            "B": "I haven't gone swimming since 2022.",
+            "C": "I haven't gone swimming for 2022.",
+            "D": "I didn't go swimming in 2022."
+          },
+          "answer": "B",
+          "explanation": "The last time … was + mốc = haven't + V3 + since + mốc."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Viết lại câu thi vào 10",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    },
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    },
+    {
+      "title": "VietNamNet – 8 lỗi sai thí sinh hay mắc trong bài thi Tiếng Anh vào 10 Hà Nội",
+      "url": "https://vietnamnet.vn/thi-lop-10-tai-ha-noi-8-loi-sai-thi-sinh-hay-mac-trong-bai-thi-mon-tieng-anh-2287524.html"
+    }
+  ]
+}

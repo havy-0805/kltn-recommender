@@ -1,0 +1,233 @@
+{
+  "material_id": "MAT_SUGGEST_02",
+  "skill_id": "SK_SUGGEST",
+  "title": "Cấu trúc Suggest + V-ing và Suggest that + S + (should) V",
+  "target_level": 2,
+  "summary": "Phân biệt và vận dụng hai cấu trúc suggest + V-ing và suggest that + S + (should) + V trong các dạng đề viết lại câu, tìm lỗi sai và điền từ thường gặp trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Hai cấu trúc chính và khi nào dùng",
+      "points": [
+        "S + suggest + V-ing: đề nghị chung, thường người nói cũng tham gia (tương đương Let's...)",
+        "S + suggest + (that) + S2 + (should) + V: khuyên/đề nghị một người hoặc nhóm cụ thể làm gì",
+        "Phủ định: suggest + not + V-ing; suggest that + S2 + (should) + not + V"
+      ],
+      "examples": [
+        {
+          "en": "Linh suggested taking part in the clean-up campaign.",
+          "vi": "Linh đề nghị tham gia chiến dịch dọn vệ sinh."
+        },
+        {
+          "en": "The coach suggested that every player should not skip warm-up exercises.",
+          "vi": "Huấn luyện viên khuyên mọi cầu thủ không nên bỏ bài khởi động."
+        }
+      ]
+    },
+    {
+      "heading": "Bảng chuyển đổi câu trực tiếp → suggest",
+      "points": [
+        "Let's / Shall we / Why don't we + V? / How about / What about + V-ing? → S + suggested + V-ing",
+        "Let's not + V → S + suggested + not + V-ing",
+        "You should / You'd better / Why don't you + V? / If I were you, I'd + V → S + suggested that + S2 + (should) + V",
+        "Khi chuyển, nhớ đổi trạng từ thời gian (tonight → that night, tomorrow → the next day)"
+      ],
+      "examples": [
+        {
+          "en": "\"Shall we have lunch at a vegetarian restaurant?\" Mai said. → Mai suggested having lunch at a vegetarian restaurant.",
+          "vi": "Mai gợi ý ăn trưa ở nhà hàng chay."
+        },
+        {
+          "en": "\"You'd better book the tickets online,\" Nga told her cousin. → Nga suggested that her cousin (should) book the tickets online.",
+          "vi": "Nga khuyên em họ nên đặt vé trên mạng."
+        }
+      ]
+    },
+    {
+      "heading": "Lỗi sai hay gặp trong đề",
+      "points": [
+        "Sai: suggest + to V (suggested to organize) → Đúng: suggested organizing",
+        "Sai: suggest + sb + to V (suggested me to go) → Đúng: suggested that I (should) go",
+        "Sai: should + to V (should to take) → Đúng: should take",
+        "Sai: thêm -s hoặc chia thì cho động từ sau 'that + S' khi đã có cấu trúc giả định (that he goes) → chuẩn đề thi: that he (should) go"
+      ],
+      "examples": [
+        {
+          "en": "They suggested organizing a charity concert for the flood victims.",
+          "vi": "Họ đề nghị tổ chức một buổi hòa nhạc từ thiện cho nạn nhân lũ lụt."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đề viết lại câu: nhìn câu gốc. 'we/us/Let's' → V-ing; 'you should/you'd better' → that + S + (should) + V.",
+    "Gặp dạng tìm lỗi sai với suggest, kiểm tra ngay ba vị trí: sau suggest, sau tân ngữ, và sau should.",
+    "Nếu đáp án có cả 'should + V' và 'V nguyên mẫu' sau that thì cả hai đều đúng ngữ pháp, nên đề chỉ cho một trong hai. Chọn phương án đó, loại các dạng to V, V-ing, V-ed.",
+    "Suggest đã chia quá khứ (suggested) nhưng động từ sau 'that + S' vẫn ở nguyên mẫu."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "\"Shall we have lunch at a vegetarian restaurant?\" Mai said. → Mai suggested ______ lunch at a vegetarian restaurant.",
+          "options": {
+            "A": "had",
+            "B": "having",
+            "C": "to have",
+            "D": "have"
+          },
+          "answer": "B",
+          "explanation": "Shall we + V? là đề nghị cùng làm → suggested + V-ing: 'suggested having'."
+        },
+        {
+          "no": 2,
+          "question": "\"If I were you, I would apply for that scholarship,\" my brother said to me. → My brother suggested that I ______ for that scholarship.",
+          "options": {
+            "A": "would apply",
+            "B": "to apply",
+            "C": "applying",
+            "D": "should apply"
+          },
+          "answer": "D",
+          "explanation": "If I were you... là lời khuyên → suggested that + S + should + V. 'would apply' sai vì không phải câu điều kiện."
+        },
+        {
+          "no": 3,
+          "question": "The coach suggested that every player ______ on time for training.",
+          "options": {
+            "A": "to be",
+            "B": "is being",
+            "C": "been",
+            "D": "should be"
+          },
+          "answer": "D",
+          "explanation": "Sau 'suggested that + S' dùng (should) + V nguyên mẫu → 'should be'."
+        },
+        {
+          "no": 4,
+          "question": "\"Let's not use plastic bags any more,\" said the teacher. → The teacher suggested ______ plastic bags any more.",
+          "options": {
+            "A": "not using",
+            "B": "using not",
+            "C": "to not use",
+            "D": "not to use"
+          },
+          "answer": "A",
+          "explanation": "Let's not + V → suggested + not + V-ing. 'not' đứng trước V-ing."
+        },
+        {
+          "no": 5,
+          "question": "A: \"I'm always tired in the morning.\" – B: \"I suggest ______ to bed earlier.\"",
+          "options": {
+            "A": "go",
+            "B": "going",
+            "C": "to go",
+            "D": "gone"
+          },
+          "answer": "B",
+          "explanation": "Suggest + V-ing khi không có chủ ngữ mới: 'I suggest going to bed earlier'."
+        },
+        {
+          "no": 6,
+          "question": "The tour guide suggested ______ the museum early to avoid the crowds.",
+          "options": {
+            "A": "to visit",
+            "B": "visit",
+            "C": "visiting",
+            "D": "us to visit"
+          },
+          "answer": "C",
+          "explanation": "Suggest + V-ing. 'to visit' và 'us to visit' sai vì suggest không đi với to V."
+        },
+        {
+          "no": 7,
+          "question": "\"You'd better book the tickets online,\" Nga told her cousin. → Nga suggested that her cousin ______ the tickets online.",
+          "options": {
+            "A": "should book",
+            "B": "to book",
+            "C": "booking",
+            "D": "would booked"
+          },
+          "answer": "A",
+          "explanation": "You'd better + V là lời khuyên → suggested that + S + should + V nguyên mẫu."
+        },
+        {
+          "no": 8,
+          "question": "Linh said, \"What about taking part in the clean-up campaign?\" → Linh suggested that we ______ part in the clean-up campaign.",
+          "options": {
+            "A": "were taking",
+            "B": "taking",
+            "C": "to take",
+            "D": "take"
+          },
+          "answer": "D",
+          "explanation": "Có 'that + we' → động từ nguyên mẫu (đã lược should): 'that we take'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu và tìm lỗi sai",
+      "instructions": "Choose the sentence closest in meaning to the given one, or the underlined part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "\"Why don't we go cycling around the lake?\" said Minh.",
+          "options": {
+            "A": "Minh suggested to go cycling around the lake.",
+            "B": "Minh suggested going cycling around the lake.",
+            "C": "Minh refused to go cycling around the lake.",
+            "D": "Minh suggested us going cycling around the lake."
+          },
+          "answer": "B",
+          "explanation": "Why don't we + V? → suggested + V-ing. A sai vì suggest + to V; D sai vì thừa tân ngữ 'us'; C sai nghĩa."
+        },
+        {
+          "no": 10,
+          "question": "\"I suggest that you revise the old lessons before the test,\" the teacher said.",
+          "options": {
+            "A": "The teacher said we couldn't revise the old lessons before the test.",
+            "B": "The teacher said we needn't revise the old lessons before the test.",
+            "C": "The teacher said we should revise the old lessons before the test.",
+            "D": "The teacher said we mustn't revise the old lessons before the test."
+          },
+          "answer": "C",
+          "explanation": "Suggest that you revise = khuyên bạn nên ôn → tương đương 'should revise'. Các phương án khác mang nghĩa cấm, không cần, không thể."
+        },
+        {
+          "no": 11,
+          "question": "Find the mistake: My friend (A) suggested (B) that I (C) should to take (D) a gap year.",
+          "options": {
+            "A": "suggested",
+            "B": "that I",
+            "C": "should to take",
+            "D": "a gap year"
+          },
+          "answer": "C",
+          "explanation": "Sau should dùng V nguyên mẫu không 'to' → sửa thành 'should take'."
+        },
+        {
+          "no": 12,
+          "question": "Find the mistake: They (A) suggested to organize (B) a charity concert (C) for the flood (D) victims.",
+          "options": {
+            "A": "suggested to organize",
+            "B": "a charity concert",
+            "C": "for the flood",
+            "D": "victims"
+          },
+          "answer": "A",
+          "explanation": "Suggest không đi với to V → sửa thành 'suggested organizing'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP – Cấu trúc Suggest trong tiếng Anh",
+      "url": "https://prepedu.com/vi/blog/cau-truc-suggest"
+    }
+  ]
+}

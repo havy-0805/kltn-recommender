@@ -1,0 +1,228 @@
+{
+  "material_id": "MAT_SUBJ_VERB_01",
+  "skill_id": "SK_SUBJECT_VERB",
+  "title": "Quy tắc hòa hợp chủ ngữ và động từ cơ bản số ít/số nhiều",
+  "target_level": 1,
+  "summary": "Giúp học sinh chia động từ đúng theo chủ ngữ số ít hay số nhiều trong các trường hợp cơ bản: danh từ đếm được/không đếm được, chủ ngữ nối bằng 'and', đại từ bất định và cấu trúc There is/There are.",
+  "theory": [
+    {
+      "heading": "Chủ ngữ số ít và số nhiều",
+      "points": [
+        "Chủ ngữ số ít (he, she, it, danh từ số ít, danh từ không đếm được) + động từ số ít: is, was, has, V-s/es.",
+        "Chủ ngữ số nhiều (we, you, they, danh từ số nhiều) + động từ số nhiều: are, were, have, V nguyên mẫu.",
+        "Danh từ không đếm được (water, money, information, homework, furniture, advice) luôn đi với động từ số ít.",
+        "Danh từ số nhiều bất quy tắc: people, children, men, women, teeth, feet + động từ số nhiều."
+      ],
+      "examples": [
+        {
+          "en": "The information on this website is very useful.",
+          "vi": "Thông tin trên trang web này rất hữu ích."
+        },
+        {
+          "en": "The children are playing in the garden.",
+          "vi": "Bọn trẻ đang chơi trong vườn."
+        }
+      ]
+    },
+    {
+      "heading": "Chủ ngữ nối bằng 'and' và đại từ bất định",
+      "points": [
+        "S1 and S2 → động từ số nhiều: Nam and Lan are classmates.",
+        "Each, every, everyone, everybody, everything, someone, nobody, nothing, anyone + động từ số ít.",
+        "Each/Every + N số ít (kể cả khi nối bằng and: Every boy and girl has a book) → động từ số ít."
+      ],
+      "examples": [
+        {
+          "en": "Everyone in my class likes English.",
+          "vi": "Mọi người trong lớp tôi đều thích tiếng Anh."
+        },
+        {
+          "en": "My brother and I go to the same school.",
+          "vi": "Anh trai tôi và tôi học cùng trường."
+        }
+      ]
+    },
+    {
+      "heading": "There is / There are và cụm giới từ đứng giữa",
+      "points": [
+        "There is/was + N số ít hoặc không đếm được; There are/were + N số nhiều. Động từ chia theo danh từ đứng SAU nó.",
+        "Bỏ qua cụm giới từ chen giữa chủ ngữ và động từ: The box of apples IS heavy (chủ ngữ là 'box')."
+      ],
+      "examples": [
+        {
+          "en": "There are thirty students in my class.",
+          "vi": "Có ba mươi học sinh trong lớp tôi."
+        },
+        {
+          "en": "The book on the shelves belongs to my teacher.",
+          "vi": "Quyển sách trên giá thuộc về cô giáo tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Tìm đúng chủ ngữ chính: gạch bỏ cụm giới từ (of..., in..., on...) trước khi chia động từ.",
+    "Đuôi '-one, -body, -thing' và each/every luôn đi với động từ số ít.",
+    "Nhớ các danh từ không đếm được hay ra thi: information, advice, news, homework, furniture, equipment.",
+    "Với There is/are, nhìn danh từ đứng ngay sau để chia."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My mother ______ to work by bus every day.",
+          "options": {
+            "A": "go",
+            "B": "goes",
+            "C": "going",
+            "D": "are going"
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ số ít 'My mother', thì hiện tại đơn → goes."
+        },
+        {
+          "no": 2,
+          "question": "The students in my class ______ very friendly.",
+          "options": {
+            "A": "are",
+            "B": "has",
+            "C": "was",
+            "D": "is"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ chính 'The students' (số nhiều); 'in my class' là cụm giới từ → are."
+        },
+        {
+          "no": 3,
+          "question": "There ______ a lot of water on the floor after the storm.",
+          "options": {
+            "A": "have",
+            "B": "was",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "'water' là danh từ không đếm được → There was."
+        },
+        {
+          "no": 4,
+          "question": "Hoa and her sister ______ the piano very well.",
+          "options": {
+            "A": "play",
+            "B": "plays",
+            "C": "is playing",
+            "D": "has played"
+          },
+          "answer": "A",
+          "explanation": "Hai chủ ngữ nối bằng 'and' → số nhiều → play."
+        },
+        {
+          "no": 5,
+          "question": "Everybody ______ excited about the school trip.",
+          "options": {
+            "A": "is",
+            "B": "have been",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "A",
+          "explanation": "'Everybody' là đại từ bất định, đi với động từ số ít → is."
+        },
+        {
+          "no": 6,
+          "question": "The news about the football match ______ very surprising.",
+          "options": {
+            "A": "are",
+            "B": "have been",
+            "C": "was",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "'news' là danh từ không đếm được, dù có đuôi -s → động từ số ít: was."
+        },
+        {
+          "no": 7,
+          "question": "People in the countryside usually ______ up early.",
+          "options": {
+            "A": "is getting",
+            "B": "has got",
+            "C": "gets",
+            "D": "get"
+          },
+          "answer": "D",
+          "explanation": "'People' là danh từ số nhiều → get."
+        },
+        {
+          "no": 8,
+          "question": "Each student ______ to wear a uniform on Mondays.",
+          "options": {
+            "A": "were",
+            "B": "are",
+            "C": "has",
+            "D": "have"
+          },
+          "answer": "C",
+          "explanation": "Each + N số ít → động từ số ít: has."
+        },
+        {
+          "no": 9,
+          "question": "The box of old toys ______ in the attic.",
+          "options": {
+            "A": "were",
+            "B": "is",
+            "C": "are",
+            "D": "have"
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ chính là 'The box' (số ít); 'of old toys' là cụm giới từ → is."
+        },
+        {
+          "no": 10,
+          "question": "There ______ two new books on my desk.",
+          "options": {
+            "A": "has",
+            "B": "is",
+            "C": "was",
+            "D": "are"
+          },
+          "answer": "D",
+          "explanation": "'two new books' là danh từ số nhiều → There are."
+        },
+        {
+          "no": 11,
+          "question": "My homework ______ not finished yet.",
+          "options": {
+            "A": "have",
+            "B": "are",
+            "C": "were",
+            "D": "is"
+          },
+          "answer": "D",
+          "explanation": "'homework' là danh từ không đếm được → is."
+        },
+        {
+          "no": 12,
+          "question": "Nobody in my family ______ coffee.",
+          "options": {
+            "A": "are drinking",
+            "B": "have drunk",
+            "C": "drinks",
+            "D": "drink"
+          },
+          "answer": "C",
+          "explanation": "'Nobody' đi với động từ số ít → drinks."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Purdue OWL – Making Subjects and Verbs Agree",
+      "url": "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html"
+    }
+  ]
+}

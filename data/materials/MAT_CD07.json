@@ -1,0 +1,237 @@
+{
+  "material_id": "MAT_CD07",
+  "skill_id": "SK_USED_TO",
+  "title": "Chuyên đề USED TO - BE USED TO",
+  "target_level": 1,
+  "summary": "Tổng hợp nền tảng về used to + V (thói quen/trạng thái trong quá khứ), be used to + V-ing/N (đã quen với) và get used to + V-ing/N (dần quen với), giúp học sinh nhận diện và dùng đúng từng cấu trúc.",
+  "theory": [
+    {
+      "heading": "Used to + V nguyên mẫu",
+      "points": [
+        "Diễn tả thói quen hoặc trạng thái trong quá khứ nay không còn nữa.",
+        "Khẳng định: S + used to + V.",
+        "Phủ định: S + didn't use to + V (không có -d sau 'use').",
+        "Nghi vấn: Did + S + use to + V?",
+        "There used to be + N: trước đây từng có ..."
+      ],
+      "examples": [
+        {
+          "en": "I used to walk to school, but now I go by bike.",
+          "vi": "Trước đây tôi đi bộ đến trường, giờ tôi đi xe đạp."
+        },
+        {
+          "en": "Did you use to have long hair?",
+          "vi": "Trước đây bạn có để tóc dài không?"
+        }
+      ]
+    },
+    {
+      "heading": "Be used to + V-ing / N",
+      "points": [
+        "Nghĩa: đã quen với việc gì (không còn thấy lạ, khó).",
+        "S + am/is/are/was/were + used to + V-ing / N.",
+        "Phủ định: S + be + not + used to + V-ing / N.",
+        "'to' ở đây là giới từ nên sau nó là V-ing hoặc danh từ."
+      ],
+      "examples": [
+        {
+          "en": "My mother is used to getting up early.",
+          "vi": "Mẹ tôi đã quen dậy sớm."
+        }
+      ]
+    },
+    {
+      "heading": "Get used to + V-ing / N",
+      "points": [
+        "Nghĩa: dần dần trở nên quen với việc gì (quá trình làm quen).",
+        "'get' chia theo thì: get/gets used to, got used to, will get used to, have got used to...",
+        "Sau 'get used to' là V-ing hoặc danh từ."
+      ],
+      "examples": [
+        {
+          "en": "You will soon get used to the new school.",
+          "vi": "Bạn sẽ sớm quen với trường mới thôi."
+        },
+        {
+          "en": "It took me a month to get used to living alone.",
+          "vi": "Tôi mất một tháng để quen với việc sống một mình."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Có 'be' hoặc 'get' trước 'used to' → động từ sau dạng V-ing; không có 'be/get' → động từ nguyên mẫu.",
+    "Phủ định và câu hỏi của used to: didn't use to / Did ... use to (bỏ -d).",
+    "Câu có 'but now ...', 'any more', 'no longer' → thường là 'used to + V'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My father ______ smoke, but he stopped five years ago.",
+          "options": {
+            "A": "using to",
+            "B": "is used to",
+            "C": "uses to",
+            "D": "used to"
+          },
+          "answer": "D",
+          "explanation": "Thói quen trong quá khứ nay đã bỏ, theo sau là V nguyên mẫu 'smoke' → 'used to'."
+        },
+        {
+          "no": 2,
+          "question": "I ______ getting up early now, so it isn't difficult for me.",
+          "options": {
+            "A": "use to",
+            "B": "am used to",
+            "C": "was use to",
+            "D": "used to"
+          },
+          "answer": "B",
+          "explanation": "Đã quen với việc gì ở hiện tại (now), theo sau là V-ing → 'am used to'."
+        },
+        {
+          "no": 3,
+          "question": "Did you ______ to school by bike when you were small?",
+          "options": {
+            "A": "use going",
+            "B": "used to go",
+            "C": "used to going",
+            "D": "use to go"
+          },
+          "answer": "D",
+          "explanation": "Câu hỏi với 'Did' → 'use to' (bỏ -d) + V nguyên mẫu: 'use to go'."
+        },
+        {
+          "no": 4,
+          "question": "She is used to ______ in the rain.",
+          "options": {
+            "A": "walked",
+            "B": "walks",
+            "C": "walking",
+            "D": "walk"
+          },
+          "answer": "C",
+          "explanation": "be used to + V-ing → 'walking'."
+        },
+        {
+          "no": 5,
+          "question": "We ______ have a cat, but it ran away last year.",
+          "options": {
+            "A": "are used to",
+            "B": "get used to",
+            "C": "were used to",
+            "D": "used to"
+          },
+          "answer": "D",
+          "explanation": "Trạng thái trong quá khứ nay không còn, sau là V nguyên mẫu 'have' → 'used to'."
+        },
+        {
+          "no": 6,
+          "question": "It is not easy to ______ a new school.",
+          "options": {
+            "A": "using",
+            "B": "get used to",
+            "C": "used to",
+            "D": "use to"
+          },
+          "answer": "B",
+          "explanation": "Quá trình dần làm quen với điều mới, sau là danh từ 'a new school' → 'get used to'."
+        },
+        {
+          "no": 7,
+          "question": "Lan didn't ______ like milk, but now she drinks it every day.",
+          "options": {
+            "A": "uses to",
+            "B": "used to",
+            "C": "use to",
+            "D": "using to"
+          },
+          "answer": "C",
+          "explanation": "Phủ định với 'didn't' → 'use to' (không có -d)."
+        },
+        {
+          "no": 8,
+          "question": "They are used to ______ English at home.",
+          "options": {
+            "A": "speaking",
+            "B": "spoke",
+            "C": "speak",
+            "D": "speaks"
+          },
+          "answer": "A",
+          "explanation": "be used to + V-ing → 'speaking'."
+        },
+        {
+          "no": 9,
+          "question": "There ______ a small bookshop on this corner, but it closed down.",
+          "options": {
+            "A": "used to be",
+            "B": "used to being",
+            "C": "uses to be",
+            "D": "is used to be"
+          },
+          "answer": "A",
+          "explanation": "There used to be + N: trước đây từng có (nay không còn)."
+        },
+        {
+          "no": 10,
+          "question": "I ______ to the new teacher yet. She speaks very fast.",
+          "options": {
+            "A": "didn't use",
+            "B": "haven't got used",
+            "C": "haven't used",
+            "D": "am not use"
+          },
+          "answer": "B",
+          "explanation": "'yet' → hiện tại hoàn thành của 'get used to': 'haven't got used to'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất / câu đúng",
+      "instructions": "Choose the sentence that is closest in meaning to the given one or best answers the question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Which sentence talks about a past habit that has stopped?",
+          "options": {
+            "A": "I used to read comics.",
+            "B": "I'm used to reading comics.",
+            "C": "I will get used to reading comics.",
+            "D": "I'm getting used to reading comics."
+          },
+          "answer": "A",
+          "explanation": "'used to + V' diễn tả thói quen trong quá khứ đã chấm dứt; các câu còn lại nói về sự quen thuộc."
+        },
+        {
+          "no": 12,
+          "question": "Tom often played the guitar when he was a student, but he doesn't now.",
+          "options": {
+            "A": "Tom didn't use to play the guitar.",
+            "B": "Tom gets used to play the guitar.",
+            "C": "Tom used to play the guitar when he was a student.",
+            "D": "Tom is used to playing the guitar."
+          },
+          "answer": "C",
+          "explanation": "Thói quen thời sinh viên nay không còn → 'used to play'. A ngược nghĩa, B sai cấu trúc."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Bài tập used to lớp 9",
+      "url": "https://zim.vn/bai-tap-used-to-lop-9"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    }
+  ]
+}

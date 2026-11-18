@@ -1,0 +1,266 @@
+{
+  "material_id": "MAT_COMP_01",
+  "skill_id": "SK_COMPARATIVE",
+  "title": "Cấu trúc so sánh bằng, hơn và hơn nhất cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm công thức so sánh bằng, so sánh hơn, so sánh hơn nhất với tính từ/trạng từ ngắn và dài, các dạng bất quy tắc, và chọn đúng dạng so sánh trong câu trắc nghiệm.",
+  "theory": [
+    {
+      "heading": "So sánh bằng và không bằng",
+      "points": [
+        "S + V + as + adj/adv (nguyên dạng) + as + N/Pronoun.",
+        "Phủ định: not as/so + adj/adv + as.",
+        "the same + (N) + as: The same age as, the same height as."
+      ],
+      "examples": [
+        {
+          "en": "Lan is as tall as her mother.",
+          "vi": "Lan cao bằng mẹ."
+        },
+        {
+          "en": "This phone is not as expensive as that one.",
+          "vi": "Điện thoại này không đắt bằng cái kia."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh hơn",
+      "points": [
+        "Tính từ/trạng từ ngắn (1 âm tiết, hoặc 2 âm tiết tận cùng -y): adj-er + than (tall → taller, happy → happier).",
+        "Tính từ/trạng từ dài (từ 2 âm tiết trở lên): more + adj/adv + than (more beautiful, more carefully).",
+        "Quy tắc chính tả: big → bigger (nhân đôi phụ âm cuối khi trước nó là 1 nguyên âm), nice → nicer, easy → easier."
+      ],
+      "examples": [
+        {
+          "en": "Today is hotter than yesterday.",
+          "vi": "Hôm nay nóng hơn hôm qua."
+        },
+        {
+          "en": "This lesson is more difficult than the last one.",
+          "vi": "Bài này khó hơn bài trước."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh hơn nhất",
+      "points": [
+        "Tính từ ngắn: the + adj-est (the tallest, the biggest, the happiest).",
+        "Tính từ dài: the most + adj (the most interesting).",
+        "Thường đi kèm: in + nơi chốn/nhóm (in my class), of + số nhiều (of all), mệnh đề 'I have ever + V3'."
+      ],
+      "examples": [
+        {
+          "en": "Fansipan is the highest mountain in Viet Nam.",
+          "vi": "Fansipan là ngọn núi cao nhất Việt Nam."
+        },
+        {
+          "en": "This is the most interesting book I have ever read.",
+          "vi": "Đây là cuốn sách thú vị nhất tôi từng đọc."
+        }
+      ]
+    },
+    {
+      "heading": "Các dạng bất quy tắc",
+      "points": [
+        "good/well → better → the best",
+        "bad/badly → worse → the worst",
+        "many/much → more → the most; little → less → the least",
+        "far → farther/further → the farthest/furthest"
+      ],
+      "examples": [
+        {
+          "en": "Her English is better than mine.",
+          "vi": "Tiếng Anh của cô ấy tốt hơn của tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy 'than' → so sánh hơn; thấy 'the ... in/of' hoặc 'ever' → so sánh hơn nhất; thấy 'as ... as' → giữ nguyên tính từ.",
+    "Đếm âm tiết: 1 âm tiết dùng -er/-est; 2 âm tiết tận cùng -y dùng -ier/-iest; còn lại dùng more/most.",
+    "Không dùng 'more' và '-er' cùng lúc (sai: more taller).",
+    "Bổ nghĩa cho động từ thường thì dùng trạng từ: speak more fluently, run faster."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng so sánh đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My brother is ______ than me.",
+          "options": {
+            "A": "tallest",
+            "B": "the tallest",
+            "C": "taller",
+            "D": "tall"
+          },
+          "answer": "C",
+          "explanation": "Có 'than' → so sánh hơn; 'tall' là tính từ ngắn → 'taller'."
+        },
+        {
+          "no": 2,
+          "question": "This is ______ film I have ever seen.",
+          "options": {
+            "A": "more interesting",
+            "B": "the most interesting",
+            "C": "most interesting than",
+            "D": "interesting"
+          },
+          "answer": "B",
+          "explanation": "'I have ever seen' → so sánh hơn nhất; tính từ dài → 'the most interesting'."
+        },
+        {
+          "no": 3,
+          "question": "Lan is as ______ as her sister.",
+          "options": {
+            "A": "pretty",
+            "B": "more pretty",
+            "C": "prettier",
+            "D": "prettiest"
+          },
+          "answer": "A",
+          "explanation": "So sánh bằng: as + adj nguyên dạng + as → 'pretty'."
+        },
+        {
+          "no": 4,
+          "question": "Today is ______ than yesterday.",
+          "options": {
+            "A": "hotter",
+            "B": "hoter",
+            "C": "hottest",
+            "D": "hot"
+          },
+          "answer": "A",
+          "explanation": "'hot' có 1 nguyên âm trước phụ âm cuối → nhân đôi 't': 'hotter'."
+        },
+        {
+          "no": 5,
+          "question": "Fansipan is ______ mountain in Viet Nam.",
+          "options": {
+            "A": "high",
+            "B": "higher",
+            "C": "the highest",
+            "D": "highest"
+          },
+          "answer": "C",
+          "explanation": "So sánh nhất trong một phạm vi (in Viet Nam) → 'the highest' (phải có 'the')."
+        },
+        {
+          "no": 6,
+          "question": "My English is ______ than my brother's.",
+          "options": {
+            "A": "best",
+            "B": "more good",
+            "C": "good",
+            "D": "better"
+          },
+          "answer": "D",
+          "explanation": "'good' bất quy tắc → so sánh hơn là 'better'."
+        },
+        {
+          "no": 7,
+          "question": "This exercise is ______ than the last one.",
+          "options": {
+            "A": "easiest",
+            "B": "easy",
+            "C": "more easy",
+            "D": "easier"
+          },
+          "answer": "D",
+          "explanation": "Tính từ 2 âm tiết tận cùng -y → đổi y thành i + er: 'easier'."
+        },
+        {
+          "no": 8,
+          "question": "Who is ______ student in your class?",
+          "options": {
+            "A": "the best",
+            "B": "better",
+            "C": "good",
+            "D": "the better"
+          },
+          "answer": "A",
+          "explanation": "So sánh nhất trong lớp (in your class) → 'the best'."
+        },
+        {
+          "no": 9,
+          "question": "A bicycle is not as ______ as a motorbike.",
+          "options": {
+            "A": "the fastest",
+            "B": "faster",
+            "C": "fast",
+            "D": "fastest"
+          },
+          "answer": "C",
+          "explanation": "So sánh không bằng: not as + adj nguyên dạng + as → 'fast'."
+        },
+        {
+          "no": 10,
+          "question": "That was the ______ day of my life. Everything went wrong.",
+          "options": {
+            "A": "bad",
+            "B": "worst",
+            "C": "worse",
+            "D": "baddest"
+          },
+          "answer": "B",
+          "explanation": "'the ... of my life' → so sánh nhất; 'bad' bất quy tắc → 'the worst'."
+        },
+        {
+          "no": 11,
+          "question": "She speaks English ______ than I do.",
+          "options": {
+            "A": "more fluently",
+            "B": "fluently",
+            "C": "more fluent",
+            "D": "the most fluently"
+          },
+          "answer": "A",
+          "explanation": "Bổ nghĩa cho động từ 'speaks' cần trạng từ; có 'than' → 'more fluently'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "No one in my class is taller than Nam.",
+          "options": {
+            "A": "Nam is not as tall as anyone in my class.",
+            "B": "Nam is the shortest student in my class.",
+            "C": "Nam is shorter than everyone in my class.",
+            "D": "Nam is the tallest student in my class."
+          },
+          "answer": "D",
+          "explanation": "Không ai trong lớp cao hơn Nam = Nam cao nhất lớp."
+        },
+        {
+          "no": 13,
+          "question": "My bag is cheaper than yours.",
+          "options": {
+            "A": "My bag is as expensive as yours.",
+            "B": "Your bag is more expensive than mine.",
+            "C": "My bag is the most expensive.",
+            "D": "Your bag is cheaper than mine."
+          },
+          "answer": "B",
+          "explanation": "Túi tôi rẻ hơn túi bạn = Túi bạn đắt hơn túi tôi (đổi chủ ngữ, dùng tính từ trái nghĩa)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Comparative and superlative adjectives",
+      "url": "https://learnenglish.britishcouncil.org/comment/166266"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu so sánh",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-so-sanh-cd2025.jsp"
+    }
+  ]
+}

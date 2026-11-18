@@ -1,0 +1,276 @@
+{
+  "material_id": "MAT_REPORT_03",
+  "skill_id": "SK_REPORT_SPEECH",
+  "title": "Câu tường thuật với các động từ đặc biệt và câu hỏi gián tiếp nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh tường thuật bằng các động từ đặc biệt (advise, suggest, remind, promise, offer, refuse, deny, admit, apologise, accuse, congratulate, invite) và xử lý câu hỏi gián tiếp, câu điều kiện gián tiếp – dạng câu phân hóa điểm cao.",
+  "theory": [
+    {
+      "heading": "Động từ tường thuật + (O) + to V",
+      "points": [
+        "advise / remind / warn / encourage / invite / ask / tell + O + (not) to V.",
+        "promise / offer / refuse / agree / threaten / decide + (not) to V (không có tân ngữ).",
+        "\"You should/had better ...\" → advised sb to V; \"Don't forget to ...\" → reminded sb to V; \"Shall I ...?\" → offered to V; \"Would you like to ...?\" → invited sb to V."
+      ],
+      "examples": [
+        {
+          "en": "\"Remember to bring your ID card,\" the teacher said to us. → The teacher reminded us to bring our ID cards.",
+          "vi": "Cô giáo nhắc chúng tôi mang thẻ căn cước."
+        },
+        {
+          "en": "\"I won't tell anyone,\" she said. → She promised not to tell anyone.",
+          "vi": "Cô ấy hứa không nói với ai."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ tường thuật + (O) + giới từ + V-ing",
+      "points": [
+        "suggest / admit / deny + V-ing (suggest còn dùng: suggest that + S + (should) + V).",
+        "apologise (to sb) for V-ing; thank sb for V-ing; accuse sb of V-ing; congratulate sb on V-ing; insist on V-ing; blame sb for V-ing.",
+        "\"Let's ...\" / \"Why don't we ...?\" → suggested V-ing."
+      ],
+      "examples": [
+        {
+          "en": "\"I'm sorry I broke your cup,\" Lan said to me. → Lan apologised to me for breaking my cup.",
+          "vi": "Lan xin lỗi tôi vì làm vỡ cốc của tôi."
+        },
+        {
+          "en": "\"You cheated in the test!\" he said to Minh. → He accused Minh of cheating in the test.",
+          "vi": "Anh ấy buộc tội Minh gian lận trong bài kiểm tra."
+        }
+      ]
+    },
+    {
+      "heading": "Câu hỏi gián tiếp và các trường hợp đặc biệt",
+      "points": [
+        "Câu hỏi Yes/No: asked (O) / wanted to know / wondered + if/whether + S + V (lùi thì).",
+        "Câu hỏi Wh-: asked (O) + từ để hỏi + S + V (trật tự câu khẳng định, bỏ dấu ?).",
+        "Câu hỏi với 'should' về lời khuyên/việc nên làm → từ để hỏi + to V (She wondered what to do).",
+        "Câu điều kiện loại 2, 3 giữ nguyên thì khi chuyển sang gián tiếp; loại 1 lùi thì thành loại 2."
+      ],
+      "examples": [
+        {
+          "en": "\"Where did you buy it?\" he asked me. → He asked me where I had bought it.",
+          "vi": "Anh ấy hỏi tôi đã mua nó ở đâu."
+        },
+        {
+          "en": "\"If I were you, I would accept the offer,\" she said. → She said that if she were me, she would accept the offer.",
+          "vi": "Cô ấy nói nếu là tôi, cô ấy sẽ nhận lời."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhận diện chức năng lời nói trước (khuyên, nhắc, hứa, xin lỗi, đề nghị, từ chối...) rồi mới chọn động từ tường thuật phù hợp.",
+    "Học thuộc cặp giới từ: apologise for, accuse of, congratulate on, insist on, thank for, blame for.",
+    "suggest KHÔNG đi với 'to V' và không có cấu trúc 'suggest sb to V'.",
+    "Câu hỏi gián tiếp: loại ngay đáp án còn đảo trợ động từ (did I, could I) hoặc không lùi thì."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn động từ / cấu trúc tường thuật đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each reported sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "\"You should see a doctor,\" the nurse said to me. → The nurse ______ me to see a doctor.",
+          "options": {
+            "A": "suggested",
+            "B": "advised",
+            "C": "insisted",
+            "D": "promised"
+          },
+          "answer": "B",
+          "explanation": "Lời khuyên 'should' → advise + O + to V. Ba động từ còn lại không đi với + O + to V: suggest + V-ing hoặc suggest that + S + (should) V; insist + on + V-ing; promise + to V hoặc promise (sb) that + mệnh đề."
+        },
+        {
+          "no": 2,
+          "question": "\"Let's go for a picnic this weekend,\" said Lan. → Lan suggested ______ for a picnic that weekend.",
+          "options": {
+            "A": "going",
+            "B": "to go",
+            "C": "us to go",
+            "D": "go"
+          },
+          "answer": "A",
+          "explanation": "'Let's ...' → suggest + V-ing: 'suggested going'."
+        },
+        {
+          "no": 3,
+          "question": "\"I'll help you with your homework,\" my brother said. → My brother ______ to help me with my homework.",
+          "options": {
+            "A": "suggested",
+            "B": "promised",
+            "C": "denied",
+            "D": "accused"
+          },
+          "answer": "B",
+          "explanation": "Lời hứa 'I'll ...' → promise + to V."
+        },
+        {
+          "no": 4,
+          "question": "\"I didn't break the vase,\" the boy said. → The boy ______ breaking the vase.",
+          "options": {
+            "A": "denied",
+            "B": "refused",
+            "C": "apologised",
+            "D": "admitted"
+          },
+          "answer": "A",
+          "explanation": "Phủ nhận việc đã làm → deny + V-ing. 'admitted' ngược nghĩa; 'refuse' đi với to V; 'apologise' cần 'for'."
+        },
+        {
+          "no": 5,
+          "question": "\"I'm sorry I'm late,\" she said. → She apologised ______ late.",
+          "options": {
+            "A": "to be",
+            "B": "for being",
+            "C": "of being",
+            "D": "being"
+          },
+          "answer": "B",
+          "explanation": "apologise + for + V-ing → 'for being'."
+        },
+        {
+          "no": 6,
+          "question": "\"Don't forget to lock the door,\" Mum said to me. → Mum ______ me to lock the door.",
+          "options": {
+            "A": "reminded",
+            "B": "suggested",
+            "C": "apologised",
+            "D": "denied"
+          },
+          "answer": "A",
+          "explanation": "'Don't forget to ...' → remind + O + to V."
+        },
+        {
+          "no": 7,
+          "question": "\"Congratulations! You won the first prize,\" the teacher said to Nam. → The teacher congratulated Nam ______ the first prize.",
+          "options": {
+            "A": "in winning",
+            "B": "to win",
+            "C": "for winning",
+            "D": "on winning"
+          },
+          "answer": "D",
+          "explanation": "congratulate sb + on + V-ing."
+        },
+        {
+          "no": 8,
+          "question": "\"You stole my phone!\" Lan said to Hoa. → Lan ______ Hoa of stealing her phone.",
+          "options": {
+            "A": "blamed",
+            "B": "denied",
+            "C": "accused",
+            "D": "warned"
+          },
+          "answer": "C",
+          "explanation": "accuse sb + of + V-ing. 'blame' đi với 'for'; 'deny/warn' không hợp nghĩa và cấu trúc."
+        },
+        {
+          "no": 9,
+          "question": "\"Would you like to come to my birthday party?\" Mai said to me. → Mai ______ me to her birthday party.",
+          "options": {
+            "A": "invited",
+            "B": "offered",
+            "C": "reminded",
+            "D": "suggested"
+          },
+          "answer": "A",
+          "explanation": "Lời mời 'Would you like to come ...?' → invite sb to + sự kiện."
+        },
+        {
+          "no": 10,
+          "question": "\"Shall I carry the bag for you?\" the boy said to the old woman. → The boy ______ the old woman's bag.",
+          "options": {
+            "A": "insisted to carry",
+            "B": "promised carrying",
+            "C": "offered to carry",
+            "D": "suggested carrying"
+          },
+          "answer": "C",
+          "explanation": "Lời đề nghị giúp đỡ 'Shall I ...?' → offer + to V. 'promise' đi với to V, 'insist' đi với 'on V-ing'."
+        },
+        {
+          "no": 11,
+          "question": "\"No, I won't lend you my bike,\" said Tom. → Tom ______ me his bike.",
+          "options": {
+            "A": "objected to lend",
+            "B": "denied lending",
+            "C": "refused lending",
+            "D": "refused to lend"
+          },
+          "answer": "D",
+          "explanation": "Từ chối làm gì → refuse + to V. 'deny' là phủ nhận việc đã làm, không hợp nghĩa."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Câu hỏi gián tiếp và câu điều kiện gián tiếp",
+      "instructions": "Choose the best option (A, B, C or D) to complete each reported sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "\"Where did you buy that bag?\" she asked me. → She asked me ______.",
+          "options": {
+            "A": "where did I buy that bag",
+            "B": "where I bought this bag",
+            "C": "where I had bought that bag",
+            "D": "where had I bought that bag"
+          },
+          "answer": "C",
+          "explanation": "Trật tự câu khẳng định, quá khứ đơn lùi thành quá khứ hoàn thành, 'that' giữ nguyên → 'where I had bought that bag'."
+        },
+        {
+          "no": 13,
+          "question": "\"Can you help me?\" he asked. → He asked me ______ help him.",
+          "options": {
+            "A": "if can I",
+            "B": "that I could",
+            "C": "could I",
+            "D": "whether I could"
+          },
+          "answer": "D",
+          "explanation": "Câu hỏi Yes/No → whether/if + S + V; 'can' lùi thành 'could'."
+        },
+        {
+          "no": 14,
+          "question": "\"What should I do?\" she wondered. → She wondered ______.",
+          "options": {
+            "A": "what does she do",
+            "B": "what doing",
+            "C": "what to do",
+            "D": "to do what"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi với 'should' về việc nên làm → từ để hỏi + to V: 'what to do'."
+        },
+        {
+          "no": 15,
+          "question": "\"If I had money, I would buy a new laptop,\" he said. → He said that if he ______ money, he would buy a new laptop.",
+          "options": {
+            "A": "have",
+            "B": "had",
+            "C": "would have",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "Câu điều kiện loại 2 giữ nguyên thì khi chuyển sang gián tiếp → 'had'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu gián tiếp",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-gian-tiep-cd2025.jsp"
+    },
+    {
+      "title": "British Council LearnEnglish – Reported speech 1: statements",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-1-statements"
+    }
+  ]
+}

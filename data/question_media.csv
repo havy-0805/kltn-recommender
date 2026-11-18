@@ -1,0 +1,12 @@
+question_id,kind,file,text,alt
+G901_Q29,sign,signs/cam-xe-dap.svg,,"Biển cấm xe đạp: vòng tròn viền đỏ, hình xe đạp ở giữa"
+G901_Q30,notice,,"NOTICE
+ALL VISITORS PLEASE REPORT TO SITE OFFICE",Thông báo dán ở cổng
+G902_Q29,sign,signs/cam-do-xe.svg,,"Biển cấm đỗ xe (NO PARKING): nền xanh, viền đỏ, một vạch đỏ chéo"
+G902_Q30,notice,,Don't keep this soup in the fridge for more than two days after opening it.,Nhãn trên hộp súp
+G903_Q31,notice,,Football match tickets are $10 for adults and $8 for children under 10.,Thông báo giá vé bóng đá
+G903_Q32,sign,signs/duong-tron.svg,,"Biển báo đường trơn: tam giác vàng viền đỏ, hình xe trượt"
+TT125_Q29,notice,,"If you take this journey regularly,
+you can save money with our
+Super Weekly Saver Ticket.",Thông báo ở nhà ga
+TT125_Q30,sign,signs/cam-coi.svg,,"Biển cấm bấm còi: vòng tròn viền đỏ, hình chiếc còi bị gạch chéo"

@@ -1,0 +1,263 @@
+{
+  "material_id": "MAT_TENSE_01",
+  "skill_id": "SK_TENSE_ASPECT",
+  "title": "Nhận diện và chia các thì cơ bản (Hiện tại, Quá khứ, Tương lai)",
+  "target_level": 1,
+  "summary": "Giúp học sinh nhận diện dấu hiệu và chia đúng các thì cơ bản: hiện tại đơn, hiện tại tiếp diễn, hiện tại hoàn thành, quá khứ đơn, quá khứ tiếp diễn và tương lai đơn/be going to.",
+  "theory": [
+    {
+      "heading": "Hiện tại đơn và hiện tại tiếp diễn",
+      "points": [
+        "Hiện tại đơn: S + V(s/es) – thói quen, sự thật hiển nhiên, lịch trình. Dấu hiệu: always, usually, often, every day, sometimes.",
+        "Chủ ngữ ngôi thứ 3 số ít (he, she, it, danh từ số ít) → động từ thêm -s/-es; phủ định/nghi vấn dùng does/doesn't + V nguyên mẫu.",
+        "Hiện tại tiếp diễn: S + am/is/are + V-ing – hành động đang xảy ra lúc nói. Dấu hiệu: now, right now, at the moment, Look!, Listen!",
+        "Không dùng tiếp diễn với động từ chỉ trạng thái: like, love, know, want, believe, understand..."
+      ],
+      "examples": [
+        {
+          "en": "My mother usually gets up at 5 a.m.",
+          "vi": "Mẹ tôi thường dậy lúc 5 giờ sáng."
+        },
+        {
+          "en": "Listen! Someone is singing in the next room.",
+          "vi": "Nghe kìa! Có ai đó đang hát ở phòng bên."
+        }
+      ]
+    },
+    {
+      "heading": "Hiện tại hoàn thành",
+      "points": [
+        "S + have/has + V3/V-ed – hành động bắt đầu trong quá khứ, kéo dài đến hiện tại, hoặc trải nghiệm không rõ thời điểm.",
+        "Dấu hiệu: since + mốc thời gian, for + khoảng thời gian, already, yet, just, ever, never, so far, recently, up to now.",
+        "'yet' dùng trong câu phủ định và nghi vấn, đứng cuối câu."
+      ],
+      "examples": [
+        {
+          "en": "We have studied at this school since 2022.",
+          "vi": "Chúng tôi học ở trường này từ năm 2022."
+        },
+        {
+          "en": "Have you ever tried bún chả?",
+          "vi": "Bạn đã bao giờ ăn thử bún chả chưa?"
+        }
+      ]
+    },
+    {
+      "heading": "Quá khứ đơn và quá khứ tiếp diễn",
+      "points": [
+        "Quá khứ đơn: S + V2/V-ed – hành động đã xảy ra và kết thúc tại thời điểm xác định. Dấu hiệu: yesterday, last week, ago, in 2010.",
+        "Quá khứ tiếp diễn: S + was/were + V-ing – hành động đang xảy ra tại một thời điểm trong quá khứ (at 8 p.m. yesterday, at this time last week).",
+        "Hành động đang diễn ra (QKTD) bị hành động khác xen vào (QKĐ): While/When + QKTD, QKĐ."
+      ],
+      "examples": [
+        {
+          "en": "I visited my grandparents last Sunday.",
+          "vi": "Tôi đã thăm ông bà vào Chủ nhật tuần trước."
+        },
+        {
+          "en": "She was cooking when the lights went out.",
+          "vi": "Cô ấy đang nấu ăn thì mất điện."
+        }
+      ]
+    },
+    {
+      "heading": "Tương lai đơn và be going to",
+      "points": [
+        "Tương lai đơn: S + will + V – quyết định ngay lúc nói, dự đoán theo ý kiến (I think, probably), lời hứa.",
+        "Be going to + V – dự định đã có từ trước, hoặc dự đoán có căn cứ ở hiện tại (Look at the clouds!).",
+        "Dấu hiệu: tomorrow, next week/month/year, in + năm tương lai, soon."
+      ],
+      "examples": [
+        {
+          "en": "I'm thirsty. – I'll get you some water.",
+          "vi": "Tớ khát quá. – Tớ sẽ lấy nước cho cậu."
+        },
+        {
+          "en": "Look at the sky! It is going to rain.",
+          "vi": "Nhìn bầu trời kìa! Trời sắp mưa rồi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân dấu hiệu thời gian trước (yesterday, since, now, tomorrow...) rồi mới chọn thì.",
+    "Kiểm tra chủ ngữ số ít hay số nhiều để chọn đúng is/are, was/were, has/have, V hay V-s.",
+    "Thấy 'since/for/so far/yet/already' → nghĩ ngay đến hiện tại hoàn thành; thấy 'ago/last/yesterday' → quá khứ đơn.",
+    "Câu có hai hành động trong quá khứ nối bằng when/while: hành động dài đang diễn ra dùng QKTD, hành động ngắn xen vào dùng QKĐ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My father usually ______ to work by motorbike.",
+          "options": {
+            "A": "went",
+            "B": "is going",
+            "C": "go",
+            "D": "goes"
+          },
+          "answer": "D",
+          "explanation": "'usually' là dấu hiệu hiện tại đơn; chủ ngữ 'My father' số ít → goes."
+        },
+        {
+          "no": 2,
+          "question": "Look! The children ______ in the schoolyard.",
+          "options": {
+            "A": "play",
+            "B": "have played",
+            "C": "played",
+            "D": "are playing"
+          },
+          "answer": "D",
+          "explanation": "'Look!' báo hiệu hành động đang xảy ra lúc nói → hiện tại tiếp diễn 'are playing'."
+        },
+        {
+          "no": 3,
+          "question": "We ______ to Da Nang last summer.",
+          "options": {
+            "A": "went",
+            "B": "go",
+            "C": "will go",
+            "D": "have gone"
+          },
+          "answer": "A",
+          "explanation": "'last summer' là thời điểm xác định trong quá khứ → quá khứ đơn 'went'."
+        },
+        {
+          "no": 4,
+          "question": "I ______ this film three times so far.",
+          "options": {
+            "A": "see",
+            "B": "am seeing",
+            "C": "saw",
+            "D": "have seen"
+          },
+          "answer": "D",
+          "explanation": "'so far' (cho đến nay) và số lần 'three times' → hiện tại hoàn thành 'have seen'."
+        },
+        {
+          "no": 5,
+          "question": "She ______ in Ha Noi since 2018.",
+          "options": {
+            "A": "lived",
+            "B": "is living",
+            "C": "has lived",
+            "D": "lives"
+          },
+          "answer": "C",
+          "explanation": "'since 2018' → hành động bắt đầu trong quá khứ kéo dài đến nay → hiện tại hoàn thành 'has lived'."
+        },
+        {
+          "no": 6,
+          "question": "At 8 p.m. yesterday, my brother ______ his homework.",
+          "options": {
+            "A": "has done",
+            "B": "was doing",
+            "C": "did",
+            "D": "does"
+          },
+          "answer": "B",
+          "explanation": "'At 8 p.m. yesterday' là một thời điểm cụ thể trong quá khứ, hành động đang diễn ra → quá khứ tiếp diễn 'was doing'."
+        },
+        {
+          "no": 7,
+          "question": "While I ______ TV, the phone rang.",
+          "options": {
+            "A": "was watching",
+            "B": "watched",
+            "C": "am watching",
+            "D": "watch"
+          },
+          "answer": "A",
+          "explanation": "Hành động đang diễn ra (xem TV) bị hành động khác xen vào (điện thoại reo – QKĐ) → While + quá khứ tiếp diễn 'was watching'."
+        },
+        {
+          "no": 8,
+          "question": "Look at those dark clouds! It ______ rain.",
+          "options": {
+            "A": "will",
+            "B": "rains",
+            "C": "is going to",
+            "D": "rained"
+          },
+          "answer": "C",
+          "explanation": "Dự đoán có căn cứ ở hiện tại (mây đen) → be going to: 'is going to rain'."
+        },
+        {
+          "no": 9,
+          "question": "\"The phone is ringing.\" – \"OK, I ______ it.\"",
+          "options": {
+            "A": "answer",
+            "B": "will answer",
+            "C": "answered",
+            "D": "am answering"
+          },
+          "answer": "B",
+          "explanation": "Quyết định đưa ra ngay lúc nói → tương lai đơn 'will answer'."
+        },
+        {
+          "no": 10,
+          "question": "Water ______ at 100 degrees Celsius.",
+          "options": {
+            "A": "boils",
+            "B": "is boiling",
+            "C": "boiled",
+            "D": "has boiled"
+          },
+          "answer": "A",
+          "explanation": "Sự thật hiển nhiên, chân lý khoa học → hiện tại đơn 'boils'."
+        },
+        {
+          "no": 11,
+          "question": "Lan ______ her homework yet.",
+          "options": {
+            "A": "isn't finishing",
+            "B": "didn't finish",
+            "C": "hasn't finished",
+            "D": "doesn't finish"
+          },
+          "answer": "C",
+          "explanation": "'yet' ở cuối câu phủ định là dấu hiệu hiện tại hoàn thành → 'hasn't finished'."
+        },
+        {
+          "no": 12,
+          "question": "How long ago ______ you start learning English?",
+          "options": {
+            "A": "have",
+            "B": "did",
+            "C": "do",
+            "D": "were"
+          },
+          "answer": "B",
+          "explanation": "'How long ago' (cách đây bao lâu) chỉ thời điểm trong quá khứ, theo sau là động từ nguyên mẫu 'start' → trợ động từ quá khứ đơn 'did'."
+        },
+        {
+          "no": 13,
+          "question": "My parents have saved enough money. They ______ a new house next year.",
+          "options": {
+            "A": "are going to build",
+            "B": "build",
+            "C": "have built",
+            "D": "built"
+          },
+          "answer": "A",
+          "explanation": "Dự định đã có kế hoạch từ trước (đã để dành đủ tiền) và 'next year' → be going to: 'are going to build'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Dạng bài Chia động từ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-chia-dong-tu-cd2025.jsp"
+    },
+    {
+      "title": "ZIM – Bài tập ngữ pháp theo các chuyên đề thi vào lớp 10",
+      "url": "https://zim.vn/bai-tap-ngu-phap-theo-cac-chuyen-de-thi-vao-lop-10"
+    }
+  ]
+}

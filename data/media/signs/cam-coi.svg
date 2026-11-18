@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Biển cấm sử dụng còi">
+  <defs><clipPath id="c"><circle cx="100" cy="100" r="80"/></clipPath></defs>
+  <circle cx="100" cy="100" r="88" fill="#fff" stroke="#dc2626" stroke-width="16"/>
+  <g fill="#111">
+    <rect x="48" y="92" width="22" height="16" rx="3"/>
+    <path d="M70 92 L124 70 V130 L70 108 Z"/>
+  </g>
+  <g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round">
+    <path d="M136 86 Q142 100 136 114"/>
+    <path d="M148 78 Q158 100 148 122"/>
+  </g>
+  <line x1="20" y1="20" x2="180" y2="180" stroke="#dc2626" stroke-width="14" clip-path="url(#c)"/>
+</svg>

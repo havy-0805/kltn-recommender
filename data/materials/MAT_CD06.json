@@ -1,0 +1,237 @@
+{
+  "material_id": "MAT_CD06",
+  "skill_id": "SK_REPORT_SPEECH",
+  "title": "Chuyên đề Câu gián tiếp",
+  "target_level": 2,
+  "summary": "Tổng hợp cách chuyển câu trần thuật, câu hỏi Yes/No, câu hỏi Wh-, câu mệnh lệnh/yêu cầu và một số động từ tường thuật thông dụng sang câu gián tiếp theo dạng đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Câu trần thuật",
+      "points": [
+        "S + said (that) / told + O + (that) + S + V (lùi thì).",
+        "Lùi thì: HTĐ → QKĐ; HTTD → QKTD; HTHT/QKĐ → QKHT; will → would; can → could; must → had to.",
+        "Đổi ngôi và trạng từ: today → that day; tomorrow → the next day; yesterday → the day before; ago → before; here → there; this → that."
+      ],
+      "examples": [
+        {
+          "en": "\"I will take the exam next week,\" Lan said. → Lan said that she would take the exam the following week.",
+          "vi": "Lan nói rằng cô ấy sẽ thi vào tuần sau đó."
+        }
+      ]
+    },
+    {
+      "heading": "Câu hỏi gián tiếp",
+      "points": [
+        "Yes/No: S + asked (O) / wanted to know / wondered + if/whether + S + V (lùi thì).",
+        "Wh-: S + asked (O) / wanted to know + từ để hỏi + S + V (lùi thì).",
+        "Bỏ trợ động từ do/does/did, đưa câu về trật tự khẳng định, bỏ dấu chấm hỏi."
+      ],
+      "examples": [
+        {
+          "en": "\"Do you like music?\" he asked me. → He asked me if I liked music.",
+          "vi": "Anh ấy hỏi tôi có thích âm nhạc không."
+        },
+        {
+          "en": "\"Where do you live?\" she asked. → She asked me where I lived.",
+          "vi": "Cô ấy hỏi tôi sống ở đâu."
+        }
+      ]
+    },
+    {
+      "heading": "Câu mệnh lệnh, yêu cầu và lời khuyên",
+      "points": [
+        "Khẳng định: S + told/asked/ordered + O + to V.",
+        "Phủ định: S + told/asked + O + not to V.",
+        "\"Can/Could you ...?\" (nhờ vả) → asked sb to V; \"You'd better/should ...\" → advised sb to V.",
+        "\"Let's ...\" → suggested + V-ing; \"I'm sorry ...\" → apologised for + V-ing."
+      ],
+      "examples": [
+        {
+          "en": "\"Don't talk in class,\" the teacher told us. → The teacher told us not to talk in class.",
+          "vi": "Cô giáo bảo chúng tôi không nói chuyện trong lớp."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định loại câu trực tiếp (trần thuật / câu hỏi / mệnh lệnh) để chọn khung cấu trúc đúng ngay từ đầu.",
+    "Câu hỏi gián tiếp: không có trợ động từ đảo lên trước chủ ngữ và không có dấu '?'.",
+    "Mệnh lệnh phủ định: 'not to V' – không viết 'don't V' hay 'to not V'.",
+    "Kiểm tra đủ 3 thay đổi: ngôi, thì, trạng từ – đáp án đúng phải đổi đủ cả ba."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each reported sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "\"I'm reading a novel,\" Hoa said. → Hoa said she ______ a novel.",
+          "options": {
+            "A": "has read",
+            "B": "read",
+            "C": "were reading",
+            "D": "was reading"
+          },
+          "answer": "D",
+          "explanation": "Hiện tại tiếp diễn lùi thành quá khứ tiếp diễn; chủ ngữ 'she' → 'was reading'."
+        },
+        {
+          "no": 2,
+          "question": "\"Do you like music?\" he asked me. → He asked me ______ music.",
+          "options": {
+            "A": "if did I like",
+            "B": "do I like",
+            "C": "if I liked",
+            "D": "that I liked"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi Yes/No → if/whether + S + V (lùi thì): 'if I liked'."
+        },
+        {
+          "no": 3,
+          "question": "\"Where do you live?\" she asked me. → She asked me where ______.",
+          "options": {
+            "A": "do I live",
+            "B": "I lived",
+            "C": "lived I",
+            "D": "did I live"
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi Wh- gián tiếp: từ để hỏi + S + V (lùi thì) → 'I lived'."
+        },
+        {
+          "no": 4,
+          "question": "\"Close the window, please,\" the teacher said to me. → The teacher asked me ______ the window.",
+          "options": {
+            "A": "to close",
+            "B": "closing",
+            "C": "close",
+            "D": "closed"
+          },
+          "answer": "A",
+          "explanation": "Câu yêu cầu → ask + O + to V: 'to close'."
+        },
+        {
+          "no": 5,
+          "question": "\"Don't talk in class,\" the teacher told us. → The teacher told us ______ in class.",
+          "options": {
+            "A": "to not talking",
+            "B": "not talk",
+            "C": "not to talk",
+            "D": "don't talk"
+          },
+          "answer": "C",
+          "explanation": "Mệnh lệnh phủ định → tell + O + not to V."
+        },
+        {
+          "no": 6,
+          "question": "\"I will take the exam next week,\" Lan said. → Lan said that she ______ the exam ______.",
+          "options": {
+            "A": "would take / the following week",
+            "B": "will take / next week",
+            "C": "took / the week before",
+            "D": "would take / next week"
+          },
+          "answer": "A",
+          "explanation": "'will' → 'would'; 'next week' → 'the following week'. D chưa đổi trạng từ, C sai thì và sai nghĩa."
+        },
+        {
+          "no": 7,
+          "question": "\"What time does the train leave?\" he asked. → He wanted to know what time ______.",
+          "options": {
+            "A": "left the train",
+            "B": "did the train leave",
+            "C": "does the train leave",
+            "D": "the train left"
+          },
+          "answer": "D",
+          "explanation": "Trật tự câu khẳng định + lùi thì: 'the train left'."
+        },
+        {
+          "no": 8,
+          "question": "\"Have you finished your homework?\" Mum asked me. → Mum asked me ______ my homework.",
+          "options": {
+            "A": "that I had finished",
+            "B": "if I had finished",
+            "C": "whether had I finished",
+            "D": "had I finished"
+          },
+          "answer": "B",
+          "explanation": "Yes/No question → if + S + V; hiện tại hoàn thành lùi thành quá khứ hoàn thành."
+        },
+        {
+          "no": 9,
+          "question": "\"I bought this dress two days ago,\" she said. → She said she ______ that dress two days ______.",
+          "options": {
+            "A": "had bought / before",
+            "B": "buys / ago",
+            "C": "had bought / ago",
+            "D": "has bought / before"
+          },
+          "answer": "A",
+          "explanation": "Quá khứ đơn → quá khứ hoàn thành; 'ago' → 'before'."
+        },
+        {
+          "no": 10,
+          "question": "\"You'd better study harder,\" my father said to me. → My father advised me ______ harder.",
+          "options": {
+            "A": "to study",
+            "B": "studied",
+            "C": "studying",
+            "D": "study"
+          },
+          "answer": "A",
+          "explanation": "Lời khuyên 'had better' → advise + O + to V."
+        },
+        {
+          "no": 11,
+          "question": "\"Let's go swimming,\" said Nam. → Nam suggested ______ swimming.",
+          "options": {
+            "A": "us to go",
+            "B": "go",
+            "C": "going",
+            "D": "to go"
+          },
+          "answer": "C",
+          "explanation": "'Let's ...' → suggest + V-ing. 'suggest' không đi với 'to V' hay 'O + to V'."
+        },
+        {
+          "no": 12,
+          "question": "\"Can I borrow your pen?\" Hung asked Mai. → Hung asked Mai ______ borrow her pen.",
+          "options": {
+            "A": "can he",
+            "B": "could he",
+            "C": "that he could",
+            "D": "if he could"
+          },
+          "answer": "D",
+          "explanation": "Câu hỏi Yes/No → if + S + V; 'can' lùi thành 'could'; không đảo trợ động từ."
+        },
+        {
+          "no": 13,
+          "question": "\"I'm sorry I broke your glasses,\" Minh said to me. → Minh apologised ______ my glasses.",
+          "options": {
+            "A": "breaking",
+            "B": "for breaking",
+            "C": "of breaking",
+            "D": "to break"
+          },
+          "answer": "B",
+          "explanation": "apologise + for + V-ing."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu gián tiếp",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-gian-tiep-cd2025.jsp"
+    },
+    {
+      "title": "British Council LearnEnglish – Reported speech 1: statements",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-1-statements"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "material_id": "MAT_SIGN_NOTICE",
+  "skill_id": "SK_SIGN_NOTICE",
+  "title": "Thực chiến Đọc hiểu Biển báo và Thông báo",
+  "target_level": 1,
+  "summary": "Giúp học sinh đọc hiểu các biển báo và thông báo ngắn quen thuộc (cấm, bắt buộc, cho phép, giờ mở cửa) và chọn đúng câu diễn đạt lại nghĩa của chúng như dạng câu 29–30 đề thi vào 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Các cấu trúc cấm trên biển báo",
+      "points": [
+        "No + V-ing / No + N: No smoking, No parking, No food or drink.",
+        "Do not / Don't + V: Do not touch, Don't feed the animals.",
+        "Từ khóa trong phương án đúng: not allowed, not permitted, forbidden, prohibited, must not, can't."
+      ],
+      "examples": [
+        {
+          "en": "NO CYCLING → You are not allowed to ride a bicycle here.",
+          "vi": "Biển 'No cycling' = cấm đi xe đạp ở đây."
+        }
+      ]
+    },
+    {
+      "heading": "Bắt buộc, khuyên nhủ và cho phép",
+      "points": [
+        "Bắt buộc: must, have to, please + V, … required (Helmets required = phải đội mũ bảo hiểm).",
+        "Khuyên nhủ: should, it's a good idea to… – không phải luật bắt buộc.",
+        "Cho phép: can, may, are allowed to, … welcome (Pets welcome = được mang thú cưng).",
+        "Phân biệt: 'must not' (cấm) khác 'don't have to' (không bắt buộc)."
+      ],
+      "examples": [
+        {
+          "en": "Please show your ticket at the gate. → You have to show your ticket before entering.",
+          "vi": "'Please + V' trên biển là yêu cầu bắt buộc lịch sự: phải xuất trình vé."
+        }
+      ]
+    },
+    {
+      "heading": "Cách làm câu 'What does the sign/notice say?'",
+      "points": [
+        "Bước 1: Xác định loại văn bản và người đọc (biển công cộng, thông báo trường học, nhãn sản phẩm…).",
+        "Bước 2: Tóm tắt thông điệp chính bằng lời của mình trước khi đọc phương án.",
+        "Bước 3: Loại phương án đảo nghĩa (cấm ↔ cho phép), bỏ mất điều kiện (only, before, under 12…) hoặc thêm thông tin không có."
+      ],
+      "examples": [
+        {
+          "en": "CHILDREN UNDER 12 MUST BE WITH AN ADULT → Young children cannot come in alone.",
+          "vi": "Giữ đúng điều kiện 'under 12': trẻ dưới 12 tuổi không được vào một mình."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đừng chọn phương án chỉ vì có từ giống hệt trên biển: phương án lặp từ thường đảo nghĩa.",
+    "Chú ý từ nhỏ nhưng quan trọng: only, except, before, after, under, over, free.",
+    "Phân biệt 'free' = miễn phí (Free entry) và 'free of' = không có (smoke-free = không khói thuốc).",
+    "Đọc cả tiêu đề thông báo (NOTICE, WARNING, CLOSED…) để đoán mục đích trước."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Nội quy bể bơi",
+      "instructions": "Read the sign and choose the best answer (A, B, C or D) for each question.",
+      "passage": "CITY SWIMMING POOL – RULES\n\n• Open: 6 a.m. – 9 p.m. every day (closed on Monday mornings for cleaning)\n• Shower before you swim.\n• Swimming caps must be worn.\n• NO running near the pool.\n• NO food or drink in the pool area.\n• Children under 10 must be with an adult at all times.\n• Lifeguards are on duty. Please follow their instructions.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What does the sign say about swimming caps?",
+          "options": {
+            "A": "You can buy swimming caps here.",
+            "B": "You have to wear a swimming cap.",
+            "C": "Swimming caps are not allowed.",
+            "D": "Only children need swimming caps."
+          },
+          "answer": "B",
+          "explanation": "'Swimming caps must be worn.' – 'must' chỉ sự bắt buộc → phải đội mũ bơi (với tất cả mọi người, không chỉ trẻ em)."
+        },
+        {
+          "no": 2,
+          "question": "Which of the following is NOT allowed in the pool area?",
+          "options": {
+            "A": "Taking a shower",
+            "B": "Talking to a lifeguard",
+            "C": "Eating a sandwich",
+            "D": "Wearing a swimming cap"
+          },
+          "answer": "C",
+          "explanation": "'NO food or drink in the pool area.' → ăn bánh mì kẹp là không được phép."
+        },
+        {
+          "no": 3,
+          "question": "An 8-year-old boy wants to swim. What does the sign say?",
+          "options": {
+            "A": "He cannot swim in this pool.",
+            "B": "He can swim alone if he has a cap.",
+            "C": "He must swim with a lifeguard only.",
+            "D": "An adult must stay with him."
+          },
+          "answer": "D",
+          "explanation": "'Children under 10 must be with an adult at all times.' Cậu bé 8 tuổi (dưới 10) phải có người lớn đi kèm."
+        },
+        {
+          "no": 4,
+          "question": "When can you NOT use the pool?",
+          "options": {
+            "A": "On Monday mornings",
+            "B": "On Sunday afternoons",
+            "C": "At 7 a.m. on Tuesday",
+            "D": "At 8 p.m. on Friday"
+          },
+          "answer": "A",
+          "explanation": "'closed on Monday mornings for cleaning' → sáng thứ Hai không bơi được. Các mốc khác nằm trong giờ mở cửa 6 a.m. – 9 p.m."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Thông báo của thư viện trường",
+      "instructions": "Read the notice and choose the best answer (A, B, C or D) for each question.",
+      "passage": "NOTICE – SCHOOL LIBRARY\n\nThe library will be CLOSED from Monday 14th to Wednesday 16th October because we are painting the walls.\n\nIt will open again on Thursday 17th October at 7.30 a.m.\n\nBooks due during this time can be returned on Thursday or Friday. You will NOT have to pay a late fee.\n\nNeed a book for your homework? Ask Ms Mai in Room 204.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "What does the notice say?",
+          "options": {
+            "A": "The library is closing forever.",
+            "B": "The library will be closed for three days.",
+            "C": "Students must paint the library walls.",
+            "D": "The library opens earlier on Thursday."
+          },
+          "answer": "B",
+          "explanation": "'CLOSED from Monday 14th to Wednesday 16th October' → đóng cửa 3 ngày (thứ Hai, Ba, Tư). Thư viện mở lại vào thứ Năm nên không phải đóng vĩnh viễn."
+        },
+        {
+          "no": 6,
+          "question": "Why is the library closed?",
+          "options": {
+            "A": "The walls are being painted.",
+            "B": "The librarian is on holiday.",
+            "C": "There are no more books.",
+            "D": "It is a public holiday."
+          },
+          "answer": "A",
+          "explanation": "'…because we are painting the walls.'"
+        },
+        {
+          "no": 7,
+          "question": "Your book should be returned on Tuesday 15th October. What should you do?",
+          "options": {
+            "A": "Return it on Tuesday and pay a fee.",
+            "B": "Give it to Ms Mai on Monday.",
+            "C": "Return it on Thursday without paying anything.",
+            "D": "Keep it until next month."
+          },
+          "answer": "C",
+          "explanation": "'Books due during this time can be returned on Thursday or Friday. You will NOT have to pay a late fee.' → trả vào thứ Năm và không mất phí."
+        },
+        {
+          "no": 8,
+          "question": "Who can help you if you need a book for homework?",
+          "options": {
+            "A": "The headmaster",
+            "B": "Your class monitor",
+            "C": "The painters",
+            "D": "Ms Mai"
+          },
+          "answer": "D",
+          "explanation": "'Need a book for your homework? Ask Ms Mai in Room 204.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Biển báo trong công viên",
+      "instructions": "Read the sign and choose the best answer (A, B, C or D) for each question.",
+      "passage": "WELCOME TO THONG NHAT PARK\n\nFree entry for everyone.\nPlease keep the park clean – use the bins.\nDo NOT pick the flowers.\nDogs must be kept on a lead.\nCycling is allowed only on the blue path.\nThe park gates close at 10 p.m.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "What does \"Free entry for everyone\" mean?",
+          "options": {
+            "A": "Everyone can enter the park at any time.",
+            "B": "You do not have to pay to enter the park.",
+            "C": "Only some people can enter for free.",
+            "D": "The park is free of rubbish."
+          },
+          "answer": "B",
+          "explanation": "'Free entry' = vào cửa miễn phí. A sai vì công viên đóng cửa lúc 10 p.m.; D nhầm 'free' với 'free of'."
+        },
+        {
+          "no": 10,
+          "question": "What does the sign say about dogs?",
+          "options": {
+            "A": "Dogs are not allowed in the park.",
+            "B": "Dogs can run freely in the park.",
+            "C": "You must keep your dog on a lead.",
+            "D": "Dogs can only walk on the blue path."
+          },
+          "answer": "C",
+          "explanation": "'Dogs must be kept on a lead.' → được mang chó vào nhưng phải buộc dây. Đường màu xanh dành cho xe đạp (bẫy D)."
+        },
+        {
+          "no": 11,
+          "question": "Where can people ride bicycles in the park?",
+          "options": {
+            "A": "Anywhere in the park",
+            "B": "Near the flowers",
+            "C": "Nowhere in the park",
+            "D": "Only on the blue path"
+          },
+          "answer": "D",
+          "explanation": "'Cycling is allowed only on the blue path.' – 'only' giới hạn chỉ trên đường màu xanh, nên A và C đều sai."
+        },
+        {
+          "no": 12,
+          "question": "Which action is against the park rules?",
+          "options": {
+            "A": "Picking some flowers for your mum",
+            "B": "Putting your rubbish in a bin",
+            "C": "Walking your dog on a lead",
+            "D": "Visiting the park at 8 p.m."
+          },
+          "answer": "A",
+          "explanation": "'Do NOT pick the flowers.' → hái hoa là vi phạm. Các hành động còn lại đều đúng nội quy."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Open Exam Prep – Cambridge A2 Key for Schools Reading Part 1: Notices, Signs, Text Messages",
+      "url": "https://open-exam-prep.com/study-guides/cambridge-a2-key-schools/reading-comprehension/reading-part-1-short-texts"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

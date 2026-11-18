@@ -1,0 +1,290 @@
+{
+  "material_id": "MAT_CD24",
+  "skill_id": "SK_PREPOSITION",
+  "title": "Chuyên đề Giới từ",
+  "target_level": 2,
+  "summary": "Tổng hợp toàn diện giới từ chỉ thời gian, nơi chốn, chuyển động và các cụm giới từ cố định; luyện dạng điền giới từ trong câu và trong đoạn văn như đề thi vào lớp 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Giới từ chỉ thời gian",
+      "points": [
+        "at + giờ / at night / at the weekend; on + thứ, ngày tháng; in + buổi, tháng, mùa, năm",
+        "for + khoảng thời gian (for three years); since + mốc thời gian (since 2015) – thường đi với thì hiện tại hoàn thành",
+        "during + danh từ (during the holiday); until/till (cho đến khi); by (trước, không muộn hơn: by Friday)",
+        "from … to/until … (từ … đến …)"
+      ],
+      "examples": [
+        {
+          "en": "She has lived here since 2015.",
+          "vi": "Cô ấy đã sống ở đây từ năm 2015."
+        },
+        {
+          "en": "Please finish the report by Friday.",
+          "vi": "Hãy hoàn thành bản báo cáo trước thứ Sáu."
+        }
+      ]
+    },
+    {
+      "heading": "Giới từ chỉ nơi chốn và chuyển động",
+      "points": [
+        "Nơi chốn: in (bên trong), on (trên bề mặt), at (tại một điểm), under, next to, between … and …, among, opposite, in front of, behind",
+        "Chuyển động: into (vào trong), out of (ra khỏi), across (băng ngang qua bề mặt), through (xuyên qua không gian kín), along (dọc theo), towards (về phía)",
+        "to (đến đích): go to school, a trip to Da Nang; from (từ đâu): come from, wires hanging from a pole"
+      ],
+      "examples": [
+        {
+          "en": "We swam across the river.",
+          "vi": "Chúng tôi bơi qua sông."
+        },
+        {
+          "en": "They walked along the beach at sunset.",
+          "vi": "Họ đi dạo dọc bãi biển lúc hoàng hôn."
+        }
+      ]
+    },
+    {
+      "heading": "Giới từ đi sau tính từ, động từ, danh từ",
+      "points": [
+        "Tính từ: famous for, responsible for, proud of, harmful to, excited about, interested in, good at",
+        "Động từ: depend on, belong to, divide into, consist of, apply for, listen to, wait for",
+        "Danh từ: reason for, effect on, access to, solution to",
+        "Phương tiện: by bus/coach/train/plane, on foot"
+      ],
+      "examples": [
+        {
+          "en": "Hanoi is famous for its Old Quarter.",
+          "vi": "Hà Nội nổi tiếng với khu phố cổ."
+        },
+        {
+          "en": "Air pollution is harmful to our health.",
+          "vi": "Ô nhiễm không khí có hại cho sức khỏe của chúng ta."
+        }
+      ]
+    },
+    {
+      "heading": "Giới từ + V-ing",
+      "points": [
+        "Sau mọi giới từ, động từ chia V-ing: instead of watching, without saying, before leaving",
+        "Các cụm có \"to\" là giới từ: look forward to, be used to, object to + V-ing"
+      ],
+      "examples": [
+        {
+          "en": "Instead of watching TV, he went out for a walk.",
+          "vi": "Thay vì xem TV, anh ấy ra ngoài đi dạo."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Với câu điền đoạn văn, đọc cả câu và từ đứng sau chỗ trống: nhiều giới từ được quyết định bởi tính từ/động từ đứng trước (proud ___ → of).",
+    "Phân biệt nhóm chuyển động: across (qua bề mặt phẳng), through (qua không gian có bao quanh), along (đi dọc theo).",
+    "for + khoảng thời gian, since + mốc thời gian; thấy \"since/for\" thì kiểm tra cả thì của động từ.",
+    "Sau giới từ luôn là danh từ hoặc V-ing, không bao giờ là động từ nguyên mẫu."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn giới từ thích hợp cho mỗi chỗ trống",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each numbered blank.",
+      "passage": "Last Saturday, our class went on a trip (1) ______ Ba Vi National Park. We gathered (2) ______ the school gate at 6 a.m. and travelled there (3) ______ coach. The journey took about two hours. When we arrived, a forest ranger, who is responsible (4) ______ protecting the park, told us about the rare plants and animals living there. Then we walked (5) ______ a narrow path beside a small stream until we reached a waterfall. Everyone was excited (6) ______ the fresh air and the green scenery. In the afternoon, we took part in a competition to collect rubbish along the trail. My team won the first prize, and our form teacher said she was very proud (7) ______ us. We got back home late (8) ______ the evening, tired but happy. I am already looking forward to our next trip.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "(1) ______",
+          "options": {
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "to"
+          },
+          "answer": "D",
+          "explanation": "\"a trip to + nơi đến\" (chuyến đi tới đâu)."
+        },
+        {
+          "no": 2,
+          "question": "(2) ______",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "to",
+            "D": "at"
+          },
+          "answer": "D",
+          "explanation": "Tập trung tại một điểm cụ thể (the school gate) dùng \"at\"."
+        },
+        {
+          "no": 3,
+          "question": "(3) ______",
+          "options": {
+            "A": "with",
+            "B": "in",
+            "C": "by",
+            "D": "on"
+          },
+          "answer": "C",
+          "explanation": "Phương tiện không có từ hạn định đi trước: \"by coach\"."
+        },
+        {
+          "no": 4,
+          "question": "(4) ______",
+          "options": {
+            "A": "of",
+            "B": "for",
+            "C": "to",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "Cụm \"be responsible for + V-ing\" (chịu trách nhiệm về)."
+        },
+        {
+          "no": 5,
+          "question": "(5) ______",
+          "options": {
+            "A": "across",
+            "B": "along",
+            "C": "over",
+            "D": "into"
+          },
+          "answer": "B",
+          "explanation": "\"walk along a path\" = đi dọc theo con đường. \"across\" là băng ngang qua, không hợp với việc đi theo con đường dẫn tới thác nước."
+        },
+        {
+          "no": 6,
+          "question": "(6) ______",
+          "options": {
+            "A": "to",
+            "B": "about",
+            "C": "of",
+            "D": "on"
+          },
+          "answer": "B",
+          "explanation": "Cụm \"be excited about sth\" (hào hứng về điều gì). \"excited to\" chỉ đi với động từ nguyên mẫu (excited to see), không đi với danh từ."
+        },
+        {
+          "no": 7,
+          "question": "(7) ______",
+          "options": {
+            "A": "of",
+            "B": "with",
+            "C": "about",
+            "D": "for"
+          },
+          "answer": "A",
+          "explanation": "Cụm \"be proud of sb/sth\" (tự hào về ai/điều gì)."
+        },
+        {
+          "no": 8,
+          "question": "(8) ______",
+          "options": {
+            "A": "at",
+            "B": "during",
+            "C": "on",
+            "D": "in"
+          },
+          "answer": "D",
+          "explanation": "Buổi trong ngày không gắn với ngày cụ thể: \"in the evening\". \"during the evening\" nghĩa là \"trong suốt buổi tối\", không hợp với \"got back home late … the evening\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn giới từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "The cat jumped ______ the box and hid there for the whole afternoon.",
+          "options": {
+            "A": "along",
+            "B": "from",
+            "C": "into",
+            "D": "at"
+          },
+          "answer": "C",
+          "explanation": "\"into\" diễn tả chuyển động đi vào bên trong; vế sau \"hid there\" xác nhận con mèo ở trong hộp."
+        },
+        {
+          "no": 10,
+          "question": "We swam ______ the river to reach the other side.",
+          "options": {
+            "A": "along",
+            "B": "across",
+            "C": "between",
+            "D": "among"
+          },
+          "answer": "B",
+          "explanation": "\"across\" = băng qua từ bờ này sang bờ kia, khớp với \"to reach the other side\"."
+        },
+        {
+          "no": 11,
+          "question": "Mr. Hung has taught at this school ______ 2015.",
+          "options": {
+            "A": "from",
+            "B": "in",
+            "C": "since",
+            "D": "for"
+          },
+          "answer": "C",
+          "explanation": "Thì hiện tại hoàn thành + mốc thời gian (2015) dùng \"since\". \"for\" đi với khoảng thời gian."
+        },
+        {
+          "no": 12,
+          "question": "The book is divided ______ three main parts.",
+          "options": {
+            "A": "on",
+            "B": "into",
+            "C": "in",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "Cụm \"divide sth into + số phần\" (chia thành)."
+        },
+        {
+          "no": 13,
+          "question": "Hoi An is famous ______ its old houses and colourful lanterns.",
+          "options": {
+            "A": "for",
+            "B": "of",
+            "C": "with",
+            "D": "by"
+          },
+          "answer": "A",
+          "explanation": "Cụm \"be famous for\" (nổi tiếng vì)."
+        },
+        {
+          "no": 14,
+          "question": "Instead ______ playing computer games, you should do some exercise.",
+          "options": {
+            "A": "for",
+            "B": "from",
+            "C": "of",
+            "D": "to"
+          },
+          "answer": "C",
+          "explanation": "Cụm giới từ \"instead of + V-ing\" (thay vì)."
+        },
+        {
+          "no": 15,
+          "question": "Fast food is not good ______ your health if you eat it every day.",
+          "options": {
+            "A": "at",
+            "B": "for",
+            "C": "with",
+            "D": "in"
+          },
+          "answer": "B",
+          "explanation": "\"be good for\" = tốt cho (sức khỏe). \"good at\" là giỏi về, không hợp nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Prepositions of time",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/prepositions-time"
+    },
+    {
+      "title": "IELTS Australia – Master dependent prepositions",
+      "url": "https://ielts.com.au/australia/prepare/article-ielts-grammar-master-dependent-prepositions"
+    }
+  ]
+}

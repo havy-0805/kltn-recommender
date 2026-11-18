@@ -1,0 +1,235 @@
+{
+  "material_id": "MAT_SIGN_NOTICE_02",
+  "skill_id": "SK_SIGN_NOTICE",
+  "title": "Phân tích biển báo giao thông và thông báo công cộng",
+  "target_level": 2,
+  "summary": "Giúp học sinh hiểu đúng biển báo giao thông và thông báo nơi công cộng (nhà ga, đường sá, khu trường học) có kèm điều kiện thời gian, đối tượng, và chọn câu diễn đạt lại chính xác như dạng đề thi vào 10.",
+  "theory": [
+    {
+      "heading": "Từ vựng biển báo giao thông thường gặp",
+      "points": [
+        "Cảnh báo: SLOW DOWN (giảm tốc), SLIPPERY ROAD (đường trơn), ROAD WORKS AHEAD (phía trước đang thi công), SHARP BEND (khúc cua gấp).",
+        "Cấm: NO ENTRY (cấm đi vào), NO U-TURN (cấm quay đầu), NO OVERTAKING (cấm vượt), NO STOPPING (cấm dừng).",
+        "Chỉ dẫn: DIVERSION / DETOUR (đường vòng), ONE WAY (đường một chiều), PEDESTRIAN CROSSING (vạch qua đường), GIVE WAY (nhường đường)."
+      ],
+      "examples": [
+        {
+          "en": "ROAD WORKS AHEAD – USE DIVERSION → The road in front is being repaired, so drivers should take another route.",
+          "vi": "Phía trước đang sửa đường, người lái xe nên đi đường vòng."
+        }
+      ]
+    },
+    {
+      "heading": "Thông báo công cộng: điều kiện và ngoại lệ",
+      "points": [
+        "Điều kiện thời gian: from… to…, until, between… and…, on weekdays/at weekends, during peak hours.",
+        "Đối tượng: for residents only, staff only, except buses, under/over + tuổi.",
+        "Ngoại lệ: except, apart from, unless (unless = if… not).",
+        "Phương án đúng phải giữ nguyên MỌI điều kiện; phương án làm mất hoặc mở rộng điều kiện là bẫy."
+      ],
+      "examples": [
+        {
+          "en": "NO ENTRY EXCEPT BUSES → Only buses can go into this road.",
+          "vi": "Cấm đi vào, trừ xe buýt = chỉ xe buýt được đi vào đường này."
+        }
+      ]
+    },
+    {
+      "heading": "Biển hình và mô tả bằng lời trong đề",
+      "points": [
+        "Đề trắc nghiệm thường mô tả biển hình trong ngoặc, ví dụ: (Biển báo cấm xe đạp), (Road is slippery).",
+        "Hình tròn viền đỏ: cấm; tam giác viền đỏ: cảnh báo; hình tròn nền xanh: bắt buộc; hình vuông/chữ nhật xanh: chỉ dẫn.",
+        "Câu trả lời đúng thường dùng: be forbidden/not allowed (cấm), be careful/watch out (cảnh báo), must (bắt buộc)."
+      ],
+      "examples": [
+        {
+          "en": "(A red triangle with a car skidding) → Be careful because the road may be slippery.",
+          "vi": "Tam giác đỏ hình xe trượt bánh = cảnh báo đường trơn, phải cẩn thận."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân mọi con số, giờ, ngày và đối tượng trên biển trước khi đọc phương án.",
+    "'unless' = 'if… not': 'No parking unless you have a permit' = chỉ ai có giấy phép mới được đỗ.",
+    "Phân biệt cảnh báo (be careful) với cấm (not allowed): biển cảnh báo không cấm hành động.",
+    "Loại phương án biến khuyến nghị (should, please try to) thành bắt buộc tuyệt đối, hoặc ngược lại."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Biển khu vực trường học",
+      "instructions": "Read the sign and choose the best answer (A, B, C or D) for each question.",
+      "passage": "SCHOOL ZONE – SLOW DOWN\n\nSpeed limit: 30 km/h\n6.30 – 7.30 a.m. and 4.30 – 5.30 p.m. on school days\n\nNO STOPPING on the yellow lines, except school buses\nPedestrian crossing ahead – give way to students\nParents: please park in Nguyen Du Street car park and walk to the gate",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What does the sign say about speed?",
+          "options": {
+            "A": "Drivers must never go faster than 30 km/h on this road.",
+            "B": "Drivers must not go over 30 km/h at certain times on school days.",
+            "C": "Drivers should go at least 30 km/h near the school.",
+            "D": "Only school buses can go faster than 30 km/h."
+          },
+          "answer": "B",
+          "explanation": "Giới hạn 30 km/h chỉ áp dụng '6.30 – 7.30 a.m. and 4.30 – 5.30 p.m. on school days'. A bỏ mất điều kiện thời gian ('never'); C đảo nghĩa thành tốc độ tối thiểu; D không có trên biển."
+        },
+        {
+          "no": 2,
+          "question": "A driver is going past the school at 10 a.m. on a Saturday. What does the sign say?",
+          "options": {
+            "A": "The 30 km/h limit on this sign does not apply then.",
+            "B": "He must drive at 30 km/h.",
+            "C": "He is not allowed to drive on this road.",
+            "D": "He must park in Nguyen Du Street."
+          },
+          "answer": "A",
+          "explanation": "10 a.m. thứ Bảy không thuộc khung giờ ghi trên biển và không phải 'school days' → giới hạn 30 km/h của biển này không áp dụng."
+        },
+        {
+          "no": 3,
+          "question": "Who can stop on the yellow lines?",
+          "options": {
+            "A": "Parents",
+            "B": "Teachers",
+            "C": "School buses",
+            "D": "Nobody"
+          },
+          "answer": "C",
+          "explanation": "'NO STOPPING on the yellow lines, except school buses' → chỉ xe buýt trường được dừng. D sai vì bỏ qua 'except'."
+        },
+        {
+          "no": 4,
+          "question": "What should parents do, according to the sign?",
+          "options": {
+            "A": "Stop at the school gate to drop off their children",
+            "B": "Drive their children into the school yard",
+            "C": "Wait for their children on the yellow lines",
+            "D": "Leave their cars in a car park and walk to the school"
+          },
+          "answer": "D",
+          "explanation": "'Parents: please park in Nguyen Du Street car park and walk to the gate.'"
+        },
+        {
+          "no": 5,
+          "question": "What does \"give way to students\" mean?",
+          "options": {
+            "A": "Show students the way to school",
+            "B": "Let students cross the road first",
+            "C": "Students must give way to cars",
+            "D": "Students are not allowed to cross here"
+          },
+          "answer": "B",
+          "explanation": "'give way to' = nhường đường cho. Gắn với 'Pedestrian crossing ahead' → xe phải để học sinh qua đường trước. C đảo chủ thể."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Thông báo tại ga tàu điện",
+      "instructions": "Read the notice and choose the best answer (A, B, C or D) for each question.",
+      "passage": "METRO LINE 2A – PASSENGER INFORMATION\n\nFrom 1st to 7th November, trains will run every 15 minutes instead of every 10 minutes because of maintenance work.\n\nThe last train from Cat Linh will leave at 9 p.m. (normally 10 p.m.).\n\nMonthly passes are still valid. Single tickets can be bought from machines or at the ticket office.\n\nBicycles may be taken on board only outside peak hours (peak hours: 6.30 – 8.30 a.m. and 4.30 – 6.30 p.m.).\n\nWe apologise for any inconvenience.",
+      "questions": [
+        {
+          "no": 6,
+          "question": "What does the notice say about trains from 1st to 7th November?",
+          "options": {
+            "A": "There will be no trains during this week.",
+            "B": "Trains will run more often than usual.",
+            "C": "Passengers will wait longer between trains.",
+            "D": "Trains will run every 10 minutes."
+          },
+          "answer": "C",
+          "explanation": "'trains will run every 15 minutes instead of every 10 minutes' → tàu thưa hơn, hành khách chờ lâu hơn. B đảo nghĩa; D là tần suất bình thường."
+        },
+        {
+          "no": 7,
+          "question": "A passenger wants to take the train from Cat Linh at 9.30 p.m. on 3rd November. What is true?",
+          "options": {
+            "A": "She will be too late for the last train.",
+            "B": "She can take the train as usual.",
+            "C": "She has to buy a monthly pass.",
+            "D": "She has to wait 10 minutes for the next train."
+          },
+          "answer": "A",
+          "explanation": "Trong thời gian 1–7/11, 'The last train from Cat Linh will leave at 9 p.m.' → 9.30 p.m. đã hết chuyến. B chỉ đúng ở thời điểm bình thường (chuyến cuối 10 p.m.)."
+        },
+        {
+          "no": 8,
+          "question": "What does the notice say about monthly passes?",
+          "options": {
+            "A": "They cannot be used this week.",
+            "B": "They can still be used.",
+            "C": "They must be bought from machines.",
+            "D": "They are free from 1st to 7th November."
+          },
+          "answer": "B",
+          "explanation": "'Monthly passes are still valid.' – 'valid' = còn hiệu lực, vẫn dùng được."
+        },
+        {
+          "no": 9,
+          "question": "When can you take your bicycle on the train?",
+          "options": {
+            "A": "At 7 a.m.",
+            "B": "At 5 p.m.",
+            "C": "At any time",
+            "D": "At 11 a.m."
+          },
+          "answer": "D",
+          "explanation": "'Bicycles may be taken on board only outside peak hours (6.30 – 8.30 a.m. and 4.30 – 6.30 p.m.)'. 7 a.m. và 5 p.m. là giờ cao điểm; chỉ 11 a.m. nằm ngoài giờ cao điểm."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Thông báo sửa đường",
+      "instructions": "Read the notice and choose the best answer (A, B, C or D) for each question.",
+      "passage": "ROAD WORKS – TRAN PHU STREET\n\nThe section between Hoang Dieu and Dien Bien Phu will be closed to all vehicles from 10 p.m. Friday to 5 a.m. Monday while the road surface is replaced.\n\nCars and motorbikes: please follow the yellow DIVERSION signs via Le Hong Phong Street.\nPedestrians can still use the pavement on the left side.\nBus route 09 will not stop at Tran Phu bus stop during this period.\n\nThe works may be noisy at night. We are sorry for the trouble.",
+      "questions": [
+        {
+          "no": 10,
+          "question": "What does the notice say?",
+          "options": {
+            "A": "Part of Tran Phu Street will be closed to traffic for the weekend.",
+            "B": "Tran Phu Street will be closed for a whole week.",
+            "C": "Only motorbikes can use Tran Phu Street at the weekend.",
+            "D": "Tran Phu Street will be closed only at night."
+          },
+          "answer": "A",
+          "explanation": "Đoạn 'between Hoang Dieu and Dien Bien Phu' (một phần đường) đóng 'from 10 p.m. Friday to 5 a.m. Monday' (cuối tuần) với 'all vehicles'. C sai vì cấm mọi phương tiện; D sai vì đóng liên tục cả cuối tuần."
+        },
+        {
+          "no": 11,
+          "question": "How should motorbike riders travel during the works?",
+          "options": {
+            "A": "Ride on the left pavement",
+            "B": "Take bus route 09",
+            "C": "Use Le Hong Phong Street",
+            "D": "Ride slowly through Tran Phu Street"
+          },
+          "answer": "C",
+          "explanation": "'Cars and motorbikes: please follow the yellow DIVERSION signs via Le Hong Phong Street.' Vỉa hè trái chỉ dành cho người đi bộ (bẫy A)."
+        },
+        {
+          "no": 12,
+          "question": "Which of the following is TRUE?",
+          "options": {
+            "A": "Pedestrians cannot walk along this part of the street.",
+            "B": "People can walk on one side of the street.",
+            "C": "Bus 09 will stop at Tran Phu bus stop as usual.",
+            "D": "The works will be completely silent."
+          },
+          "answer": "B",
+          "explanation": "'Pedestrians can still use the pavement on the left side.' → người đi bộ vẫn đi được ở một bên. C sai ('will not stop'); D sai ('may be noisy at night')."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Open Exam Prep – Cambridge A2 Key for Schools Reading Part 1: Notices, Signs, Text Messages",
+      "url": "https://open-exam-prep.com/study-guides/cambridge-a2-key-schools/reading-comprehension/reading-part-1-short-texts"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

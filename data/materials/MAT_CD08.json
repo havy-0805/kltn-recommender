@@ -1,0 +1,242 @@
+{
+  "material_id": "MAT_CD08",
+  "skill_id": "SK_WISH",
+  "title": "Chuyên đề Câu ước",
+  "target_level": 1,
+  "summary": "Tổng hợp nền tảng ba loại câu ước với wish/if only (ở hiện tại, tương lai, quá khứ), giúp học sinh chia đúng động từ sau 'wish' và viết lại câu ước từ câu thực tế.",
+  "theory": [
+    {
+      "heading": "Câu ước ở hiện tại",
+      "points": [
+        "Ước điều trái với thực tế hiện tại: S + wish(es) + S + V2/V-ed (quá khứ đơn).",
+        "Động từ 'be' dùng 'were' cho mọi ngôi (I wish I were...).",
+        "can → could: I wish I could swim.",
+        "Thực tế khẳng định → câu ước phủ định và ngược lại."
+      ],
+      "examples": [
+        {
+          "en": "I wish I had a bigger room.",
+          "vi": "Ước gì tôi có một căn phòng rộng hơn. (thực tế: phòng nhỏ)"
+        },
+        {
+          "en": "She wishes she were taller.",
+          "vi": "Cô ấy ước mình cao hơn."
+        }
+      ]
+    },
+    {
+      "heading": "Câu ước ở tương lai",
+      "points": [
+        "Mong điều gì đó sẽ xảy ra/thay đổi: S + wish + S + would/could + V.",
+        "Chủ ngữ hai vế thường khác nhau (không nói 'I wish I would ...')."
+      ],
+      "examples": [
+        {
+          "en": "I wish it would stop raining.",
+          "vi": "Ước gì trời tạnh mưa."
+        }
+      ]
+    },
+    {
+      "heading": "Câu ước ở quá khứ",
+      "points": [
+        "Tiếc nuối điều đã xảy ra/không xảy ra: S + wish + S + had + V3.",
+        "Dấu hiệu: yesterday, last week, ago..."
+      ],
+      "examples": [
+        {
+          "en": "I wish I had gone to the concert last night.",
+          "vi": "Ước gì tối qua tôi đã đi xem hòa nhạc."
+        }
+      ]
+    },
+    {
+      "heading": "If only",
+      "points": [
+        "If only + S + V (giống cấu trúc sau wish) nhưng mang cảm xúc mạnh hơn: 'Giá mà...'.",
+        "If only I knew the answer! / If only I had listened to you!"
+      ],
+      "examples": [
+        {
+          "en": "If only I were rich!",
+          "vi": "Giá mà tôi giàu có!"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhìn dấu hiệu thời gian: now/hiện tại → quá khứ đơn; tomorrow/soon → would + V; yesterday/last... → had + V3.",
+    "Sau 'wish' không bao giờ dùng thì hiện tại (am/is/have/can).",
+    "Viết lại câu: đổi thì lùi một bậc và đảo khẳng định ↔ phủ định (I can't swim → I wish I could swim)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I wish I ______ a lot of money.",
+          "options": {
+            "A": "have",
+            "B": "having",
+            "C": "will have",
+            "D": "had"
+          },
+          "answer": "D",
+          "explanation": "Ước trái với hiện tại → quá khứ đơn 'had'."
+        },
+        {
+          "no": 2,
+          "question": "She wishes she ______ a doctor.",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "will be",
+            "D": "be"
+          },
+          "answer": "B",
+          "explanation": "Câu ước hiện tại với 'be' → dùng 'were' cho mọi ngôi."
+        },
+        {
+          "no": 3,
+          "question": "I wish it ______ stop raining soon.",
+          "options": {
+            "A": "will",
+            "B": "does",
+            "C": "can",
+            "D": "would"
+          },
+          "answer": "D",
+          "explanation": "Mong điều xảy ra trong tương lai (soon) → wish + would + V."
+        },
+        {
+          "no": 4,
+          "question": "I wish I ______ the piano like my sister.",
+          "options": {
+            "A": "could play",
+            "B": "can play",
+            "C": "will play",
+            "D": "play"
+          },
+          "answer": "A",
+          "explanation": "Ước có khả năng làm gì ở hiện tại: can → could."
+        },
+        {
+          "no": 5,
+          "question": "If only I ______ rich!",
+          "options": {
+            "A": "will be",
+            "B": "were",
+            "C": "being",
+            "D": "am"
+          },
+          "answer": "B",
+          "explanation": "If only + quá khứ đơn cho hiện tại; 'be' → 'were'."
+        },
+        {
+          "no": 6,
+          "question": "I wish I ______ to the zoo with you yesterday.",
+          "options": {
+            "A": "go",
+            "B": "went",
+            "C": "will go",
+            "D": "had gone"
+          },
+          "answer": "D",
+          "explanation": "'yesterday' → ước trái với quá khứ: had + V3 'had gone'."
+        },
+        {
+          "no": 7,
+          "question": "My friends wish they ______ more free time.",
+          "options": {
+            "A": "has",
+            "B": "have",
+            "C": "had",
+            "D": "having"
+          },
+          "answer": "C",
+          "explanation": "Ước trái với hiện tại → quá khứ đơn 'had'."
+        },
+        {
+          "no": 8,
+          "question": "I wish my house ______ bigger.",
+          "options": {
+            "A": "were",
+            "B": "will",
+            "C": "be",
+            "D": "is"
+          },
+          "answer": "A",
+          "explanation": "Câu ước hiện tại với 'be' → 'were'."
+        },
+        {
+          "no": 9,
+          "question": "We wish we ______ live in the countryside.",
+          "options": {
+            "A": "are",
+            "B": "could",
+            "C": "will",
+            "D": "can"
+          },
+          "answer": "B",
+          "explanation": "Ước khả năng ở hiện tại → 'could' + V."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "I'm not good at maths.",
+          "options": {
+            "A": "I wish I were good at maths.",
+            "B": "I wish I will be good at maths.",
+            "C": "I wish I am good at maths.",
+            "D": "I wish I weren't good at maths."
+          },
+          "answer": "A",
+          "explanation": "Thực tế phủ định ở hiện tại → câu ước khẳng định, lùi thì: 'were good'."
+        },
+        {
+          "no": 11,
+          "question": "I can't drive a car.",
+          "options": {
+            "A": "I wish I can drive a car.",
+            "B": "I wish I couldn't drive a car.",
+            "C": "I wish I could drive a car.",
+            "D": "I wish I drive a car."
+          },
+          "answer": "C",
+          "explanation": "can't → ước khẳng định với 'could': 'I wish I could drive a car'."
+        },
+        {
+          "no": 12,
+          "question": "I don't know her phone number.",
+          "options": {
+            "A": "I wish I know her phone number.",
+            "B": "I wish I didn't know her phone number.",
+            "C": "I wish I knew her phone number.",
+            "D": "I wish I had known her phone number yesterday."
+          },
+          "answer": "C",
+          "explanation": "Thực tế hiện tại 'don't know' → câu ước 'knew'. D nói về quá khứ, không khớp."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Wishes: 'wish' and 'if only'",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/wishes-wish-if-only"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu điều kiện và câu ước",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-dieu-kien-va-cau-uoc-cd2025.jsp"
+    }
+  ]
+}

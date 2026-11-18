@@ -1,0 +1,281 @@
+{
+  "material_id": "MAT_REL_03",
+  "skill_id": "SK_REL_CLAUSE",
+  "title": "Mệnh đề quan hệ xác định/không xác định và giới từ đi kèm nâng cao",
+  "target_level": 3,
+  "summary": "Xử lý các câu phân hóa về mệnh đề quan hệ: giới từ + whom/which, lượng từ + of whom/which, which thay cả mệnh đề, the N of which, giới hạn của that và mệnh đề quan hệ rút gọn.",
+  "theory": [
+    {
+      "heading": "Giới từ + whom / which",
+      "points": [
+        "Trang trọng: giới từ đứng trước đại từ quan hệ: the man to whom I spoke, the house in which he grew up",
+        "Thân mật: giới từ đứng cuối mệnh đề: the man (who) I spoke to",
+        "Sau giới từ KHÔNG dùng who, that; giới từ chọn theo động từ/cụm từ (talk about, depend on, during which)"
+      ],
+      "examples": [
+        {
+          "en": "The man to whom I spoke on the phone was very helpful.",
+          "vi": "Người đàn ông mà tôi nói chuyện qua điện thoại rất nhiệt tình."
+        },
+        {
+          "en": "This is the house in which my father grew up.",
+          "vi": "Đây là ngôi nhà nơi bố tôi lớn lên."
+        }
+      ]
+    },
+    {
+      "heading": "Lượng từ + of whom / of which; the N of which; which thay cả mệnh đề",
+      "points": [
+        "all / most / some / none / both / many / two + of whom (người) / of which (vật)",
+        "the + N + of which = whose + N (cho vật): the company, the director of which...",
+        ", which ... : thay cho cả mệnh đề phía trước (luôn có dấu phẩy, không dùng that/what)"
+      ],
+      "examples": [
+        {
+          "en": "I have three brothers, all of whom are engineers.",
+          "vi": "Tôi có ba anh trai, tất cả đều là kỹ sư."
+        },
+        {
+          "en": "She passed the exam with flying colours, which surprised everyone.",
+          "vi": "Cô ấy đỗ với điểm cao, điều đó khiến mọi người ngạc nhiên."
+        }
+      ]
+    },
+    {
+      "heading": "Giới hạn của that và mệnh đề không xác định",
+      "points": [
+        "Không dùng that: sau dấu phẩy, sau giới từ",
+        "Bắt buộc/ưu tiên that: sau so sánh nhất, the only, the first, all, everything, nothing, và danh từ hỗn hợp người + vật",
+        "Mệnh đề không xác định: không lược đại từ quan hệ"
+      ],
+      "examples": [
+        {
+          "en": "He is the only student that can answer this question.",
+          "vi": "Cậu ấy là học sinh duy nhất trả lời được câu hỏi này."
+        },
+        {
+          "en": "My sister, whom you met at my party, is a nurse.",
+          "vi": "Chị tôi, người bạn đã gặp ở bữa tiệc, là y tá."
+        }
+      ]
+    },
+    {
+      "heading": "Rút gọn mệnh đề quan hệ",
+      "points": [
+        "Chủ động → V-ing: People who live in cities → People living in cities",
+        "Bị động → V3/ed: The bridge which was built last year → The bridge built last year",
+        "Sau the first/second/last/only/so sánh nhất → to V: the first person to walk on the moon"
+      ],
+      "examples": [
+        {
+          "en": "The first person to walk on the moon was Neil Armstrong.",
+          "vi": "Người đầu tiên đặt chân lên Mặt Trăng là Neil Armstrong."
+        },
+        {
+          "en": "People living in big cities often suffer from stress.",
+          "vi": "Người sống ở thành phố lớn thường bị căng thẳng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Có dấu phẩy + chỗ trống ngay sau một mệnh đề hoàn chỉnh, nghĩa là 'điều đó' → ', which'.",
+    "Lượng từ (all, most, some, none, both) + of + ___ → whom (người) / which (vật); không dùng them/who.",
+    "Trước chỗ trống có 'the first/the last/the only' + N → nghĩ đến 'to V'.",
+    "Rút gọn: danh từ thực hiện hành động → V-ing; danh từ chịu tác động → V3/ed."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "She passed the entrance exam with flying colours, ______ surprised everyone in her class.",
+          "options": {
+            "A": "who",
+            "B": "what",
+            "C": "which",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "', which' thay cho cả mệnh đề phía trước (việc cô ấy đỗ cao). 'that' không đứng sau dấu phẩy; 'what' không làm đại từ quan hệ."
+        },
+        {
+          "no": 2,
+          "question": "I have three brothers, all of ______ are engineers.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "them",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "Lượng từ + of + whom (thay cho người). 'them' tạo hai mệnh đề độc lập nối bằng dấu phẩy – sai; sau giới từ không dùng 'who'."
+        },
+        {
+          "no": 3,
+          "question": "The company, the director ______ is my uncle, is opening a new branch.",
+          "options": {
+            "A": "which",
+            "B": "of which",
+            "C": "whose",
+            "D": "of whom"
+          },
+          "answer": "B",
+          "explanation": "the + N + of which (thay cho vật 'the company') = whose director. 'whose' phải đứng trước danh từ; 'of whom' dùng cho người."
+        },
+        {
+          "no": 4,
+          "question": "The man to ______ I spoke on the phone was very helpful.",
+          "options": {
+            "A": "whom",
+            "B": "who",
+            "C": "which",
+            "D": "that"
+          },
+          "answer": "A",
+          "explanation": "Sau giới từ 'to', thay cho người → 'whom'. Không dùng who/that sau giới từ."
+        },
+        {
+          "no": 5,
+          "question": "This is the old house in ______ my father grew up.",
+          "options": {
+            "A": "whom",
+            "B": "that",
+            "C": "which",
+            "D": "where"
+          },
+          "answer": "C",
+          "explanation": "Sau giới từ 'in', thay cho vật → 'which'. 'where' đã bao gồm giới từ nên không đứng sau 'in'."
+        },
+        {
+          "no": 6,
+          "question": "The first person ______ the moon was Neil Armstrong.",
+          "options": {
+            "A": "who walking on",
+            "B": "walking on",
+            "C": "walked on",
+            "D": "to walk on"
+          },
+          "answer": "D",
+          "explanation": "Sau 'the first + N' rút gọn mệnh đề quan hệ bằng 'to V'."
+        },
+        {
+          "no": 7,
+          "question": "The bridge ______ last year is already badly damaged.",
+          "options": {
+            "A": "which built",
+            "B": "built",
+            "C": "building",
+            "D": "was built"
+          },
+          "answer": "B",
+          "explanation": "Cây cầu được xây (bị động) → rút gọn bằng V3 'built' (= which was built)."
+        },
+        {
+          "no": 8,
+          "question": "People ______ in big cities often suffer from stress and noise.",
+          "options": {
+            "A": "lived",
+            "B": "living",
+            "C": "who living",
+            "D": "are living"
+          },
+          "answer": "B",
+          "explanation": "Người sống (chủ động) → rút gọn bằng V-ing 'living' (= who live)."
+        },
+        {
+          "no": 9,
+          "question": "My sister, ______ you met at my birthday party, is a nurse.",
+          "options": {
+            "A": "that",
+            "B": "whose",
+            "C": "whom",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề không xác định, thay cho người, làm tân ngữ của 'met' → 'whom'. 'that' không dùng sau dấu phẩy."
+        },
+        {
+          "no": 10,
+          "question": "The period ______ which the war took place was very hard for everyone.",
+          "options": {
+            "A": "to",
+            "B": "on",
+            "C": "by",
+            "D": "during"
+          },
+          "answer": "D",
+          "explanation": "'during which' = trong suốt khoảng thời gian đó, phù hợp với danh từ 'period'."
+        },
+        {
+          "no": 11,
+          "question": "He is the only student in our class ______ can answer this question.",
+          "options": {
+            "A": "that",
+            "B": "whom",
+            "C": "which",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "Sau 'the only + N' chỉ người, làm chủ ngữ → dùng 'that'. 'which' dùng cho vật; 'whom' chỉ làm tân ngữ."
+        },
+        {
+          "no": 12,
+          "question": "The river, the water ______ is badly polluted, flows through the industrial zone.",
+          "options": {
+            "A": "of whom",
+            "B": "of that",
+            "C": "of whose",
+            "D": "of which"
+          },
+          "answer": "D",
+          "explanation": "the + N + of which thay cho vật 'the river'. Không có dạng 'of whose', 'of that'; 'of whom' dùng cho người."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Nối câu và tìm lỗi sai",
+      "instructions": "Choose the sentence that best combines the given sentences, or the part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "I received a letter from Mai. It made me very happy.",
+          "options": {
+            "A": "I received a letter from Mai, what made me very happy.",
+            "B": "I received a letter from Mai, that made me very happy.",
+            "C": "I received a letter from Mai, which made me very happy.",
+            "D": "I received a letter from Mai, it made me very happy."
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề không xác định dùng ', which'. B dùng that sau dấu phẩy; D nối hai câu bằng dấu phẩy; A dùng what sai."
+        },
+        {
+          "no": 14,
+          "question": "Find the mistake: The topic (A) about that we (B) talked (C) yesterday (D) was very interesting.",
+          "options": {
+            "A": "about that",
+            "B": "talked",
+            "C": "yesterday",
+            "D": "was very interesting"
+          },
+          "answer": "A",
+          "explanation": "Sau giới từ không dùng 'that' → sửa thành 'about which'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "LearnEnglish.life – Relative Clauses: Rules, Examples and Exercises",
+      "url": "https://learnenglish.life/guides/relative-clauses-rules-examples/"
+    },
+    {
+      "title": "British Council LearnEnglish Teens – Relative clauses (who, which, that, whose)",
+      "url": "https://learnenglishteens.britishcouncil.org/grammar/relative-clauses-who-which-whose/term"
+    }
+  ]
+}

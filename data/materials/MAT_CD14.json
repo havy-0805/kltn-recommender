@@ -1,0 +1,157 @@
+{
+  "material_id": "MAT_CD14",
+  "skill_id": "SK_ARTICLES",
+  "title": "Chuyên đề Mạo từ",
+  "target_level": 1,
+  "summary": "Nắm các quy tắc nền tảng của mạo từ a, an, the và trường hợp không dùng mạo từ để làm đúng các câu điền mạo từ cơ bản trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "A / An: danh từ đếm được số ít, chưa xác định",
+      "points": [
+        "Dùng khi nhắc đến lần đầu, hoặc nói về nghề nghiệp: She is an engineer.",
+        "a + từ bắt đầu bằng PHỤ ÂM (theo cách đọc): a useful book, a university, a one-way street",
+        "an + từ bắt đầu bằng NGUYÊN ÂM (theo cách đọc): an hour, an honest man, an unusual idea",
+        "Câu cảm thán với danh từ số ít: What a/an + adj + N!"
+      ],
+      "examples": [
+        { "en": "It takes me an hour to get to school.", "vi": "Tôi mất một tiếng để đến trường." },
+        { "en": "This is a useful book for beginners.", "vi": "Đây là cuốn sách hữu ích cho người mới học." }
+      ]
+    },
+    {
+      "heading": "The: danh từ đã xác định",
+      "points": [
+        "Vật được nhắc lần thứ hai: I saw a cat. The cat was black.",
+        "Vật duy nhất: the sun, the moon, the earth, the sky",
+        "Trước so sánh nhất, số thứ tự, only: the highest, the first, the only",
+        "Trước nhạc cụ: play the piano, the guitar"
+      ],
+      "examples": [
+        { "en": "The sun rises in the east.", "vi": "Mặt trời mọc ở hướng đông." },
+        { "en": "Mount Everest is the highest mountain in the world.", "vi": "Đỉnh Everest là ngọn núi cao nhất thế giới." }
+      ]
+    },
+    {
+      "heading": "Không dùng mạo từ (Ø)",
+      "points": [
+        "Danh từ số nhiều hoặc không đếm được nói chung: Children like sweets.",
+        "Bữa ăn: have breakfast/lunch/dinner",
+        "Môn thể thao, môn học, ngôn ngữ: play football, study maths, speak English",
+        "Phương tiện với 'by': by bus, by train, by bike (nhưng on foot)"
+      ],
+      "examples": [
+        { "en": "He goes to school by bus.", "vi": "Cậu ấy đi học bằng xe buýt." },
+        { "en": "We have breakfast at 6:30.", "vi": "Chúng tôi ăn sáng lúc 6 giờ 30." }
+      ]
+    }
+  ],
+  "tips": [
+    "Chọn a/an theo ÂM đầu khi đọc, không theo chữ cái: an hour (h câm), a university (/juː/).",
+    "Danh từ đã được nhắc trước, duy nhất, hoặc có so sánh nhất/số thứ tự → 'the'.",
+    "Sau 'by' chỉ phương tiện, trước tên bữa ăn, môn thể thao, môn học, ngôn ngữ → không dùng mạo từ.",
+    "Danh từ đếm được số ít không bao giờ đứng một mình: phải có a/an/the hoặc từ hạn định (my, this...)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn mạo từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence. (Ø = no article)",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My aunt is ______ engineer at a big company.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "Nói về nghề nghiệp dùng a/an; 'engineer' bắt đầu bằng nguyên âm /e/ → 'an'."
+        },
+        {
+          "no": 2,
+          "question": "I saw ______ cat in the garden this morning. It was black and white.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "A",
+          "explanation": "Nhắc đến lần đầu, chưa xác định; 'cat' bắt đầu bằng phụ âm → 'a'."
+        },
+        {
+          "no": 3,
+          "question": "______ sun rises in the east and sets in the west.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Vật duy nhất → 'the sun'."
+        },
+        {
+          "no": 4,
+          "question": "Nam usually goes to school by ______ bus.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "by + phương tiện không dùng mạo từ: 'by bus'."
+        },
+        {
+          "no": 5,
+          "question": "It takes me ______ hour to get to my grandparents' house.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "'hour' có h câm, bắt đầu bằng âm nguyên âm /aʊ/ → 'an'."
+        },
+        {
+          "no": 6,
+          "question": "My sister plays ______ piano very well.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "play + the + nhạc cụ → 'the piano'."
+        },
+        {
+          "no": 7,
+          "question": "The boys play ______ football in the park every afternoon.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Môn thể thao không dùng mạo từ: 'play football'."
+        },
+        {
+          "no": 8,
+          "question": "Mount Everest is ______ highest mountain in the world.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Trước so sánh nhất dùng 'the'."
+        },
+        {
+          "no": 9,
+          "question": "What ______ unusual idea! I've never thought of that.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "Câu cảm thán What + a/an + adj + N số ít; 'unusual' bắt đầu bằng âm /ʌ/ → 'an'."
+        },
+        {
+          "no": 10,
+          "question": "We usually have ______ breakfast at 6:30 before going to school.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Tên bữa ăn nói chung không dùng mạo từ: 'have breakfast'."
+        },
+        {
+          "no": 11,
+          "question": "My cousin can speak ______ English and French fluently.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Tên ngôn ngữ không dùng mạo từ: 'speak English'."
+        },
+        {
+          "no": 12,
+          "question": "Lan was ______ first student to arrive at the class party.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Trước số thứ tự dùng 'the': 'the first student'."
+        },
+        {
+          "no": 13,
+          "question": "This is ______ useful website for learning vocabulary.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "A",
+          "explanation": "'useful' đọc là /ˈjuːs-/, bắt đầu bằng âm phụ âm /j/ → 'a', dù chữ đầu là 'u'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "British Council LearnEnglish – Articles: a, an and the", "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/articles-a-an-the" }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "material_id": "MAT_USED_TO_03",
+  "skill_id": "SK_USED_TO",
+  "title": "Các bẫy ngữ pháp và bài tập nâng cao về thói quen trong quá khứ/hiện tại",
+  "target_level": 3,
+  "summary": "Giúp học sinh tránh các bẫy về thói quen: used to và would (không dùng would cho trạng thái), didn't use to, be used to + V-ing và be used + to V (bị động), get used to ở các thì, cùng dạng tìm lỗi sai và viết lại câu nâng cao.",
+  "theory": [
+    {
+      "heading": "Used to và would khi nói về quá khứ",
+      "points": [
+        "used to + V: dùng cho cả hành động lặp lại và TRẠNG THÁI trong quá khứ (be, have, live, like, know...).",
+        "would + V: chỉ dùng cho HÀNH ĐỘNG lặp lại trong quá khứ (thường khi kể chuyện), KHÔNG dùng cho trạng thái.",
+        "Không dùng used to cho hành động xảy ra một lần hoặc kèm số lần/khoảng thời gian cụ thể (sai: I used to go there three times).",
+        "Không có dạng hiện tại 'use to' cho thói quen hiện tại → dùng hiện tại đơn + usually."
+      ],
+      "examples": [
+        {
+          "en": "Every summer, my grandfather would take us fishing.",
+          "vi": "Mỗi mùa hè, ông thường dẫn chúng tôi đi câu cá."
+        },
+        {
+          "en": "We used to have a big garden. (không dùng 'would have')",
+          "vi": "Nhà tôi từng có một khu vườn lớn."
+        }
+      ]
+    },
+    {
+      "heading": "Phân biệt be used to + V-ing và be used + to V",
+      "points": [
+        "S (người) + be used to + V-ing/N: quen với việc gì.",
+        "S (vật) + be used + to V: được dùng để làm gì (câu bị động của 'use sth to do sth').",
+        "Phủ định chuẩn của used to: didn't use to + V (dạng trang trọng: used not to + V). Sai: didn't used to, doesn't use to."
+      ],
+      "examples": [
+        {
+          "en": "This knife is used to cut bread.",
+          "vi": "Con dao này được dùng để cắt bánh mì."
+        },
+        {
+          "en": "The chef is used to cutting bread very fast.",
+          "vi": "Đầu bếp đã quen cắt bánh mì rất nhanh."
+        }
+      ]
+    },
+    {
+      "heading": "Get used to ở các thì và đồng nghĩa",
+      "points": [
+        "have/has got used to (đã quen đến giờ), will get used to (sẽ quen), had got used to (đã quen trước một mốc quá khứ).",
+        "be accustomed to + V-ing = be used to + V-ing.",
+        "S + found it difficult to V at first, but now ... = S + has got used to + V-ing."
+      ],
+      "examples": [
+        {
+          "en": "Since moving to Da Lat, she has got used to the cold weather.",
+          "vi": "Từ khi chuyển đến Đà Lạt, cô ấy đã quen với thời tiết lạnh."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy động từ trạng thái (be, have, live, like, know, own) → chỉ chọn used to, loại would.",
+    "Chủ ngữ là đồ vật + 'be used to + V' → nghĩa bị động 'được dùng để', không phải 'quen'.",
+    "Tìm lỗi sai: soi kỹ 'didn't used to', 'be used to + V nguyên mẫu', 'would + động từ trạng thái'.",
+    "Có 'since/for/yet' → get used to chia hiện tại hoàn thành; có 'by the time + QKĐ' → had got used to."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "When I was a child, I ______ have very long hair.",
+          "options": {
+            "A": "was used to",
+            "B": "used to",
+            "C": "am used to",
+            "D": "would"
+          },
+          "answer": "B",
+          "explanation": "'have' (sở hữu) là động từ trạng thái → chỉ dùng 'used to', không dùng 'would'."
+        },
+        {
+          "no": 2,
+          "question": "Every summer, my grandfather ______ take us fishing in the river near his house.",
+          "options": {
+            "A": "would",
+            "B": "gets used to",
+            "C": "is used to",
+            "D": "was used to"
+          },
+          "answer": "A",
+          "explanation": "Hành động lặp lại trong quá khứ, sau là V nguyên mẫu → 'would' (= used to). Các phương án còn lại cần V-ing."
+        },
+        {
+          "no": 3,
+          "question": "This machine ______ to cut paper, not metal.",
+          "options": {
+            "A": "is used",
+            "B": "is using",
+            "C": "uses",
+            "D": "is used to"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ là vật + nghĩa 'được dùng để' → bị động 'is used' + to V. D làm câu thừa 'to to'."
+        },
+        {
+          "no": 4,
+          "question": "By the time I moved out, I ______ to the noise of the traffic.",
+          "options": {
+            "A": "get used",
+            "B": "am used",
+            "C": "used",
+            "D": "had got used"
+          },
+          "answer": "D",
+          "explanation": "By the time + QKĐ → mệnh đề chính quá khứ hoàn thành: 'had got used to'."
+        },
+        {
+          "no": 5,
+          "question": "Since she moved to Da Lat, she ______ to the cold weather.",
+          "options": {
+            "A": "is used",
+            "B": "uses",
+            "C": "has got used",
+            "D": "used"
+          },
+          "answer": "C",
+          "explanation": "'Since + QKĐ' → hiện tại hoàn thành: 'has got used to'."
+        },
+        {
+          "no": 6,
+          "question": "He ______ smoke 20 cigarettes a day, but he gave up two years ago.",
+          "options": {
+            "A": "used to",
+            "B": "is used to",
+            "C": "would be",
+            "D": "was used to"
+          },
+          "answer": "A",
+          "explanation": "Thói quen trong quá khứ đã bỏ, sau là V nguyên mẫu 'smoke' → 'used to'."
+        },
+        {
+          "no": 7,
+          "question": "Don't worry about the new school. I'm sure you ______ it soon.",
+          "options": {
+            "A": "are used to",
+            "B": "use to",
+            "C": "will get used to",
+            "D": "used to"
+          },
+          "answer": "C",
+          "explanation": "'soon' – quá trình dần quen trong tương lai → 'will get used to'."
+        },
+        {
+          "no": 8,
+          "question": "Which sentence is correct?",
+          "options": {
+            "A": "She didn't used to like coffee.",
+            "B": "She used not like coffee.",
+            "C": "She doesn't use to like coffee.",
+            "D": "She didn't use to like coffee."
+          },
+          "answer": "D",
+          "explanation": "Phủ định đúng: didn't use to + V. A thừa -d, C không có dạng hiện tại, B thiếu 'to' (đúng phải là 'used not to like')."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "When I was young, I (A) would live in a (B) small house (C) near the river (D) with my grandparents.",
+          "options": {
+            "A": "would live",
+            "B": "small house",
+            "C": "near the river",
+            "D": "with my grandparents"
+          },
+          "answer": "A",
+          "explanation": "'live' là động từ trạng thái, không dùng 'would' → sửa thành 'used to live'."
+        },
+        {
+          "no": 10,
+          "question": "Nam (A) is used to (B) stay up late, (C) so he never (D) feels sleepy at night.",
+          "options": {
+            "A": "is used to",
+            "B": "stay",
+            "C": "so",
+            "D": "feels"
+          },
+          "answer": "B",
+          "explanation": "be used to + V-ing → sửa 'stay' thành 'staying'."
+        },
+        {
+          "no": 11,
+          "question": "(A) Did your father (B) used to (C) work in (D) a factory?",
+          "options": {
+            "A": "Did",
+            "B": "used to",
+            "C": "work in",
+            "D": "a factory"
+          },
+          "answer": "B",
+          "explanation": "Sau 'Did' dùng 'use to' (bỏ -d) → sửa 'used to' thành 'use to'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "My mother found the new smartphone difficult to use at first, but now she has no problem with it.",
+          "options": {
+            "A": "My mother used to use the new smartphone.",
+            "B": "My mother has got used to using the new smartphone.",
+            "C": "My mother didn't use to using the new smartphone.",
+            "D": "My mother is used to use the new smartphone."
+          },
+          "answer": "B",
+          "explanation": "Lúc đầu thấy khó, giờ không sao = đã dần quen → 'has got used to using'. D, C sai dạng động từ; A sai nghĩa."
+        },
+        {
+          "no": 13,
+          "question": "Ten years ago, there were no tall buildings in my town.",
+          "options": {
+            "A": "There used to be tall buildings in my town.",
+            "B": "There didn't use to be any tall buildings in my town.",
+            "C": "There was used to be no tall buildings in my town.",
+            "D": "My town is used to have no tall buildings."
+          },
+          "answer": "B",
+          "explanation": "Trước đây không có nhà cao tầng → 'There didn't use to be any ...'. A ngược nghĩa; C, D sai cấu trúc."
+        },
+        {
+          "no": 14,
+          "question": "I'm not accustomed to working at weekends.",
+          "options": {
+            "A": "I didn't use to work at weekends.",
+            "B": "I don't get used to work at weekends.",
+            "C": "I'm not used to working at weekends.",
+            "D": "I used not working at weekends."
+          },
+          "answer": "C",
+          "explanation": "be accustomed to + V-ing = be used to + V-ing (quen với)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Bài tập used to lớp 9",
+      "url": "https://zim.vn/bai-tap-used-to-lop-9"
+    },
+    {
+      "title": "British Council LearnEnglish – Passives (be + past participle)",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passives"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "material_id": "MAT_EXT02",
+  "skill_id": "SK_WORD_FORM",
+  "title": "Tổng hợp Vocab kì 1",
+  "target_level": 2,
+  "summary": "Tổng hợp từ vựng trọng tâm học kì 1 Tiếng Anh 9 (Local community, City life, Healthy living for teens, Remembering the past, Our experiences, Vietnamese lifestyle: then and now) theo họ từ, giúp học sinh chọn đúng dạng từ trong câu.",
+  "theory": [
+    {
+      "heading": "Unit 1–2: Local community & City life",
+      "points": [
+        "craft (n) – craftsman/artisan (n, người thợ thủ công) – handicraft (n, đồ thủ công).",
+        "tradition (n) – traditional (adj) – traditionally (adv).",
+        "congestion (n, sự tắc nghẽn) – congested (adj, đông nghẹt, tắc nghẽn).",
+        "reside (v, cư trú) – resident (n, cư dân) – residential (adj, thuộc khu dân cư).",
+        "advantage (n, lợi thế) ≠ disadvantage (n, bất lợi) – advantageous (adj)."
+      ],
+      "examples": [
+        {
+          "en": "Conical hats are traditional handicrafts of Viet Nam.",
+          "vi": "Nón lá là đồ thủ công truyền thống của Việt Nam."
+        },
+        {
+          "en": "The roads are always congested during rush hour.",
+          "vi": "Đường phố luôn tắc nghẽn vào giờ cao điểm."
+        }
+      ]
+    },
+    {
+      "heading": "Unit 3: Healthy living for teens",
+      "points": [
+        "balance (n/v) – balanced (adj): a balanced diet / a well-balanced life.",
+        "stress (n) – stressed (adj, bị căng thẳng: chỉ người) – stressful (adj, gây căng thẳng: chỉ sự việc).",
+        "health (n) – healthy (adj) – healthily (adv) – healthier (so sánh hơn).",
+        "efficient (adj) – efficiently (adv) – efficiency (n)."
+      ],
+      "examples": [
+        {
+          "en": "Exam week is stressful, so many students feel stressed.",
+          "vi": "Tuần thi rất căng thẳng nên nhiều học sinh cảm thấy áp lực."
+        },
+        {
+          "en": "Teens need a balanced diet to stay healthy.",
+          "vi": "Thanh thiếu niên cần chế độ ăn cân bằng để khỏe mạnh."
+        }
+      ]
+    },
+    {
+      "heading": "Unit 4–6: Past, experiences, lifestyle then and now",
+      "points": [
+        "extend (v) – extended (adj): extended family (gia đình nhiều thế hệ) – extension (n).",
+        "preserve (v, bảo tồn) – preservation (n).",
+        "memory (n) – memorable (adj, đáng nhớ) – memorise (v).",
+        "embarrass (v) – embarrassed (adj, người cảm thấy ngượng) – embarrassing (adj, sự việc gây ngượng) – embarrassment (n).",
+        "technology (n) – technological (adj); construct (v) – construction (n)."
+      ],
+      "examples": [
+        {
+          "en": "My grandparents lived in an extended family.",
+          "vi": "Ông bà tôi từng sống trong một gia đình nhiều thế hệ."
+        },
+        {
+          "en": "Falling over on stage was the most embarrassing moment of my life.",
+          "vi": "Ngã trên sân khấu là khoảnh khắc ngượng nhất đời tôi."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định vị trí trống: sau mạo từ/tính từ sở hữu → danh từ; trước danh từ → tính từ; sau động từ thường → trạng từ; sau be/feel/become → tính từ.",
+    "Tính từ -ed chỉ cảm xúc của người, tính từ -ing chỉ tính chất của sự vật/sự việc (stressed – stressful, embarrassed – embarrassing).",
+    "Chú ý dấu hiệu số nhiều (many, a lot of, a large number of) → danh từ số nhiều; \"and + so sánh hơn\" → cũng dùng so sánh hơn.",
+    "Học từ theo họ từ (word family) từng unit thay vì học từng từ rời rạc."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Artisans in my village make ______ handicrafts such as conical hats and bamboo baskets.",
+          "options": {
+            "A": "traditionally",
+            "B": "tradition",
+            "C": "traditional",
+            "D": "traditions"
+          },
+          "answer": "C",
+          "explanation": "Trước danh từ \"handicrafts\" cần một tính từ → \"traditional\" (truyền thống)."
+        },
+        {
+          "no": 2,
+          "question": "The streets in the city centre are always ______ during rush hour.",
+          "options": {
+            "A": "congest",
+            "B": "congested",
+            "C": "congestion",
+            "D": "congesting"
+          },
+          "answer": "B",
+          "explanation": "Sau \"are always\" cần tính từ mô tả trạng thái đường phố → \"congested\" (tắc nghẽn)."
+        },
+        {
+          "no": 3,
+          "question": "Living in a big city has many ______, such as good schools and modern hospitals.",
+          "options": {
+            "A": "disadvantage",
+            "B": "advantages",
+            "C": "advantageous",
+            "D": "advantaged"
+          },
+          "answer": "B",
+          "explanation": "Sau \"many\" cần danh từ số nhiều; ví dụ \"good schools, modern hospitals\" là điểm tốt → \"advantages\"."
+        },
+        {
+          "no": 4,
+          "question": "Teens should follow a ______ diet with plenty of fruit and vegetables.",
+          "options": {
+            "A": "imbalance",
+            "B": "balanced",
+            "C": "balancing",
+            "D": "balance"
+          },
+          "answer": "B",
+          "explanation": "Giữa mạo từ \"a\" và danh từ \"diet\" cần tính từ → \"balanced diet\" (chế độ ăn cân bằng)."
+        },
+        {
+          "no": 5,
+          "question": "Lan felt very ______ because she had three tests on the same day.",
+          "options": {
+            "A": "stress",
+            "B": "stressing",
+            "C": "stressed",
+            "D": "stressful"
+          },
+          "answer": "C",
+          "explanation": "Sau \"felt very\" cần tính từ chỉ cảm xúc của người → \"stressed\". \"stressful\" dùng cho sự việc gây căng thẳng."
+        },
+        {
+          "no": 6,
+          "question": "The local ______ planted trees along the street to make it greener.",
+          "options": {
+            "A": "residents",
+            "B": "residential",
+            "C": "reside",
+            "D": "residence"
+          },
+          "answer": "A",
+          "explanation": "Sau \"The local\" cần danh từ chỉ người làm chủ ngữ cho \"planted\" → \"residents\" (cư dân). \"residence\" là nơi ở, không phải người."
+        },
+        {
+          "no": 7,
+          "question": "Forgetting my lines in the school play was the most ______ experience I have ever had.",
+          "options": {
+            "A": "embarrassing",
+            "B": "embarrassment",
+            "C": "embarrass",
+            "D": "embarrassed"
+          },
+          "answer": "A",
+          "explanation": "\"the most + tính từ\" bổ nghĩa cho \"experience\" (sự việc) → dùng tính từ đuôi -ing: \"embarrassing\"."
+        },
+        {
+          "no": 8,
+          "question": "In the past, many Vietnamese people lived in ______ families with three or four generations.",
+          "options": {
+            "A": "extend",
+            "B": "extension",
+            "C": "extended",
+            "D": "extending"
+          },
+          "answer": "C",
+          "explanation": "\"extended family\" là cụm cố định chỉ gia đình nhiều thế hệ; trước danh từ cần tính từ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Họ từ nâng cao",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct form of the word to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "We should ______ the customs and traditions of our ancestors.",
+          "options": {
+            "A": "preservative",
+            "B": "preserved",
+            "C": "preservation",
+            "D": "preserve"
+          },
+          "answer": "D",
+          "explanation": "Sau động từ khuyết thiếu \"should\" cần động từ nguyên thể → \"preserve\" (bảo tồn)."
+        },
+        {
+          "no": 10,
+          "question": "Thanks to modern ______, people can talk to their relatives abroad every day.",
+          "options": {
+            "A": "technologically",
+            "B": "technological",
+            "C": "technology",
+            "D": "technologist"
+          },
+          "answer": "C",
+          "explanation": "Sau tính từ \"modern\" cần danh từ → \"technology\". \"technologist\" là người, không hợp nghĩa."
+        },
+        {
+          "no": 11,
+          "question": "Minh managed his time ______ and finished all his homework before dinner.",
+          "options": {
+            "A": "efficient",
+            "B": "efficiently",
+            "C": "efficiency",
+            "D": "efficiencies"
+          },
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho động từ \"managed\" cần trạng từ → \"efficiently\" (một cách hiệu quả)."
+        },
+        {
+          "no": 12,
+          "question": "The flower festival attracts a large number of ______ every year.",
+          "options": {
+            "A": "visited",
+            "B": "visiting",
+            "C": "visit",
+            "D": "visitors"
+          },
+          "answer": "D",
+          "explanation": "\"a large number of\" + danh từ đếm được số nhiều → \"visitors\"."
+        },
+        {
+          "no": 13,
+          "question": "My grandmother told us many ______ stories about her childhood in the countryside.",
+          "options": {
+            "A": "memorably",
+            "B": "memorise",
+            "C": "memory",
+            "D": "memorable"
+          },
+          "answer": "D",
+          "explanation": "Trước danh từ \"stories\" cần tính từ → \"memorable\" (đáng nhớ)."
+        },
+        {
+          "no": 14,
+          "question": "Doing sport regularly makes you ______ and stronger.",
+          "options": {
+            "A": "healthier",
+            "B": "health",
+            "C": "healthy",
+            "D": "healthily"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc \"make + O + adj\"; liên từ \"and\" nối với \"stronger\" (so sánh hơn) nên cần dạng tương ứng \"healthier\"."
+        },
+        {
+          "no": 15,
+          "question": "The ______ of the new bridge took nearly two years.",
+          "options": {
+            "A": "construction",
+            "B": "constructive",
+            "C": "constructed",
+            "D": "construct"
+          },
+          "answer": "A",
+          "explanation": "Sau \"The\" và trước \"of\" cần danh từ → \"construction\" (việc xây dựng)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Hoatieu - Đề cương ôn thi học kì 1 Tiếng Anh 9 Global Success",
+      "url": "https://hoatieu.vn/de-cuong-on-thi-hoc-ki-1-tieng-anh-9-global-success-227566"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

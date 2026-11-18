@@ -1,0 +1,176 @@
+{
+  "material_id": "MAT_TEXT_ORG_01",
+  "skill_id": "SK_TEXT_ORG",
+  "title": "Quy tắc cơ bản sắp xếp trật tự các câu trong đoạn",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm các quy tắc nền tảng để sắp xếp 3–4 câu thành đoạn văn ngắn: tìm câu chủ đề, theo trật tự thời gian, theo từ nối liệt kê và theo đại từ quy chiếu.",
+  "theory": [
+    {
+      "heading": "Câu chủ đề (topic sentence) thường đứng đầu",
+      "points": [
+        "Câu chủ đề nêu ý khái quát của cả đoạn, không chứa từ nối kiểu 'However', 'For example', 'Besides', 'That is why'.",
+        "Câu chủ đề thường dùng danh từ đầy đủ (Ha Noi, Reading books…), chưa dùng đại từ 'it, they, this'.",
+        "Các câu còn lại là câu hỗ trợ: giải thích, liệt kê lý do, đưa ví dụ cho câu chủ đề."
+      ],
+      "examples": [
+        { "en": "Reading books brings us many benefits. It helps us relax. Moreover, we can learn new words.", "vi": "Đọc sách mang lại nhiều lợi ích. Nó giúp ta thư giãn. Hơn nữa, ta có thể học từ mới. (Câu 1 là câu chủ đề.)" }
+      ]
+    },
+    {
+      "heading": "Trật tự thời gian và trình tự các bước",
+      "points": [
+        "Từ chỉ trình tự: First / First of all → Then / Next / After that → Finally / In the end.",
+        "Mốc thời gian trong ngày: In the morning → In the afternoon → In the evening.",
+        "Kể chuyện quá khứ: Last summer / Yesterday (mở đầu) → When we arrived… → The next day… → Now…"
+      ],
+      "examples": [
+        { "en": "First, I get up at 6 a.m. Then I have breakfast. Finally, I ride my bike to school.", "vi": "Đầu tiên, tôi dậy lúc 6 giờ. Sau đó tôi ăn sáng. Cuối cùng, tôi đạp xe đến trường." }
+      ]
+    },
+    {
+      "heading": "Từ nối liệt kê, bổ sung, tương phản, kết quả",
+      "points": [
+        "Liệt kê: Firstly → Secondly → Thirdly / Finally. Câu có 'Secondly' không thể đứng trước câu có 'Firstly'.",
+        "Bổ sung: also, Moreover, Besides, In addition → luôn đứng SAU một ý đã nêu.",
+        "Tương phản: However, But → đứng sau ý trái ngược với nó.",
+        "Ví dụ: For example, For instance → đứng sau câu nêu ý chung cần minh họa.",
+        "Kết quả / kết luận: So, As a result, That is why, In short → thường ở cuối đoạn."
+      ],
+      "examples": [
+        { "en": "The Internet is very useful. For example, students can find information quickly. However, it can be harmful if we use it too much.", "vi": "Internet rất hữu ích. Ví dụ, học sinh có thể tìm thông tin nhanh. Tuy nhiên, nó có thể gây hại nếu ta dùng quá nhiều." }
+      ]
+    },
+    {
+      "heading": "Đại từ và mạo từ 'the' quy chiếu",
+      "points": [
+        "Đại từ it / they / she / he / them phải đứng SAU câu có danh từ mà nó thay thế.",
+        "Lần đầu nhắc đến một vật dùng 'a/an' (a boy, a wallet); lần sau dùng 'the' (the boy, the wallet).",
+        "Tên riêng (Mimi, Lan) phải được giới thiệu trước khi các câu sau dùng lại."
+      ],
+      "examples": [
+        { "en": "Yesterday, a boy lost his bag on the bus. The boy was very sad. Luckily, a driver found it.", "vi": "Hôm qua, một cậu bé làm mất cặp trên xe buýt. Cậu bé rất buồn. May thay, một bác tài xế tìm thấy nó." }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: Tìm câu KHÔNG có từ nối và KHÔNG có đại từ ở đầu – thường đó là câu mở đầu. Loại ngay các phương án bắt đầu bằng câu có 'However', 'Then', 'It', 'They'.",
+    "Bước 2: Gạch chân từ nối (First, Then, Secondly, Finally…) và đánh số thứ tự theo chúng.",
+    "Bước 3: Với mỗi đại từ (it, they, them) hoặc 'the + danh từ', hỏi: 'nó chỉ cái gì?' – câu chứa danh từ gốc phải đứng trước.",
+    "Bước 4: Đọc lại cả đoạn theo thứ tự đã chọn; nếu thấy 'nhảy cóc' về thời gian hoặc ý, hãy kiểm tra lại."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Sắp xếp 3 câu (a–c) thành đoạn văn",
+      "instructions": "Read the first sentence of each paragraph. Then choose the correct order of the sentences (a–c) to complete the paragraph.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My morning routine is quite simple.\na. Then I have breakfast with my family.\nb. First, I get up at 6 a.m. and brush my teeth.\nc. Finally, I ride my bike to school.",
+          "options": { "A": "a – b – c", "B": "b – a – c", "C": "c – b – a", "D": "b – c – a" },
+          "answer": "B",
+          "explanation": "Theo từ chỉ trình tự: 'First' (b) → 'Then' (a) → 'Finally' (c). Câu a có 'Then' nên không thể đứng đầu; câu c có 'Finally' nên phải đứng cuối."
+        },
+        {
+          "no": 2,
+          "question": "Making a cup of green tea is easy.\na. After that, pour hot water over the leaves.\nb. First, put a spoonful of tea leaves into a teapot.\nc. Wait for three minutes, and then the tea is ready to drink.",
+          "options": { "A": "c – a – b", "B": "a – b – c", "C": "b – a – c", "D": "b – c – a" },
+          "answer": "C",
+          "explanation": "Trình tự các bước: 'First' cho lá trà vào ấm (b) → 'After that' rót nước nóng lên 'the leaves' (a) – 'the leaves' chỉ lá trà ở câu b → chờ 3 phút rồi uống (c)."
+        },
+        {
+          "no": 3,
+          "question": "Last summer, my family went to Sa Pa.\na. We left Ha Noi early in the morning by coach.\nb. The next day, the fog cleared and we saw the beautiful rice terraces.\nc. When we arrived, it was cold and foggy.",
+          "options": { "A": "a – b – c", "B": "c – a – b", "C": "b – c – a", "D": "a – c – b" },
+          "answer": "D",
+          "explanation": "Kể theo thời gian: rời Hà Nội (a) → 'When we arrived' – khi đến nơi (c) → 'The next day' – ngày hôm sau sương tan (b). Câu b nói 'the fog cleared' nên phải đứng sau câu c có 'foggy'."
+        },
+        {
+          "no": 4,
+          "question": "There are many ways to save water at home.\na. Second, they should fix leaking taps as soon as possible.\nb. Third, they can reuse the water from washing vegetables to water plants.\nc. First, people should take short showers instead of baths.",
+          "options": { "A": "c – a – b", "B": "a – c – b", "C": "c – b – a", "D": "b – a – c" },
+          "answer": "A",
+          "explanation": "Từ nối liệt kê: 'First' (c) → 'Second' (a) → 'Third' (b). Ngoài ra, đại từ 'they' ở a và b thay cho 'people' ở c, nên c phải đứng trước."
+        },
+        {
+          "no": 5,
+          "question": "Lan got a kitten as a birthday present two years ago.\na. She named the kitten Mimi because of its soft 'mi mi' sound.\nb. Now Mimi is Lan's best friend, and they play together every evening.\nc. At first, Mimi was so small that she could sit in Lan's hand.",
+          "options": { "A": "a – c – b", "B": "c – a – b", "C": "b – a – c", "D": "a – b – c" },
+          "answer": "A",
+          "explanation": "Tên 'Mimi' phải được giới thiệu trước (a: She named the kitten Mimi), nên a đứng trước c và b. Sau đó là 'At first' – lúc mới đầu (c) rồi đến 'Now' – bây giờ (b)."
+        },
+        {
+          "no": 6,
+          "question": "Vietnamese students usually have a busy school day.\na. In the afternoon, many of them go to extra classes or clubs.\nb. In the evening, they do their homework and prepare for the next day.\nc. In the morning, they study at school from 7 a.m. to 11:30 a.m.",
+          "options": { "A": "a – b – c", "B": "c – b – a", "C": "c – a – b", "D": "b – c – a" },
+          "answer": "C",
+          "explanation": "Sắp theo mốc thời gian trong ngày: 'In the morning' (c) → 'In the afternoon' (a) → 'In the evening' (b)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Câu chủ đề và đoạn văn 4 câu",
+      "instructions": "Choose the best answer (A, B, C or D).",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Which sentence should come FIRST in a paragraph about Ha Noi?",
+          "options": {
+            "A": "For example, it has many lakes such as Hoan Kiem Lake and West Lake.",
+            "B": "Ha Noi is a wonderful city for visitors.",
+            "C": "Besides, the food there is cheap and delicious.",
+            "D": "That is why tourists love coming back."
+          },
+          "answer": "B",
+          "explanation": "B là câu chủ đề: nêu ý khái quát, dùng tên riêng 'Ha Noi', không có từ nối. A có 'For example' và 'it', C có 'Besides' và 'there', D có 'That is why' – đều cần một câu đứng trước."
+        },
+        {
+          "no": 8,
+          "question": "Which sentence should come FIRST in a paragraph about reading?",
+          "options": {
+            "A": "It also helps us relax after a stressful day.",
+            "B": "Moreover, readers can learn many new words.",
+            "C": "As a result, they often write better than others.",
+            "D": "Reading books brings us many benefits."
+          },
+          "answer": "D",
+          "explanation": "D nêu ý chung của cả đoạn và không có từ nối hay đại từ. A có 'It… also', B có 'Moreover', C có 'As a result' và 'they' – đều là câu hỗ trợ, phải đứng sau."
+        },
+        {
+          "no": 9,
+          "question": "Choose the correct order of the sentences to make a meaningful paragraph.\na. Firstly, it makes our bodies strong and healthy.\nb. Playing sports is good for teenagers in many ways.\nc. Secondly, it teaches us how to work in a team.\nd. In short, every student should take part in at least one sport.",
+          "options": { "A": "a – b – c – d", "B": "b – c – a – d", "C": "b – a – c – d", "D": "d – a – c – b" },
+          "answer": "C",
+          "explanation": "b là câu chủ đề (danh từ đầy đủ 'Playing sports'). 'Firstly' (a) → 'Secondly' (c) → 'In short' kết luận (d). 'it' ở a và c thay cho 'playing sports' ở b."
+        },
+        {
+          "no": 10,
+          "question": "Choose the correct order of the sentences to make a meaningful paragraph.\na. They eat banh chung and visit their relatives.\nb. Tet is the most important festival in Viet Nam.\nc. Before Tet, people clean and decorate their houses.\nd. During the holiday, families gather together.",
+          "options": { "A": "b – d – c – a", "B": "c – b – d – a", "C": "b – c – a – d", "D": "b – c – d – a" },
+          "answer": "D",
+          "explanation": "b là câu chủ đề. Theo thời gian: 'Before Tet' – trước Tết (c) → 'During the holiday' – trong dịp Tết (d) → 'They' ở a thay cho 'families' ở d, nên a đứng ngay sau d."
+        },
+        {
+          "no": 11,
+          "question": "Choose the correct order of the sentences to make a meaningful paragraph.\na. The boy was very sad because the bag had all his books inside.\nb. Yesterday, a boy lost his school bag on the bus.\nc. Luckily, a kind driver found it and gave it back to him.",
+          "options": { "A": "b – a – c", "B": "a – b – c", "C": "b – c – a", "D": "c – b – a" },
+          "answer": "A",
+          "explanation": "Câu b giới thiệu 'a boy' và 'his school bag' lần đầu; câu a dùng 'The boy', 'the bag' để nhắc lại nên đứng sau b. 'Luckily' (c) cho kết thúc có hậu sau nỗi buồn ở a."
+        },
+        {
+          "no": 12,
+          "question": "Choose the correct order of the sentences to make a meaningful paragraph.\na. However, it can also be harmful if we use it too much.\nb. The Internet is very useful for students.\nc. For example, they can find information for their projects quickly.",
+          "options": { "A": "a – b – c", "B": "b – a – c", "C": "c – b – a", "D": "b – c – a" },
+          "answer": "D",
+          "explanation": "b là câu chủ đề. 'For example' (c) minh họa cho ý 'useful' nên đi ngay sau b. 'However' (a) chuyển sang mặt trái nên đứng cuối. Nếu đặt a trước c thì ví dụ ở c lại minh họa cho tác hại – sai logic."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Purdue OWL – On Paragraphs (topic sentence, coherence, transitions)", "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" },
+    { "title": "HOCMAI – Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội năm 2025, hướng dẫn giải", "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet" },
+    { "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

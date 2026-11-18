@@ -1,0 +1,247 @@
+{
+  "material_id": "MAT_CD22",
+  "skill_id": "SK_ADJ_ORDER",
+  "title": "Chuyên đề Trật tự của tính từ",
+  "target_level": 2,
+  "summary": "Tổng hợp trật tự đầy đủ của cụm danh từ (từ hạn định – số từ – tính từ theo OSASCOMP – danh từ) và luyện các câu sắp xếp 3–4 tính từ, dạng đề phổ biến trong đề thi vào 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Trật tự đầy đủ của cụm danh từ",
+      "points": [
+        "Từ hạn định (a/an/the, my/your, this/these) → Số thứ tự (first, second, next, last) → Số đếm (one, two, three) → Tính từ → Danh từ.",
+        "Ví dụ: my first two English lessons; the last three days.",
+        "Tính từ sắp xếp theo OSASCOMP: Opinion – Size – Age – Shape – Colour – Origin – Material – Purpose."
+      ],
+      "examples": [
+        {
+          "en": "These two lovely little puppies belong to my neighbour.",
+          "vi": "Hai chú cún nhỏ đáng yêu này là của hàng xóm tôi."
+        },
+        {
+          "en": "The first three chapters of the book are boring.",
+          "vi": "Ba chương đầu của cuốn sách khá chán."
+        }
+      ]
+    },
+    {
+      "heading": "Cách áp dụng OSASCOMP với 3–4 tính từ",
+      "points": [
+        "Opinion là đánh giá chủ quan (wonderful, useful, comfortable, expensive, delicious) → luôn đứng đầu.",
+        "Các tính từ chỉ đặc điểm khách quan tiếp theo: Size → Age → Shape → Colour → Origin → Material.",
+        "Purpose (thường là V-ing hoặc danh từ làm tính từ: swimming pool, football boots, tennis racket) đứng sát danh từ.",
+        "Tính từ cùng loại (2 màu, 2 ý kiến) nối bằng 'and' hoặc dấu phẩy: a black and white cat; a cheap, comfortable hotel."
+      ],
+      "examples": [
+        {
+          "en": "She bought an expensive small Japanese electric car.",
+          "vi": "Cô ấy mua một chiếc ô tô điện nhỏ của Nhật rất đắt tiền."
+        },
+        {
+          "en": "My uncle collects beautiful old French silver coins.",
+          "vi": "Chú tôi sưu tầm những đồng xu bạc cổ của Pháp rất đẹp."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ đứng sau động từ nối",
+      "points": [
+        "Sau be, look, seem, feel, become..., các tính từ không cần theo OSASCOMP, thường nối bằng 'and': The room is large and bright.",
+        "OSASCOMP chỉ áp dụng khi các tính từ đứng liền nhau TRƯỚC danh từ."
+      ],
+      "examples": [
+        {
+          "en": "The old house looks big and comfortable.",
+          "vi": "Ngôi nhà cũ trông rộng và thoải mái."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gán nhãn từng tính từ, rồi tìm cặp đầu tiên sai thứ tự để loại đáp án nhanh.",
+    "Nhóm hay gây nhầm: Age (old/new/young) trước Shape/Colour; Origin (Chinese, Thai) trước Material (silk, cotton).",
+    "Danh từ đóng vai trò tính từ chỉ mục đích/loại (school, football, tennis) luôn sát danh từ chính.",
+    "Số thứ tự (first/last) đứng trước số đếm: the first two, không phải the two first."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn trật tự đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My aunt gave me a ______ bag for my birthday.",
+          "options": {
+            "A": "lovely small leather",
+            "B": "lovely leather small",
+            "C": "leather small lovely",
+            "D": "small lovely leather"
+          },
+          "answer": "A",
+          "explanation": "Opinion (lovely) → Size (small) → Material (leather)."
+        },
+        {
+          "no": 2,
+          "question": "The museum has a collection of ______ vases.",
+          "options": {
+            "A": "ancient Chinese blue",
+            "B": "ancient blue Chinese",
+            "C": "Chinese ancient blue",
+            "D": "blue ancient Chinese"
+          },
+          "answer": "B",
+          "explanation": "Age (ancient) → Colour (blue) → Origin (Chinese)."
+        },
+        {
+          "no": 3,
+          "question": "He was wearing a ______ shirt at the party.",
+          "options": {
+            "A": "white new cotton",
+            "B": "new cotton white",
+            "C": "cotton white new",
+            "D": "new white cotton"
+          },
+          "answer": "D",
+          "explanation": "Age (new) → Colour (white) → Material (cotton)."
+        },
+        {
+          "no": 4,
+          "question": "We had dinner at a ______ restaurant last night.",
+          "options": {
+            "A": "Italian nice little",
+            "B": "nice little Italian",
+            "C": "little nice Italian",
+            "D": "nice Italian little"
+          },
+          "answer": "B",
+          "explanation": "Opinion (nice) → Size (little) → Origin (Italian)."
+        },
+        {
+          "no": 5,
+          "question": "My sister wants to buy a pair of ______ boots.",
+          "options": {
+            "A": "new black football",
+            "B": "black new football",
+            "C": "football black new",
+            "D": "new football black"
+          },
+          "answer": "A",
+          "explanation": "Age (new) → Colour (black) → Purpose (football) sát danh từ."
+        },
+        {
+          "no": 6,
+          "question": "______ days of the holiday were wonderful.",
+          "options": {
+            "A": "First the two",
+            "B": "The two first",
+            "C": "Two the first",
+            "D": "The first two"
+          },
+          "answer": "D",
+          "explanation": "Mạo từ → số thứ tự → số đếm: The first two."
+        },
+        {
+          "no": 7,
+          "question": "Grandma keeps her letters in a ______ box.",
+          "options": {
+            "A": "small square wooden",
+            "B": "square wooden small",
+            "C": "small wooden square",
+            "D": "wooden small square"
+          },
+          "answer": "A",
+          "explanation": "Size (small) → Shape (square) → Material (wooden)."
+        },
+        {
+          "no": 8,
+          "question": "They live in a ______ house in the suburbs.",
+          "options": {
+            "A": "large brick modern",
+            "B": "modern large brick",
+            "C": "large modern brick",
+            "D": "brick large modern"
+          },
+          "answer": "C",
+          "explanation": "Size (large) → Age (modern) → Material (brick)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn cụm từ đúng",
+      "instructions": "Choose the phrase or sentence that is in the correct order.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "a comfortable old red armchair",
+            "B": "an old comfortable red armchair",
+            "C": "a comfortable red old armchair",
+            "D": "a red old comfortable armchair"
+          },
+          "answer": "A",
+          "explanation": "Opinion (comfortable) → Age (old) → Colour (red) → danh từ."
+        },
+        {
+          "no": 10,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "a beautiful Thai long silk dress",
+            "B": "a long beautiful silk Thai dress",
+            "C": "a beautiful long Thai silk dress",
+            "D": "a Thai silk beautiful long dress"
+          },
+          "answer": "C",
+          "explanation": "Opinion (beautiful) → Size (long) → Origin (Thai) → Material (silk)."
+        },
+        {
+          "no": 11,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "my useful two new dictionaries",
+            "B": "my two new useful dictionaries",
+            "C": "two my useful new dictionaries",
+            "D": "my two useful new dictionaries"
+          },
+          "answer": "D",
+          "explanation": "Tính từ sở hữu (my) → số đếm (two) → Opinion (useful) → Age (new) → danh từ."
+        },
+        {
+          "no": 12,
+          "question": "Which sentence is correct?",
+          "options": {
+            "A": "The garden is beautiful big.",
+            "B": "The garden is big and beautiful.",
+            "C": "The garden is big beautiful.",
+            "D": "The garden big and beautiful is."
+          },
+          "answer": "B",
+          "explanation": "Sau động từ 'be', hai tính từ được nối bằng 'and'. A, C thiếu 'and'; D sai trật tự câu."
+        },
+        {
+          "no": 13,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "a swimming huge round metal pool",
+            "B": "a huge metal round swimming pool",
+            "C": "a huge round metal swimming pool",
+            "D": "a round huge metal swimming pool"
+          },
+          "answer": "C",
+          "explanation": "Size (huge) → Shape (round) → Material (metal) → Purpose (swimming) → danh từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Order of Adjectives",
+      "url": "https://www.perfect-english-grammar.com/order-of-adjectives.html"
+    },
+    {
+      "title": "Englisch-hilfen.de – Order of adjectives in English Grammar",
+      "url": "https://www.englisch-hilfen.de/en/grammar/adjectives_order.htm"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "material_id": "MAT_TEXT_ORG",
+  "skill_id": "SK_TEXT_ORG",
+  "title": "Kỹ thuật sắp xếp logic đoạn văn",
+  "target_level": 2,
+  "summary": "Giúp học sinh sắp xếp 3–5 câu (a–e) thành đoạn văn hoặc lá thư hoàn chỉnh theo đúng dạng đề thi vào lớp 10 Hà Nội, dựa vào bố cục đoạn/thư và các tín hiệu liên kết.",
+  "theory": [
+    {
+      "heading": "Bố cục đoạn văn: Mở – Thân – Kết",
+      "points": [
+        "Câu chủ đề (mở) → các ý hỗ trợ (lý do, ví dụ, mặt trái) → câu kết (tổng kết, lời khuyên).",
+        "Đoạn 'lợi – hại': câu chủ đề → lợi ích → ví dụ cho lợi ích → However + tác hại → Therefore + lời khuyên.",
+        "Đoạn kể chuyện: bối cảnh (Last summer…) → At first → However/Then → After… → Now (cảm nhận hiện tại)."
+      ],
+      "examples": [
+        { "en": "Smartphones help teenagers study. For instance, they can join online classes. However, using them too much harms sleep. Therefore, teenagers should set a time limit.", "vi": "Điện thoại thông minh giúp thiếu niên học tập. Chẳng hạn, các em có thể học trực tuyến. Tuy nhiên, dùng quá nhiều sẽ hại giấc ngủ. Vì vậy, các em nên đặt giới hạn thời gian." }
+      ]
+    },
+    {
+      "heading": "Bố cục một lá thư/email thân mật",
+      "points": [
+        "Mở thư: lời cảm ơn/hỏi thăm (Thanks for your letter / How are you?) → lý do viết (I'm writing to tell you… / I'm having a party…).",
+        "Thân thư: các chi tiết theo trình tự (On the first day… The next day…) hoặc theo câu hỏi người kia đã hỏi (In your last letter, you asked…).",
+        "Kết thư: lời mong muốn, đề nghị hồi âm (I hope… / Write back soon / Please let me know…) – luôn đứng cuối phần thân thư."
+      ],
+      "examples": [
+        { "en": "Thanks for your last email. I'm writing to tell you about my trip to Hue. … Write back soon!", "vi": "Cảm ơn email trước của bạn. Mình viết thư để kể cho bạn về chuyến đi Huế. … Hồi âm sớm nhé!" }
+      ]
+    },
+    {
+      "heading": "Tín hiệu liên kết quyết định thứ tự",
+      "points": [
+        "Từ nối: Firstly/Secondly/Finally; Moreover/also (bổ sung); However (tương phản); For example (minh họa); As a result/Therefore (kết quả).",
+        "Đại từ quy chiếu: it, they, this, these phải đứng sau danh từ mà nó thay thế (It will take place… → 'It' = the party).",
+        "Mạo từ 'the' và từ lặp lại: 'a small party' → 'the party'; 'the children' nhắc lại 'children' đã nêu."
+      ],
+      "examples": [
+        { "en": "I'm having a small party. It will take place at my house next Saturday.", "vi": "Mình tổ chức một bữa tiệc nhỏ. Nó sẽ diễn ra ở nhà mình thứ Bảy tới. ('It' chỉ 'party' nên câu này phải theo sau câu nhắc đến bữa tiệc.)" }
+      ]
+    },
+    {
+      "heading": "Chiến thuật loại trừ phương án",
+      "points": [
+        "Xác định câu đầu trước: loại ngay phương án mở đầu bằng câu có từ nối hoặc đại từ chưa có danh từ gốc.",
+        "Xác định câu cuối: câu có Therefore/In short/I hope…/Write back soon thường đứng cuối.",
+        "Tìm 'cặp dính nhau' (VD: câu nêu lợi ích + câu 'For instance' minh họa) rồi so với các phương án còn lại."
+      ],
+      "examples": [
+        { "en": "Options: b-c-e-a-d / b-e-c-a-d. Sentence c begins with 'For instance', so it must follow e, which states the general benefit.", "vi": "Hai phương án chỉ khác vị trí c và e. Câu c bắt đầu bằng 'For instance' nên phải đứng sau câu e nêu lợi ích chung → chọn b-e-c-a-d." }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu mở đầu và câu cuối của từng phương án trước – thường chỉ cần vậy đã loại được 2 phương án.",
+    "Gạch chân mọi từ nối, đại từ (it, they, this) và 'the + danh từ' trong 5 câu; mỗi tín hiệu là một mũi tên chỉ về câu đứng trước.",
+    "Với thư: lời cảm ơn/hỏi thăm → lý do viết → chi tiết → lời mong muốn/đề nghị hồi âm. Câu 'Write back soon', 'Please let me know' gần như luôn ở cuối.",
+    "Khi còn 2 phương án, tìm vị trí chúng khác nhau và đọc to đúng hai câu đó cạnh nhau để kiểm tra tín hiệu liên kết.",
+    "Không chọn theo cảm giác 'nghe xuôi' – phải chỉ ra được ít nhất một tín hiệu ngôn ngữ cho mỗi lần nối hai câu."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Sắp xếp câu thành đoạn văn",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful paragraph.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "a. Firstly, they can bring their own bags when they go shopping.\nb. Students can do many simple things to reduce plastic waste.\nc. Finally, they can join clean-up campaigns to collect rubbish in their neighbourhood.\nd. Secondly, instead of buying bottled water, they should use a refillable bottle.\ne. If everyone does these small things, our environment will be much cleaner.",
+          "options": { "A": "b – d – a – c – e", "B": "a – d – c – b – e", "C": "b – a – d – c – e", "D": "b – a – c – d – e" },
+          "answer": "C",
+          "explanation": "b là câu chủ đề (danh từ đầy đủ 'Students', không từ nối). Liệt kê: 'Firstly' (a) → 'Secondly' (d) → 'Finally' (c). e kết đoạn: 'these small things' tóm lại ba việc vừa nêu."
+        },
+        {
+          "no": 2,
+          "question": "a. However, spending too much time online can harm their eyes and sleep.\nb. Smartphones have become an important part of teenagers' lives.\nc. For instance, they can search for information or join online classes easily.\nd. Therefore, teenagers should use their phones wisely and set a time limit.\ne. They help young people study and communicate more conveniently.",
+          "options": { "A": "b – c – e – a – d", "B": "e – b – c – a – d", "C": "b – e – a – c – d", "D": "b – e – c – a – d" },
+          "answer": "D",
+          "explanation": "b mở đoạn. e nêu lợi ích chung ('They' = smartphones) → c 'For instance' minh họa lợi ích đó → a 'However' chuyển sang tác hại → d 'Therefore' đưa lời khuyên. Phương án A đặt ví dụ c trước ý chung e; C đặt ví dụ c sau câu tác hại – đều sai."
+        },
+        {
+          "no": 3,
+          "question": "a. At first, I was afraid of the water and could not float.\nb. Last summer, I decided to learn to swim at a local pool.\nc. After two weeks, I could swim across the pool on my own.\nd. However, my coach was very patient and helped me overcome my fear.\ne. Now swimming is my favourite sport, and I go to the pool every weekend.",
+          "options": { "A": "b – d – a – c – e", "B": "b – a – d – c – e", "C": "a – b – d – c – e", "D": "b – a – c – d – e" },
+          "answer": "B",
+          "explanation": "b nêu bối cảnh ('Last summer'). 'At first' (a) → 'However' (d) tương phản với nỗi sợ ở a, và 'my fear' quy chiếu 'afraid' ở a → 'After two weeks' (c) → 'Now' (e)."
+        },
+        {
+          "no": 4,
+          "question": "a. This is because English is used in many fields, such as science, business and tourism.\nb. As a result, more and more Vietnamese students are learning it from an early age.\nc. English has become an international language.\nd. Moreover, it is the main language of the Internet.\ne. Learning English well, therefore, can open many doors for young people in the future.",
+          "options": { "A": "c – a – d – b – e", "B": "c – d – a – b – e", "C": "a – c – d – b – e", "D": "c – b – a – d – e" },
+          "answer": "A",
+          "explanation": "c là câu chủ đề. 'This is because' (a) giải thích lý do thứ nhất → 'Moreover' (d) bổ sung lý do thứ hai → 'As a result' (b) nêu kết quả của các lý do → 'therefore' (e) kết luận. 'Moreover' không thể đứng ngay sau câu chủ đề vì chưa có ý nào để bổ sung."
+        },
+        {
+          "no": 5,
+          "question": "a. When he was young, he did not do well at school.\nb. Thomas Edison is one of the greatest inventors in history.\nc. However, he loved reading and doing experiments at home.\nd. Later, he invented many useful things, including an improved light bulb.\ne. His story shows that hard work is more important than good marks.",
+          "options": { "A": "b – c – a – d – e", "B": "a – b – c – d – e", "C": "b – a – c – d – e", "D": "b – a – d – c – e" },
+          "answer": "C",
+          "explanation": "b giới thiệu nhân vật bằng tên đầy đủ, các câu sau dùng 'he/his'. Thời gian: 'When he was young' (a) → 'However' (c) tương phản với việc học kém → 'Later' (d) → e rút ra bài học ('His story')."
+        },
+        {
+          "no": 6,
+          "question": "a. Last month, our class joined a volunteer project at a centre for disabled children.\nb. We taught them to draw and sing some English songs.\nc. Through this experience, I realised how lucky I am and how important it is to help others.\nd. At first, the children were shy, but they soon became friendly.\ne. In return, they gave us handmade cards to say thank you.",
+          "options": { "A": "a – d – e – b – c", "B": "d – a – b – e – c", "C": "a – c – d – b – e", "D": "a – d – b – e – c" },
+          "answer": "D",
+          "explanation": "a nêu bối cảnh. 'the children' (d) nhắc lại 'children' ở a; 'At first' cho thấy đây là ấn tượng ban đầu → b 'We taught them' → e 'In return' (đáp lại việc được dạy ở b) → c 'Through this experience' rút ra cảm nhận, kết đoạn."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Sắp xếp câu thành lá thư",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct arrangement of the sentences to make a meaningful letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Dear Linh,\na. On the first day, we visited the Imperial City, which was really impressive.\nb. Thanks for your last email. It was great to hear from you.\nc. I hope you can come with me next time. Write back soon!\nd. I'm writing to tell you about my trip to Hue with my family last week.\ne. The next day, we took a boat trip on the Perfume River and tried some local dishes.\nLove,\nMai",
+          "options": { "A": "d – b – a – e – c", "B": "b – d – a – e – c", "C": "b – a – d – e – c", "D": "b – d – e – a – c" },
+          "answer": "B",
+          "explanation": "Mở thư bằng lời cảm ơn (b) → lý do viết thư 'I'm writing to tell you about my trip' (d) → 'On the first day' (a) → 'The next day' (e) → lời mong muốn và đề nghị hồi âm (c)."
+        },
+        {
+          "no": 8,
+          "question": "Dear Hoa,\na. It will take place at my house at 7 p.m. next Saturday.\nb. I'm having a small party to celebrate my 15th birthday.\nc. Please let me know by Thursday if you can come.\nd. How are you? I hope you're enjoying your new school.\ne. There will be lots of food, music and some fun games.\nBest wishes,\nLan",
+          "options": { "A": "d – b – a – e – c", "B": "b – d – a – e – c", "C": "d – b – e – c – a", "D": "d – a – b – e – c" },
+          "answer": "A",
+          "explanation": "Hỏi thăm (d) → giới thiệu bữa tiệc (b) → 'It' (a) thay cho 'party' nên đứng ngay sau b → chi tiết hoạt động (e) → đề nghị trả lời 'Please let me know' (c) ở cuối thư. Phương án D đặt 'It' trước khi nhắc đến bữa tiệc."
+        },
+        {
+          "no": 9,
+          "question": "Dear Tom,\na. In your last letter, you asked me how Vietnamese people celebrate Tet.\nb. On New Year's Eve, my whole family gathers to welcome the new year.\nc. Before Tet, we clean our house and decorate it with peach blossoms.\nd. I hope you can visit Viet Nam during Tet one day.\ne. Well, it is the busiest and happiest time of the year in my family.\nBest wishes,\nPhong",
+          "options": { "A": "a – c – e – b – d", "B": "e – a – c – b – d", "C": "a – e – c – b – d", "D": "a – e – b – c – d" },
+          "answer": "C",
+          "explanation": "a nhắc lại câu hỏi của Tom → 'Well, it is…' (e) bắt đầu trả lời, 'it' = Tet → 'Before Tet' (c) → 'On New Year's Eve' (b) theo trình tự thời gian → lời mong muốn (d) kết thư."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Sắp xếp 3 câu (a–c) tiếp nối đoạn văn",
+      "instructions": "Put the sentences (a–c) in the correct order to complete the text.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "The Temple of Literature is one of the most famous places in Ha Noi. ______\na. Today, students often visit it to pray for good luck before their exams.\nb. It was built in 1070 to honour Confucius.\nc. A few years later, the first national university of Viet Nam was opened there.",
+          "options": { "A": "a – b – c", "B": "b – c – a", "C": "b – a – c", "D": "c – b – a" },
+          "answer": "B",
+          "explanation": "Theo thời gian: xây dựng năm 1070 (b) → 'A few years later' (c) – mốc này cần một năm đứng trước, chính là 1070 ở b → 'Today' (a) – hiện tại, đứng cuối."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" },
+    { "title": "HOCMAI – Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội năm 2025, hướng dẫn giải", "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet" },
+    { "title": "Purdue OWL – On Paragraphs", "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" }
+  ]
+}

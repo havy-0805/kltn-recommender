@@ -1,0 +1,276 @@
+{
+  "material_id": "MAT_COLLOC_01",
+  "skill_id": "SK_COLLOCATION",
+  "title": "50 Collocations ăn điểm vào 10",
+  "target_level": 2,
+  "summary": "Tổng hợp khoảng 50 cụm từ cố định (collocations) hay gặp trong đề thi vào lớp 10, chia theo nhóm make/do/take/have/pay/keep/catch và tính từ + danh từ, giúp học sinh chọn đúng từ đi kèm trong câu và bài đọc điền từ.",
+  "theory": [
+    {
+      "heading": "DO và MAKE",
+      "points": [
+        "DO (làm việc, hoạt động chung): do homework, do housework, do the shopping, do exercise, do one's best, do research, do a favour, do damage, do the washing-up, do a test.",
+        "MAKE (tạo ra, gây ra): make a mistake, make a decision, make an effort, make progress, make friends, make noise, make money, make a plan, make a phone call, make a wish."
+      ],
+      "examples": [
+        {
+          "en": "She always does her homework before dinner.",
+          "vi": "Cô ấy luôn làm bài tập trước bữa tối."
+        },
+        {
+          "en": "Try not to make the same mistake again.",
+          "vi": "Cố đừng mắc lại lỗi đó nữa."
+        }
+      ]
+    },
+    {
+      "heading": "TAKE, HAVE, PAY, KEEP, CATCH, HOLD",
+      "points": [
+        "TAKE: take part in, take a photo, take action, take care of, take a break, take a risk, take notes, take place.",
+        "HAVE: have a good time, have fun, have a rest, have a look, have breakfast.",
+        "PAY: pay attention to, pay a visit, pay a compliment.",
+        "KEEP: keep a secret, keep in touch, keep a promise, keep fit, keep calm.",
+        "CATCH: catch a cold, catch a bus, catch sight of. HOLD: hold a party/meeting/festival, hold one's breath."
+      ],
+      "examples": [
+        {
+          "en": "Please pay attention to the teacher.",
+          "vi": "Hãy chú ý lắng nghe thầy cô."
+        },
+        {
+          "en": "Let's keep in touch after we leave school.",
+          "vi": "Hãy giữ liên lạc sau khi ra trường nhé."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ + danh từ và động từ + danh từ khác",
+      "points": [
+        "heavy traffic, heavy rain, strong coffee, strong wind, high temperature, fast food, a close friend, a narrow escape, rush hour, public transport.",
+        "solve a problem, raise money, protect the environment, save energy, break a record, set an example, waste time, tell the truth, tell a lie.",
+        "stay fit / stay healthy, get a good mark, go on a diet, follow advice, give a presentation."
+      ],
+      "examples": [
+        {
+          "en": "We were stuck in heavy traffic for an hour.",
+          "vi": "Chúng tôi bị kẹt xe một tiếng."
+        },
+        {
+          "en": "The students raised money for flood victims.",
+          "vi": "Học sinh quyên góp tiền cho nạn nhân lũ lụt."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Collocation không suy luận theo nghĩa tiếng Việt được (\"mắc lỗi\" là make a mistake, không phải do a mistake). Học thuộc theo cụm.",
+    "DO thường đi với công việc/nhiệm vụ chung chung; MAKE đi với thứ được tạo ra hoặc kết quả của hành động.",
+    "Mưa/giao thông \"lớn\" là heavy, cà phê/gió \"mạnh\" là strong. Đề thi rất hay cài bẫy big/thick/powerful.",
+    "Khi làm bài đọc điền từ, đọc cả cụm trước và sau chỗ trống, vì collocation có thể là động từ + danh từ hoặc tính từ + danh từ."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Collocations với động từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My mother always ______ the housework at the weekend.",
+          "options": {
+            "A": "takes",
+            "B": "makes",
+            "C": "has",
+            "D": "does"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định \"do the housework\" (làm việc nhà)."
+        },
+        {
+          "no": 2,
+          "question": "You should ______ an effort to improve your English pronunciation.",
+          "options": {
+            "A": "get",
+            "B": "do",
+            "C": "take",
+            "D": "make"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định \"make an effort\" (nỗ lực)."
+        },
+        {
+          "no": 3,
+          "question": "Please ______ attention to the teacher's instructions.",
+          "options": {
+            "A": "give",
+            "B": "make",
+            "C": "take",
+            "D": "pay"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định \"pay attention to\" (chú ý tới)."
+        },
+        {
+          "no": 4,
+          "question": "All students are encouraged to ______ part in outdoor activities.",
+          "options": {
+            "A": "take",
+            "B": "have",
+            "C": "make",
+            "D": "do"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"take part in\" (tham gia)."
+        },
+        {
+          "no": 5,
+          "question": "Can you ______ a secret? Don't tell anyone about the surprise party.",
+          "options": {
+            "A": "keep",
+            "B": "make",
+            "C": "hold",
+            "D": "save"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"keep a secret\" (giữ bí mật)."
+        },
+        {
+          "no": 6,
+          "question": "Remember to ______ a photo of the Temple of Literature for me.",
+          "options": {
+            "A": "get",
+            "B": "do",
+            "C": "take",
+            "D": "make"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"take a photo\" (chụp ảnh)."
+        },
+        {
+          "no": 7,
+          "question": "She ______ a careless mistake in the last question of the test.",
+          "options": {
+            "A": "made",
+            "B": "had",
+            "C": "did",
+            "D": "took"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"make a mistake\" (mắc lỗi)."
+        },
+        {
+          "no": 8,
+          "question": "Let's ______ in touch after we finish secondary school.",
+          "options": {
+            "A": "take",
+            "B": "make",
+            "C": "keep",
+            "D": "catch"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"keep in touch\" (giữ liên lạc)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Collocations với danh từ, tính từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "We got stuck in ______ traffic for over an hour on the way home.",
+          "options": {
+            "A": "heavy",
+            "B": "strong",
+            "C": "big",
+            "D": "thick"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"heavy traffic\" (giao thông đông đúc, tắc nghẽn)."
+        },
+        {
+          "no": 10,
+          "question": "I'd like a cup of ______ coffee to stay awake tonight.",
+          "options": {
+            "A": "hard",
+            "B": "strong",
+            "C": "heavy",
+            "D": "powerful"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"strong coffee\" (cà phê đặc)."
+        },
+        {
+          "no": 11,
+          "question": "We all need to ______ action now to protect the environment.",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "give",
+            "D": "do"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"take action\" (hành động)."
+        },
+        {
+          "no": 12,
+          "question": "He ______ a cold after playing football in the rain.",
+          "options": {
+            "A": "made",
+            "B": "caught",
+            "C": "kept",
+            "D": "did"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"catch a cold\" (bị cảm lạnh)."
+        },
+        {
+          "no": 13,
+          "question": "Our class ______ a party to celebrate Viet Nam Teachers' Day.",
+          "options": {
+            "A": "made",
+            "B": "held",
+            "C": "took",
+            "D": "did"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"hold a party\" (tổ chức tiệc). Không nói \"make/do a party\"."
+        },
+        {
+          "no": 14,
+          "question": "The government is trying to ______ the problem of air pollution in big cities.",
+          "options": {
+            "A": "do",
+            "B": "answer",
+            "C": "solve",
+            "D": "make"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"solve a problem\" (giải quyết vấn đề). \"answer\" đi với question, không đi với problem."
+        },
+        {
+          "no": 15,
+          "question": "She ______ her best in the final exam and got a high mark.",
+          "options": {
+            "A": "had",
+            "B": "made",
+            "C": "did",
+            "D": "took"
+          },
+          "answer": "C",
+          "explanation": "Cụm cố định \"do one's best\" (cố gắng hết sức)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

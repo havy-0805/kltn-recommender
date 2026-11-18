@@ -1,0 +1,279 @@
+{
+  "material_id": "MAT_PREP_03",
+  "skill_id": "SK_PREPOSITION",
+  "title": "Cụm giới từ cố định và bẫy giới từ trong bài thi",
+  "target_level": 3,
+  "summary": "Giúp học sinh ghi nhớ các cụm giới từ cố định (động từ/tính từ/danh từ + giới từ) và tránh các bẫy giới từ hay gặp ở câu phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Tính từ + giới từ thường gặp",
+      "points": [
+        "interested in, keen on, fond of, good at, famous for, responsible for",
+        "proud of, afraid of, aware of, capable of, full of",
+        "different from, absent from, harmful to, similar to, married to",
+        "excited about, worried about, angry with sb / angry about sth"
+      ],
+      "examples": [
+        {
+          "en": "My grandfather is very keen on gardening.",
+          "vi": "Ông tôi rất thích làm vườn."
+        },
+        {
+          "en": "Her opinion is quite different from mine.",
+          "vi": "Ý kiến của cô ấy khá khác với ý kiến của tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Động từ + (tân ngữ) + giới từ",
+      "points": [
+        "depend on, insist on, succeed in, take part in, deal with, apologise to sb for sth",
+        "prevent/stop sb from V-ing, accuse sb of V-ing, congratulate sb on V-ing, blame sb for sth",
+        "result in (gây ra kết quả) ≠ result from (là kết quả của)",
+        "look forward to + V-ing, object to + V-ing: \"to\" ở đây là giới từ nên theo sau là V-ing"
+      ],
+      "examples": [
+        {
+          "en": "The heavy rain prevented us from going out.",
+          "vi": "Cơn mưa lớn đã ngăn chúng tôi ra ngoài."
+        },
+        {
+          "en": "Smoking can result in lung cancer.",
+          "vi": "Hút thuốc có thể gây ra ung thư phổi."
+        }
+      ]
+    },
+    {
+      "heading": "Cụm giới từ cố định dễ nhầm",
+      "points": [
+        "on time (đúng giờ) ≠ in time (kịp lúc, sớm đủ để làm gì)",
+        "at the end of + N (vào cuối…) ≠ in the end (cuối cùng thì)",
+        "by bus/car/train nhưng on foot; in my car (có từ hạn định thì không dùng by)",
+        "on purpose (cố ý), by chance/by accident (tình cờ), in charge of (phụ trách), at risk (gặp nguy cơ)",
+        "arrive at (địa điểm nhỏ: sân bay, nhà ga) / arrive in (thành phố, quốc gia); không dùng \"arrive to\""
+      ],
+      "examples": [
+        {
+          "en": "We got to the station just in time to catch the last train.",
+          "vi": "Chúng tôi đến ga vừa kịp để bắt chuyến tàu cuối."
+        },
+        {
+          "en": "In the end, they decided to stay at home.",
+          "vi": "Cuối cùng, họ quyết định ở nhà."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Học giới từ theo cụm (keen on, proud of), không dịch từng chữ từ tiếng Việt: \"giỏi về\" là good AT chứ không phải good about.",
+    "Sau giới từ, động từ luôn ở dạng V-ing. Gặp look forward to / object to / be used to thì vẫn chia V-ing.",
+    "Phân biệt cặp dễ nhầm theo nghĩa: in time/on time, at the end/in the end, result in/result from.",
+    "Với phương tiện: thấy từ hạn định (my, the, his…) thì không dùng \"by\" mà dùng in/on."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Cụm giới từ cố định",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My grandfather is very keen ______ growing orchids in his free time.",
+          "options": {
+            "A": "on",
+            "B": "of",
+            "C": "at",
+            "D": "in"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"be keen on + V-ing\" (say mê, thích)."
+        },
+        {
+          "no": 2,
+          "question": "The heavy rain prevented the workers ______ finishing the bridge on schedule.",
+          "options": {
+            "A": "to",
+            "B": "of",
+            "C": "with",
+            "D": "from"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc \"prevent sb from V-ing\" (ngăn ai làm gì)."
+        },
+        {
+          "no": 3,
+          "question": "The police accused the young man ______ breaking into the shop.",
+          "options": {
+            "A": "for",
+            "B": "of",
+            "C": "about",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc \"accuse sb of V-ing\" (buộc tội ai làm gì). \"blame sb for\" mới dùng \"for\"."
+        },
+        {
+          "no": 4,
+          "question": "Everyone in my class is looking forward ______ the summer camp.",
+          "options": {
+            "A": "for",
+            "B": "on",
+            "C": "to",
+            "D": "at"
+          },
+          "answer": "C",
+          "explanation": "\"look forward to + N/V-ing\" (mong đợi). \"to\" là giới từ cố định của cụm này."
+        },
+        {
+          "no": 5,
+          "question": "My teacher congratulated me ______ winning the English speaking contest.",
+          "options": {
+            "A": "about",
+            "B": "on",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc \"congratulate sb on sth/V-ing\" (chúc mừng ai về việc gì)."
+        },
+        {
+          "no": 6,
+          "question": "Who is ______ charge of the school's environment club this year?",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "for"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định \"in charge of\" (phụ trách)."
+        },
+        {
+          "no": 7,
+          "question": "Thousands of students took part ______ the tree-planting campaign last month.",
+          "options": {
+            "A": "on",
+            "B": "with",
+            "C": "at",
+            "D": "in"
+          },
+          "answer": "D",
+          "explanation": "Cụm \"take part in\" (tham gia)."
+        },
+        {
+          "no": 8,
+          "question": "Nam was absent ______ class yesterday because he had a high fever.",
+          "options": {
+            "A": "in",
+            "B": "from",
+            "C": "of",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "Cụm \"be absent from\" (vắng mặt khỏi)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Bẫy giới từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "We got to the station just ______ time to catch the last train.",
+          "options": {
+            "A": "on",
+            "B": "by",
+            "C": "at",
+            "D": "in"
+          },
+          "answer": "D",
+          "explanation": "\"in time to do sth\" = kịp lúc để làm gì. \"on time\" = đúng giờ theo lịch, không đi với \"to catch\" theo nghĩa vừa kịp."
+        },
+        {
+          "no": 10,
+          "question": "______ the end of the film, the hero finally returns to his village.",
+          "options": {
+            "A": "In",
+            "B": "At",
+            "C": "By",
+            "D": "On"
+          },
+          "answer": "B",
+          "explanation": "\"at the end of + N\" = vào cuối (một sự việc). \"In the end\" (cuối cùng thì) không đi kèm \"of\"."
+        },
+        {
+          "no": 11,
+          "question": "Using too much plastic can result ______ serious damage to the oceans.",
+          "options": {
+            "A": "from",
+            "B": "in",
+            "C": "of",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "\"result in\" = gây ra (nguyên nhân → kết quả). Câu này nhựa là nguyên nhân, thiệt hại là kết quả nên dùng \"in\"; \"result from\" mang nghĩa ngược lại."
+        },
+        {
+          "no": 12,
+          "question": "I'm sorry. I didn't break your vase ______ purpose.",
+          "options": {
+            "A": "for",
+            "B": "on",
+            "C": "in",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "Cụm cố định \"on purpose\" (cố ý). Chú ý \"by chance/by accident\" mới dùng \"by\"."
+        },
+        {
+          "no": 13,
+          "question": "Our flight arrived ______ Noi Bai International Airport at midnight.",
+          "options": {
+            "A": "to",
+            "B": "on",
+            "C": "in",
+            "D": "at"
+          },
+          "answer": "D",
+          "explanation": "\"arrive at\" dùng cho địa điểm cụ thể như sân bay, nhà ga. Không bao giờ dùng \"arrive to\"."
+        },
+        {
+          "no": 14,
+          "question": "Lan usually goes to school ______ foot because she lives near it.",
+          "options": {
+            "A": "with",
+            "B": "by",
+            "C": "in",
+            "D": "on"
+          },
+          "answer": "D",
+          "explanation": "Đi bộ là \"on foot\" (ngoại lệ), không dùng \"by foot\" dù các phương tiện khác dùng \"by\"."
+        },
+        {
+          "no": 15,
+          "question": "Every morning my father drives to work ______ his old car.",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "with",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "Có từ hạn định \"his\" trước \"car\" nên không dùng \"by\" mà dùng \"in his car\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "IELTS Australia – Master dependent prepositions",
+      "url": "https://ielts.com.au/australia/prepare/article-ielts-grammar-master-dependent-prepositions"
+    },
+    {
+      "title": "British Council LearnEnglish – Prepositions of time",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/prepositions-time"
+    }
+  ]
+}

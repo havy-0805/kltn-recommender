@@ -1,0 +1,245 @@
+{
+  "material_id": "MAT_WISH_02",
+  "skill_id": "SK_WISH",
+  "title": "Cấu trúc câu ước ở hiện tại và tương lai với Wish / If only",
+  "target_level": 2,
+  "summary": "Giúp học sinh dùng thành thạo câu ước ở hiện tại (V2/were/could) và tương lai (would + V) với wish và if only, đặc biệt là dạng viết lại câu từ thực tế sang câu ước trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Câu ước ở hiện tại",
+      "points": [
+        "S + wish(es) / If only + S + V2/V-ed: ước điều trái với thực tế hiện tại.",
+        "be → were (mọi ngôi); can → could; have → had; don't/doesn't → didn't.",
+        "Thực tế khẳng định → câu ước phủ định; thực tế phủ định → câu ước khẳng định."
+      ],
+      "examples": [
+        {
+          "en": "Mai isn't in the school team. → Mai wishes she were in the school team.",
+          "vi": "Mai không ở trong đội tuyển. → Mai ước mình được vào đội tuyển."
+        },
+        {
+          "en": "We have to wear uniforms. → We wish we didn't have to wear uniforms.",
+          "vi": "Chúng tôi phải mặc đồng phục. → Ước gì chúng tôi không phải mặc đồng phục."
+        }
+      ]
+    },
+    {
+      "heading": "Câu ước ở tương lai và lời phàn nàn",
+      "points": [
+        "S + wish / If only + S + would + V: mong điều gì đó sẽ xảy ra hoặc ai đó thay đổi hành vi.",
+        "Dùng để phàn nàn về thói quen gây khó chịu: I wish you wouldn't talk so loudly.",
+        "Không dùng 'I wish I would ...' – muốn nói về bản thân dùng 'could' hoặc quá khứ đơn."
+      ],
+      "examples": [
+        {
+          "en": "I wish my brother wouldn't leave his clothes on the floor.",
+          "vi": "Ước gì em trai tôi đừng vứt quần áo trên sàn nữa."
+        },
+        {
+          "en": "If only the bus would come!",
+          "vi": "Giá mà xe buýt đến ngay!"
+        }
+      ]
+    },
+    {
+      "heading": "Wish và hope",
+      "points": [
+        "hope + S + V (hiện tại/tương lai): mong điều có thể xảy ra (I hope you pass the exam).",
+        "wish + S + V lùi thì: ước điều khó/không thể xảy ra."
+      ],
+      "examples": [
+        {
+          "en": "I hope it will be sunny tomorrow.",
+          "vi": "Tôi hy vọng ngày mai trời nắng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Viết lại câu ước: (1) giữ chủ ngữ, (2) lùi thì một bậc, (3) đổi khẳng định ↔ phủ định.",
+    "Câu phàn nàn về người khác (always, keep + V-ing) → wish + S + would/wouldn't + V.",
+    "Loại ngay đáp án có thì hiện tại (am/is/can/have) sau 'wish'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I wish I ______ taller so that I could play basketball well.",
+          "options": {
+            "A": "have been",
+            "B": "will be",
+            "C": "were",
+            "D": "am"
+          },
+          "answer": "C",
+          "explanation": "Ước trái với hiện tại; 'be' → 'were'."
+        },
+        {
+          "no": 2,
+          "question": "If only I ______ how to swim!",
+          "options": {
+            "A": "will know",
+            "B": "have known",
+            "C": "know",
+            "D": "knew"
+          },
+          "answer": "D",
+          "explanation": "If only + quá khứ đơn cho điều trái hiện tại → 'knew'."
+        },
+        {
+          "no": 3,
+          "question": "It has been raining all day. I wish it ______.",
+          "options": {
+            "A": "would stop",
+            "B": "will stop",
+            "C": "stops",
+            "D": "stopping"
+          },
+          "answer": "A",
+          "explanation": "Mong một thay đổi sẽ xảy ra (trời tạnh) → wish + would + V."
+        },
+        {
+          "no": 4,
+          "question": "She wishes she ______ a new bike to ride to school.",
+          "options": {
+            "A": "had",
+            "B": "has",
+            "C": "having",
+            "D": "will have"
+          },
+          "answer": "A",
+          "explanation": "Ước trái với hiện tại → quá khứ đơn 'had'."
+        },
+        {
+          "no": 5,
+          "question": "I wish you ______ making so much noise. I'm trying to study.",
+          "options": {
+            "A": "will stop",
+            "B": "would stop",
+            "C": "stop",
+            "D": "stopping"
+          },
+          "answer": "B",
+          "explanation": "Phàn nàn, mong người khác thay đổi hành vi → wish + S + would + V."
+        },
+        {
+          "no": 6,
+          "question": "We are going on a picnic tomorrow. I wish the rain ______ tonight.",
+          "options": {
+            "A": "would stop",
+            "B": "stops",
+            "C": "will stop",
+            "D": "has stopped"
+          },
+          "answer": "A",
+          "explanation": "Mong điều sẽ xảy ra trong tương lai gần (tonight) → wish + would + V: 'would stop'."
+        },
+        {
+          "no": 7,
+          "question": "I wish I ______ live near the beach.",
+          "options": {
+            "A": "will",
+            "B": "am",
+            "C": "can",
+            "D": "could"
+          },
+          "answer": "D",
+          "explanation": "Ước khả năng ở hiện tại → 'could' + V."
+        },
+        {
+          "no": 8,
+          "question": "We wish we ______ have to do so much homework every day.",
+          "options": {
+            "A": "won't",
+            "B": "didn't",
+            "C": "don't",
+            "D": "haven't"
+          },
+          "answer": "B",
+          "explanation": "Thực tế: phải làm nhiều bài tập → ước phủ định ở hiện tại: 'didn't have to'."
+        },
+        {
+          "no": 9,
+          "question": "I wish my best friend ______ here now.",
+          "options": {
+            "A": "will be",
+            "B": "has been",
+            "C": "were",
+            "D": "is"
+          },
+          "answer": "C",
+          "explanation": "'now' – ước trái hiện tại với 'be' → 'were'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "I don't have a computer.",
+          "options": {
+            "A": "I wish I didn't have a computer.",
+            "B": "I wish I had a computer.",
+            "C": "I wish I have a computer.",
+            "D": "I wish I had had a computer."
+          },
+          "answer": "B",
+          "explanation": "Thực tế hiện tại phủ định → câu ước khẳng định lùi thì: 'had'. D là ước quá khứ."
+        },
+        {
+          "no": 11,
+          "question": "It's a pity I can't speak French.",
+          "options": {
+            "A": "I wish I spoke not French.",
+            "B": "I wish I can speak French.",
+            "C": "I wish I could speak French.",
+            "D": "I wish I couldn't speak French."
+          },
+          "answer": "C",
+          "explanation": "It's a pity + can't → wish + could (khẳng định)."
+        },
+        {
+          "no": 12,
+          "question": "My brother always leaves his clothes on the floor. It annoys me.",
+          "options": {
+            "A": "I wish my brother wouldn't leave his clothes on the floor.",
+            "B": "I wish my brother didn't left his clothes on the floor.",
+            "C": "I wish my brother would leave his clothes on the floor.",
+            "D": "I wish my brother won't leave his clothes on the floor."
+          },
+          "answer": "A",
+          "explanation": "Phàn nàn về thói quen gây khó chịu → wish + S + wouldn't + V. C ngược nghĩa, B sai 'didn't left', D sai 'won't'."
+        },
+        {
+          "no": 13,
+          "question": "Mai is sad because she isn't in the school team.",
+          "options": {
+            "A": "Mai wishes she had been in the school team.",
+            "B": "Mai wishes she is in the school team.",
+            "C": "Mai wishes she weren't in the school team.",
+            "D": "Mai wishes she were in the school team."
+          },
+          "answer": "D",
+          "explanation": "Thực tế hiện tại phủ định 'isn't' → câu ước khẳng định 'were'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Wishes: 'wish' and 'if only'",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/wishes-wish-if-only"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu điều kiện và câu ước",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-dieu-kien-va-cau-uoc-cd2025.jsp"
+    }
+  ]
+}

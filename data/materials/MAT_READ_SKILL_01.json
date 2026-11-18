@@ -1,0 +1,274 @@
+{
+  "material_id": "MAT_READ_SKILL_01",
+  "skill_id": "SK_READING_SKILLS",
+  "title": "Kỹ năng Skimming và Scanning cho người mới bắt đầu",
+  "target_level": 1,
+  "summary": "Giúp học sinh mới bắt đầu biết đọc lướt (skimming) để nắm ý chung và đọc quét (scanning) để tìm nhanh tên, số, ngày tháng trong bài đọc ngắn.",
+  "theory": [
+    {
+      "heading": "Skimming – đọc lướt lấy ý chung",
+      "points": [
+        "Mục đích: trả lời câu hỏi 'Bài này nói về cái gì?' trong 30–60 giây.",
+        "Đọc tiêu đề (nếu có), câu đầu và câu cuối của mỗi đoạn; bỏ qua số liệu và ví dụ.",
+        "Gạch chân các từ lặp lại nhiều lần: đó thường là chủ đề của bài."
+      ],
+      "examples": [
+        {
+          "en": "Many students in my town now cycle to school. Cycling keeps them fit and keeps the air clean.",
+          "vi": "Đọc lướt hai câu này, ta thấy chủ đề là 'học sinh đạp xe đến trường và lợi ích của việc đó'."
+        }
+      ]
+    },
+    {
+      "heading": "Scanning – đọc quét tìm thông tin cụ thể",
+      "points": [
+        "Mục đích: tìm đúng một chi tiết (tên riêng, con số, ngày, giờ, địa điểm).",
+        "Xác định từ khóa trong câu hỏi trước, rồi đưa mắt nhanh qua bài chỉ để tìm từ khóa đó.",
+        "Từ khóa dễ quét nhất: chữ in hoa (tên riêng), chữ số, mốc thời gian (in 2020, on Monday, at 7 a.m.)."
+      ],
+      "examples": [
+        {
+          "en": "Question: When does the club meet? → Scan for days/times: '...the club meets every Saturday morning.'",
+          "vi": "Câu hỏi 'When' → quét tìm thứ/giờ, gặp 'every Saturday morning' là có đáp án."
+        }
+      ]
+    },
+    {
+      "heading": "Khi nào dùng kỹ năng nào?",
+      "points": [
+        "Câu hỏi ý chính / tiêu đề / 'mainly about' → skimming.",
+        "Câu hỏi Who, When, Where, How many, How much, According to the passage… → scanning.",
+        "Thứ tự làm bài gợi ý: skim cả bài 1 lần → đọc câu hỏi → scan tìm chỗ chứa đáp án → đọc kỹ 1–2 câu quanh chỗ đó."
+      ],
+      "examples": [
+        {
+          "en": "How many people visited the museum last year? → scan for a number near 'visited'.",
+          "vi": "Câu hỏi 'How many' → tìm con số đứng gần động từ 'visited'."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đừng đọc chậm từng từ ngay từ đầu: đọc lướt trước, đọc kỹ sau, chỉ đọc kỹ ở đoạn chứa từ khóa.",
+    "Gạch chân từ khóa trong câu hỏi (danh từ, con số, tên riêng) trước khi quay lại bài.",
+    "Đáp án đúng thường diễn đạt lại (paraphrase) ý trong bài, nên đừng chỉ tìm đúng từ y hệt.",
+    "Gặp từ mới không cần thiết cho câu hỏi thì bỏ qua, đừng dừng lại tra nghĩa."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc lướt và đọc quét: Câu lạc bộ trồng cây",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "The Green Hands Club started at Le Loi Secondary School in 2022. At first, it had only twelve members, but now more than sixty students join it. The club meets every Saturday morning from 7 to 9 a.m.\n\nMembers grow vegetables in a small garden behind the school library. They plant morning glory, lettuce and tomatoes. They do not use chemicals. Instead, they make compost from fruit peels and leaves collected from the school canteen.\n\nEvery month, the club sells its vegetables to teachers and parents. Last year, it earned about three million dong. The members used the money to buy books for a primary school in the mountains.\n\nMs Hoa, the club's teacher, says the garden teaches students to be patient and to respect nature. Many members say they now eat more vegetables at home, too.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What is the passage mainly about?",
+          "options": {
+            "A": "A school club that grows vegetables",
+            "B": "How to make compost at home",
+            "C": "A primary school in the mountains",
+            "D": "The school canteen at Le Loi"
+          },
+          "answer": "A",
+          "explanation": "Đọc lướt câu đầu các đoạn: 'The Green Hands Club started…', 'Members grow vegetables…', 'the club sells its vegetables…' → bài nói về câu lạc bộ trồng rau của trường. B, C, D chỉ là chi tiết nhỏ."
+        },
+        {
+          "no": 2,
+          "question": "When did the club start?",
+          "options": {
+            "A": "In 2020",
+            "B": "In 2021",
+            "C": "In 2022",
+            "D": "In 2023"
+          },
+          "answer": "C",
+          "explanation": "Quét tìm năm: 'The Green Hands Club started at Le Loi Secondary School in 2022.'"
+        },
+        {
+          "no": 3,
+          "question": "How many members does the club have now?",
+          "options": {
+            "A": "Twelve",
+            "B": "About thirty",
+            "C": "Exactly sixty",
+            "D": "More than sixty"
+          },
+          "answer": "D",
+          "explanation": "'At first, it had only twelve members, but now more than sixty students join it.' – 'twelve' là số lúc đầu (bẫy A); hiện nay là 'more than sixty'."
+        },
+        {
+          "no": 4,
+          "question": "Where is the club's garden?",
+          "options": {
+            "A": "Next to the school canteen",
+            "B": "Behind the school library",
+            "C": "In front of the school gate",
+            "D": "At a primary school in the mountains"
+          },
+          "answer": "B",
+          "explanation": "Quét tìm từ chỉ nơi chốn: 'Members grow vegetables in a small garden behind the school library.'"
+        },
+        {
+          "no": 5,
+          "question": "What did the members do with the money they earned last year?",
+          "options": {
+            "A": "They bought new seeds and tools.",
+            "B": "They gave it to the school canteen.",
+            "C": "They bought books for a primary school.",
+            "D": "They paid Ms Hoa for her work."
+          },
+          "answer": "C",
+          "explanation": "'The members used the money to buy books for a primary school in the mountains.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc quét thông tin: Chuyến tham quan Huế",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "Last summer, my class went on a three-day trip to Hue. We left Ha Noi by train on Monday evening and arrived in Hue the next morning. The journey took about thirteen hours, so most of us slept on the train.\n\nOn the first day, we visited the Imperial City. Our guide, Mr Phong, told us that it was the home of the Nguyen kings for more than a hundred years. In the afternoon, we took a boat trip on the Perfume River and visited Thien Mu Pagoda.\n\nOn the second day, it rained heavily, so we stayed indoors and visited the Hue Museum of Royal Antiquities. In the evening, we tried bun bo Hue, a famous noodle soup of the city. My friend Lan said it was a bit too spicy for her.\n\nWe came back to Ha Noi by plane on Thursday. The trip was short, but I learned a lot about Viet Nam's history.",
+      "questions": [
+        {
+          "no": 6,
+          "question": "How did the class travel from Ha Noi to Hue?",
+          "options": {
+            "A": "By coach",
+            "B": "By train",
+            "C": "By plane",
+            "D": "By boat"
+          },
+          "answer": "B",
+          "explanation": "'We left Ha Noi by train on Monday evening…'. Máy bay (C) là phương tiện lúc về: 'We came back to Ha Noi by plane on Thursday.'"
+        },
+        {
+          "no": 7,
+          "question": "How long did the train journey take?",
+          "options": {
+            "A": "About three hours",
+            "B": "About three days",
+            "C": "About thirteen hours",
+            "D": "About thirty hours"
+          },
+          "answer": "C",
+          "explanation": "'The journey took about thirteen hours, so most of us slept on the train.' – 'three-day' là độ dài cả chuyến đi (bẫy B)."
+        },
+        {
+          "no": 8,
+          "question": "Where did the class go on the first afternoon?",
+          "options": {
+            "A": "To Thien Mu Pagoda",
+            "B": "To the Imperial City",
+            "C": "To the Hue Museum of Royal Antiquities",
+            "D": "To a noodle restaurant"
+          },
+          "answer": "A",
+          "explanation": "'In the afternoon, we took a boat trip on the Perfume River and visited Thien Mu Pagoda.' Đại Nội là buổi sáng ngày đầu, bảo tàng là ngày thứ hai."
+        },
+        {
+          "no": 9,
+          "question": "Why did the class stay indoors on the second day?",
+          "options": {
+            "A": "Because Lan was ill",
+            "B": "Because the guide was busy",
+            "C": "Because they were tired after the trip",
+            "D": "Because it rained heavily"
+          },
+          "answer": "D",
+          "explanation": "'On the second day, it rained heavily, so we stayed indoors…' – 'so' nối nguyên nhân (mưa to) với kết quả (ở trong nhà)."
+        },
+        {
+          "no": 10,
+          "question": "What did Lan think about bun bo Hue?",
+          "options": {
+            "A": "It was too spicy for her.",
+            "B": "It was too salty for her.",
+            "C": "It was the best food in Viet Nam.",
+            "D": "It was cheaper than in Ha Noi."
+          },
+          "answer": "A",
+          "explanation": "'My friend Lan said it was a bit too spicy for her.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Kết hợp skimming và scanning: Thư viện xe buýt",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "In some villages, children do not have a library near their homes. To help them, a group of young volunteers in Bac Giang started a \"library bus\" in 2023.\n\nThe bus is an old city bus. The volunteers painted it in bright colours and put about 2,000 books inside. There are storybooks, comics, science books and English picture books. There are also two small tables, so children can sit and read on the bus.\n\nThe bus visits a different village every weekend. Children can borrow two books at a time and must return them the next time the bus comes. Borrowing is free.\n\nThe volunteers say the most popular books are comics and science books about animals. Some parents also come to read newspapers while their children choose books. The group now hopes to buy a second bus next year so that it can reach more villages.",
+      "questions": [
+        {
+          "no": 11,
+          "question": "What is the best summary of the passage?",
+          "options": {
+            "A": "Volunteers bring books to village children by bus.",
+            "B": "Old city buses are dangerous for children.",
+            "C": "Children in Bac Giang do not like reading.",
+            "D": "Comics are better than science books."
+          },
+          "answer": "A",
+          "explanation": "Đọc lướt: đoạn 1 nêu mục đích 'To help them… started a library bus', các đoạn sau mô tả xe sách và cách mượn sách → A bao quát toàn bài."
+        },
+        {
+          "no": 12,
+          "question": "About how many books are there on the bus?",
+          "options": {
+            "A": "200",
+            "B": "1,000",
+            "C": "2,000",
+            "D": "2,023"
+          },
+          "answer": "C",
+          "explanation": "Quét tìm con số: '…put about 2,000 books inside.' – 2023 là năm bắt đầu (bẫy D)."
+        },
+        {
+          "no": 13,
+          "question": "How often does the bus visit a village?",
+          "options": {
+            "A": "Every day",
+            "B": "Every weekend",
+            "C": "Twice a month",
+            "D": "Once a year"
+          },
+          "answer": "B",
+          "explanation": "'The bus visits a different village every weekend.'"
+        },
+        {
+          "no": 14,
+          "question": "How many books can a child borrow at a time?",
+          "options": {
+            "A": "One",
+            "B": "Three",
+            "C": "Four",
+            "D": "Two"
+          },
+          "answer": "D",
+          "explanation": "'Children can borrow two books at a time…'"
+        },
+        {
+          "no": 15,
+          "question": "What does the group plan to do next year?",
+          "options": {
+            "A": "Paint the bus again",
+            "B": "Sell some of the books",
+            "C": "Buy a second bus",
+            "D": "Open a library in the city"
+          },
+          "answer": "C",
+          "explanation": "'The group now hopes to buy a second bus next year so that it can reach more villages.'"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "Open Exam Prep – TOEIC Part 7 Single Passages: Question Types & Strategies",
+      "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies"
+    },
+    {
+      "title": "SGGP – Đề thi tiếng Anh vào lớp 10 ở Hà Nội: Dự đoán nhiều điểm 10",
+      "url": "https://www.sggp.org.vn/de-thi-tieng-anh-vao-lop-10-o-ha-noi-du-doan-nhieu-diem-10-post561990.html"
+    }
+  ]
+}

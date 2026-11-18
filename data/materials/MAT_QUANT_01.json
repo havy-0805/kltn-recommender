@@ -1,0 +1,251 @@
+{
+  "material_id": "MAT_QUANT_01",
+  "skill_id": "SK_QUANTIFIER",
+  "title": "Cách dùng Some, Any, Much, Many, A lot of cơ bản",
+  "target_level": 1,
+  "summary": "Chọn đúng some/any, much/many, a lot of dựa vào loại danh từ (đếm được hay không) và loại câu (khẳng định, phủ định, câu hỏi).",
+  "theory": [
+    {
+      "heading": "Some và Any",
+      "points": [
+        "some: câu khẳng định; câu hỏi dạng mời/xin (Would you like some...? Can I have some...?)",
+        "any: câu phủ định và câu hỏi thông thường",
+        "Cả hai dùng được với danh từ đếm được số nhiều và danh từ không đếm được"
+      ],
+      "examples": [
+        {
+          "en": "There are some books on the shelf.",
+          "vi": "Có vài quyển sách trên giá."
+        },
+        {
+          "en": "Is there any sugar in the jar?",
+          "vi": "Trong lọ có đường không?"
+        }
+      ]
+    },
+    {
+      "heading": "Much và Many",
+      "points": [
+        "many + danh từ đếm được số nhiều (books, students, friends)",
+        "much + danh từ không đếm được (water, money, time, homework, traffic)",
+        "Thường dùng trong câu phủ định và câu hỏi: How many...? / How much...?"
+      ],
+      "examples": [
+        {
+          "en": "I don't have many friends here.",
+          "vi": "Tôi không có nhiều bạn ở đây."
+        },
+        {
+          "en": "How much rice do you need?",
+          "vi": "Bạn cần bao nhiêu gạo?"
+        }
+      ]
+    },
+    {
+      "heading": "A lot of / Lots of",
+      "points": [
+        "Dùng với cả danh từ đếm được số nhiều và không đếm được",
+        "Thường dùng trong câu khẳng định",
+        "Không bỏ 'of' khi có danh từ phía sau (a lot of students, không phải a lot students)"
+      ],
+      "examples": [
+        {
+          "en": "She drinks a lot of water every day.",
+          "vi": "Cô ấy uống nhiều nước mỗi ngày."
+        },
+        {
+          "en": "There is a lot of traffic at rush hour.",
+          "vi": "Giờ cao điểm xe cộ rất đông."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân danh từ phía sau: có -s/-es (đếm được số nhiều) → many; không đếm được → much.",
+    "Câu phủ định hoặc câu hỏi → any; câu khẳng định hoặc lời mời → some.",
+    "Không chắc much hay many trong câu khẳng định → chọn a lot of nếu có.",
+    "Ghi nhớ danh từ không đếm được dễ nhầm: homework, information, advice, news, furniture, traffic."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "There are ______ books on the shelf.",
+          "options": {
+            "A": "any",
+            "B": "much",
+            "C": "a",
+            "D": "some"
+          },
+          "answer": "D",
+          "explanation": "Câu khẳng định, danh từ số nhiều 'books' → 'some'."
+        },
+        {
+          "no": 2,
+          "question": "Is there ______ sugar in the jar?",
+          "options": {
+            "A": "many",
+            "B": "few",
+            "C": "any",
+            "D": "a"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi, 'sugar' không đếm được → 'any'."
+        },
+        {
+          "no": 3,
+          "question": "I'm new here, so I don't have ______ friends.",
+          "options": {
+            "A": "a lot",
+            "B": "many",
+            "C": "a",
+            "D": "much"
+          },
+          "answer": "B",
+          "explanation": "'friends' đếm được số nhiều, câu phủ định → 'many'. 'a lot' thiếu 'of'."
+        },
+        {
+          "no": 4,
+          "question": "She drinks ______ water every day.",
+          "options": {
+            "A": "a few",
+            "B": "many",
+            "C": "few",
+            "D": "a lot of"
+          },
+          "answer": "D",
+          "explanation": "'water' không đếm được, câu khẳng định → 'a lot of'."
+        },
+        {
+          "no": 5,
+          "question": "How ______ rice do you need for the party?",
+          "options": {
+            "A": "any",
+            "B": "many",
+            "C": "much",
+            "D": "some"
+          },
+          "answer": "C",
+          "explanation": "'rice' không đếm được → 'How much'."
+        },
+        {
+          "no": 6,
+          "question": "We didn't see ______ animals at the zoo because it was raining.",
+          "options": {
+            "A": "any",
+            "B": "some",
+            "C": "a",
+            "D": "much"
+          },
+          "answer": "A",
+          "explanation": "Câu phủ định, danh từ số nhiều 'animals' → 'any'."
+        },
+        {
+          "no": 7,
+          "question": "There is ______ traffic in the city centre at rush hour.",
+          "options": {
+            "A": "many",
+            "B": "a few",
+            "C": "a lot of",
+            "D": "few"
+          },
+          "answer": "C",
+          "explanation": "'traffic' không đếm được, câu khẳng định → 'a lot of'. many/a few/few chỉ đi với danh từ đếm được."
+        },
+        {
+          "no": 8,
+          "question": "Can I have ______ bread, please?",
+          "options": {
+            "A": "few",
+            "B": "some",
+            "C": "a",
+            "D": "many"
+          },
+          "answer": "B",
+          "explanation": "Câu xin/đề nghị lịch sự dùng 'some'; 'bread' không đếm được."
+        },
+        {
+          "no": 9,
+          "question": "My grandparents don't drink ______ coffee.",
+          "options": {
+            "A": "much",
+            "B": "many",
+            "C": "few",
+            "D": "a few"
+          },
+          "answer": "A",
+          "explanation": "'coffee' không đếm được, câu phủ định → 'much'."
+        },
+        {
+          "no": 10,
+          "question": "There aren't ______ students in the library today.",
+          "options": {
+            "A": "a lot",
+            "B": "little",
+            "C": "much",
+            "D": "many"
+          },
+          "answer": "D",
+          "explanation": "'students' đếm được số nhiều, câu phủ định → 'many'. 'a lot' thiếu 'of'."
+        },
+        {
+          "no": 11,
+          "question": "Lan has bought ______ new clothes for Tet.",
+          "options": {
+            "A": "a little",
+            "B": "any",
+            "C": "much",
+            "D": "a lot of"
+          },
+          "answer": "D",
+          "explanation": "Câu khẳng định, 'clothes' là danh từ số nhiều → 'a lot of'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "Find the mistake: I (A) have (B) many (C) homework to do (D) tonight.",
+          "options": {
+            "A": "have",
+            "B": "many",
+            "C": "homework to do",
+            "D": "tonight"
+          },
+          "answer": "B",
+          "explanation": "'homework' không đếm được → sửa 'many' thành 'a lot of'."
+        },
+        {
+          "no": 13,
+          "question": "Find the mistake: There (A) isn't (B) any (C) chairs (D) in the room.",
+          "options": {
+            "A": "isn't",
+            "B": "any",
+            "C": "chairs",
+            "D": "in the room"
+          },
+          "answer": "A",
+          "explanation": "'chairs' là danh từ số nhiều → động từ phải là 'aren't'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "englisch-hilfen.de – Quantifiers",
+      "url": "https://www.englisch-hilfen.de/en/grammar_list/mengen.htm"
+    },
+    {
+      "title": "British Council LearnEnglish – Quantifiers: few, a few, little and a bit of",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=3"
+    }
+  ]
+}

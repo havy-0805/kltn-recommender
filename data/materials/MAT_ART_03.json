@@ -1,0 +1,168 @@
+{
+  "material_id": "MAT_ART_03",
+  "skill_id": "SK_ARTICLES",
+  "title": "Trường hợp không dùng mạo từ và ngoại lệ nâng cao",
+  "target_level": 3,
+  "summary": "Phân biệt chính xác khi nào không dùng mạo từ và các ngoại lệ dễ bẫy: school/hospital/church theo mục đích, bữa ăn có tính từ, tên địa danh (hồ, núi đơn lẻ vs dãy núi, quốc gia số nhiều) và danh từ trừu tượng chung/riêng.",
+  "theory": [
+    {
+      "heading": "School, hospital, church, prison, bed: theo mục đích sử dụng",
+      "points": [
+        "Không dùng mạo từ khi nói đúng mục đích chính của nơi đó: go to school (đi học), go to hospital (đi chữa bệnh), go to bed (đi ngủ), go to church (đi lễ)",
+        "Dùng 'the' khi đến đó vì mục đích khác hoặc chỉ tòa nhà cụ thể: go to the school to meet the teacher, go to the hospital to visit a friend",
+        "Cụm cố định không mạo từ: at home, at work, at night, by car, on foot"
+      ],
+      "examples": [
+        { "en": "My grandfather was taken to hospital after the accident.", "vi": "Ông tôi được đưa vào viện sau tai nạn." },
+        { "en": "Her mother went to the hospital to visit her.", "vi": "Mẹ cô ấy đến bệnh viện để thăm cô ấy." }
+      ]
+    },
+    {
+      "heading": "Bữa ăn, môn học, danh từ trừu tượng",
+      "points": [
+        "Bữa ăn nói chung: have dinner; có tính từ đứng trước → dùng a: have a delicious dinner",
+        "Môn học, thể thao, bệnh thông thường: physics, chess, flu (Ø)",
+        "Danh từ trừu tượng nói chung: Honesty is the best policy (Ø); khi được xác định cụ thể → the: the life of a farmer"
+      ],
+      "examples": [
+        { "en": "We had a delicious dinner at a seafood restaurant.", "vi": "Chúng tôi đã có một bữa tối ngon ở nhà hàng hải sản." },
+        { "en": "The life of farmers in the old days was very hard.", "vi": "Cuộc sống của nông dân ngày xưa rất vất vả." }
+      ]
+    },
+    {
+      "heading": "Địa danh: Ø hay the?",
+      "points": [
+        "Ø: hầu hết quốc gia, châu lục, thành phố (Viet Nam, Asia, Hue); hồ và núi đơn lẻ (Lake Michigan, Mount Fuji)",
+        "the: dãy núi (the Alps, the Himalayas), quần đảo/quốc gia số nhiều (the Philippines, the Netherlands), sa mạc (the Sahara), sông, biển, đại dương",
+        "Ø với tên đường, tên sân bay, công viên mang tên riêng: Noi Bai Airport, Central Park"
+      ],
+      "examples": [
+        { "en": "He climbed Mount Fuji last summer.", "vi": "Anh ấy leo núi Phú Sĩ mùa hè năm ngoái." },
+        { "en": "The Alps are popular with skiers.", "vi": "Dãy Alps được người trượt tuyết ưa chuộng." }
+      ]
+    }
+  ],
+  "tips": [
+    "Gặp school/hospital/church/prison: hỏi 'đến đó để làm việc chính của nơi đó không?'. Có → Ø; không (thăm, họp phụ huynh, sửa chữa) → the.",
+    "Bữa ăn có tính từ phía trước (a big lunch, a delicious dinner) → dùng 'a'.",
+    "Núi/hồ đơn lẻ có 'Mount/Lake' đứng trước → Ø; dãy núi, quần đảo, tên số nhiều → the.",
+    "Danh từ trừu tượng có cụm 'of...' phía sau → thường cần 'the'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn mạo từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence. (Ø = no article)",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Owls sleep during the day and hunt for food at ______ night.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Cụm cố định 'at night' không dùng mạo từ (so sánh: in the morning, in the evening)."
+        },
+        {
+          "no": 2,
+          "question": "Mai's mother went to ______ hospital every evening to visit her.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Đến bệnh viện để thăm người bệnh (không phải để chữa bệnh) → 'the hospital'."
+        },
+        {
+          "no": 3,
+          "question": "In Viet Nam, children start going to ______ school at the age of six.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Đi học đúng mục đích → 'go to school' không mạo từ."
+        },
+        {
+          "no": 4,
+          "question": "The parents went to ______ school to meet the head teacher about the trip.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Phụ huynh đến trường để gặp hiệu trưởng (không phải đi học) → 'the school'."
+        },
+        {
+          "no": 5,
+          "question": "We had ______ delicious dinner at a seafood restaurant last night.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "A",
+          "explanation": "Bữa ăn có tính từ đứng trước → dùng 'a': 'a delicious dinner'."
+        },
+        {
+          "no": 6,
+          "question": "They went sailing on ______ Lake Michigan during their holiday.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Tên hồ có 'Lake' đứng trước → không dùng mạo từ."
+        },
+        {
+          "no": 7,
+          "question": "______ Philippines is made up of more than 7,000 islands.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Quốc gia có tên dạng số nhiều (quần đảo) → 'the Philippines'."
+        },
+        {
+          "no": 8,
+          "question": "My brother climbed ______ Mount Fuji with his friends last summer.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Núi đơn lẻ có 'Mount' đứng trước → không mạo từ."
+        },
+        {
+          "no": 9,
+          "question": "______ Alps attract millions of skiers every winter.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Dãy núi dùng 'the': 'the Alps'."
+        },
+        {
+          "no": 10,
+          "question": "My grandmother always says that ______ honesty is the best policy.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Danh từ trừu tượng mang nghĩa chung → không mạo từ."
+        },
+        {
+          "no": 11,
+          "question": "She is very good at ______ physics and wants to become an engineer.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Tên môn học không dùng mạo từ."
+        },
+        {
+          "no": 12,
+          "question": "______ life of farmers in the old days was much harder than it is now.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Danh từ trừu tượng được xác định bởi cụm 'of farmers' → 'The life'."
+        },
+        {
+          "no": 13,
+          "question": "We usually stay at ______ home and watch films on Sunday evenings.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "Cụm cố định 'at home' không mạo từ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 14,
+          "question": "Find the mistake: She (A) usually goes (B) to the bed (C) at ten o'clock (D) every night.",
+          "options": { "A": "usually goes", "B": "to the bed", "C": "at ten o'clock", "D": "every night" },
+          "answer": "B",
+          "explanation": "Đi ngủ (đúng mục đích của giường) → 'go to bed', không dùng 'the'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "British Council LearnEnglish – Articles: a, an and the", "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/articles-a-an-the" }
+  ]
+}

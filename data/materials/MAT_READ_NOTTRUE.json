@@ -1,0 +1,160 @@
+{
+  "material_id": "MAT_READ_NOTTRUE",
+  "skill_id": "SK_READ_NOTTRUE",
+  "title": "Phương pháp Giải dạng bài NOT / EXCEPT",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý câu NOT/EXCEPT mức phân hóa: nhận ra các phương án 'đúng một nửa', bị phóng đại, đảo quan hệ nhân quả hoặc đổi phạm vi, và phân biệt 'không được bài hỗ trợ' với 'sai với bài'.",
+  "theory": [
+    {
+      "heading": "Bốn kiểu phương án bẫy trong câu NOT true",
+      "points": [
+        "Phóng đại phạm vi: bài nói 'some / in certain villages', phương án nói 'all / always' → sai với bài.",
+        "Đảo nhân quả hoặc đổi vai trò: bài nói đại dịch 'làm lộ ra' khoảng cách số, phương án nói nó 'tạo ra' khoảng cách → sai.",
+        "Bỏ điều kiện: bài nói túi vải chỉ tốt hơn 'sau hàng chục lần dùng', phương án nói 'luôn tốt hơn' → sai.",
+        "Đổi thời gian hoặc nơi chốn: bài nói múa rối 'bắt đầu ở làng rồi mới vào nhà hát', phương án nói 'bắt đầu ở nhà hát thành phố' → sai."
+      ],
+      "examples": [
+        { "en": "Text: 'in certain villages students had to climb hills to find a mobile signal' → Trap: 'All students in mountainous areas had to climb hills.'", "vi": "Bài chỉ nói 'ở một số làng', phương án nói 'tất cả học sinh vùng núi' → phóng đại, sai với bài." }
+      ]
+    },
+    {
+      "heading": "'NOT supported' khác 'NOT mentioned'",
+      "points": [
+        "'Which statement is NOT supported by the passage?': chọn phương án không có căn cứ HOẶC mâu thuẫn với bài; ba phương án còn lại phải có câu chứng cứ (trực tiếp hoặc suy ra chặt chẽ).",
+        "Một phương án nghe hợp lý ngoài đời (ví dụ 'giáo viên vùng cao từ chối dạy online') vẫn là đáp án nếu bài không hề nói tới.",
+        "Ba phương án được hỗ trợ thường là câu diễn đạt lại; phải hiểu nghĩa chứ không dò chữ."
+      ],
+      "examples": [
+        { "en": "Text: 'Unless this gap is reduced, online learning may increase inequality.' → Supported: 'Students without access to technology may fall behind.'", "vi": "Câu điều kiện trong bài cho phép suy ra học sinh không có thiết bị có thể bị tụt lại → phương án được bài hỗ trợ, không phải đáp án." }
+      ]
+    },
+    {
+      "heading": "Kỹ thuật đối chiếu chéo cho EXCEPT",
+      "points": [
+        "Liệt kê các ý được nêu trong đoạn liên quan (thường là một câu dài có dấu phẩy hoặc nhiều câu nối bằng also, as well, in addition).",
+        "Ghép từng phương án với một ý trong danh sách; phương án không ghép được là đáp án.",
+        "Cẩn thận phương án lấy ý từ ĐOẠN KHÁC khi câu hỏi giới hạn 'in paragraph 2'."
+      ],
+      "examples": [
+        { "en": "'...such as paper straws, rice straws and reusable cloth bags' → EXCEPT option: 'glass bottles'.", "vi": "Ba ý có trong danh sách được loại; 'chai thủy tinh' không có → đáp án." }
+      ]
+    }
+  ],
+  "tips": [
+    "Khoanh các từ chỉ mức độ trong bài (some, many, certain, only, may) để so với từ tuyệt đối trong phương án (all, always, never, completely).",
+    "Với câu có động từ chỉ quan hệ (cause, create, reveal, lead to), kiểm tra xem phương án có đổi quan hệ nhân quả không.",
+    "Phương án NOT true đúng là phương án mà bạn chỉ ra được câu MÂU THUẪN trong bài; nếu không chỉ ra được, hãy xem lại.",
+    "Kiểm tra lần cuối: ba phương án bị loại đều phải có câu chứng cứ rõ ràng; nếu một phương án bị loại mà không có chứng cứ, bạn đã chọn nhầm."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "When schools across Viet Nam closed during the COVID-19 pandemic, millions of students suddenly had to study online. For some, the change was surprisingly smooth: they already owned laptops, had fast internet at home, and were comfortable using video-calling apps. For others, especially those in remote mountainous areas, online lessons were almost impossible. Some families had only one smartphone, which was shared by two or three children, while in certain villages students had to climb hills to find a mobile signal.\nTeachers also faced challenges. Many had never taught through a screen before, and they found it hard to tell whether students were paying attention when cameras were switched off. Nevertheless, a large number of teachers quickly learned new skills, such as creating online quizzes and recording short video lessons that students could watch again later.\nNow that students are back in classrooms, researchers believe the experience has left some lasting changes. Many schools continue to use online platforms for homework and for sharing materials, and parents can check their children's results on their phones. On the other hand, the pandemic also revealed a \"digital divide\" between students who have access to technology and those who do not. Unless this gap is reduced, experts warn, online learning may increase, rather than reduce, inequality in education.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "All students in mountainous areas had to climb hills to get a mobile signal.", "B": "Some students found studying online easier than expected.", "C": "In some families, several children had to share one smartphone.", "D": "Many teachers learned how to create online quizzes." },
+          "answer": "A",
+          "explanation": "Bài viết: 'in certain villages students had to climb hills to find a mobile signal' → chỉ ở một số làng. Phương án A phóng đại thành 'All students in mountainous areas'. B: 'the change was surprisingly smooth'; C: 'one smartphone, which was shared by two or three children'; D: 'creating online quizzes'."
+        },
+        {
+          "no": 2,
+          "question": "All of the following are mentioned as lasting changes after the pandemic EXCEPT that ______.",
+          "options": { "A": "schools use online platforms for homework", "B": "schools share materials on online platforms", "C": "parents can check their children's results on their phones", "D": "students attend classes online two days a week" },
+          "answer": "D",
+          "explanation": "Đoạn 3: 'Many schools continue to use online platforms for homework and for sharing materials, and parents can check their children's results on their phones.' → A, B, C. Bài nói học sinh đã 'back in classrooms', không nhắc lịch học online hai ngày/tuần."
+        },
+        {
+          "no": 3,
+          "question": "Which of the following statements is NOT supported by the passage?",
+          "options": { "A": "Having a laptop and fast internet made online learning easier.", "B": "Teachers in remote areas refused to teach online.", "C": "Recorded video lessons allowed students to review what they had learnt.", "D": "Students without access to technology may fall behind others." },
+          "answer": "B",
+          "explanation": "Bài không hề nói giáo viên vùng sâu từ chối dạy online; ngược lại 'a large number of teachers quickly learned new skills'. A được hỗ trợ bởi đoạn 1 (owned laptops, fast internet → smooth); C: 'video lessons that students could watch again later'; D: 'online learning may increase ... inequality'."
+        },
+        {
+          "no": 4,
+          "question": "The writer says all of the following about the \"digital divide\" EXCEPT that it ______.",
+          "options": { "A": "became clear during the pandemic", "B": "separates students who have technology from those who do not", "C": "was created by schools using online platforms", "D": "could make education less equal if nothing is done" },
+          "answer": "C",
+          "explanation": "Bài viết: 'the pandemic also revealed a \"digital divide\"' → đại dịch LÀM LỘ RA khoảng cách số, không phải các nền tảng online TẠO RA nó. Đây là bẫy đổi quan hệ nhân quả. A = 'revealed'; B = 'between students who have access to technology and those who do not'; D = 'Unless this gap is reduced ... may increase ... inequality'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "In 2019, several supermarkets in Viet Nam began wrapping vegetables in banana leaves instead of plastic. The idea spread quickly after photos of the leaf-wrapped vegetables were shared widely online. Customers praised the shops for being creative, and other businesses soon followed with their own plastic-free ideas, such as paper straws, rice straws and reusable cloth bags.\nHowever, replacing plastic is not as simple as it seems. Banana leaves dry out after a few days, so they are suitable only for fresh food that is sold quickly. Paper bags need more energy and water to produce than plastic bags, which means they are only better for the environment if they are reused several times. Even cloth bags have to be used dozens of times before their overall impact becomes lower than that of a single-use plastic bag.\nFor these reasons, environmental groups argue that the real solution is not simply to swap one material for another but to use less of everything. They encourage shoppers to bring their own bags and containers, to buy loose fruit and vegetables, and to refuse items they do not really need. The government has also announced plans to limit the production and use of single-use plastic bags, giving businesses time to prepare.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "Banana leaves are suitable for fresh food that is sold quickly.", "B": "Paper bags need more energy to produce than plastic bags.", "C": "Photos of leaf-wrapped vegetables were widely shared online.", "D": "Cloth bags are always better for the environment than plastic bags." },
+          "answer": "D",
+          "explanation": "Bài viết: 'Even cloth bags have to be used dozens of times before their overall impact becomes lower than that of a single-use plastic bag.' → túi vải chỉ tốt hơn khi dùng nhiều lần; 'always' bỏ mất điều kiện nên sai. A, B, C đều có câu chứng cứ."
+        },
+        {
+          "no": 6,
+          "question": "All of the following plastic-free ideas are mentioned in the passage EXCEPT ______.",
+          "options": { "A": "glass bottles", "B": "paper straws", "C": "rice straws", "D": "reusable cloth bags" },
+          "answer": "A",
+          "explanation": "Đoạn 1: 'such as paper straws, rice straws and reusable cloth bags'. Chai thủy tinh không được nhắc."
+        },
+        {
+          "no": 7,
+          "question": "Which of the following is NOT recommended by environmental groups?",
+          "options": { "A": "Bringing your own bags and containers", "B": "Replacing all plastic bags with paper bags", "C": "Buying loose fruit and vegetables", "D": "Refusing items you do not really need" },
+          "answer": "B",
+          "explanation": "Đoạn 3: 'the real solution is not simply to swap one material for another but to use less of everything' → thay toàn bộ túi nhựa bằng túi giấy chính là kiểu 'swap' bị phản đối. A, C, D nằm trong câu 'They encourage shoppers to bring their own bags and containers, to buy loose fruit and vegetables, and to refuse items...'."
+        },
+        {
+          "no": 8,
+          "question": "Which of the following statements is NOT supported by the passage?",
+          "options": { "A": "Paper bags can be better than plastic bags if they are reused several times.", "B": "Customers reacted positively to the banana-leaf idea.", "C": "Banana leaves can keep food fresh for several weeks.", "D": "The government is planning to reduce single-use plastic bags." },
+          "answer": "C",
+          "explanation": "Bài viết: 'Banana leaves dry out after a few days' → mâu thuẫn với 'several weeks'. A: 'only better for the environment if they are reused several times'; B: 'Customers praised the shops'; D: 'announced plans to limit the production and use of single-use plastic bags'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Water puppetry is a traditional art form that began in the villages of the Red River Delta about a thousand years ago. Farmers created it to entertain themselves after the rice harvest, when the paddy fields were still flooded. Instead of a stage, they used a pond or a lake, and the puppeteers stood waist-deep in water behind a bamboo screen. They controlled the wooden puppets with long poles hidden under the surface, which made the puppets seem to walk and dance on water.\nThe stories usually showed scenes from village life, such as planting rice, fishing and herding ducks, as well as famous legends. A live band played traditional instruments, and singers gave voices to the characters. The puppets are carved from fig wood and painted with bright lacquer, so they are light enough to float.\nIn the twentieth century, water puppetry moved from village ponds to theatres in big cities, where it became a favourite attraction for tourists. Today, it is performed not only in Viet Nam but also on tours abroad. Yet the art faces an uncertain future. Training a puppeteer takes years, the work is physically demanding, and the pay is low, so fewer young people choose it as a career. Some troupes now add modern stories and lighting effects, although critics worry that this may change the spirit of the art.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which of the following is NOT true about the origin of water puppetry?",
+          "options": { "A": "It began in the Red River Delta.", "B": "It was created by farmers.", "C": "It was first performed in city theatres.", "D": "It was performed after the rice harvest." },
+          "answer": "C",
+          "explanation": "Bài viết: nghệ thuật này 'began in the villages' và mãi tới 'In the twentieth century, water puppetry moved from village ponds to theatres in big cities' → C đảo trình tự thời gian nên sai."
+        },
+        {
+          "no": 10,
+          "question": "All of the following are mentioned as scenes in water puppet stories EXCEPT ______.",
+          "options": { "A": "planting rice", "B": "trading at the market", "C": "fishing", "D": "herding ducks" },
+          "answer": "B",
+          "explanation": "Đoạn 2: 'scenes from village life, such as planting rice, fishing and herding ducks, as well as famous legends'. Cảnh buôn bán ở chợ không được nhắc."
+        },
+        {
+          "no": 11,
+          "question": "Which of the following is NOT mentioned as a reason why fewer young people become puppeteers?",
+          "options": { "A": "Audiences are getting smaller.", "B": "Training takes years.", "C": "The work is physically demanding.", "D": "The pay is low." },
+          "answer": "A",
+          "explanation": "Đoạn 3: 'Training a puppeteer takes years, the work is physically demanding, and the pay is low, so fewer young people choose it' → B, C, D. Bài còn nói múa rối là 'a favourite attraction for tourists', không hề nói khán giả giảm."
+        },
+        {
+          "no": 12,
+          "question": "Which of the following statements is NOT supported by the passage?",
+          "options": { "A": "The audience cannot see the puppeteers during a traditional show.", "B": "Some people are worried about modernising water puppetry.", "C": "Water puppetry is now performed outside Viet Nam.", "D": "The puppets are too heavy to float, so they are held under water." },
+          "answer": "D",
+          "explanation": "Bài viết: 'they are light enough to float' → D mâu thuẫn. A suy ra từ 'stood ... behind a bamboo screen' và 'poles hidden under the surface'; B: 'critics worry that this may change the spirit of the art'; C: 'on tours abroad'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Single Passages: Question Types & Strategies (NOT, inference)", "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

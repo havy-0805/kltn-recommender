@@ -1,0 +1,205 @@
+{
+  "material_id": "MAT_READ_CLOZE",
+  "skill_id": "SK_READ_CLOZE",
+  "title": "Phương pháp Xử lý bài đọc Điền từ khuyết thiếu",
+  "target_level": 2,
+  "summary": "Giúp học sinh xử lý đủ ba dạng điền khuyết trong đề thi vào 10 Hà Nội: thông báo ngắn 4 chỗ trống, đoạn văn 6 chỗ trống (từ loại, từ nối, đại từ quan hệ, cụm từ cố định) và đoạn văn điền cụm từ/câu, bằng quy trình phân loại chỗ trống rồi kiểm tra ngữ pháp và ngữ nghĩa.",
+  "theory": [
+    {
+      "heading": "Phân loại chỗ trống trước khi chọn",
+      "points": [
+        "Nhìn 4 phương án để biết câu kiểm tra gì: 4 dạng của một từ → từ loại; 4 giới từ → cụm cố định; 4 từ nối → quan hệ ý; 4 từ khác nghĩa → từ vựng/collocation.",
+        "Câu ngữ pháp: chỉ cần phân tích cấu trúc câu chứa chỗ trống.",
+        "Câu từ nối, từ vựng: phải đọc cả câu trước và câu sau để biết quan hệ ý."
+      ],
+      "examples": [
+        { "en": "Social media can be (6) ____: it helps young people keep in touch with relatives. → useful", "vi": "Mạng xã hội có thể hữu ích: nó giúp người trẻ giữ liên lạc với người thân. (Sau 'be' cần tính từ.)" }
+      ]
+    },
+    {
+      "heading": "Từ nối và đại từ quan hệ",
+      "points": [
+        "Tương phản: However, (đầu câu, có dấu phẩy), but (nối hai mệnh đề), although + mệnh đề, despite + danh từ/V-ing.",
+        "Bổ sung: Moreover, In addition; kết quả: Therefore, As a result, so.",
+        "', which' có thể thay cho cả mệnh đề phía trước; 'that' không đứng sau dấu phẩy.",
+        "'By + V-ing' = bằng cách làm gì, thường đứng đầu câu chỉ phương thức."
+      ],
+      "examples": [
+        { "en": "Others stay up late and feel tired the next day, which affects their schoolwork.", "vi": "Một số khác thức khuya và mệt mỏi vào hôm sau, điều này ảnh hưởng tới việc học. ('which' thay cho cả mệnh đề trước.)" }
+      ]
+    },
+    {
+      "heading": "Collocation – cụm từ đi kèm",
+      "points": [
+        "Động từ + danh từ: set a limit, keep in touch, take part in, pay attention to.",
+        "Tính từ/động từ + giới từ: reserved for, open from… to…, spend time + V-ing.",
+        "Học theo cụm, không học từng từ rời rạc."
+      ],
+      "examples": [
+        { "en": "Teenagers should set a limit on their screen time.", "vi": "Thanh thiếu niên nên đặt giới hạn cho thời gian dùng thiết bị điện tử." }
+      ]
+    },
+    {
+      "heading": "Điền cụm từ/câu vào đoạn văn",
+      "points": [
+        "Dạng này (giống câu 37–40 đề minh họa) cho 4 cụm/câu dùng chung cho 4 chỗ trống.",
+        "Kiểm tra ngữ pháp trước: chỗ trống nằm giữa câu (sau dấu phẩy) cần cụm bắt đầu bằng chữ thường (such as…, instead of…); chỗ trống đứng riêng cần một câu hoàn chỉnh viết hoa.",
+        "Kiểm tra ý sau: câu điền phải nối được với câu trước VÀ câu sau (từ nối, đại từ this/these, In this way…)."
+      ],
+      "examples": [
+        { "en": "You only need some pots, good soil and seeds of plants that grow quickly, such as morning glory, lettuce or herbs.", "vi": "Bạn chỉ cần vài chậu, đất tốt và hạt giống của những cây mau lớn, như rau muống, xà lách hay rau thơm. (Cụm 'such as…' bắt đầu bằng chữ thường, liệt kê ví dụ cho danh từ ngay trước.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Làm các câu ngữ pháp thuần túy (từ loại, giới từ) trước, để câu từ nối và từ vựng lại sau khi đã hiểu rõ bài.",
+    "Với từ nối, xác định quan hệ hai vế (đối lập, bổ sung, nguyên nhân, kết quả) rồi mới nhìn phương án.",
+    "Với dạng điền câu, loại dần: điền chắc chắn chỗ dễ nhất trước, các phương án còn lại sẽ ít hơn.",
+    "Sau khi điền, đọc lại cả đoạn một lượt; đáp án đúng phải làm câu văn vừa đúng ngữ pháp vừa liền mạch về ý."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Library notice",
+      "instructions": "Read the following notice and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "NEW OPENING HOURS AT GREEN LEAF LIBRARY\n\nFrom 1st March, Green Leaf Library will open (1)____ 8 a.m. to 9 p.m. from Monday to Saturday. The reading room on the second floor will be reserved (2)____ students preparing for exams. Members can borrow up to five books at a time and keep them for two weeks. Please handle all books (3)____, as damaged books must be paid for. Our new computer area, (4)____ was opened last month, offers free internet access for one hour per visit. Please remember to switch your phone to silent mode and keep food and drinks outside the reading rooms. For more information, visit our website or ask our friendly staff at the front desk. We look forward to welcoming you!",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the best option for blank (1).",
+          "options": { "A": "between", "B": "from", "C": "since", "D": "during" },
+          "answer": "B",
+          "explanation": "Cặp cố định 'from… to…' chỉ khoảng thời gian: 'open from 8 a.m. to 9 p.m.'. 'between' phải đi với 'and'."
+        },
+        {
+          "no": 2,
+          "question": "Choose the best option for blank (2).",
+          "options": { "A": "for", "B": "to", "C": "with", "D": "of" },
+          "answer": "A",
+          "explanation": "Cụm 'be reserved for somebody' = được dành riêng cho ai: 'reserved for students preparing for exams'."
+        },
+        {
+          "no": 3,
+          "question": "Choose the best option for blank (3).",
+          "options": { "A": "careful", "B": "carefully", "C": "care", "D": "careless" },
+          "answer": "B",
+          "explanation": "Sau cụm động từ + tân ngữ 'handle all books' cần trạng từ bổ nghĩa cho động từ: 'handle carefully'. Vế sau 'damaged books must be paid for' xác nhận nghĩa 'cẩn thận'."
+        },
+        {
+          "no": 4,
+          "question": "Choose the best option for blank (4).",
+          "options": { "A": "who", "B": "where", "C": "which", "D": "what" },
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ không xác định (giữa hai dấu phẩy) bổ nghĩa cho vật 'Our new computer area' và đóng vai chủ ngữ của 'was opened' → 'which'. 'where' cần một mệnh đề đầy đủ chủ ngữ phía sau."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Teenagers and social media",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) for each of the numbered blanks.",
+      "passage": "Social media has become an important part of teenagers' lives. Many students spend hours every day (5)____ photos, chatting with friends and watching short videos. Social media can be (6)____: it helps young people keep in touch with relatives who live far away and find information for their school projects quickly.\n\n(7)____, spending too much time online can cause problems. Some teenagers feel stressed when they compare their lives with the “perfect” pictures they see. Others stay up late at night and feel tired the next day, (8)____ affects their schoolwork.\n\nExperts suggest that teenagers should (9)____ a limit on their screen time and turn off notifications while studying. Parents can also help by spending more quality time with their children. (10)____ social media wisely, young people can enjoy its benefits without harming their health.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Choose the best option for blank (5).",
+          "options": { "A": "share", "B": "sharing", "C": "to share", "D": "shared" },
+          "answer": "B",
+          "explanation": "Cấu trúc 'spend time + V-ing': 'spend hours every day sharing photos, chatting… and watching…'. Các động từ song song phía sau cũng ở dạng V-ing."
+        },
+        {
+          "no": 6,
+          "question": "Choose the best option for blank (6).",
+          "options": { "A": "use", "B": "usefully", "C": "useful", "D": "usefulness" },
+          "answer": "C",
+          "explanation": "Sau động từ 'be' cần tính từ: 'Social media can be useful', và vế sau dấu hai chấm giải thích lợi ích."
+        },
+        {
+          "no": 7,
+          "question": "Choose the best option for blank (7).",
+          "options": { "A": "Therefore", "B": "Moreover", "C": "Because", "D": "However" },
+          "answer": "D",
+          "explanation": "Đoạn 1 nói lợi ích, đoạn 2 nói tác hại ('can cause problems') → quan hệ đối lập, dùng 'However,'. 'Because' không đứng một mình trước dấu phẩy như vậy; 'Therefore', 'Moreover' sai quan hệ ý."
+        },
+        {
+          "no": 8,
+          "question": "Choose the best option for blank (8).",
+          "options": { "A": "which", "B": "that", "C": "who", "D": "what" },
+          "answer": "A",
+          "explanation": "Sau dấu phẩy, đại từ quan hệ thay cho cả mệnh đề trước (việc thức khuya và mệt mỏi) là 'which'. 'that' không dùng sau dấu phẩy; 'who' chỉ người; 'what' không làm đại từ quan hệ kiểu này."
+        },
+        {
+          "no": 9,
+          "question": "Choose the best option for blank (9).",
+          "options": { "A": "make", "B": "do", "C": "take", "D": "set" },
+          "answer": "D",
+          "explanation": "Collocation 'set a limit on something' = đặt giới hạn cho cái gì: 'set a limit on their screen time'."
+        },
+        {
+          "no": 10,
+          "question": "Choose the best option for blank (10).",
+          "options": { "A": "By using", "B": "By use", "C": "Use", "D": "Used" },
+          "answer": "A",
+          "explanation": "'By + V-ing' chỉ cách thức: bằng cách sử dụng mạng xã hội khôn ngoan, người trẻ có thể hưởng lợi. 'By use' sai vì sau 'by' + động từ phải là V-ing; 'Use' biến câu thành mệnh lệnh, sai với dấu phẩy và mệnh đề phía sau; 'Used' mang nghĩa bị động, không hợp với chủ ngữ 'young people'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Gardens in the sky",
+      "instructions": "Read the passage and choose the best option (A, B, C or D) to fill in each of the numbered blanks. The same four options are used for questions 11–14.",
+      "passage": "In big cities like Ha Noi and Ho Chi Minh City, green space is limited, but more and more families are growing vegetables on their rooftops and balconies. (11)____. Many city residents worry about chemicals used on farms, so they prefer to eat what they have grown themselves.\n\nRooftop gardens also make buildings cooler in summer. The plants absorb sunlight (12)____, which means families can use their air conditioners less often.\n\nStarting a small garden is easier than many people think. You only need some pots, good soil and seeds of plants that grow quickly, (13)____. Old plastic bottles and polystyrene boxes can be reused as pots.\n\nMost importantly, gardening brings people together. Children learn where their food comes from, and neighbours share seeds and advice. (14)____.",
+      "questions": [
+        {
+          "no": 11,
+          "question": "Choose the best option for blank (11).",
+          "options": {
+            "A": "such as morning glory, lettuce or herbs",
+            "B": "For many, the main reason is food safety",
+            "C": "In this way, a small garden can turn a building into a friendly community",
+            "D": "instead of letting it heat the roof"
+          },
+          "answer": "B",
+          "explanation": "Chỗ trống (11) đứng riêng thành một câu nên cần câu hoàn chỉnh viết hoa (B hoặc C). Câu sau 'Many city residents worry about chemicals used on farms' giải thích chính lý do 'food safety' → B."
+        },
+        {
+          "no": 12,
+          "question": "Choose the best option for blank (12).",
+          "options": {
+            "A": "such as morning glory, lettuce or herbs",
+            "B": "For many, the main reason is food safety",
+            "C": "In this way, a small garden can turn a building into a friendly community",
+            "D": "instead of letting it heat the roof"
+          },
+          "answer": "D",
+          "explanation": "Chỗ trống nằm giữa câu, sau 'The plants absorb sunlight' → cần cụm viết thường. 'instead of letting it heat the roof' (thay vì để nó làm nóng mái nhà) giải thích vì sao tòa nhà mát hơn, khớp với 'make buildings cooler'; 'it' thay cho 'sunlight'."
+        },
+        {
+          "no": 13,
+          "question": "Choose the best option for blank (13).",
+          "options": {
+            "A": "such as morning glory, lettuce or herbs",
+            "B": "For many, the main reason is food safety",
+            "C": "In this way, a small garden can turn a building into a friendly community",
+            "D": "instead of letting it heat the roof"
+          },
+          "answer": "A",
+          "explanation": "Sau 'seeds of plants that grow quickly,' cần ví dụ các loại cây mau lớn → 'such as morning glory, lettuce or herbs'."
+        },
+        {
+          "no": 14,
+          "question": "Choose the best option for blank (14).",
+          "options": {
+            "A": "such as morning glory, lettuce or herbs",
+            "B": "For many, the main reason is food safety",
+            "C": "In this way, a small garden can turn a building into a friendly community",
+            "D": "instead of letting it heat the roof"
+          },
+          "answer": "C",
+          "explanation": "Đoạn cuối nói làm vườn gắn kết mọi người ('brings people together', hàng xóm chia sẻ hạt giống). 'In this way' tổng kết ý đó: khu vườn biến tòa nhà thành một cộng đồng thân thiện."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Multiple-choice cloze strategy – Flo-Joe (Cambridge English)", "url": "https://www.flo-joe.co.uk/fce/students/strategy/fce_multiple_choice_cloze.htm" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

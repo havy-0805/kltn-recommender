@@ -1,0 +1,248 @@
+{
+  "material_id": "MAT_ADJ_ORDER_03",
+  "skill_id": "SK_ADJ_ORDER",
+  "title": "Bẫy trật tự tính từ phức hợp và biến thể nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các bẫy nâng cao về trật tự tính từ: tính từ ghép có số đếm (a ten-year-old boy), trạng từ bổ nghĩa đứng trước tính từ, tính từ đứng sau đại từ bất định, vị trí của 'enough' và chuỗi 4–5 tính từ kết hợp với từ hạn định.",
+  "theory": [
+    {
+      "heading": "Tính từ ghép có số đếm",
+      "points": [
+        "Số + danh từ (số ít) + gạch nối làm tính từ: a ten-year-old boy, a two-hour lesson, a five-star hotel, a three-storey building.",
+        "Danh từ trong tính từ ghép KHÔNG thêm -s: KHÔNG viết 'a two-hours lesson'.",
+        "Khi không làm tính từ đứng trước danh từ thì dùng số nhiều bình thường: The boy is ten years old.",
+        "Tính từ ghép chỉ tuổi/kích thước được xếp vào nhóm Age/Size trong OSASCOMP: a lovely ten-year-old Vietnamese girl."
+      ],
+      "examples": [
+        {
+          "en": "We went on a three-day trip to Sa Pa.",
+          "vi": "Chúng tôi đã có chuyến đi Sa Pa ba ngày."
+        },
+        {
+          "en": "Her son is twelve years old. → She has a twelve-year-old son.",
+          "vi": "Con trai cô ấy 12 tuổi."
+        }
+      ]
+    },
+    {
+      "heading": "Trạng từ bổ nghĩa, enough và đại từ bất định",
+      "points": [
+        "Trạng từ chỉ mức độ (very, really, extremely, quite) đứng ngay trước tính từ nó bổ nghĩa: a very old wooden bridge.",
+        "enough đứng SAU tính từ/trạng từ (old enough, fast enough) nhưng TRƯỚC danh từ (enough money).",
+        "Tính từ đứng SAU đại từ bất định: something interesting, nobody special, anywhere quiet."
+      ],
+      "examples": [
+        {
+          "en": "Is there anything interesting on TV tonight?",
+          "vi": "Tối nay trên TV có gì thú vị không?"
+        },
+        {
+          "en": "He isn't old enough to drive a car.",
+          "vi": "Cậu ấy chưa đủ tuổi để lái ô tô."
+        }
+      ]
+    },
+    {
+      "heading": "Chuỗi tính từ dài và danh từ làm tính từ",
+      "points": [
+        "Danh từ làm tính từ (noun modifier: kitchen, school, city, history) đứng sát danh từ chính, sau mọi tính từ khác: a large modern city hospital.",
+        "Phân từ làm tính từ (broken, handmade, used) thường được xếp như tính từ chỉ ý kiến/tình trạng, đứng trước màu, nguồn gốc, chất liệu.",
+        "Không dồn quá 3–4 tính từ trong thực tế; tuy nhiên đề thi vẫn có thể yêu cầu sắp xếp 4–5 tính từ – áp dụng chặt OSASCOMP."
+      ],
+      "examples": [
+        {
+          "en": "She bought a beautiful handmade Vietnamese silk scarf.",
+          "vi": "Cô ấy mua một chiếc khăn lụa Việt Nam làm thủ công rất đẹp."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy 'số + danh từ' trước danh từ khác → kiểm tra gạch nối và danh từ phải ở dạng số ít.",
+    "Đại từ bất định (something, anything, nobody, somewhere) + tính từ – không đặt tính từ trước.",
+    "'enough' đi sau tính từ: 'old enough', không phải 'enough old'.",
+    "Với chuỗi 4–5 tính từ, xác định trước vị trí của Opinion (đầu) và Purpose/noun modifier (cuối) rồi sắp phần giữa."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Mai has a ______ brother who can already read.",
+          "options": {
+            "A": "five-years-old",
+            "B": "five-year-old",
+            "C": "five-year-olds",
+            "D": "five years old"
+          },
+          "answer": "B",
+          "explanation": "Tính từ ghép trước danh từ: số + danh từ số ít + gạch nối → five-year-old."
+        },
+        {
+          "no": 2,
+          "question": "The flight from Ha Noi to London is a ______ journey.",
+          "options": {
+            "A": "twelve-hour's",
+            "B": "twelve hours",
+            "C": "twelve-hours",
+            "D": "twelve-hour"
+          },
+          "answer": "D",
+          "explanation": "Tính từ ghép: twelve-hour (danh từ 'hour' ở dạng số ít, có gạch nối)."
+        },
+        {
+          "no": 3,
+          "question": "I'm bored. Let's go ______ this weekend.",
+          "options": {
+            "A": "exciting somewhere",
+            "B": "excitingly somewhere",
+            "C": "some exciting where",
+            "D": "somewhere exciting"
+          },
+          "answer": "D",
+          "explanation": "Tính từ đứng sau đại từ/trạng từ bất định: somewhere exciting."
+        },
+        {
+          "no": 4,
+          "question": "My little brother isn't ______ to watch that horror film.",
+          "options": {
+            "A": "oldly enough",
+            "B": "enough old",
+            "C": "old enough",
+            "D": "enough age"
+          },
+          "answer": "C",
+          "explanation": "enough đứng sau tính từ: old enough to + V."
+        },
+        {
+          "no": 5,
+          "question": "They stayed at a ______ hotel near the beach.",
+          "options": {
+            "A": "luxurious new five-star",
+            "B": "five-star new luxurious",
+            "C": "new luxurious five-star",
+            "D": "luxurious five-stars new"
+          },
+          "answer": "A",
+          "explanation": "Opinion (luxurious) → Age (new) → tính từ ghép phân loại (five-star) sát danh từ. D sai vì 'five-stars'."
+        },
+        {
+          "no": 6,
+          "question": "She introduced me to a ______ actress.",
+          "options": {
+            "A": "twenty-year-old talented French",
+            "B": "French talented twenty-year-old",
+            "C": "talented twenty-year-old French",
+            "D": "talented French twenty-year-old"
+          },
+          "answer": "C",
+          "explanation": "Opinion (talented) → Age (twenty-year-old) → Origin (French)."
+        },
+        {
+          "no": 7,
+          "question": "We crossed a ______ bridge to reach the village.",
+          "options": {
+            "A": "very narrow old wooden",
+            "B": "old very narrow wooden",
+            "C": "wooden very narrow old",
+            "D": "very old wooden narrow"
+          },
+          "answer": "A",
+          "explanation": "'very' đứng ngay trước tính từ nó bổ nghĩa (narrow). Trật tự: Size (narrow) → Age (old) → Material (wooden). B đặt 'very' sau 'old'; C, D đưa chất liệu lên trước hoặc đặt kích thước sau chất liệu."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn cụm từ/câu đúng",
+      "instructions": "Choose the phrase or sentence that is correct.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 8,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "a Vietnamese beautiful handmade silk scarf",
+            "B": "a handmade beautiful silk Vietnamese scarf",
+            "C": "a beautiful handmade Vietnamese silk scarf",
+            "D": "a silk beautiful handmade Vietnamese scarf"
+          },
+          "answer": "C",
+          "explanation": "Opinion (beautiful) → tình trạng/phân từ (handmade) → Origin (Vietnamese) → Material (silk) → danh từ."
+        },
+        {
+          "no": 9,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "a city large modern hospital",
+            "B": "a large city modern hospital",
+            "C": "a modern large city hospital",
+            "D": "a large modern city hospital"
+          },
+          "answer": "D",
+          "explanation": "Size (large) → Age (modern) → danh từ làm tính từ (city) sát danh từ chính."
+        },
+        {
+          "no": 10,
+          "question": "His daughter is eight years old.",
+          "options": {
+            "A": "He has a daughter eight-year-old.",
+            "B": "He has an eight-year-old daughter.",
+            "C": "He has an eight years old daughter.",
+            "D": "He has an eight-years-old daughter."
+          },
+          "answer": "B",
+          "explanation": "Tính từ ghép trước danh từ: an eight-year-old daughter (có gạch nối, 'year' số ít, mạo từ 'an' trước âm /eɪ/)."
+        },
+        {
+          "no": 11,
+          "question": "Which sentence is correct?",
+          "options": {
+            "A": "I didn't meet special at the party anybody.",
+            "B": "I didn't meet anybody special at the party.",
+            "C": "I didn't meet special anybody at the party.",
+            "D": "I didn't meet anybody specially at the party."
+          },
+          "answer": "B",
+          "explanation": "Tính từ đứng sau đại từ bất định: anybody special."
+        },
+        {
+          "no": 12,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "two brown small old leather suitcases",
+            "B": "two old small leather brown suitcases",
+            "C": "small two old brown leather suitcases",
+            "D": "two small old brown leather suitcases"
+          },
+          "answer": "D",
+          "explanation": "Số đếm (two) → Size (small) → Age (old) → Colour (brown) → Material (leather) → danh từ."
+        },
+        {
+          "no": 13,
+          "question": "Which phrase is correct?",
+          "options": {
+            "A": "an expensive black Japanese sports car",
+            "B": "a sports expensive black Japanese car",
+            "C": "a black expensive Japanese sports car",
+            "D": "an expensive Japanese black sports car"
+          },
+          "answer": "A",
+          "explanation": "Opinion (expensive) → Colour (black) → Origin (Japanese) → Purpose (sports) → danh từ."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Order of Adjectives",
+      "url": "https://www.perfect-english-grammar.com/order-of-adjectives.html"
+    },
+    {
+      "title": "Englisch-hilfen.de – Order of adjectives in English Grammar",
+      "url": "https://www.englisch-hilfen.de/en/grammar/adjectives_order.htm"
+    }
+  ]
+}

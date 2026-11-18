@@ -1,0 +1,257 @@
+{
+  "material_id": "MAT_SUGGEST_03",
+  "skill_id": "SK_SUGGEST",
+  "title": "Cấu trúc giả định thức với Suggest và các động từ đề xuất nâng cao",
+  "target_level": 3,
+  "summary": "Vận dụng thức giả định (subjunctive) sau suggest và các động từ, tính từ đề xuất (recommend, insist, demand, propose, require; essential, vital...), nhận diện bẫy khi suggest mang nghĩa 'cho thấy' để xử lý câu phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Thức giả định sau động từ đề xuất",
+      "points": [
+        "S + suggest / recommend / propose / insist / demand / request / require + (that) + S2 + (should) + V nguyên mẫu",
+        "Động từ sau S2 không chia theo ngôi, không chia thì: that he go, that she be",
+        "Phủ định: that + S2 + (should) + not + V (that he not be late)",
+        "Bị động: that + S2 + (should) + be + V3/ed"
+      ],
+      "examples": [
+        {
+          "en": "The committee proposed that the new park be named after a local hero.",
+          "vi": "Ủy ban đề xuất công viên mới được đặt tên theo một anh hùng địa phương."
+        },
+        {
+          "en": "The doctor insisted that the patient not do any heavy lifting for a month.",
+          "vi": "Bác sĩ yêu cầu bệnh nhân không mang vác nặng trong một tháng."
+        }
+      ]
+    },
+    {
+      "heading": "Thức giả định sau tính từ và danh từ",
+      "points": [
+        "It is + essential / vital / important / necessary / crucial / urgent + that + S + (should) + V nguyên mẫu",
+        "Danh từ: suggestion / recommendation / proposal / demand + that + S + (should) + V",
+        "Cụm cố định: at sb's suggestion = theo đề nghị của ai"
+      ],
+      "examples": [
+        {
+          "en": "It is essential that every student receive a copy of the school rules.",
+          "vi": "Điều thiết yếu là mọi học sinh đều nhận được bản nội quy."
+        },
+        {
+          "en": "At my suggestion, we took a taxi.",
+          "vi": "Theo đề nghị của tôi, chúng tôi đi taxi."
+        }
+      ]
+    },
+    {
+      "heading": "Bẫy: suggest = 'cho thấy, ngụ ý'",
+      "points": [
+        "Khi chủ ngữ là sự vật (results, evidence, survey...), suggest nghĩa là 'cho thấy' → mệnh đề sau chia thì bình thường, KHÔNG dùng giả định",
+        "So sánh: The data suggest that teenagers spend too much time online (cho thấy) ≠ I suggest that teenagers spend less time online (khuyên)"
+      ],
+      "examples": [
+        {
+          "en": "The survey results suggest that most teenagers spend over six hours a day online.",
+          "vi": "Kết quả khảo sát cho thấy phần lớn thiếu niên dành hơn sáu giờ mỗi ngày trên mạng."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh với các động từ khuyên bảo khác",
+      "points": [
+        "advise / ask / tell / encourage + sb + to V: dùng được tân ngữ + to V",
+        "suggest / propose / insist: KHÔNG dùng sb + to V",
+        "recommend / suggest + V-ing (recommend keeping a notebook); insist on + V-ing"
+      ],
+      "examples": [
+        {
+          "en": "My teacher advised me to keep a vocabulary notebook, and she also recommended reviewing it every week.",
+          "vi": "Cô khuyên tôi giữ sổ từ vựng và cũng đề nghị ôn lại mỗi tuần."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy suggest/recommend/insist/demand/require hoặc It is essential/vital that... → chọn V nguyên mẫu hoặc be + V3 (bị động).",
+    "Chủ ngữ không phải người (sự vật, kết quả nghiên cứu) + suggest → nghĩa là 'cho thấy', chia động từ theo thì bình thường.",
+    "Chủ ngữ của mệnh đề là vật nhận hành động (report, park, meeting) → dùng giả định bị động 'be + V3'.",
+    "Phủ định giả định: 'not + V', không dùng doesn't/didn't."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The committee proposed that the new park ______ after a local hero.",
+          "options": {
+            "A": "names",
+            "B": "is naming",
+            "C": "to be named",
+            "D": "be named"
+          },
+          "answer": "D",
+          "explanation": "Propose that + S + (should) + V nguyên mẫu; công viên được đặt tên → bị động giả định 'be named'."
+        },
+        {
+          "no": 2,
+          "question": "It is essential that every student ______ a copy of the school rules.",
+          "options": {
+            "A": "receive",
+            "B": "to receive",
+            "C": "is received",
+            "D": "receiving"
+          },
+          "answer": "A",
+          "explanation": "It is essential that + S + V nguyên mẫu (thức giả định). Học sinh là người nhận → chủ động 'receive'."
+        },
+        {
+          "no": 3,
+          "question": "The doctor insisted that the patient ______ any heavy lifting for a month.",
+          "options": {
+            "A": "not to do",
+            "B": "doesn't do",
+            "C": "does not",
+            "D": "not do"
+          },
+          "answer": "D",
+          "explanation": "Phủ định của thức giả định là 'not + V nguyên mẫu' → 'not do'."
+        },
+        {
+          "no": 4,
+          "question": "The results of the survey suggest that most teenagers ______ more than six hours a day online.",
+          "options": {
+            "A": "spend",
+            "B": "spending",
+            "C": "to spend",
+            "D": "be spent"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ 'results' → suggest nghĩa là 'cho thấy', mệnh đề sau chia thì hiện tại đơn bình thường: 'teenagers spend'."
+        },
+        {
+          "no": 5,
+          "question": "Her suggestion that we ______ the trip until the weather improved was accepted by everyone.",
+          "options": {
+            "A": "postponing",
+            "B": "should postpone",
+            "C": "would postpone",
+            "D": "to postpone"
+          },
+          "answer": "B",
+          "explanation": "Danh từ suggestion + that + S + should + V nguyên mẫu."
+        },
+        {
+          "no": 6,
+          "question": "My teacher recommended ______ a vocabulary notebook.",
+          "options": {
+            "A": "kept",
+            "B": "keep",
+            "C": "keeping",
+            "D": "to keep"
+          },
+          "answer": "C",
+          "explanation": "Recommend + V-ing khi không có tân ngữ/chủ ngữ mới."
+        },
+        {
+          "no": 7,
+          "question": "The manager demanded that the report ______ by Friday.",
+          "options": {
+            "A": "finish",
+            "B": "finished",
+            "C": "be finished",
+            "D": "was finishing"
+          },
+          "answer": "C",
+          "explanation": "Báo cáo được hoàn thành → bị động giả định 'be finished'. 'finish' sai nghĩa vì báo cáo không tự hoàn thành."
+        },
+        {
+          "no": 8,
+          "question": "At my ______, we took a taxi instead of waiting for the bus.",
+          "options": {
+            "A": "suggest",
+            "B": "suggestion",
+            "C": "suggestive",
+            "D": "suggested"
+          },
+          "answer": "B",
+          "explanation": "Sau tính từ sở hữu 'my' cần danh từ; cụm cố định 'at sb's suggestion' = theo đề nghị của ai."
+        },
+        {
+          "no": 9,
+          "question": "The club requires that all members ______ helmets during the ride.",
+          "options": {
+            "A": "wear",
+            "B": "to wear",
+            "C": "wore",
+            "D": "wearing"
+          },
+          "answer": "A",
+          "explanation": "Require that + S + V nguyên mẫu (thức giả định) → 'members wear'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai và chọn câu đúng",
+      "instructions": "Choose the option that needs correction, or the sentence that best answers the question.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "Find the mistake: The coach (A) suggested (B) his players to rest (C) more (D) before the final.",
+          "options": {
+            "A": "suggested",
+            "B": "his players to rest",
+            "C": "more",
+            "D": "before the final"
+          },
+          "answer": "B",
+          "explanation": "Suggest không dùng 'sb + to V' → sửa: 'suggested that his players (should) rest'."
+        },
+        {
+          "no": 11,
+          "question": "Find the mistake: (A) It was important (B) that the guests (C) are informed (D) of the changes.",
+          "options": {
+            "A": "It was important",
+            "B": "that the guests",
+            "C": "are informed",
+            "D": "of the changes"
+          },
+          "answer": "C",
+          "explanation": "Sau 'It is/was important that + S' dùng giả định 'be + V3' → sửa 'are informed' thành 'be informed'."
+        },
+        {
+          "no": 12,
+          "question": "\"You should take a break,\" the teacher said to Nam. Which sentence is closest in meaning?",
+          "options": {
+            "A": "The teacher suggested to take a break Nam.",
+            "B": "The teacher suggested Nam to take a break.",
+            "C": "The teacher insisted on Nam to take a break.",
+            "D": "The teacher suggested that Nam take a break."
+          },
+          "answer": "D",
+          "explanation": "Lời khuyên với người cụ thể → suggested that + S + V nguyên mẫu. B sai 'suggest sb to V'; C sai 'insist on + to V'; A sai trật tự."
+        },
+        {
+          "no": 13,
+          "question": "Which sentence is grammatically INCORRECT?",
+          "options": {
+            "A": "I suggest us to go by train.",
+            "B": "I suggest we should go by train.",
+            "C": "I suggest that we go by train.",
+            "D": "I suggest going by train."
+          },
+          "answer": "A",
+          "explanation": "B, C, D đều đúng (that có thể lược). A sai vì suggest không đi với 'tân ngữ + to V'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP – Cấu trúc Suggest trong tiếng Anh",
+      "url": "https://prepedu.com/vi/blog/cau-truc-suggest"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "material_id": "MAT_CD11",
+  "skill_id": "SK_ADJ_STRUCTURE",
+  "title": "Chuyên đề Cấu trúc tính từ",
+  "target_level": 2,
+  "summary": "Tổng hợp các cấu trúc tính từ hay ra thi vào lớp 10: adj + to V, It is + adj (for/of sb) + to V, adj + that clause, adj + giới từ, tính từ -ed/-ing, too/enough, so...that/such...that.",
+  "theory": [
+    {
+      "heading": "Tính từ + to V và chủ ngữ giả It",
+      "points": [
+        "S + be + adj + to V: I'm happy to help you.",
+        "It + be + adj + (for sb) + to V: đánh giá một hành động (easy, difficult, important, necessary, dangerous...)",
+        "It + be + adj + of sb + to V: nhận xét tính cách người làm (kind, nice, careless, rude, clever...)"
+      ],
+      "examples": [
+        {
+          "en": "It is necessary for students to wear uniforms on Mondays.",
+          "vi": "Học sinh cần mặc đồng phục vào thứ Hai."
+        },
+        {
+          "en": "It was kind of you to help me with my homework.",
+          "vi": "Bạn thật tốt bụng khi giúp mình làm bài tập."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ + that + mệnh đề",
+      "points": [
+        "S + be + adj + (that) + S + V",
+        "Tính từ cảm xúc / mức chắc chắn: glad, pleased, delighted, sorry, afraid, worried, surprised, disappointed, sure, certain, confident"
+      ],
+      "examples": [
+        {
+          "en": "We were delighted that our team won the match.",
+          "vi": "Chúng tôi rất vui vì đội mình thắng trận."
+        },
+        {
+          "en": "Lan is afraid that she will be late.",
+          "vi": "Lan sợ rằng mình sẽ đến muộn."
+        }
+      ]
+    },
+    {
+      "heading": "Tính từ + giới từ và tính từ -ed / -ing",
+      "points": [
+        "interested in, good at, afraid of, proud of, keen on, fond of, famous for, responsible for, surprised at/by",
+        "-ed: cảm xúc của người (bored, interested); -ing: tính chất gây ra cảm xúc (boring, interesting)"
+      ],
+      "examples": [
+        {
+          "en": "My sister is very interested in traditional crafts.",
+          "vi": "Chị tôi rất thích các nghề thủ công truyền thống."
+        },
+        {
+          "en": "The film was so boring that we fell asleep.",
+          "vi": "Bộ phim chán đến mức chúng tôi ngủ gật."
+        }
+      ]
+    },
+    {
+      "heading": "Too / enough / so...that / such...that",
+      "points": [
+        "too + adj + (for sb) + to V: quá... đến nỗi không thể",
+        "adj + enough + (for sb) + to V: đủ... để (enough đứng SAU tính từ)",
+        "so + adj + that + mệnh đề; such + (a/an) + adj + N + that + mệnh đề",
+        "Khi chủ ngữ cũng là tân ngữ của động từ sau 'to', không lặp lại tân ngữ: The water was too cold for us to swim in (không thêm 'it')"
+      ],
+      "examples": [
+        {
+          "en": "It was such a beautiful day that we went to the beach.",
+          "vi": "Hôm đó trời đẹp đến mức chúng tôi đi biển."
+        },
+        {
+          "en": "He is not old enough to drive a car.",
+          "vi": "Cậu ấy chưa đủ tuổi lái ô tô."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "It is + adj + ___ + sb + to V: tính từ chỉ tính cách người → 'of'; tính từ đánh giá hành động → 'for'.",
+    "Chỗ trống sau tính từ cảm xúc mà phía sau là một mệnh đề đầy đủ (S + V) → chọn 'that'.",
+    "Phân biệt so/such: sau 'so' là tính từ đứng một mình; sau 'such' là cụm danh từ (a/an + adj + N).",
+    "Trong cấu trúc too/enough + to V, nếu chủ ngữ chính cũng là tân ngữ của động từ sau 'to' thì không lặp lại 'it/them'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "It is difficult ______ a new language without regular practice.",
+          "options": {
+            "A": "learned",
+            "B": "learn",
+            "C": "learns",
+            "D": "to learn"
+          },
+          "answer": "D",
+          "explanation": "It is + adj + to V → 'It is difficult to learn'."
+        },
+        {
+          "no": 2,
+          "question": "We were ______ that our team won the regional football match.",
+          "options": {
+            "A": "delighting",
+            "B": "delightful",
+            "C": "delighted",
+            "D": "delight"
+          },
+          "answer": "C",
+          "explanation": "Chỉ cảm xúc của người (we) → tính từ đuôi -ed 'delighted' + that clause."
+        },
+        {
+          "no": 3,
+          "question": "I'm sure ______ she will pass the entrance exam.",
+          "options": {
+            "A": "what",
+            "B": "that",
+            "C": "to",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "Sau tính từ 'sure' là mệnh đề đầy đủ (she will pass) → dùng 'that'."
+        },
+        {
+          "no": 4,
+          "question": "My sister is very interested ______ traditional crafts.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "with",
+            "D": "at"
+          },
+          "answer": "A",
+          "explanation": "Cụm cố định 'be interested in'."
+        },
+        {
+          "no": 5,
+          "question": "The documentary was so ______ that half of the class fell asleep.",
+          "options": {
+            "A": "bore",
+            "B": "bored",
+            "C": "boredom",
+            "D": "boring"
+          },
+          "answer": "D",
+          "explanation": "Nói về tính chất của bộ phim (gây chán) → tính từ -ing 'boring'."
+        },
+        {
+          "no": 6,
+          "question": "He is not old ______ to get a driving licence.",
+          "options": {
+            "A": "too",
+            "B": "enough",
+            "C": "so",
+            "D": "very"
+          },
+          "answer": "B",
+          "explanation": "adj + enough + to V: 'old enough to get'."
+        },
+        {
+          "no": 7,
+          "question": "The water in the lake was too cold for us ______.",
+          "options": {
+            "A": "swim",
+            "B": "swimming",
+            "C": "to swim in",
+            "D": "to swim in it"
+          },
+          "answer": "C",
+          "explanation": "too + adj + for sb + to V; chủ ngữ 'the water' đã là tân ngữ của 'swim in' nên không lặp lại 'it'."
+        },
+        {
+          "no": 8,
+          "question": "It is necessary ______ students to wear helmets when riding e-bikes.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "with",
+            "D": "of"
+          },
+          "answer": "A",
+          "explanation": "'necessary' đánh giá hành động → It is + adj + for sb + to V."
+        },
+        {
+          "no": 9,
+          "question": "It was really kind ______ you to lend me your notes.",
+          "options": {
+            "A": "for",
+            "B": "with",
+            "C": "of",
+            "D": "to"
+          },
+          "answer": "C",
+          "explanation": "'kind' nhận xét tính cách người → It is + adj + of sb + to V."
+        },
+        {
+          "no": 10,
+          "question": "She was ______ tired that she couldn't keep her eyes open.",
+          "options": {
+            "A": "such",
+            "B": "so",
+            "C": "too",
+            "D": "enough"
+          },
+          "answer": "B",
+          "explanation": "so + adj + that + mệnh đề. 'such' cần cụm danh từ; 'too' không đi với 'that'."
+        },
+        {
+          "no": 11,
+          "question": "It was ______ a lovely day that we decided to have a picnic.",
+          "options": {
+            "A": "very",
+            "B": "too",
+            "C": "so",
+            "D": "such"
+          },
+          "answer": "D",
+          "explanation": "such + a + adj + N + that: 'such a lovely day that'."
+        },
+        {
+          "no": 12,
+          "question": "Lan is afraid ______ she will miss the last bus.",
+          "options": {
+            "A": "of",
+            "B": "to",
+            "C": "that",
+            "D": "for"
+          },
+          "answer": "C",
+          "explanation": "Sau 'afraid' là mệnh đề (she will miss) → dùng 'that'. 'afraid of' chỉ đi với danh từ/V-ing."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu và tìm lỗi sai",
+      "instructions": "Choose the sentence closest in meaning, or the part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "Finding a parking space in the city centre is hard.",
+          "options": {
+            "A": "It is hard that finding a parking space in the city centre.",
+            "B": "It is hard to find a parking space in the city centre.",
+            "C": "It is hard for find a parking space in the city centre.",
+            "D": "It is hardly to find a parking space in the city centre."
+          },
+          "answer": "B",
+          "explanation": "V-ing làm chủ ngữ → It is + adj + to V. D sai vì 'hardly' là trạng từ (hầu như không)."
+        },
+        {
+          "no": 14,
+          "question": "Find the mistake: We (A) were surprising (B) at the news (C) that the school (D) would close.",
+          "options": {
+            "A": "were surprising",
+            "B": "at the news",
+            "C": "that the school",
+            "D": "would close"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ 'we' cảm thấy ngạc nhiên → dùng tính từ -ed: 'were surprised'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Lời giải hay – Trắc nghiệm ngữ pháp adj + to V / that + mệnh đề Tiếng Anh 9",
+      "url": "https://loigiaihay.com/trac-nghiem-tieng-anh-9-moi-ngu-phap-adj-tov-that-menh-de-co-dap-an-a127307.html"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "material_id": "MAT_READ_NOTTRUE_02",
+  "skill_id": "SK_READ_NOTTRUE",
+  "title": "Chiến thuật loại trừ và đối chiếu thông tin câu hỏi NOT/EXCEPT",
+  "target_level": 2,
+  "summary": "Giúp học sinh giải câu hỏi NOT true / NOT mentioned / EXCEPT trong đề thi bằng cách đối chiếu từng phương án với bài, nhận ra thông tin được diễn đạt lại và loại trừ chính xác ba phương án đúng.",
+  "theory": [
+    {
+      "heading": "Phân biệt NOT true và NOT mentioned",
+      "points": [
+        "NOT true: phương án cần chọn MÂU THUẪN với bài (bài nói X, phương án nói ngược lại X).",
+        "NOT mentioned / EXCEPT: phương án cần chọn KHÔNG XUẤT HIỆN trong bài; ba phương án còn lại đều có căn cứ.",
+        "Với NOT true, phương án 'bài không nhắc' cũng có thể là đáp án, nhưng thường đề sẽ dùng phương án mâu thuẫn rõ ràng."
+      ],
+      "examples": [
+        { "en": "Text: 'The elevated line is about thirteen kilometres long.' → NOT true option: 'It runs under the ground.'", "vi": "'Elevated' (trên cao) mâu thuẫn với 'under the ground' (dưới lòng đất) → phương án sai với bài." }
+      ]
+    },
+    {
+      "heading": "Quy trình loại trừ 4 bước",
+      "points": [
+        "Bước 1: Gạch chân NOT/EXCEPT và xác định phạm vi câu hỏi (cả bài hay 'paragraph 2', về đối tượng nào).",
+        "Bước 2: Với mỗi phương án, chọn 1–2 từ khóa và scan tìm trong bài.",
+        "Bước 3: Phương án khớp nghĩa với bài → đánh dấu ✓ và loại.",
+        "Bước 4: Phương án còn lại là đáp án; đọc lại câu chứng cứ để chắc chắn nó sai hoặc không được nhắc."
+      ],
+      "examples": [
+        { "en": "All of the following are mentioned as good points of the trains EXCEPT ... → clean ✓, air-conditioned ✓, on time ✓, free Wi-Fi ✗", "vi": "Ba ưu điểm có trong bài bị loại, 'free Wi-Fi' không được nhắc → đáp án." }
+      ]
+    },
+    {
+      "heading": "Nhận diện thông tin được diễn đạt lại",
+      "points": [
+        "Phương án đúng với bài thường dùng từ đồng nghĩa: 'far from residential areas' ↔ 'far from where people live'.",
+        "Đừng chọn một phương án là 'NOT mentioned' chỉ vì không thấy đúng chữ đó trong bài; hãy tìm ý tương đương.",
+        "Ngược lại, phương án có từ giống bài nhưng đổi số liệu, đổi chủ thể hoặc đổi thời gian thì sai."
+      ],
+      "examples": [
+        { "en": "Text: 'Monthly tickets are cheap.' → Option: 'Tickets are too expensive.' (contradicts the text)", "vi": "Phương án dùng lại từ 'tickets' nhưng nói ngược nghĩa với 'cheap' → sai với bài." }
+      ]
+    }
+  ],
+  "tips": [
+    "Đánh dấu ✓ ngay cạnh từng phương án khi tìm thấy chứng cứ, tránh phải đọc lại từ đầu.",
+    "Câu hỏi có 'paragraph 2' thì chỉ đối chiếu trong đoạn 2; thông tin ở đoạn khác có thể là bẫy.",
+    "Phương án có từ tuyệt đối (must never, all, always, completely) hãy kiểm tra thật kỹ – thường bài chỉ nói mức độ nhẹ hơn.",
+    "Khi còn phân vân giữa 2 phương án, quay lại tìm câu chứng cứ cho từng phương án; phương án không tìm được chứng cứ là đáp án."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Ha Noi's first metro line, Cat Linh – Ha Dong, opened to the public in November 2021. The elevated line is about thirteen kilometres long and has twelve stations. A full journey takes around twenty-three minutes, which is much faster than travelling by motorbike during rush hour. In the first two weeks, passengers could ride for free, and thousands of people came to try the new trains.\nToday, the line is used mainly by office workers and students. Many of them say that the trains are clean, air-conditioned and always on time. Monthly tickets are cheap, and passengers can also pay for a single trip at the station.\nHowever, the line has not attracted as many passengers as planners expected. One reason is that some stations are far from residential areas, so passengers still need a motorbike or a bus to reach them. In addition, there is limited parking near several stations, and some passengers complain that there are few shelters from the sun and rain on the way to the stations. City leaders hope that when more metro lines are completed, the network will become more convenient and more people will leave their motorbikes at home.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following is NOT true about the Cat Linh – Ha Dong line?",
+          "options": { "A": "It opened to the public in 2021.", "B": "It has twelve stations.", "C": "It runs under the ground.", "D": "It is about thirteen kilometres long." },
+          "answer": "C",
+          "explanation": "Bài viết: 'The elevated line is about thirteen kilometres long and has twelve stations.' 'Elevated' (chạy trên cao) mâu thuẫn với 'under the ground'. A, B, D đều đúng với bài."
+        },
+        {
+          "no": 2,
+          "question": "All of the following are mentioned as good points of the trains EXCEPT that they ______.",
+          "options": { "A": "are clean", "B": "are air-conditioned", "C": "are always on time", "D": "have free Wi-Fi" },
+          "answer": "D",
+          "explanation": "Bài viết: 'the trains are clean, air-conditioned and always on time.' Wi-Fi miễn phí không được nhắc tới."
+        },
+        {
+          "no": 3,
+          "question": "Which of the following is NOT mentioned as a reason why the line has fewer passengers than expected?",
+          "options": { "A": "Tickets are too expensive.", "B": "Some stations are far from where people live.", "C": "There is limited parking near several stations.", "D": "There are few shelters on the way to the stations." },
+          "answer": "A",
+          "explanation": "Đoạn 3 nêu: 'some stations are far from residential areas' (= B), 'limited parking near several stations' (= C), 'few shelters from the sun and rain' (= D). A trái với đoạn 2: 'Monthly tickets are cheap'."
+        },
+        {
+          "no": 4,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "Passengers could ride for free during the first two weeks.", "B": "A full journey takes longer than going by motorbike in rush hour.", "C": "The line is mainly used by office workers and students.", "D": "Passengers can pay for a single trip at the station." },
+          "answer": "B",
+          "explanation": "Bài viết: 'A full journey takes around twenty-three minutes, which is much faster than travelling by motorbike during rush hour.' → đi tàu NHANH hơn, nên B sai."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Fast food has become part of daily life for many teenagers in Vietnamese cities. Burgers, fried chicken and bubble tea are easy to find, quick to buy and often advertised on social media. A survey of 500 secondary students at several schools found that nearly 40 per cent of them ate fast food at least three times a week.\nNutrition experts warn that this habit can cause serious problems. Fast food is usually high in salt, sugar and fat but low in vitamins and fibre. Eating it too often can lead to weight gain, tooth decay and, later in life, heart disease. Sugary drinks such as bubble tea are a particular concern because many teenagers do not realise how much sugar one cup contains.\nExperts do not say that teenagers must never eat fast food. Instead, they recommend treating it as an occasional snack rather than a regular meal. They also suggest choosing grilled food instead of fried food, asking for less sugar in drinks, and eating more fruit and vegetables at home. Schools can help by teaching students to read food labels and by selling healthier snacks in their canteens.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following is NOT mentioned as a kind of fast food or drink in the passage?",
+          "options": { "A": "Burgers", "B": "Pizza", "C": "Fried chicken", "D": "Bubble tea" },
+          "answer": "B",
+          "explanation": "Bài viết: 'Burgers, fried chicken and bubble tea are easy to find...' Pizza không xuất hiện trong bài."
+        },
+        {
+          "no": 6,
+          "question": "According to paragraph 2, eating fast food too often can lead to all of the following EXCEPT ______.",
+          "options": { "A": "weight gain", "B": "tooth decay", "C": "heart disease", "D": "poor eyesight" },
+          "answer": "D",
+          "explanation": "Đoạn 2: 'Eating it too often can lead to weight gain, tooth decay and, later in life, heart disease.' Thị lực kém không được nhắc."
+        },
+        {
+          "no": 7,
+          "question": "Which of the following is NOT true according to the passage?",
+          "options": { "A": "Nearly 40 per cent of the surveyed students ate fast food at least three times a week.", "B": "Fast food is usually low in vitamins and fibre.", "C": "Experts say that teenagers must never eat fast food.", "D": "Many teenagers do not know how much sugar is in a cup of bubble tea." },
+          "answer": "C",
+          "explanation": "Đoạn 3: 'Experts do not say that teenagers must never eat fast food.' → C nói ngược lại. A, B, D đều có câu chứng cứ tương ứng trong đoạn 1 và 2."
+        },
+        {
+          "no": 8,
+          "question": "Which of the following is NOT one of the experts' suggestions?",
+          "options": { "A": "Drinking bubble tea instead of soft drinks", "B": "Choosing grilled food instead of fried food", "C": "Asking for less sugar in drinks", "D": "Eating more fruit and vegetables at home" },
+          "answer": "A",
+          "explanation": "Đoạn 3: 'choosing grilled food instead of fried food, asking for less sugar in drinks, and eating more fruit and vegetables at home' → B, C, D. A trái với bài vì trà sữa được nêu là 'a particular concern'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Can Gio Mangrove Forest lies about forty kilometres south-east of the centre of Ho Chi Minh City. During the war, much of the forest was destroyed by chemicals. After 1978, local people and the government replanted it tree by tree, and today it covers tens of thousands of hectares. In 2000, UNESCO recognised Can Gio as a World Biosphere Reserve.\nThe forest plays an important role for the city. Its thick roots protect the coast from strong waves and storms, and they help to keep salty seawater from spreading into farmland. The forest is also home to many animals, including monkeys, crocodiles, birds and various kinds of fish and crabs.\nCan Gio has become a popular destination for weekend trips. Visitors can take a boat along the narrow rivers, watch monkeys on Monkey Island, or climb a watchtower to see the forest from above. Local restaurants serve fresh seafood caught nearby. However, the growing number of tourists has created new problems, such as plastic waste and noise that disturbs wildlife. Managers have asked visitors not to feed the monkeys and to take their rubbish home.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which of the following is NOT true about the history of Can Gio Mangrove Forest?",
+          "options": { "A": "Much of it was destroyed during the war.", "B": "It was replanted after 1978.", "C": "It grew back naturally without any human help.", "D": "UNESCO recognised it as a World Biosphere Reserve in 2000." },
+          "answer": "C",
+          "explanation": "Bài viết: 'After 1978, local people and the government replanted it tree by tree' → rừng được con người trồng lại, nên C sai."
+        },
+        {
+          "no": 10,
+          "question": "Which animal is NOT mentioned in the passage?",
+          "options": { "A": "Monkeys", "B": "Crocodiles", "C": "Crabs", "D": "Deer" },
+          "answer": "D",
+          "explanation": "Bài viết: 'many animals, including monkeys, crocodiles, birds and various kinds of fish and crabs.' Hươu/nai (deer) không được nhắc."
+        },
+        {
+          "no": 11,
+          "question": "Which of the following is NOT mentioned as a benefit of the forest?",
+          "options": { "A": "Protecting the coast from strong waves", "B": "Supplying wood for building houses", "C": "Keeping salty water out of farmland", "D": "Providing a home for many animals" },
+          "answer": "B",
+          "explanation": "Đoạn 2: rễ cây 'protect the coast from strong waves and storms' (A), 'keep salty seawater from spreading into farmland' (C), 'home to many animals' (D). Bài không nói rừng cung cấp gỗ."
+        },
+        {
+          "no": 12,
+          "question": "Which of the following is NOT mentioned as an activity for visitors?",
+          "options": { "A": "Camping overnight in the forest", "B": "Taking a boat along the rivers", "C": "Watching monkeys on Monkey Island", "D": "Climbing a watchtower" },
+          "answer": "A",
+          "explanation": "Đoạn 3: 'Visitors can take a boat along the narrow rivers, watch monkeys on Monkey Island, or climb a watchtower' → B, C, D. Cắm trại qua đêm không được nhắc."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Single Passages: Question Types & Strategies (NOT questions)", "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

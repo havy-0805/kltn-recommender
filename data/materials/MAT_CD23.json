@@ -1,0 +1,248 @@
+{
+  "material_id": "MAT_CD23",
+  "skill_id": "SK_CONJUNCTIONS",
+  "title": "Chuyên đề Liên từ",
+  "target_level": 2,
+  "summary": "Tổng hợp ba nhóm liên từ (kết hợp, tương quan, phụ thuộc) cùng các trạng từ liên kết thông dụng; luyện dạng chọn liên từ theo quan hệ nghĩa và viết lại câu giữ nguyên nghĩa – dạng đề thường gặp trong đề thi vào 10 Hà Nội.",
+  "theory": [
+    {
+      "heading": "Liên từ kết hợp và tương quan",
+      "points": [
+        "FANBOYS: for, and, nor, but, or, yet, so – nối hai thành phần ngang hàng.",
+        "Cặp tương quan: both...and, either...or, neither...nor, not only...but also, whether...or (dù ... hay ...).",
+        "Whether + A + or + B, S + V: dù là A hay B thì..."
+      ],
+      "examples": [
+        {
+          "en": "Whether you take the bus or the train, the trip takes two hours.",
+          "vi": "Dù bạn đi xe buýt hay tàu hỏa, chuyến đi cũng mất hai tiếng."
+        }
+      ]
+    },
+    {
+      "heading": "Liên từ phụ thuộc theo quan hệ nghĩa",
+      "points": [
+        "Thời gian: when, while, before, after, until, as soon as, since.",
+        "Nguyên nhân: because, since, as. Kết quả: so, so...that, such...that.",
+        "Tương phản: although, even though, though, while, whereas.",
+        "Điều kiện: if, unless (= if...not), as long as. Mục đích: so that, in order that + S + can/could/will/would + V."
+      ],
+      "examples": [
+        {
+          "en": "I'll call you as soon as I arrive.",
+          "vi": "Tôi sẽ gọi cho bạn ngay khi tôi đến nơi."
+        },
+        {
+          "en": "She saved money so that she could buy a new laptop.",
+          "vi": "Cô ấy tiết kiệm tiền để có thể mua máy tính mới."
+        }
+      ]
+    },
+    {
+      "heading": "Trạng từ liên kết và viết lại câu",
+      "points": [
+        "However (tuy nhiên), Therefore (vì vậy), Moreover/Besides (hơn nữa), Otherwise (nếu không thì) – thường đứng đầu câu sau dấu chấm và có dấu phẩy theo sau.",
+        "Because + S + V, S + V. = S + V, so + S + V.",
+        "If ... not = Unless; S + V, but + S + V = Although + S + V, S + V."
+      ],
+      "examples": [
+        {
+          "en": "Because the road was flooded, we took another route. → The road was flooded, so we took another route.",
+          "vi": "Vì đường bị ngập nên chúng tôi đi đường khác."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc cả hai vế để xác định quan hệ: nguyên nhân – kết quả, tương phản, thời gian, điều kiện hay mục đích.",
+    "Because/Although đặt ở vế NGUYÊN NHÂN/vế nhượng bộ; so/but đặt ở vế KẾT QUẢ/vế tương phản – đừng đảo nhầm khi viết lại câu.",
+    "Sau when/as soon as/until/before chỉ tương lai: dùng hiện tại đơn, không dùng will.",
+    "So that + mệnh đề (thường có can/could); in order to + V – không trộn lẫn."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn liên từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "______ the little girl heard the thunder, she ran to her mother.",
+          "options": {
+            "A": "When",
+            "B": "Unless",
+            "C": "Until",
+            "D": "Although"
+          },
+          "answer": "A",
+          "explanation": "Hành động 'chạy đến mẹ' xảy ra ngay lúc nghe tiếng sấm → When."
+        },
+        {
+          "no": 2,
+          "question": "______ you prefer the mountains or the beach, Viet Nam has something for you.",
+          "options": {
+            "A": "If",
+            "B": "Both",
+            "C": "Whether",
+            "D": "Either"
+          },
+          "answer": "C",
+          "explanation": "Cấu trúc 'Whether ... or ...' (dù ... hay ...)."
+        },
+        {
+          "no": 3,
+          "question": "You won't pass the exam ______ you study harder.",
+          "options": {
+            "A": "because",
+            "B": "unless",
+            "C": "if",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "unless = if ... not: Bạn sẽ không đỗ nếu không học chăm hơn."
+        },
+        {
+          "no": 4,
+          "question": "We waited at the station ______ the last train arrived.",
+          "options": {
+            "A": "since",
+            "B": "so that",
+            "C": "while",
+            "D": "until"
+          },
+          "answer": "D",
+          "explanation": "Chờ cho đến khi tàu đến → until."
+        },
+        {
+          "no": 5,
+          "question": "She speaks English slowly ______ everyone can understand her.",
+          "options": {
+            "A": "unless",
+            "B": "because",
+            "C": "so that",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "Mục đích (để mọi người hiểu) + mệnh đề có 'can' → so that."
+        },
+        {
+          "no": 6,
+          "question": "My brother likes rock music, ______ I prefer pop.",
+          "options": {
+            "A": "unless",
+            "B": "whereas",
+            "C": "because",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "So sánh đối lập giữa hai người → whereas."
+        },
+        {
+          "no": 7,
+          "question": "The film was boring. ______, we stayed until the end.",
+          "options": {
+            "A": "However",
+            "B": "Otherwise",
+            "C": "Moreover",
+            "D": "Therefore"
+          },
+          "answer": "A",
+          "explanation": "Tương phản (phim chán nhưng vẫn xem hết) → However."
+        },
+        {
+          "no": 8,
+          "question": "I'll text you as soon as I ______ home.",
+          "options": {
+            "A": "will get",
+            "B": "got",
+            "C": "am going to get",
+            "D": "get"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề thời gian với 'as soon as' chỉ tương lai → dùng hiện tại đơn: get."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "Because my laptop isn't working, I will take it to the repair shop.",
+          "options": {
+            "A": "My laptop isn't working, but I will take it to the repair shop.",
+            "B": "My laptop isn't working, so I will take it to the repair shop.",
+            "C": "Although my laptop isn't working, I will take it to the repair shop.",
+            "D": "My laptop isn't working, or I will take it to the repair shop."
+          },
+          "answer": "B",
+          "explanation": "Because + nguyên nhân, kết quả = nguyên nhân, so + kết quả. A, C mang nghĩa tương phản; D sai nghĩa."
+        },
+        {
+          "no": 10,
+          "question": "If you don't wear a coat, you will catch a cold.",
+          "options": {
+            "A": "Unless you wear a coat, you will catch a cold.",
+            "B": "Unless you don't wear a coat, you will catch a cold.",
+            "C": "Wear a coat, and you will catch a cold.",
+            "D": "Because you wear a coat, you will catch a cold."
+          },
+          "answer": "A",
+          "explanation": "If ... not = Unless (không thêm 'not' sau unless). B thừa phủ định; C, D sai nghĩa."
+        },
+        {
+          "no": 11,
+          "question": "The hotel was cheap, but it was very clean.",
+          "options": {
+            "A": "Because the hotel was cheap, it was very clean.",
+            "B": "Although the hotel was cheap, it was very clean.",
+            "C": "The hotel was cheap, so it was very clean.",
+            "D": "The hotel was very clean unless it was cheap."
+          },
+          "answer": "B",
+          "explanation": "S + V, but + S + V = Although + S + V, S + V (giữ nghĩa tương phản)."
+        },
+        {
+          "no": 12,
+          "question": "Lan can play the piano. She can also play the violin.",
+          "options": {
+            "A": "Lan can play either the piano or the violin.",
+            "B": "Lan can play neither the piano nor the violin.",
+            "C": "Lan can play not only the piano but also the violin.",
+            "D": "Lan can play the piano, so she can play the violin."
+          },
+          "answer": "C",
+          "explanation": "Hai khả năng đều đúng → not only ... but also. A chỉ một trong hai; B phủ định cả hai; D thêm quan hệ nhân quả sai."
+        },
+        {
+          "no": 13,
+          "question": "Study hard, or you will fail the test.",
+          "options": {
+            "A": "Although you study hard, you will fail the test.",
+            "B": "You will fail the test because you study hard.",
+            "C": "If you study hard, you will fail the test.",
+            "D": "Unless you study hard, you will fail the test."
+          },
+          "answer": "D",
+          "explanation": "Mệnh lệnh + or + hậu quả = Unless/If ... not + mệnh lệnh, hậu quả."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Grammarly Blog – What Is a Correlative Conjunction?",
+      "url": "https://www.grammarly.com/blog/parts-of-speech/correlative-conjunctions/"
+    },
+    {
+      "title": "PREP – Liên từ phụ thuộc (Subordinating Conjunctions): Cách dùng, phân loại và bài tập",
+      "url": "https://prepedu.com/vi/blog/lien-tu-phu-thuoc-trong-tieng-anh"
+    },
+    {
+      "title": "IDP IELTS Việt Nam – Trạng từ liên kết (Conjunctive adverbs)",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-conjunctive-adverbs"
+    }
+  ]
+}

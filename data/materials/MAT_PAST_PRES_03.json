@@ -1,0 +1,237 @@
+{
+  "material_id": "MAT_PAST_PRES_03",
+  "skill_id": "SK_PAST_PRESENT_REL",
+  "title": "Biến đổi câu giữa Quá khứ đơn và Hiện tại hoàn thành nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh xử lý các câu viết lại nâng cao giữa Quá khứ đơn và Hiện tại hoàn thành: động từ tức thời (die, marry, buy, leave) phải đổi sang trạng thái, cấu trúc so sánh nhất + ever, 'It's ages since', 'How long is it since' và các bẫy về nghĩa.",
+  "theory": [
+    {
+      "heading": "Động từ tức thời → động từ chỉ trạng thái",
+      "points": [
+        "Động từ tức thời (die, marry, buy, leave, become, arrive, open, borrow) không kéo dài nên không dùng với for/since ở HTHT khẳng định.",
+        "die ... ago → have/has been dead for ...; get married ... ago → have/has been married for ...",
+        "buy ... ago → have/has had ... for ...; become ... in 2015 → have/has been ... since 2015.",
+        "leave ... ago → have/has been away for ... hoặc It's + time + since + S + left."
+      ],
+      "examples": [
+        {
+          "en": "My grandparents got married fifty years ago. → My grandparents have been married for fifty years.",
+          "vi": "Ông bà tôi đã cưới nhau được năm mươi năm."
+        },
+        {
+          "en": "He became a doctor in 2015. → He has been a doctor since 2015.",
+          "vi": "Anh ấy làm bác sĩ từ năm 2015."
+        }
+      ]
+    },
+    {
+      "heading": "It's ... since / How long is it since",
+      "points": [
+        "It's + time + since + S + (last) + V2 = S + haven't/hasn't + V3 + for + time.",
+        "It's ages / a long time since + S + V2 = S + haven't + V3 + for ages / for a long time.",
+        "How long is it since + S + V2? = When did + S + (last) + V? / How long ago did ...?",
+        "Lưu ý: 'It's 3 years since he left' = 'He left 3 years ago' (không có 'last' khi động từ là hành động một lần)."
+      ],
+      "examples": [
+        {
+          "en": "It's ages since we had a family picnic.",
+          "vi": "Đã lâu lắm rồi gia đình mình không đi dã ngoại."
+        },
+        {
+          "en": "How long is it since you moved here?",
+          "vi": "Bạn chuyển đến đây được bao lâu rồi?"
+        }
+      ]
+    },
+    {
+      "heading": "So sánh nhất + ever và never ... such",
+      "points": [
+        "It/This is the + so sánh nhất + N + S + have/has + ever + V3 = S + have/has + never + V3 + such a/so + adj + N + before.",
+        "S + have/has + never + V3 + a(n) + so sánh hơn + N = This is the + so sánh nhất + N + S + have ever + V3.",
+        "Cẩn thận đổi đúng 'ever' ↔ 'never' và giữ đúng nghĩa khẳng định/phủ định."
+      ],
+      "examples": [
+        {
+          "en": "This is the most delicious cake I have ever eaten. → I have never eaten such a delicious cake before.",
+          "vi": "Đây là chiếc bánh ngon nhất tôi từng ăn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gặp die, marry, buy, leave, become trong câu gốc có 'ago' → phải đổi động từ (be dead, be married, have, be away, be) khi chuyển sang HTHT với for/since.",
+    "Đáp án đúng phải giữ nguyên nghĩa: kiểm tra xem hành động có còn tiếp diễn ở hiện tại không.",
+    "Loại ngay: 'since + khoảng thời gian', 'have died for', 'have bought for', 'ago' đi với HTHT.",
+    "Với câu so sánh nhất + ever, đáp án tương đương thường có 'never ... such/so ... before'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "His grandfather died ten years ago.",
+          "options": {
+            "A": "His grandfather has died for ten years.",
+            "B": "His grandfather has been dead for ten years.",
+            "C": "His grandfather has been dead since ten years.",
+            "D": "His grandfather was dead for ten years."
+          },
+          "answer": "B",
+          "explanation": "'die' là động từ tức thời → đổi thành 'has been dead for ten years'. A sai vì 'die' không kéo dài; C sai 'since + khoảng thời gian'; D sai thì."
+        },
+        {
+          "no": 2,
+          "question": "My parents got married in 2005.",
+          "options": {
+            "A": "My parents have married since 2005.",
+            "B": "My parents have got married for 2005.",
+            "C": "My parents have been married since 2005.",
+            "D": "My parents were married for 2005."
+          },
+          "answer": "C",
+          "explanation": "'get married' tức thời → 'have been married' + since + mốc 2005."
+        },
+        {
+          "no": 3,
+          "question": "I bought this bike three years ago.",
+          "options": {
+            "A": "I didn't buy this bike for three years.",
+            "B": "I have had this bike since three years.",
+            "C": "I have had this bike for three years.",
+            "D": "I have bought this bike for three years."
+          },
+          "answer": "C",
+          "explanation": "'buy' tức thời → đổi sang 'have had' (sở hữu) + for + khoảng thời gian."
+        },
+        {
+          "no": 4,
+          "question": "It's ages since I last went to the cinema.",
+          "options": {
+            "A": "I went to the cinema for ages.",
+            "B": "I have gone to the cinema for ages.",
+            "C": "I haven't been to the cinema for ages.",
+            "D": "I last went to the cinema since ages."
+          },
+          "answer": "C",
+          "explanation": "It's ages since + S + last + V2 = S + haven't + V3 + for ages. A, B ngược nghĩa; D sai cấu trúc."
+        },
+        {
+          "no": 5,
+          "question": "Mr Tuan has been the headmaster of our school since 2019.",
+          "options": {
+            "A": "Mr Tuan became the headmaster of our school in 2019.",
+            "B": "Mr Tuan was the headmaster of our school in 2019 only.",
+            "C": "Mr Tuan has become the headmaster of our school for 2019.",
+            "D": "Mr Tuan stopped being the headmaster of our school in 2019."
+          },
+          "answer": "A",
+          "explanation": "has been ... since 2019 = became ... in 2019 (và vẫn đang là hiệu trưởng). B, D sai nghĩa; C sai cấu trúc."
+        },
+        {
+          "no": 6,
+          "question": "How long is it since you joined the English club?",
+          "options": {
+            "A": "How long did you join the English club?",
+            "B": "When did you join the English club?",
+            "C": "How often have you joined the English club?",
+            "D": "When will you join the English club?"
+          },
+          "answer": "B",
+          "explanation": "How long is it since + S + V2? = When did + S + V? A sai vì 'join' tức thời không đi với How long + QKĐ; C, D sai nghĩa."
+        },
+        {
+          "no": 7,
+          "question": "This is the most exciting match I have ever watched.",
+          "options": {
+            "A": "I never watch exciting matches.",
+            "B": "I have ever watched such an exciting match.",
+            "C": "This match is more exciting than I watched.",
+            "D": "I have never watched such an exciting match before."
+          },
+          "answer": "D",
+          "explanation": "the + so sánh nhất + have ever + V3 = have never + V3 + such a(n) + adj + N + before."
+        },
+        {
+          "no": 8,
+          "question": "It's two years since Lan left her hometown.",
+          "options": {
+            "A": "Lan left her hometown two years ago.",
+            "B": "Lan has left her hometown since two years.",
+            "C": "Lan hasn't left her hometown for two years.",
+            "D": "Lan left her hometown for two years."
+          },
+          "answer": "A",
+          "explanation": "It's + time + since + S + V2 (hành động một lần, không có 'last') = S + V2 + time + ago. C ngược nghĩa (không rời quê hai năm nay)."
+        },
+        {
+          "no": 9,
+          "question": "Nam hasn't had a haircut for two months.",
+          "options": {
+            "A": "Nam had a haircut for two months.",
+            "B": "Nam last had a haircut two months ago.",
+            "C": "Nam didn't have a haircut two months ago.",
+            "D": "Nam has had a haircut since two months."
+          },
+          "answer": "B",
+          "explanation": "hasn't + V3 + for + time = S + last + V2 + time + ago. A sai: 'have a haircut' là hành động tức thời, quá khứ đơn không đi với 'for two months'; C ngược nghĩa; D sai cấu trúc (since + mốc thời gian, không phải khoảng thời gian)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "Find the mistake: My uncle (A) has bought (B) this house (C) for (D) ten years.",
+          "options": {
+            "A": "has bought",
+            "B": "this house",
+            "C": "for",
+            "D": "ten years"
+          },
+          "answer": "A",
+          "explanation": "'buy' là động từ tức thời, không kéo dài 10 năm → sửa 'has bought' thành 'has had'."
+        },
+        {
+          "no": 11,
+          "question": "Find the mistake: We (A) have visited (B) the museum (C) two weeks (D) ago.",
+          "options": {
+            "A": "have visited",
+            "B": "the museum",
+            "C": "two weeks",
+            "D": "ago"
+          },
+          "answer": "A",
+          "explanation": "'ago' chỉ thời điểm xác định trong quá khứ → dùng Quá khứ đơn: 'have visited' sửa thành 'visited'."
+        },
+        {
+          "no": 12,
+          "question": "Find the mistake: She (A) has lived here (B) since (C) she (D) has been a child.",
+          "options": {
+            "A": "has lived",
+            "B": "since",
+            "C": "she",
+            "D": "has been"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề sau 'since' chỉ mốc quá khứ đã kết thúc → dùng Quá khứ đơn: 'has been' sửa thành 'was'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect English Grammar – Present Perfect or Past Simple?",
+      "url": "https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html"
+    },
+    {
+      "title": "Hoc24 – She last met her uncle last summer → She hasn't...",
+      "url": "https://hoc24.vn/index.php/cau-hoi/she-last-met-her-uncle-last-summer-she-hasnt.3742659575244"
+    }
+  ]
+}

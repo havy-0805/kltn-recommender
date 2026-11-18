@@ -1,0 +1,254 @@
+{
+  "material_id": "MAT_TRANS_UNLESS",
+  "skill_id": "SK_SENT_TRANS",
+  "title": "Tuyển tập bài tập Viết lại câu với Unless",
+  "target_level": 2,
+  "summary": "Giúp học sinh chuyển đổi thành thạo giữa If … not, Unless, or/otherwise và without, chọn đúng câu đồng nghĩa trong dạng viết lại câu của đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Unless = If … not",
+      "points": [
+        "Unless + mệnh đề khẳng định = If + mệnh đề phủ định",
+        "Unless KHÔNG đi với mệnh đề phủ định nữa (sai: Unless you don't hurry …)",
+        "Mệnh đề chính giữ nguyên, không đổi khẳng định/phủ định",
+        "Unless dùng được cho câu điều kiện loại 1, 2, 3; thì trong mệnh đề Unless giống mệnh đề If tương ứng"
+      ],
+      "examples": [
+        {
+          "en": "If you don't hurry, you will miss the bus. → Unless you hurry, you will miss the bus.",
+          "vi": "Nếu bạn không nhanh lên, bạn sẽ lỡ xe buýt."
+        },
+        {
+          "en": "Unless it rains, we will go camping. = If it doesn't rain, we will go camping.",
+          "vi": "Nếu trời không mưa, chúng tôi sẽ đi cắm trại."
+        }
+      ]
+    },
+    {
+      "heading": "Câu mệnh lệnh + or/otherwise → Unless",
+      "points": [
+        "V (mệnh lệnh) …, or/otherwise + S + will … → Unless + S + V …, S + will …",
+        "Mệnh lệnh khẳng định chuyển thành mệnh đề Unless khẳng định"
+      ],
+      "examples": [
+        {
+          "en": "Study harder, or you will fail the exam. → Unless you study harder, you will fail the exam.",
+          "vi": "Học chăm hơn đi, nếu không bạn sẽ trượt."
+        }
+      ]
+    },
+    {
+      "heading": "Without + N/V-ing → Unless",
+      "points": [
+        "S + can't/won't + V + without + N/V-ing → Unless + S + V/have + N, S + can't/won't + V",
+        "Có thể đảo vị trí hai mệnh đề; khi Unless đứng đầu câu thì có dấu phẩy"
+      ],
+      "examples": [
+        {
+          "en": "You can't enter the room without a ticket. → Unless you have a ticket, you can't enter the room.",
+          "vi": "Nếu không có vé, bạn không thể vào phòng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Quy tắc \"một phủ định\": chuyển If … not sang Unless thì bỏ \"not\" ở vế điều kiện, vế chính giữ nguyên.",
+    "Loại ngay phương án có \"Unless … don't/doesn't/didn't\" vì sai cấu trúc.",
+    "Loại phương án đổi nghĩa vế chính (will ↔ won't) hoặc thay Unless bằng If mà không thêm \"not\".",
+    "Thấy or/otherwise/without trong câu gốc là tín hiệu có thể viết lại bằng Unless."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu đồng nghĩa",
+      "instructions": "Choose the sentence (A, B, C or D) that is closest in meaning to the given sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "If you don't hurry, you will miss the school bus.",
+          "options": {
+            "A": "If you hurry, you will miss the school bus.",
+            "B": "Unless you hurry, you will miss the school bus.",
+            "C": "Unless you hurry, you won't miss the school bus.",
+            "D": "Unless you don't hurry, you will miss the school bus."
+          },
+          "answer": "B",
+          "explanation": "If … not = Unless + mệnh đề khẳng định; vế chính giữ nguyên \"will miss\"."
+        },
+        {
+          "no": 2,
+          "question": "Study harder, or you will fail the final exam.",
+          "options": {
+            "A": "Unless you study harder, you will fail the final exam.",
+            "B": "If you study harder, you will fail the final exam.",
+            "C": "Unless you study harder, you won't fail the final exam.",
+            "D": "Unless you don't study harder, you will fail the final exam."
+          },
+          "answer": "A",
+          "explanation": "Mệnh lệnh + or (nếu không thì) → Unless + mệnh đề khẳng định, vế chính giữ \"will fail\"."
+        },
+        {
+          "no": 3,
+          "question": "You can't enter the exam room without your student card.",
+          "options": {
+            "A": "Unless you have your student card, you can enter the exam room.",
+            "B": "Unless you have your student card, you can't enter the exam room.",
+            "C": "If you have your student card, you can't enter the exam room.",
+            "D": "Unless you don't have your student card, you can't enter the exam room."
+          },
+          "answer": "B",
+          "explanation": "\"without your student card\" = nếu không có thẻ → \"Unless you have your student card\", vế chính giữ \"can't enter\"."
+        },
+        {
+          "no": 4,
+          "question": "If she doesn't apologise, I won't talk to her again.",
+          "options": {
+            "A": "Unless she apologises, I won't talk to her again.",
+            "B": "If she apologises, I won't talk to her again.",
+            "C": "Unless she apologises, I will talk to her again.",
+            "D": "Unless she doesn't apologise, I won't talk to her again."
+          },
+          "answer": "A",
+          "explanation": "Bỏ \"doesn't\" ở vế điều kiện, chia \"apologises\" (hiện tại đơn ngôi 3 số ít); vế chính giữ \"won't talk\"."
+        },
+        {
+          "no": 5,
+          "question": "Unless it rains this weekend, we will go camping.",
+          "options": {
+            "A": "Unless it doesn't rain this weekend, we will go camping.",
+            "B": "If it doesn't rain this weekend, we won't go camping.",
+            "C": "If it doesn't rain this weekend, we will go camping.",
+            "D": "If it rains this weekend, we will go camping."
+          },
+          "answer": "C",
+          "explanation": "Unless = If … not: \"Unless it rains\" = \"If it doesn't rain\"; vế chính giữ nguyên."
+        },
+        {
+          "no": 6,
+          "question": "Keep calm, otherwise you will make careless mistakes.",
+          "options": {
+            "A": "Unless you don't keep calm, you will make careless mistakes.",
+            "B": "If you keep calm, you will make careless mistakes.",
+            "C": "Unless you keep calm, you will make careless mistakes.",
+            "D": "Unless you keep calm, you won't make careless mistakes."
+          },
+          "answer": "C",
+          "explanation": "\"otherwise\" = nếu không thì → Unless + mệnh đề khẳng định, vế chính giữ \"will make\"."
+        },
+        {
+          "no": 7,
+          "question": "Unless the government takes action, air pollution will get worse.",
+          "options": {
+            "A": "If the government takes action, air pollution will get worse.",
+            "B": "If the government doesn't take action, air pollution will get worse.",
+            "C": "Unless the government doesn't take action, air pollution will get worse.",
+            "D": "If the government doesn't take action, air pollution won't get worse."
+          },
+          "answer": "B",
+          "explanation": "Unless … takes = If … doesn't take; vế chính không đổi."
+        },
+        {
+          "no": 8,
+          "question": "She won't come to your party if you don't invite her.",
+          "options": {
+            "A": "She will come to your party unless you invite her.",
+            "B": "She won't come to your party if you invite her.",
+            "C": "She won't come to your party unless you don't invite her.",
+            "D": "She won't come to your party unless you invite her."
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề Unless có thể đứng sau: \"if you don't invite\" → \"unless you invite\"; vế chính giữ \"won't come\"."
+        },
+        {
+          "no": 9,
+          "question": "If he didn't practise every day, he wouldn't play the piano so well.",
+          "options": {
+            "A": "Unless he practised every day, he wouldn't play the piano so well.",
+            "B": "If he practised every day, he wouldn't play the piano so well.",
+            "C": "Unless he practised every day, he would play the piano so well.",
+            "D": "Unless he didn't practise every day, he wouldn't play the piano so well."
+          },
+          "answer": "A",
+          "explanation": "Câu điều kiện loại 2: If … didn't practise → Unless … practised (vẫn dùng quá khứ đơn); vế chính giữ \"wouldn't play\"."
+        },
+        {
+          "no": 10,
+          "question": "If you don't tell the truth, nobody will believe you.",
+          "options": {
+            "A": "Unless you tell the truth, nobody will believe you.",
+            "B": "Unless you tell the truth, everybody will believe you.",
+            "C": "If you tell the truth, nobody will believe you.",
+            "D": "Unless you don't tell the truth, nobody will believe you."
+          },
+          "answer": "A",
+          "explanation": "Bỏ \"don't\" khi chuyển sang Unless; vế chính giữ \"nobody will believe you\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn từ hoặc phần đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "______ you water these plants regularly, they will die.",
+          "options": {
+            "A": "Unless",
+            "B": "When",
+            "C": "Because",
+            "D": "If"
+          },
+          "answer": "A",
+          "explanation": "Nghĩa: Nếu bạn không tưới cây đều đặn thì cây sẽ chết → \"Unless\" (= If … not)."
+        },
+        {
+          "no": 12,
+          "question": "You won't pass the driving test ______ you practise more.",
+          "options": {
+            "A": "so that",
+            "B": "if",
+            "C": "when",
+            "D": "unless"
+          },
+          "answer": "D",
+          "explanation": "Nghĩa: Bạn sẽ không đỗ nếu không luyện tập thêm → \"unless\"."
+        },
+        {
+          "no": 13,
+          "question": "I'll lend you the money ______ you promise to pay it back next week.",
+          "options": {
+            "A": "unless",
+            "B": "if",
+            "C": "although",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "Nghĩa: Tôi sẽ cho mượn tiền nếu bạn hứa trả lại → điều kiện khẳng định, dùng \"if\". \"unless\" làm câu mang nghĩa ngược."
+        },
+        {
+          "no": 14,
+          "question": "Unless you ______ a helmet, you will be fined by the police.",
+          "options": {
+            "A": "will wear",
+            "B": "wear",
+            "C": "don't wear",
+            "D": "won't wear"
+          },
+          "answer": "B",
+          "explanation": "Sau Unless dùng mệnh đề khẳng định ở hiện tại đơn (loại 1) → \"wear\". Không dùng phủ định hay \"will\" sau Unless."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "EF – How to use \"unless\"",
+      "url": "https://www.ef.com/wwen/english-resources/english-grammar/how-use-unless/"
+    },
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    }
+  ]
+}

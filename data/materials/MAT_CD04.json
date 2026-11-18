@@ -1,0 +1,279 @@
+{
+  "material_id": "MAT_CD04",
+  "skill_id": "SK_PHRASAL_VERBS",
+  "title": "Chuyên đề Phrasal verbs",
+  "target_level": 2,
+  "summary": "Tổng hợp các cụm động từ (phrasal verbs) thường gặp trong đề thi vào lớp 10 theo nhóm động từ chính, kèm quy tắc vị trí tân ngữ, giúp học sinh làm tốt dạng hoàn thành câu và tìm từ đồng nghĩa/trái nghĩa.",
+  "theory": [
+    {
+      "heading": "Cụm động từ là gì? Các loại cụm động từ",
+      "points": [
+        "Cụm động từ = động từ + tiểu từ (giới từ/trạng từ); nghĩa của cụm thường khác hẳn nghĩa động từ gốc: give (cho) → give up (từ bỏ).",
+        "Không cần tân ngữ: The plane took off. / My car broke down.",
+        "Tách được (separable): tân ngữ là danh từ có thể đứng giữa hoặc sau tiểu từ; tân ngữ là ĐẠI TỪ bắt buộc đứng giữa: look the word up / look up the word / look it up (KHÔNG nói look up it).",
+        "Không tách được: look after, get over, run into, take after → tân ngữ luôn đứng sau cả cụm: look after her.",
+        "Cụm 3 từ: put up with, look forward to, come up with, run out of, catch up with. Sau \"look forward to\" dùng V-ing."
+      ],
+      "examples": [
+        {
+          "en": "I don't know this word, so I'll look it up in the dictionary.",
+          "vi": "Tôi không biết từ này nên tôi sẽ tra nó trong từ điển."
+        },
+        {
+          "en": "We are looking forward to seeing you soon.",
+          "vi": "Chúng tôi mong sớm được gặp bạn."
+        }
+      ]
+    },
+    {
+      "heading": "Nhóm look, take, turn, give",
+      "points": [
+        "look after (chăm sóc), look for (tìm kiếm), look up (tra cứu), look forward to (mong đợi), look up to (kính trọng).",
+        "take after (giống người lớn tuổi trong gia đình), take off (cất cánh; cởi), take up (bắt đầu một sở thích), take over (tiếp quản).",
+        "turn on/off (bật/tắt), turn up/down (vặn to/nhỏ; turn down còn là từ chối), turn into (biến thành).",
+        "give up (từ bỏ), give away (cho đi, tặng), give back (trả lại), give in (nhượng bộ)."
+      ],
+      "examples": [
+        {
+          "en": "She takes after her mother: they both have curly hair.",
+          "vi": "Cô ấy giống mẹ: cả hai đều có tóc xoăn."
+        },
+        {
+          "en": "My grandfather gave up smoking ten years ago.",
+          "vi": "Ông tôi bỏ thuốc lá cách đây mười năm."
+        }
+      ]
+    },
+    {
+      "heading": "Nhóm get, put, come, run, carry, call",
+      "points": [
+        "get up (thức dậy), get on (lên xe; hòa thuận), get over (vượt qua, hồi phục), get on with (hòa hợp với).",
+        "put on (mặc vào), put off (trì hoãn), put out (dập tắt), put up with (chịu đựng).",
+        "come up with (nghĩ ra), come across (tình cờ gặp), come back (quay lại).",
+        "run out of (hết, cạn kiệt), carry out (tiến hành, thực hiện), call off (hủy bỏ)."
+      ],
+      "examples": [
+        {
+          "en": "The firefighters put out the fire in ten minutes.",
+          "vi": "Lính cứu hỏa dập tắt đám cháy trong mười phút."
+        },
+        {
+          "en": "The match was called off because of the storm.",
+          "vi": "Trận đấu bị hủy vì bão."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc kỹ ngữ cảnh để đoán nghĩa trước, rồi mới chọn tiểu từ. Đáp án nhiễu thường có cùng động từ chính (take after / take off / take up).",
+    "Nếu tân ngữ là đại từ (it, them, her...), với cụm tách được phải đặt đại từ giữa động từ và tiểu từ: turn it off, pick them up.",
+    "Học cụm động từ theo cặp đồng/trái nghĩa: put out = extinguish, put off = postpone, turn up ≠ turn down, take off ≠ land.",
+    "Cụm có \"to\" là giới từ (look forward to, be used to...) thì động từ sau nó ở dạng V-ing."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Hoàn thành câu với cụm động từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Could you ______ my cat while I'm on holiday next week?",
+          "options": {
+            "A": "look after",
+            "B": "look for",
+            "C": "look into",
+            "D": "look up"
+          },
+          "answer": "A",
+          "explanation": "\"look after\" = chăm sóc, trông nom. look for = tìm kiếm, look up = tra cứu, look into = điều tra."
+        },
+        {
+          "no": 2,
+          "question": "The final match was ______ because of the heavy rain.",
+          "options": {
+            "A": "taken off",
+            "B": "called off",
+            "C": "carried out",
+            "D": "put on"
+          },
+          "answer": "B",
+          "explanation": "\"call off\" = hủy bỏ; dạng bị động \"was called off\" phù hợp với nguyên nhân mưa lớn."
+        },
+        {
+          "no": 3,
+          "question": "Mai really ______ her mother: they both have big brown eyes and curly hair.",
+          "options": {
+            "A": "takes off",
+            "B": "takes after",
+            "C": "takes over",
+            "D": "takes up"
+          },
+          "answer": "B",
+          "explanation": "\"take after\" = giống (người lớn tuổi trong gia đình) về ngoại hình/tính cách."
+        },
+        {
+          "no": 4,
+          "question": "I don't know the meaning of this word. I'll ______ in the dictionary.",
+          "options": {
+            "A": "look for it",
+            "B": "look it for",
+            "C": "look it up",
+            "D": "look up it"
+          },
+          "answer": "C",
+          "explanation": "\"look up\" (tra cứu) là cụm tách được, khi tân ngữ là đại từ \"it\" phải đứng giữa: look it up. \"look up it\" sai trật tự; look for = tìm kiếm, sai nghĩa."
+        },
+        {
+          "no": 5,
+          "question": "Please ______ the lights when you leave the room to save energy.",
+          "options": {
+            "A": "turn off",
+            "B": "turn down",
+            "C": "turn on",
+            "D": "turn up"
+          },
+          "answer": "A",
+          "explanation": "\"turn off\" = tắt; ngữ cảnh \"rời phòng\" và \"tiết kiệm năng lượng\" nên phải tắt đèn."
+        },
+        {
+          "no": 6,
+          "question": "Scientists are ______ an experiment to test the new vaccine.",
+          "options": {
+            "A": "giving up",
+            "B": "getting over",
+            "C": "carrying out",
+            "D": "putting off"
+          },
+          "answer": "C",
+          "explanation": "\"carry out an experiment\" = tiến hành thí nghiệm."
+        },
+        {
+          "no": 7,
+          "question": "My father ______ smoking last year because of his health problems.",
+          "options": {
+            "A": "gave away",
+            "B": "gave up",
+            "C": "gave in",
+            "D": "gave out"
+          },
+          "answer": "B",
+          "explanation": "\"give up + V-ing\" = từ bỏ một thói quen. give in = nhượng bộ, give away = cho đi."
+        },
+        {
+          "no": 8,
+          "question": "We've ______ sugar. Can you go to the shop and buy some?",
+          "options": {
+            "A": "run after",
+            "B": "run over",
+            "C": "run into",
+            "D": "run out of"
+          },
+          "answer": "D",
+          "explanation": "\"run out of\" = dùng hết, cạn kiệt; vì hết đường nên phải đi mua."
+        },
+        {
+          "no": 9,
+          "question": "It took my grandmother two weeks to ______ the flu.",
+          "options": {
+            "A": "get off",
+            "B": "get up",
+            "C": "get over",
+            "D": "get on"
+          },
+          "answer": "C",
+          "explanation": "\"get over\" = hồi phục sau bệnh. get on/off = lên/xuống xe, get up = thức dậy."
+        },
+        {
+          "no": 10,
+          "question": "Don't ______ until tomorrow what you can do today.",
+          "options": {
+            "A": "put off",
+            "B": "put up",
+            "C": "put away",
+            "D": "put on"
+          },
+          "answer": "A",
+          "explanation": "\"put off\" = trì hoãn. Câu tục ngữ: việc hôm nay chớ để ngày mai."
+        },
+        {
+          "no": 11,
+          "question": "The neighbours' music was so loud that I couldn't ______ it any longer.",
+          "options": {
+            "A": "catch up with",
+            "B": "come up with",
+            "C": "put up with",
+            "D": "look forward to"
+          },
+          "answer": "C",
+          "explanation": "\"put up with\" = chịu đựng; \"couldn't... any longer\" cho thấy không chịu nổi nữa."
+        },
+        {
+          "no": 12,
+          "question": "Lan ______ a brilliant idea for our class project on recycling.",
+          "options": {
+            "A": "came up with",
+            "B": "came back",
+            "C": "came across",
+            "D": "came in"
+          },
+          "answer": "A",
+          "explanation": "\"come up with (an idea)\" = nghĩ ra (ý tưởng). come across = tình cờ gặp."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đồng nghĩa – trái nghĩa với cụm động từ",
+      "instructions": "Mark the letter A, B, C or D to indicate the word(s) CLOSEST or OPPOSITE in meaning to the word(s) in CAPITALS in each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "The firefighters managed to PUT OUT the fire before it spread to other houses. (CLOSEST in meaning)",
+          "options": {
+            "A": "report",
+            "B": "extinguish",
+            "C": "start",
+            "D": "increase"
+          },
+          "answer": "B",
+          "explanation": "\"put out (a fire)\" = dập tắt, đồng nghĩa với \"extinguish\"."
+        },
+        {
+          "no": 14,
+          "question": "Please TURN UP the volume. I can't hear the news. (OPPOSITE in meaning)",
+          "options": {
+            "A": "turn over",
+            "B": "turn on",
+            "C": "turn into",
+            "D": "turn down"
+          },
+          "answer": "D",
+          "explanation": "\"turn up\" = vặn to; trái nghĩa là \"turn down\" = vặn nhỏ."
+        },
+        {
+          "no": 15,
+          "question": "The meeting has been PUT OFF until next Monday. (CLOSEST in meaning)",
+          "options": {
+            "A": "cancelled",
+            "B": "finished",
+            "C": "organised",
+            "D": "postponed"
+          },
+          "answer": "D",
+          "explanation": "\"put off\" = hoãn lại (đến một thời điểm khác), đồng nghĩa với \"postpone\". \"cancel\" = hủy hẳn, không có thời điểm mới, nên không phù hợp với \"until next Monday\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack - (Ôn thi Tiếng Anh vào 10) Chuyên đề Cụm động từ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cum-dong-tu-cd2025.jsp"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    }
+  ]
+}

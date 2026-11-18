@@ -1,0 +1,248 @@
+{
+  "material_id": "MAT_READ_SKILL_02",
+  "skill_id": "SK_READING_SKILLS",
+  "title": "Rèn luyện kỹ năng đọc hiểu chuyên sâu theo dạng bài",
+  "target_level": 2,
+  "summary": "Giúp học sinh nhận diện 6 dạng câu hỏi thường gặp trong bài đọc hiểu đề thi vào 10 Hà Nội (ý chính, chi tiết, từ vựng trong ngữ cảnh, quy chiếu, NOT, tiêu đề) và áp dụng đúng chiến thuật cho từng dạng.",
+  "theory": [
+    {
+      "heading": "Nhận diện dạng câu hỏi qua từ khóa",
+      "points": [
+        "Ý chính / tiêu đề: 'mainly about', 'main idea', 'best title'.",
+        "Chi tiết: 'According to the passage', 'What/Who/When/Why…', 'is mentioned'.",
+        "Từ vựng: 'The word X is closest in meaning to' (đồng nghĩa) hoặc 'OPPOSITE in meaning' (trái nghĩa).",
+        "Quy chiếu: 'The word \"it/they/this\" in paragraph 2 refers to'.",
+        "Ngoại lệ: 'NOT true', 'NOT mentioned', 'EXCEPT'."
+      ],
+      "examples": [
+        {
+          "en": "The word \"they\" in paragraph 2 refers to ______.",
+          "vi": "Dạng quy chiếu: tìm danh từ số nhiều đứng trước 'they' gần nhất và hợp nghĩa."
+        }
+      ]
+    },
+    {
+      "heading": "Câu hỏi từ vựng trong ngữ cảnh",
+      "points": [
+        "Quay lại đúng câu chứa từ, đọc cả câu trước và sau.",
+        "Thay lần lượt từng phương án vào chỗ của từ đó; phương án giữ nguyên nghĩa câu là đáp án.",
+        "Với câu hỏi OPPOSITE, xác định nghĩa của từ trước rồi mới tìm từ trái nghĩa; cẩn thận đừng chọn nhầm từ đồng nghĩa."
+      ],
+      "examples": [
+        {
+          "en": "The new park is huge – it covers ten hectares. → 'huge' is closest in meaning to 'very big'; OPPOSITE: 'tiny'.",
+          "vi": "Ngữ cảnh 'covers ten hectares' cho biết 'huge' = rất lớn; từ trái nghĩa là 'tiny'."
+        }
+      ]
+    },
+    {
+      "heading": "Câu hỏi quy chiếu và câu hỏi chi tiết",
+      "points": [
+        "Đại từ (it, they, this, these, them) thường thay cho danh từ/cụm danh từ ngay phía trước; kiểm tra số ít/số nhiều.",
+        "Thay danh từ tìm được vào vị trí đại từ, đọc lại xem câu có hợp lý không.",
+        "Với câu chi tiết, đáp án đúng thường là cách diễn đạt lại (paraphrase) chứ không lặp nguyên văn."
+      ],
+      "examples": [
+        {
+          "en": "Many cities have built bike lanes. They make cycling safer. → 'They' = bike lanes.",
+          "vi": "'They' số nhiều, đứng sau 'bike lanes' và việc 'làm cho đạp xe an toàn hơn' chỉ hợp với làn đường xe đạp."
+        }
+      ]
+    },
+    {
+      "heading": "Thứ tự làm một bài đọc 6 câu",
+      "points": [
+        "Đọc lướt toàn bài (1 phút) để nắm ý chung và vị trí các đoạn.",
+        "Làm trước các câu chi tiết, từ vựng, quy chiếu vì chỉ cần đọc một phần nhỏ.",
+        "Làm câu NOT/EXCEPT sau vì phải kiểm tra cả 4 phương án.",
+        "Làm câu ý chính/tiêu đề cuối cùng, khi đã hiểu rõ toàn bài."
+      ],
+      "examples": [
+        {
+          "en": "Q: What is the passage mainly about? → answer it last, after the detail questions.",
+          "vi": "Câu ý chính để cuối: sau khi làm các câu chi tiết, em đã hiểu đủ cả bài nên dễ chọn hơn."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu hỏi trong đề thường theo thứ tự xuất hiện của thông tin trong bài: câu 2 nằm sau câu 1, giúp khoanh vùng nhanh.",
+    "Cảnh giác với phương án lặp đúng từ trong bài nhưng ghép sai ý (bẫy 'word matching').",
+    "Câu từ vựng: luôn thử thay phương án vào câu gốc, không chọn theo nghĩa quen thuộc nhất của từ.",
+    "Câu quy chiếu: kiểm tra số ít/số nhiều của đại từ trước tiên, loại ngay phương án không khớp."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc hiểu: Xe buýt điện ở Hà Nội",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "Since 2021, electric buses have become a familiar sight on the streets of Ha Noi. Unlike traditional buses, they do not burn diesel, so they produce no exhaust fumes on the road. They are also much quieter, which makes life more pleasant for people living along busy routes.\n\nPassengers have noticed other improvements. The new buses have free Wi-Fi, USB charging points and low floors that make it easier for elderly people and wheelchair users to get on. Many young people say these features have encouraged them to leave their motorbikes at home.\n\nHowever, the change has not been easy. Electric buses are expensive to buy, and the city needs many charging stations. A bus has to be charged for several hours, so companies must plan their timetables carefully. Some drivers also needed extra training because the vehicles are operated differently.\n\nExperts believe that electric buses are only one part of the solution. To reduce air pollution and traffic jams, Ha Noi also needs more metro lines, better pavements for walkers and safer lanes for cyclists.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What is the passage mainly about?",
+          "options": {
+            "A": "Why young people prefer motorbikes",
+            "B": "The benefits and difficulties of electric buses in Ha Noi",
+            "C": "How to charge an electric bus",
+            "D": "The history of public transport in Viet Nam"
+          },
+          "answer": "B",
+          "explanation": "Đoạn 1–2 nêu lợi ích (không khói thải, êm, Wi-Fi…), đoạn 3 bắt đầu bằng 'However, the change has not been easy' nêu khó khăn → B bao quát cả bài. C quá hẹp, D quá rộng, A sai ý."
+        },
+        {
+          "no": 2,
+          "question": "The word \"they\" in paragraph 1 refers to ______.",
+          "options": {
+            "A": "streets",
+            "B": "traditional buses",
+            "C": "exhaust fumes",
+            "D": "electric buses"
+          },
+          "answer": "D",
+          "explanation": "'Unlike traditional buses, they do not burn diesel…' – chủ thể không đốt dầu diesel phải là xe buýt điện, đối lập với 'traditional buses'. Bẫy B: danh từ gần nhất nhưng sai nghĩa."
+        },
+        {
+          "no": 3,
+          "question": "According to paragraph 2, which feature helps elderly people get on the buses?",
+          "options": {
+            "A": "Low floors",
+            "B": "Free Wi-Fi",
+            "C": "USB charging points",
+            "D": "Quiet engines"
+          },
+          "answer": "A",
+          "explanation": "'…low floors that make it easier for elderly people and wheelchair users to get on.'"
+        },
+        {
+          "no": 4,
+          "question": "The word \"encouraged\" in paragraph 2 is closest in meaning to ______.",
+          "options": {
+            "A": "stopped",
+            "B": "forced",
+            "C": "motivated",
+            "D": "warned"
+          },
+          "answer": "C",
+          "explanation": "'these features have encouraged them to leave their motorbikes at home' = các tiện ích khiến họ muốn để xe máy ở nhà → encouraged ≈ motivated (thúc đẩy). 'forced' (ép buộc) quá mạnh."
+        },
+        {
+          "no": 5,
+          "question": "Which of the following is NOT mentioned as a difficulty in paragraph 3?",
+          "options": {
+            "A": "The high price of the buses",
+            "B": "The long charging time",
+            "C": "The need for driver training",
+            "D": "The lack of passengers"
+          },
+          "answer": "D",
+          "explanation": "Đoạn 3 nhắc 'expensive to buy' (A), 'charged for several hours' (B), 'drivers also needed extra training' (C). Không nói thiếu hành khách → D."
+        },
+        {
+          "no": 6,
+          "question": "What do experts think, according to the last paragraph?",
+          "options": {
+            "A": "Electric buses alone can solve the city's traffic problems.",
+            "B": "Ha Noi should stop building metro lines.",
+            "C": "Other kinds of transport improvements are also necessary.",
+            "D": "Cyclists should use the bus lanes."
+          },
+          "answer": "C",
+          "explanation": "'Experts believe that electric buses are only one part of the solution… Ha Noi also needs more metro lines, better pavements… safer lanes for cyclists.' → cần thêm các cải thiện khác. A trái với 'only one part'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc hiểu: Nghề làm nón lá",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) for each question.",
+      "passage": "The conical hat, or non la, has been part of Vietnamese life for centuries. Farmers wear it to protect themselves from the sun and rain, and it often appears in paintings and on souvenirs as a symbol of the country.\n\nOne of the best-known places for making these hats is Chuong Village, about 30 kilometres from the centre of Ha Noi. Making a good hat takes time and skill. Workers first dry the palm leaves in the sun, then iron them flat. Next, they place the leaves on a frame of sixteen bamboo rings and sew them together with thin thread. A skilled worker can finish only two or three hats a day.\n\nNowadays, fewer young people in the village want to do this work. Many of them prefer factory jobs, which pay more and are less tiring. As a result, some older craftspeople worry that the tradition may disappear.\n\nTo keep the craft alive, the village has started offering short workshops for tourists. Visitors can try sewing a hat and take it home. This brings extra income and helps people understand the value of the craft.",
+      "questions": [
+        {
+          "no": 7,
+          "question": "Which of the following is the best title for the passage?",
+          "options": {
+            "A": "Farming in Northern Viet Nam",
+            "B": "The Conical Hat: A Tradition Facing Change",
+            "C": "How to Become a Factory Worker",
+            "D": "Famous Souvenirs Around the World"
+          },
+          "answer": "B",
+          "explanation": "Bài giới thiệu nón lá (đoạn 1), cách làm (đoạn 2), nguy cơ mai một (đoạn 3) và giải pháp (đoạn 4) → B bao quát. A, D quá rộng; C sai chủ đề."
+        },
+        {
+          "no": 8,
+          "question": "How far is Chuong Village from the centre of Ha Noi?",
+          "options": {
+            "A": "About 13 kilometres",
+            "B": "About 16 kilometres",
+            "C": "About 30 kilometres",
+            "D": "About 300 kilometres"
+          },
+          "answer": "C",
+          "explanation": "'…Chuong Village, about 30 kilometres from the centre of Ha Noi.' Số 16 là số vòng tre (bẫy B)."
+        },
+        {
+          "no": 9,
+          "question": "What do workers do right after drying the palm leaves?",
+          "options": {
+            "A": "They iron them flat.",
+            "B": "They sew them together.",
+            "C": "They put them on the frame.",
+            "D": "They paint them."
+          },
+          "answer": "A",
+          "explanation": "'Workers first dry the palm leaves in the sun, then iron them flat.' – 'then' cho biết bước ngay sau phơi là là phẳng. Đặt lên khung và khâu đến sau ('Next')."
+        },
+        {
+          "no": 10,
+          "question": "The word \"tiring\" in paragraph 3 is OPPOSITE in meaning to ______.",
+          "options": {
+            "A": "boring",
+            "B": "relaxing",
+            "C": "exhausting",
+            "D": "difficult"
+          },
+          "answer": "B",
+          "explanation": "'tiring' = gây mệt mỏi; trái nghĩa là 'relaxing' (thư giãn). 'exhausting' đồng nghĩa (bẫy C)."
+        },
+        {
+          "no": 11,
+          "question": "Why do many young people in the village prefer factory jobs?",
+          "options": {
+            "A": "Because factories are closer to their homes",
+            "B": "Because they do not like the conical hat",
+            "C": "Because factory work pays more and is easier",
+            "D": "Because the village has no palm leaves"
+          },
+          "answer": "C",
+          "explanation": "'Many of them prefer factory jobs, which pay more and are less tiring.' → C diễn đạt lại: lương cao hơn, đỡ vất vả hơn."
+        },
+        {
+          "no": 12,
+          "question": "The word \"This\" in the last paragraph refers to ______.",
+          "options": {
+            "A": "sewing thread",
+            "B": "the factory",
+            "C": "the tradition disappearing",
+            "D": "offering workshops for tourists"
+          },
+          "answer": "D",
+          "explanation": "'This brings extra income and helps people understand the value of the craft.' – điều mang lại thu nhập là việc mở các buổi trải nghiệm cho khách du lịch được nói ở câu trước."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "Open Exam Prep – TOEIC Part 7 Single Passages: Question Types & Strategies",
+      "url": "https://open-exam-prep.com/study-guides/toeic/reading-single-passages/single-passages-strategies"
+    },
+    {
+      "title": "Open Exam Prep – Main Idea, Title Selection, and Author's Purpose",
+      "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose"
+    }
+  ]
+}

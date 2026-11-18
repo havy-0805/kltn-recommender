@@ -1,0 +1,163 @@
+{
+  "material_id": "MAT_ART_02",
+  "skill_id": "SK_ARTICLES",
+  "title": "Quy tắc sử dụng mạo từ A, An, The chuyên sâu",
+  "target_level": 2,
+  "summary": "Vận dụng các quy tắc mạo từ thường ra thi: a/an theo âm đầu (honour, European, X-ray), a/an chỉ tần suất, the + tính từ chỉ nhóm người, the với tên sông, biển, quốc gia số nhiều, họ gia đình và danh từ được xác định bởi cụm 'of'.",
+  "theory": [
+    {
+      "heading": "A / An theo âm đầu – các từ dễ nhầm",
+      "points": [
+        "an + h câm: an hour, an honest person, an honour, an heir",
+        "a + u/eu đọc /juː/: a university, a uniform, a European, a useful tool",
+        "a + o đọc /w/: a one-way ticket, a one-day trip",
+        "an + chữ viết tắt đọc bắt đầu bằng nguyên âm: an X-ray /eks/, an MC /em/, an SOS"
+      ],
+      "examples": [
+        { "en": "It was an honour to meet the famous writer.", "vi": "Thật vinh dự khi được gặp nhà văn nổi tiếng." },
+        { "en": "He works as a European tour guide.", "vi": "Anh ấy làm hướng dẫn viên du lịch người châu Âu." }
+      ]
+    },
+    {
+      "heading": "A / An chỉ tần suất, tốc độ, giá",
+      "points": [
+        "twice a week, three times a day, 50 kilometres an hour, 20,000 dong a kilo",
+        "Câu cảm thán: What a/an + adj + N số ít; với N không đếm được/số nhiều thì không dùng a/an: What terrible weather!"
+      ],
+      "examples": [
+        { "en": "I visit my grandparents twice a month.", "vi": "Tôi thăm ông bà hai lần một tháng." },
+        { "en": "The speed limit here is 50 kilometres an hour.", "vi": "Tốc độ giới hạn ở đây là 50 km/giờ." }
+      ]
+    },
+    {
+      "heading": "The – các trường hợp mở rộng",
+      "points": [
+        "the + tính từ chỉ một nhóm người (động từ số nhiều): the poor, the rich, the elderly, the young",
+        "Tên sông, biển, đại dương, dãy núi: the Red River, the Pacific, the Alps",
+        "Quốc gia có tên dạng số nhiều hoặc có Kingdom/Republic/States: the United States, the UK, the Philippines",
+        "Họ ở số nhiều chỉ cả gia đình: the Smiths",
+        "Danh từ được xác định bởi cụm 'of' hoặc mệnh đề: the history of Ha Noi, the same, the only"
+      ],
+      "examples": [
+        { "en": "We should help the poor in our community.", "vi": "Chúng ta nên giúp đỡ người nghèo trong cộng đồng." },
+        { "en": "The history of Ha Noi goes back more than a thousand years.", "vi": "Lịch sử Hà Nội có từ hơn một nghìn năm trước." }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc to từ ngay sau chỗ trống: âm đầu là nguyên âm → an, phụ âm → a (bỏ qua chữ cái viết).",
+    "Danh từ được xác định bằng 'of + N' hoặc mệnh đề phía sau → thường dùng 'the'.",
+    "the + tính từ (the poor, the elderly) luôn đi với động từ số nhiều.",
+    "Câu cảm thán What + ___: kiểm tra danh từ đếm được số ít (a/an) hay không đếm được (không mạo từ)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn mạo từ đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence. (Ø = no article)",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "It was ______ honour to be invited to the opening ceremony.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "'honour' có h câm, bắt đầu bằng âm /ɒ/ → 'an'."
+        },
+        {
+          "no": 2,
+          "question": "My uncle works as ______ European history teacher.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "A",
+          "explanation": "'European' đọc /ˌjʊə-/, bắt đầu bằng âm phụ âm /j/ → 'a'."
+        },
+        {
+          "no": 3,
+          "question": "Our class raised money to help ______ poor in the mountain villages.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "the + tính từ chỉ một nhóm người: 'the poor' = những người nghèo."
+        },
+        {
+          "no": 4,
+          "question": "The Mekong is one of ______ longest rivers in Asia.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Trước so sánh nhất 'longest' dùng 'the'."
+        },
+        {
+          "no": 5,
+          "question": "I visit my grandparents in the countryside twice ______ month.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "A",
+          "explanation": "a/an chỉ tần suất: 'twice a month'."
+        },
+        {
+          "no": 6,
+          "question": "My cousin has lived in ______ United States for five years.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Tên quốc gia có 'States/Kingdom/Republic' dùng 'the'."
+        },
+        {
+          "no": 7,
+          "question": "______ Red River flows through the centre of Ha Noi.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Tên sông dùng 'the': 'the Red River'."
+        },
+        {
+          "no": 8,
+          "question": "Lan and I have been in ______ same class since grade 6.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Cụm cố định 'the same'."
+        },
+        {
+          "no": 9,
+          "question": "What ______ terrible weather we've had this week!",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "D",
+          "explanation": "'weather' là danh từ không đếm được → câu cảm thán không dùng a/an: 'What terrible weather!'."
+        },
+        {
+          "no": 10,
+          "question": "He is ______ only person in my family who can speak Japanese.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Trước 'only' (duy nhất) dùng 'the'."
+        },
+        {
+          "no": 11,
+          "question": "The doctor said I needed ______ X-ray of my left arm.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "'X' đọc /eks/, bắt đầu bằng âm nguyên âm → 'an X-ray'."
+        },
+        {
+          "no": 12,
+          "question": "______ history of Ha Noi goes back more than a thousand years.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "Danh từ được xác định bởi cụm 'of Ha Noi' → 'The history of Ha Noi'."
+        },
+        {
+          "no": 13,
+          "question": "The speed limit in this area is 40 kilometres ______ hour.",
+          "options": { "A": "a", "B": "an", "C": "the", "D": "Ø" },
+          "answer": "B",
+          "explanation": "a/an chỉ tốc độ; 'hour' có h câm → 'an hour'."
+        },
+        {
+          "no": 14,
+          "question": "______ Smiths are coming to dinner at our house tonight.",
+          "options": { "A": "A", "B": "An", "C": "The", "D": "Ø" },
+          "answer": "C",
+          "explanation": "the + họ ở số nhiều chỉ cả gia đình: 'the Smiths'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "British Council LearnEnglish – Articles: a, an and the", "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/articles-a-an-the" }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "material_id": "MAT_CD18",
+  "skill_id": "SK_SUBJECT_VERB",
+  "title": "Chuyên đề Sự hòa hợp của chủ ngữ - động từ",
+  "target_level": 2,
+  "summary": "Tổng hợp các quy tắc hòa hợp chủ ngữ – động từ thường gặp trong đề thi vào 10: chủ ngữ là V-ing/mệnh đề, thời gian – tiền bạc – khoảng cách, môn học tận cùng -s, the + adj, a number of / the number of, one of + N, phân số và phần trăm.",
+  "theory": [
+    {
+      "heading": "Chủ ngữ luôn đi với động từ số ít",
+      "points": [
+        "V-ing, To V hoặc mệnh đề làm chủ ngữ: Reading books is my hobby; What he said was true.",
+        "Thời gian, tiền bạc, khoảng cách, trọng lượng được xem như một khối: Ten kilometres is a long way; Two hours is enough.",
+        "Môn học, bệnh, tên quốc gia tận cùng -s: mathematics, physics, economics, news, measles, the Philippines + V số ít.",
+        "One of + N số nhiều + V số ít: One of my friends lives in Hue."
+      ],
+      "examples": [
+        {
+          "en": "Playing video games all day is bad for your eyes.",
+          "vi": "Chơi điện tử cả ngày có hại cho mắt."
+        },
+        {
+          "en": "Five hundred thousand dong is too much for this shirt.",
+          "vi": "Năm trăm nghìn đồng là quá đắt cho chiếc áo này."
+        }
+      ]
+    },
+    {
+      "heading": "Chủ ngữ đi với động từ số nhiều",
+      "points": [
+        "The + adj chỉ một nhóm người: the rich, the poor, the young, the elderly, the disabled + V số nhiều.",
+        "A number of + N số nhiều (nhiều...) + V số nhiều; The number of + N số nhiều (số lượng...) + V số ít.",
+        "Danh từ luôn ở dạng số nhiều: police, cattle, people, clothes, scissors, trousers, glasses + V số nhiều."
+      ],
+      "examples": [
+        {
+          "en": "A number of students are absent today.",
+          "vi": "Hôm nay có nhiều học sinh vắng mặt."
+        },
+        {
+          "en": "The number of students in this school is increasing.",
+          "vi": "Số lượng học sinh của trường này đang tăng."
+        }
+      ]
+    },
+    {
+      "heading": "Phân số, phần trăm, all/some/most of + N",
+      "points": [
+        "Phân số/phần trăm/all/some/most/half/a lot of + of + N: động từ chia theo danh từ sau 'of'.",
+        "N không đếm được/số ít → V số ít: Half of the cake has been eaten.",
+        "N số nhiều → V số nhiều: Sixty percent of the students are girls.",
+        "Đại từ quan hệ who/which/that: động từ chia theo danh từ đứng trước nó: the boys who are..."
+      ],
+      "examples": [
+        {
+          "en": "Most of the money was spent on food.",
+          "vi": "Phần lớn số tiền đã được tiêu vào đồ ăn."
+        },
+        {
+          "en": "Most of the books in the library are in English.",
+          "vi": "Phần lớn sách trong thư viện là sách tiếng Anh."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Câu hỏi tìm lỗi sai: luôn kiểm tra động từ đầu tiên sau chủ ngữ dài – hay bị cài lỗi số ít/số nhiều.",
+    "'A number of' = many → số nhiều; 'The number of' = số lượng → số ít. Nhìn mạo từ để quyết định.",
+    "Chủ ngữ là V-ing hoặc mệnh đề (What/That...) → luôn số ít, dù danh từ phía sau là số nhiều.",
+    "Với 'of' sau phân số/phần trăm/most/some, hãy nhìn danh từ SAU 'of'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Collecting old coins ______ my father's favourite hobby.",
+          "options": {
+            "A": "were",
+            "B": "are",
+            "C": "have been",
+            "D": "is"
+          },
+          "answer": "D",
+          "explanation": "Chủ ngữ là cụm V-ing 'Collecting old coins' → động từ số ít: is."
+        },
+        {
+          "no": 2,
+          "question": "Mathematics ______ my best subject at school.",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "are",
+            "D": "have been"
+          },
+          "answer": "A",
+          "explanation": "Môn học tận cùng -s (mathematics) đi với động từ số ít → is."
+        },
+        {
+          "no": 3,
+          "question": "A number of tourists ______ visited the Old Quarter since the festival began.",
+          "options": {
+            "A": "has",
+            "B": "is",
+            "C": "have",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "A number of + N số nhiều → động từ số nhiều; có 'since' → hiện tại hoàn thành: have visited."
+        },
+        {
+          "no": 4,
+          "question": "The number of motorbikes in Ha Noi ______ rising every year.",
+          "options": {
+            "A": "have been",
+            "B": "is",
+            "C": "were",
+            "D": "are"
+          },
+          "answer": "B",
+          "explanation": "The number of + N số nhiều → động từ số ít: is."
+        },
+        {
+          "no": 5,
+          "question": "The elderly ______ more care and attention from their families.",
+          "options": {
+            "A": "need",
+            "B": "has needed",
+            "C": "needs",
+            "D": "is needing"
+          },
+          "answer": "A",
+          "explanation": "The + adj (the elderly) chỉ nhóm người → động từ số nhiều: need."
+        },
+        {
+          "no": 6,
+          "question": "Ten kilometres ______ too far for the children to walk.",
+          "options": {
+            "A": "have been",
+            "B": "are",
+            "C": "were",
+            "D": "is"
+          },
+          "answer": "D",
+          "explanation": "Khoảng cách được xem như một khối → động từ số ít: is."
+        },
+        {
+          "no": 7,
+          "question": "One of the girls in my group ______ won a scholarship to study in Japan.",
+          "options": {
+            "A": "are",
+            "B": "have",
+            "C": "has",
+            "D": "were"
+          },
+          "answer": "C",
+          "explanation": "One of + N số nhiều → chủ ngữ là 'One' → động từ số ít: has."
+        },
+        {
+          "no": 8,
+          "question": "Seventy percent of the Earth's surface ______ covered by water.",
+          "options": {
+            "A": "is",
+            "B": "were",
+            "C": "are",
+            "D": "have been"
+          },
+          "answer": "A",
+          "explanation": "Phần trăm + of + N số ít (surface) → động từ số ít: is."
+        },
+        {
+          "no": 9,
+          "question": "The police ______ looking for the thief at the moment.",
+          "options": {
+            "A": "was",
+            "B": "has been",
+            "C": "is",
+            "D": "are"
+          },
+          "answer": "D",
+          "explanation": "'police' luôn đi với động từ số nhiều; 'at the moment' → hiện tại tiếp diễn: are looking."
+        },
+        {
+          "no": 10,
+          "question": "What the students need now ______ more practice.",
+          "options": {
+            "A": "is",
+            "B": "have",
+            "C": "are",
+            "D": "were"
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề danh từ 'What the students need now' làm chủ ngữ → động từ số ít: is."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part (A, B, C or D) that needs correction. The parts are given in brackets.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "Find the mistake: Most of the (A) furniture in our (B) new house (C) were made (D) in Viet Nam.",
+          "options": {
+            "A": "Most of",
+            "B": "our",
+            "C": "were made",
+            "D": "in"
+          },
+          "answer": "C",
+          "explanation": "Most of + N không đếm được (furniture) → động từ số ít: 'were made' sửa thành 'was made'."
+        },
+        {
+          "no": 12,
+          "question": "Find the mistake: (A) The students who (B) lives near the school (C) usually walk (D) to class.",
+          "options": {
+            "A": "The students",
+            "B": "lives",
+            "C": "usually walk",
+            "D": "to class"
+          },
+          "answer": "B",
+          "explanation": "Động từ trong mệnh đề quan hệ chia theo danh từ trước 'who' (The students – số nhiều): 'lives' sửa thành 'live'."
+        },
+        {
+          "no": 13,
+          "question": "Find the mistake: (A) Two weeks (B) are not long enough (C) for us (D) to visit all the provinces.",
+          "options": {
+            "A": "Two weeks",
+            "B": "are",
+            "C": "for us",
+            "D": "to visit"
+          },
+          "answer": "B",
+          "explanation": "Khoảng thời gian được xem như một khối → động từ số ít: 'are' sửa thành 'is'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Purdue OWL – Making Subjects and Verbs Agree",
+      "url": "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html"
+    }
+  ]
+}

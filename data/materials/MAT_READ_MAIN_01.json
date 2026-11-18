@@ -1,0 +1,159 @@
+{
+  "material_id": "MAT_READ_MAIN_01",
+  "skill_id": "SK_READ_MAIN",
+  "title": "Các bước cơ bản tìm ý chính và đại ý đoạn văn",
+  "target_level": 1,
+  "summary": "Giúp học sinh phân biệt chủ đề (topic), ý chính (main idea) và chi tiết hỗ trợ (supporting details), biết tìm câu chủ đề ở đầu/cuối đoạn để trả lời câu hỏi 'What is the passage mainly about?'.",
+  "theory": [
+    {
+      "heading": "Chủ đề, ý chính và chi tiết hỗ trợ",
+      "points": [
+        "Topic (chủ đề): đoạn văn nói về CÁI GÌ – thường chỉ 1–3 từ (reading books, cycling, the ao dai).",
+        "Main idea (ý chính): tác giả muốn nói ĐIỀU GÌ về chủ đề đó – là một câu hoàn chỉnh (Reading books brings teenagers many benefits).",
+        "Supporting details (chi tiết hỗ trợ): ví dụ, lý do, số liệu giải thích cho ý chính."
+      ],
+      "examples": [
+        { "en": "Topic: cycling. Main idea: More and more city people are choosing to cycle. Detail: Cyclists do not have to buy petrol.", "vi": "Chủ đề: đạp xe. Ý chính: ngày càng nhiều người thành phố chọn đạp xe. Chi tiết: người đạp xe không phải mua xăng." }
+      ]
+    },
+    {
+      "heading": "Câu chủ đề (topic sentence) nằm ở đâu?",
+      "points": [
+        "Thường là câu ĐẦU TIÊN của đoạn văn.",
+        "Đôi khi ý chính được nhắc lại ở câu CUỐI để kết luận (For all these reasons..., In short..., It is not surprising that...).",
+        "Các câu bắt đầu bằng First, Second, Another reason, Moreover, For example thường là chi tiết hỗ trợ."
+      ],
+      "examples": [
+        { "en": "Reading books brings teenagers many benefits. First, ... Second, ... Finally, ...", "vi": "Câu đầu nêu ý chính; các câu 'First, Second, Finally' liệt kê lợi ích cụ thể để chứng minh." }
+      ]
+    },
+    {
+      "heading": "Ba bước tìm ý chính",
+      "points": [
+        "Bước 1: Đọc câu đầu và câu cuối của đoạn.",
+        "Bước 2: Hỏi 'Hầu hết các câu trong đoạn đang nói về điều gì?' – từ lặp lại nhiều lần thường là chủ đề.",
+        "Bước 3: Chọn phương án bao quát được TẤT CẢ các chi tiết; loại phương án chỉ nói về một chi tiết nhỏ hoặc nói quá rộng."
+      ],
+      "examples": [
+        { "en": "Option 'Books are cheap.' covers only one detail → too narrow. Option 'Reading has many advantages for teenagers.' covers all details → main idea.", "vi": "'Sách rẻ' chỉ là một chi tiết nên quá hẹp; 'Đọc sách có nhiều lợi ích với thanh thiếu niên' bao quát cả đoạn." }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc câu đầu và câu cuối trước; với đoạn văn ngắn, ý chính thường nằm ở đó.",
+    "Từ được lặp lại nhiều lần (reading, cycling, ao dai) gần như chắc chắn là chủ đề.",
+    "Loại phương án chỉ đúng với một câu trong bài: đó là chi tiết, không phải ý chính.",
+    "Phương án đúng thường dùng từ khái quát (benefits, reasons, advantages, importance) thay cho từng ví dụ cụ thể."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "Reading books brings teenagers many benefits. First, it helps them learn new words. When students read stories or articles, they meet words they do not use every day, and their vocabulary grows naturally. Second, reading improves concentration. Unlike watching short videos, reading a book requires a person to focus on one thing for a long time. Third, books help young people understand other people's feelings. By following the lives of different characters, readers learn to see the world through someone else's eyes. Finally, reading is a cheap and relaxing hobby. Students can borrow books from the school library for free and enjoy them anywhere, even on a bus. For all these reasons, teachers encourage students to read for at least twenty minutes a day.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "What is the topic of the passage?",
+          "options": { "A": "School libraries", "B": "Short videos", "C": "Reading books", "D": "Teachers" },
+          "answer": "C",
+          "explanation": "Từ 'reading/books' lặp lại trong hầu hết các câu, bắt đầu từ câu đầu: 'Reading books brings teenagers many benefits.' Thư viện và video chỉ là chi tiết."
+        },
+        {
+          "no": 2,
+          "question": "Which sentence states the main idea of the passage?",
+          "options": { "A": "Reading books brings teenagers many benefits.", "B": "Second, reading improves concentration.", "C": "Students can borrow books from the school library for free.", "D": "By following the lives of different characters, readers learn to see the world through someone else's eyes." },
+          "answer": "A",
+          "explanation": "Câu đầu là câu chủ đề; các câu 'First, Second, Third, Finally' sau đó đều là lợi ích cụ thể chứng minh cho nó. B, C, D chỉ là chi tiết hỗ trợ."
+        },
+        {
+          "no": 3,
+          "question": "What is the main idea of the passage?",
+          "options": { "A": "Reading is better than watching videos.", "B": "Reading has many advantages for teenagers.", "C": "Teachers want students to visit the library.", "D": "Books are cheap to buy." },
+          "answer": "B",
+          "explanation": "B diễn đạt lại câu chủ đề 'Reading books brings teenagers many benefits' (benefits = advantages). A chỉ là một ý trong lợi ích thứ hai; C, D là chi tiết nhỏ (và bài nói mượn sách miễn phí, không nói về mua sách)."
+        },
+        {
+          "no": 4,
+          "question": "The sentence \"Students can borrow books from the school library for free\" is ______.",
+          "options": { "A": "the main idea of the passage", "B": "the title of the passage", "C": "a sentence that disagrees with the main idea", "D": "a supporting detail" },
+          "answer": "D",
+          "explanation": "Câu này giải thích cho lợi ích 'reading is a cheap and relaxing hobby', tức là chi tiết hỗ trợ cho ý chính, không phải ý chính."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "More and more people in big cities are choosing to cycle to school or work. One reason is that cycling is good for health. Riding a bicycle for thirty minutes a day makes the heart and legs stronger and helps people stay fit. Another reason is that cycling saves money. Cyclists do not have to buy petrol or pay for parking, and a bicycle is much cheaper to repair than a motorbike. Cycling is also kind to the environment, because bicycles do not produce smoke or noise. In some cities, the local government has built special lanes for bicycles and opened bike-sharing stations, so people can rent a bike with a phone app. It is not surprising that cycling is becoming a popular way to get around.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "What is the passage mainly about?",
+          "options": { "A": "How to repair a bicycle", "B": "Why more city people are cycling", "C": "The problems of motorbikes", "D": "How to use a bike-sharing app" },
+          "answer": "B",
+          "explanation": "Câu đầu 'More and more people in big cities are choosing to cycle...' và các câu sau nêu lý do (One reason..., Another reason..., also...). A, C, D chỉ là chi tiết nhỏ."
+        },
+        {
+          "no": 6,
+          "question": "Which sentence is the topic sentence of the passage?",
+          "options": { "A": "Another reason is that cycling saves money.", "B": "Cycling is also kind to the environment.", "C": "Cyclists do not have to buy petrol or pay for parking.", "D": "More and more people in big cities are choosing to cycle to school or work." },
+          "answer": "D",
+          "explanation": "Câu đầu nêu ý chính của cả đoạn; A, B là các lý do hỗ trợ, C là chi tiết cho lý do 'saves money'."
+        },
+        {
+          "no": 7,
+          "question": "How is the passage organised?",
+          "options": { "A": "It gives reasons to support the first sentence.", "B": "It tells a story in time order.", "C": "It compares two different cities.", "D": "It describes a problem without any solution." },
+          "answer": "A",
+          "explanation": "Sau câu chủ đề, đoạn văn đưa ra các lý do 'One reason is...', 'Another reason is...', 'Cycling is also...' để giải thích vì sao nhiều người chọn đạp xe."
+        },
+        {
+          "no": 8,
+          "question": "The sentence \"Riding a bicycle for thirty minutes a day makes the heart and legs stronger\" supports which idea?",
+          "options": { "A": "Cycling saves money.", "B": "Cycling is kind to the environment.", "C": "Cycling is good for health.", "D": "Some cities have built bike lanes." },
+          "answer": "C",
+          "explanation": "Câu này đứng ngay sau 'One reason is that cycling is good for health' và giải thích cho ý đó (tim và chân khỏe hơn)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Đọc đoạn văn và chọn đáp án đúng",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each question.",
+      "passage": "The ao dai is a symbol of Vietnamese culture. It is a long silk dress with a high collar, worn over loose trousers. In the past, both men and women wore the ao dai on special occasions. Today, it is mostly worn by women, but many men still choose it for weddings and Tet. In many secondary and high schools, female students wear a white ao dai on Mondays or at school ceremonies. Air hostesses, receptionists and bank staff also wear it as a uniform. Moreover, the ao dai often appears at international events, where Vietnamese people wear it proudly to introduce their culture to the world. Even though fashion changes quickly, the ao dai remains an important part of Vietnamese identity.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "What is the topic of the passage?",
+          "options": { "A": "Vietnamese weddings", "B": "School uniforms", "C": "The ao dai", "D": "International events" },
+          "answer": "C",
+          "explanation": "'ao dai' xuất hiện trong gần như mọi câu, từ câu đầu 'The ao dai is a symbol of Vietnamese culture' đến câu cuối. A, B, D chỉ là nơi áo dài được mặc."
+        },
+        {
+          "no": 10,
+          "question": "Which sentence best expresses the main idea of the passage?",
+          "options": { "A": "The ao dai is a symbol of Vietnamese culture.", "B": "It is a long silk dress with a high collar, worn over loose trousers.", "C": "Air hostesses, receptionists and bank staff also wear it as a uniform.", "D": "In the past, both men and women wore the ao dai on special occasions." },
+          "answer": "A",
+          "explanation": "Câu đầu nêu nhận định chung; các câu sau mô tả, nêu ví dụ ai mặc và khi nào mặc để chứng minh áo dài là biểu tượng văn hóa. B, C, D là chi tiết."
+        },
+        {
+          "no": 11,
+          "question": "Where is the main idea stated in this passage?",
+          "options": { "A": "Only in the middle of the passage", "B": "At the beginning and again at the end", "C": "Only in the last sentence", "D": "It is not stated anywhere" },
+          "answer": "B",
+          "explanation": "Câu đầu: 'The ao dai is a symbol of Vietnamese culture.' Câu cuối nhắc lại bằng từ khác: 'the ao dai remains an important part of Vietnamese identity.'"
+        },
+        {
+          "no": 12,
+          "question": "Which statement best summarises the passage?",
+          "options": { "A": "The ao dai is only worn at school.", "B": "Men no longer wear the ao dai.", "C": "Fashion in Viet Nam changes very quickly.", "D": "The ao dai is an important and widely worn symbol of Viet Nam." },
+          "answer": "D",
+          "explanation": "D bao quát cả đoạn (biểu tượng + được mặc ở trường, nơi làm việc, sự kiện quốc tế). A sai vì còn mặc ở nhiều nơi khác; B trái với 'many men still choose it'; C chỉ là một mệnh đề phụ ở câu cuối."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Open Exam Prep - Main Idea, Title Selection, and Author's Purpose", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

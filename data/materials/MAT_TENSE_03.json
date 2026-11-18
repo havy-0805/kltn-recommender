@@ -1,0 +1,262 @@
+{
+  "material_id": "MAT_TENSE_03",
+  "skill_id": "SK_TENSE_ASPECT",
+  "title": "Sự phối hợp thì nâng cao trong câu phức và mệnh đề thời gian",
+  "target_level": 3,
+  "summary": "Giúp học sinh phối hợp thì chính xác giữa mệnh đề chính và mệnh đề thời gian (when, as soon as, by the time, since, until, no sooner/hardly), xử lý các câu bẫy phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Mệnh đề thời gian chỉ tương lai",
+      "points": [
+        "Sau when, as soon as, before, after, until/till, once, by the time... nói về tương lai: KHÔNG dùng will, mà dùng hiện tại đơn hoặc hiện tại hoàn thành.",
+        "Mệnh đề chính: will + V / be going to / câu mệnh lệnh.",
+        "By the time + hiện tại đơn, S + will have + V3 (tương lai hoàn thành) – hành động hoàn tất trước mốc tương lai."
+      ],
+      "examples": [
+        {
+          "en": "I'll text you as soon as I get home.",
+          "vi": "Mình sẽ nhắn cho bạn ngay khi về đến nhà."
+        },
+        {
+          "en": "By the time you come back, we will have cleaned the house.",
+          "vi": "Trước lúc bạn quay lại, chúng tôi sẽ dọn xong nhà."
+        }
+      ]
+    },
+    {
+      "heading": "Phối hợp thì trong quá khứ",
+      "points": [
+        "Hành động xảy ra trước một hành động khác trong quá khứ → quá khứ hoàn thành (had + V3); hành động sau → quá khứ đơn.",
+        "By the time / before + QKĐ, S + had + V3. After + had + V3, S + QKĐ.",
+        "Hành động kéo dài liên tục đến một thời điểm trong quá khứ → quá khứ hoàn thành tiếp diễn (had been + V-ing).",
+        "Hai hành động song song cùng đang diễn ra: While + QKTD, QKTD."
+      ],
+      "examples": [
+        {
+          "en": "By the time we reached the stadium, the match had started.",
+          "vi": "Lúc chúng tôi đến sân, trận đấu đã bắt đầu rồi."
+        },
+        {
+          "en": "She had been waiting for an hour when the bus finally came.",
+          "vi": "Cô ấy đã chờ suốt một tiếng thì xe buýt mới đến."
+        }
+      ]
+    },
+    {
+      "heading": "Since, It's the first time và các cấu trúc đảo ngữ thời gian",
+      "points": [
+        "S + have/has + V3 + since + S + V2 (quá khứ đơn).",
+        "It has been / It is + khoảng thời gian + since + S + last + V2.",
+        "This/It is the first (second...) time + S + have/has + V3.",
+        "No sooner + had + S + V3 + than + S + V2 = Hardly/Scarcely + had + S + V3 + when + S + V2 (vừa mới... thì...)."
+      ],
+      "examples": [
+        {
+          "en": "It has been two years since I last saw her.",
+          "vi": "Đã hai năm kể từ lần cuối tôi gặp cô ấy."
+        },
+        {
+          "en": "No sooner had he sat down than the phone rang.",
+          "vi": "Anh ấy vừa ngồi xuống thì điện thoại reo."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bẫy phổ biến nhất: chọn 'will' trong mệnh đề thời gian. Thấy when/as soon as/until/before/by the time nói về tương lai → loại ngay đáp án có will.",
+    "By the time + QKĐ → mệnh đề chính QKHT; By the time + HTĐ → mệnh đề chính tương lai hoàn thành.",
+    "No sooner đi với 'than', Hardly/Scarcely đi với 'when' và đều phải đảo ngữ 'had + S + V3'.",
+    "Sau 'since' (liên từ) dùng quá khứ đơn, mệnh đề còn lại dùng hiện tại hoàn thành."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "I will call you as soon as I ______ at the airport.",
+          "options": {
+            "A": "arrived",
+            "B": "arrive",
+            "C": "will arrive",
+            "D": "am arriving"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề thời gian (as soon as) nói về tương lai dùng hiện tại đơn, không dùng will → 'arrive'."
+        },
+        {
+          "no": 2,
+          "question": "By the time we got to the cinema, the film ______.",
+          "options": {
+            "A": "was starting",
+            "B": "started",
+            "C": "has started",
+            "D": "had started"
+          },
+          "answer": "D",
+          "explanation": "By the time + QKĐ (got) → hành động xảy ra trước dùng quá khứ hoàn thành 'had started'."
+        },
+        {
+          "no": 3,
+          "question": "By the end of next month, she ______ her English course.",
+          "options": {
+            "A": "finishes",
+            "B": "will have finished",
+            "C": "had finished",
+            "D": "has finished"
+          },
+          "answer": "B",
+          "explanation": "'By the end of next month' là mốc tương lai, hành động hoàn tất trước mốc đó → tương lai hoàn thành 'will have finished'."
+        },
+        {
+          "no": 4,
+          "question": "We ______ each other since we ______ at primary school.",
+          "options": {
+            "A": "know / were",
+            "B": "knew / were",
+            "C": "have known / have been",
+            "D": "have known / were"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc: S + HTHT + since + S + QKĐ → 'have known ... since we were'."
+        },
+        {
+          "no": 5,
+          "question": "This is the first time I ______ such a beautiful beach.",
+          "options": {
+            "A": "have seen",
+            "B": "had seen",
+            "C": "saw",
+            "D": "see"
+          },
+          "answer": "A",
+          "explanation": "This is the first time + S + have/has + V3 → 'have seen'."
+        },
+        {
+          "no": 6,
+          "question": "No sooner ______ home than it started to rain.",
+          "options": {
+            "A": "I got",
+            "B": "had I got",
+            "C": "did I get",
+            "D": "I had got"
+          },
+          "answer": "B",
+          "explanation": "No sooner + had + S + V3 + than + S + V2 (đảo ngữ) → 'had I got'."
+        },
+        {
+          "no": 7,
+          "question": "Don't leave the room until the teacher ______ you to.",
+          "options": {
+            "A": "told",
+            "B": "will tell",
+            "C": "tells",
+            "D": "has been telling"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề thời gian với 'until' nói về tương lai dùng hiện tại đơn → 'tells'."
+        },
+        {
+          "no": 8,
+          "question": "After she ______ all her homework, she went out with her friends.",
+          "options": {
+            "A": "had finished",
+            "B": "was finishing",
+            "C": "has finished",
+            "D": "finishes"
+          },
+          "answer": "A",
+          "explanation": "Hành động làm bài xong xảy ra trước hành động 'went out' trong quá khứ → After + quá khứ hoàn thành 'had finished'."
+        },
+        {
+          "no": 9,
+          "question": "When we arrived at the station, the train ______, so we had to wait for the next one.",
+          "options": {
+            "A": "has left",
+            "B": "had left",
+            "C": "leaves",
+            "D": "leave"
+          },
+          "answer": "B",
+          "explanation": "Tàu đã rời đi trước khi chúng tôi đến (nên phải chờ chuyến sau) → quá khứ hoàn thành 'had left'."
+        },
+        {
+          "no": 10,
+          "question": "It ______ three years since I last ______ my grandparents.",
+          "options": {
+            "A": "is / have visited",
+            "B": "was / visited",
+            "C": "has been / visited",
+            "D": "has been / have visited"
+          },
+          "answer": "C",
+          "explanation": "It has been + khoảng thời gian + since + S + last + V2 → 'has been ... visited'."
+        },
+        {
+          "no": 11,
+          "question": "I ______ for the bus for 20 minutes when it finally came.",
+          "options": {
+            "A": "had been waiting",
+            "B": "waited",
+            "C": "have been waiting",
+            "D": "am waiting"
+          },
+          "answer": "A",
+          "explanation": "Hành động kéo dài liên tục (20 phút) cho đến một thời điểm trong quá khứ (xe đến) → quá khứ hoàn thành tiếp diễn 'had been waiting'."
+        },
+        {
+          "no": 12,
+          "question": "Hardly ______ the door when the phone rang.",
+          "options": {
+            "A": "did I open",
+            "B": "I had opened",
+            "C": "I opened",
+            "D": "had I opened"
+          },
+          "answer": "D",
+          "explanation": "Hardly + had + S + V3 + when + S + V2 (đảo ngữ) → 'had I opened'."
+        },
+        {
+          "no": 13,
+          "question": "By the time you receive this letter, I ______ for London.",
+          "options": {
+            "A": "leave",
+            "B": "had left",
+            "C": "will have left",
+            "D": "left"
+          },
+          "answer": "C",
+          "explanation": "By the time + hiện tại đơn (receive) → mệnh đề chính dùng tương lai hoàn thành 'will have left'."
+        },
+        {
+          "no": 14,
+          "question": "While my mother ______ dinner, my father was reading the newspaper.",
+          "options": {
+            "A": "was cooking",
+            "B": "cooks",
+            "C": "has cooked",
+            "D": "is cooking"
+          },
+          "answer": "A",
+          "explanation": "Hai hành động song song cùng đang diễn ra trong quá khứ → While + QKTD, QKTD: 'was cooking'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "IDP IELTS Việt Nam – Mệnh đề trạng ngữ chỉ thời gian",
+      "url": "https://ielts.idp.com/vietnam/about/news-and-articles/article-adverbial-clause-of-time"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Mệnh đề trạng ngữ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-menh-de-trang-ngu-cd2025.jsp"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Dạng bài Chia động từ",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-chia-dong-tu-cd2025.jsp"
+    }
+  ]
+}

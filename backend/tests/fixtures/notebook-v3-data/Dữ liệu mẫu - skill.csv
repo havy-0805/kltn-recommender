@@ -1,0 +1,48 @@
+skill_id,skill_name,category
+SK_ADJ_ORDER,Chuyên đề 22: Trật tự của tính từ,Ngữ pháp
+SK_ADJ_STRUCTURE,Chuyên đề 11: Cấu trúc của tính từ,Ngữ pháp
+SK_ADV_FREQ,Trạng từ chỉ tần suất,Ngữ pháp
+SK_ARTICLES,Chuyên đề 14: Mạo từ,Ngữ pháp
+SK_COLLOCATION,Cụm từ cố định (Collocations),Từ vựng
+SK_COMM_FUNC,Chức năng giao tiếp (Communication Functions),Giao tiếp
+SK_COMPARATIVE,Cấu trúc so sánh (Comparative & Superlative),Ngữ pháp
+SK_COMPLEX_SENT,Chuyên đề 3: Câu phức,Ngữ pháp
+SK_CONCESSION,Chuyên đề 16: Cách sử dụng của Despite và Although,Ngữ pháp
+SK_CONDITIONAL,Câu điều kiện (Conditional Sentences),Ngữ pháp
+SK_CONJUNCTIONS,Chuyên đề 23: Liên từ,Ngữ pháp
+SK_ERROR_CORRECTION,Tìm và sửa lỗi sai (Error Correction),Ngữ pháp
+SK_GUIDED_REWRITE,Chuyên đề 30: Viết lại câu với các từ cho sẵn,Ngữ pháp
+SK_PARTICIPLE,Mệnh đề phân từ và rút gọn mệnh đề,Ngữ pháp
+SK_PASSIVE_VOICE,Câu bị động (Passive Voice),Ngữ pháp
+SK_PAST_PRESENT_REL,Chuyên đề 20: Mối liên quan giữa QKĐ và HTHT,Ngữ pháp
+SK_PHON_PRON,Phát âm nguyên âm và phụ âm (Phonetics),Ngữ âm
+SK_PHON_STRESS,Trọng âm từ 2 và 3 âm tiết (Word Stress),Ngữ âm
+SK_PHRASAL_VERBS,Chuyên đề 4: Cụm động từ,Từ vựng
+SK_PREPOSITION,Giới từ và cụm giới từ,Ngữ pháp
+SK_QUANTIFIER,Từ chỉ định lượng (Quantifiers),Ngữ pháp
+SK_READ_CLOZE,Bài đọc điền từ khuyết thiếu (Cloze Test),Đọc hiểu
+SK_READ_DETAIL,Đọc hiểu: Tìm kiếm thông tin chi tiết trong đoạn văn,Đọc hiểu
+SK_READ_GAPPED,Điền từ/câu vào đoạn văn hoàn chỉnh (Gapped text),Kỹ năng đọc - viết
+SK_READ_MAIN,Đọc hiểu: Xác định ý chính đoạn văn,Đọc hiểu
+SK_READ_NOTTRUE,Đọc hiểu: Tìm thông tin không đúng / ngoại lệ,Đọc hiểu
+SK_READ_TITLE,Đọc hiểu: Xác định tiêu đề phù hợp,Đọc hiểu
+SK_READING_SKILLS,Chuyên đề 28: Kĩ năng đọc hiểu,Đọc hiểu
+SK_REL_CLAUSE,Mệnh đề quan hệ và đại từ quan hệ (Relative Clauses),Ngữ pháp
+SK_REPORT_SPEECH,Câu gián tiếp (Reported Speech),Ngữ pháp
+SK_SENT_TRANS,Viết lại câu tương đương (Sentence Transformation),Ngữ pháp
+SK_SIGN_NOTICE,Đọc hiểu biển báo và thông báo thực tế,Đọc hiểu
+SK_SUBJECT_VERB,Chuyên đề 18: Sự hòa hợp giữa chủ ngữ và động từ,Ngữ pháp
+SK_SUGGEST,Chuyên đề 10: Cách sử dụng của Suggest,Ngữ pháp
+SK_SYNONYM_ANTONYM,"Chuyên đề 26: Từ đồng nghĩa, trái nghĩa",Từ vựng
+SK_TAG_QUESTION,Chuyên đề 19: Câu hỏi đuôi,Ngữ pháp
+SK_TENSE_ASPECT,Các thì trong tiếng Anh và sự phối hợp thì,Ngữ pháp
+SK_TEXT_COHES,Kỹ năng chọn câu kết đoạn mạch lạc,Kỹ năng đọc - viết
+SK_TEXT_ORG,Kỹ năng sắp xếp trật tự câu tạo đoạn văn,Kỹ năng đọc - viết
+SK_USED_TO,Chuyên đề 7: Used to và be/get used to,Ngữ pháp
+SK_VERB_FORMS,Chuyên đề 17: Dạng của động từ (To-inf / V-ing / Bare-inf),Ngữ pháp
+SK_VOCAB_CITY,Từ vựng chủ đề Cuộc sống đô thị (City Life),Từ vựng
+SK_VOCAB_DISASTER,Từ vựng chủ đề Thảm họa thiên nhiên (Natural Disasters),Từ vựng
+SK_VOCAB_HEALTH,Từ vựng chủ đề Sức khỏe (Health),Từ vựng
+SK_VOCAB_HOBBY,Từ vựng chủ đề Sở thích (Hobbies),Từ vựng
+SK_WISH,Chuyên đề 8: Câu ước,Ngữ pháp
+SK_WORD_FORM,Cấu tạo từ và biến đổi từ loại (Word Formation),Từ vựng - Ngữ pháp

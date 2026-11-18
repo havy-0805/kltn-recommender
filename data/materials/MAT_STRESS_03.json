@@ -1,0 +1,269 @@
+{
+  "material_id": "MAT_STRESS_03",
+  "skill_id": "SK_PHON_STRESS",
+  "title": "Chinh phục quy tắc trọng âm từ 3 âm tiết trở lên và từ ghép",
+  "target_level": 3,
+  "summary": "Giúp học sinh xác định trọng âm của từ dài (3–5 âm tiết), từ phái sinh và từ ghép, đồng thời nhận diện các bẫy dịch chuyển trọng âm (photograph – photography – photographic) để chinh phục câu trọng âm phân hóa.",
+  "theory": [
+    {
+      "heading": "Trọng âm dịch chuyển trong họ từ",
+      "points": [
+        "-graphy, -logy, -ity, -ian, -ic, -tion kéo trọng âm về âm tiết NGAY TRƯỚC đuôi, nên trọng âm có thể dịch chuyển trong cùng họ từ.",
+        "ˈphotograph → phoˈtographer / phoˈtography → photoˈgraphic.",
+        "eˈconomy → ecoˈnomic / ecoˈnomics / ecoˈnomical.",
+        "ˈpersonal → persoˈnality; ˈnation → ˈnational → natioˈnality."
+      ],
+      "examples": [
+        {
+          "en": "She studies photography /fəˈtɒɡrəfi/ and takes beautiful photographs /ˈfəʊtəɡrɑːfs/.",
+          "vi": "Cô ấy học nhiếp ảnh và chụp những bức ảnh đẹp."
+        },
+        {
+          "en": "The country has a strong economy /ɪˈkɒnəmi/ and good economic /ˌiːkəˈnɒmɪk/ policies.",
+          "vi": "Đất nước có nền kinh tế mạnh và chính sách kinh tế tốt."
+        }
+      ]
+    },
+    {
+      "heading": "Từ dài có hậu tố đặc biệt",
+      "points": [
+        "Động từ tận cùng -ate nhấn âm thứ 3 tính từ cuối lên: ˈcelebrate, ˈdecorate, comˈmunicate, apˈpreciate.",
+        "Đuôi -ee, -eer, -ese, -ique nhận trọng âm: guaranˈtee, refeˈree, Portuˈguese, Vietnaˈmese. Ngoại lệ: comˈmittee.",
+        "Hai âm tiết Chinese /ˌtʃaɪˈniːz/ nhấn âm 2, trong khi Japanese, Vietnamese nhấn âm 3: cùng đuôi -ese nhưng khác số âm tiết.",
+        "Đuôi -ary/-ery thường nhấn âm 1 ở từ 3–4 âm tiết (ˈdictionary, ˈnecessary, ˈordinary) nhưng extraˈordinary /ɪkˈstrɔːdnri/ nhấn âm 2."
+      ],
+      "examples": [
+        {
+          "en": "We decorate /ˈdekəreɪt/ the house to celebrate /ˈselɪbreɪt/ Tet.",
+          "vi": "Chúng tôi trang trí nhà để đón Tết."
+        },
+        {
+          "en": "The football referee /ˌrefəˈriː/ is Portuguese /ˌpɔːtʃʊˈɡiːz/.",
+          "vi": "Trọng tài bóng đá là người Bồ Đào Nha."
+        }
+      ]
+    },
+    {
+      "heading": "Từ ghép",
+      "points": [
+        "Danh từ ghép: thường nhấn thành phần thứ nhất: ˈhomework, ˈblackbird, ˈbookstore, ˈsunrise.",
+        "Tính từ ghép (adj/adv + V-ed/V3, adj + noun): thường nhấn thành phần thứ hai: well-ˈknown, old-ˈfashioned, bad-ˈtempered. Trạng từ ghép chỉ hướng/vị trí cũng nhấn sau: downˈstairs, upˈstairs, inˈside.",
+        "Động từ ghép có tiền tố over-, under-, inter-: nhấn vào động từ gốc: underˈstand, overˈcome, enterˈtain. Danh từ ˈinterview lại nhấn âm 1."
+      ],
+      "examples": [
+        {
+          "en": "She is a well-known /ˌwelˈnəʊn/ singer.",
+          "vi": "Cô ấy là một ca sĩ nổi tiếng."
+        },
+        {
+          "en": "I always do my homework /ˈhəʊmwɜːk/ before dinner.",
+          "vi": "Tôi luôn làm bài tập về nhà trước bữa tối."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân hậu tố trước, rồi đếm ngược âm tiết từ cuối lên. Với từ dài, đếm từ cuối chính xác hơn đếm từ đầu.",
+    "Nhớ \"cặp đôi dịch chuyển\": photograph/photography, economy/economic, community/communication. Đề phân hóa rất thích đặt hai từ cùng họ vào một câu.",
+    "Phân biệt danh từ ghép (nhấn đầu) với tính từ ghép (nhấn sau). Dấu gạch nối thường là dấu hiệu của tính từ ghép.",
+    "Cuối cùng so sánh VỊ TRÍ âm tiết (thứ 1, 2, 3...) chứ không phải \"nhấn trước đuôi\". Hai từ cùng nhấn trước -tion vẫn có thể khác vị trí nếu số âm tiết khác nhau."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Từ 3 âm tiết trở lên",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Choose the word that differs from the other three in the position of primary stress: biology, photography, geography, photograph",
+          "options": {
+            "A": "biology",
+            "B": "photography",
+            "C": "geography",
+            "D": "photograph"
+          },
+          "answer": "D",
+          "explanation": "photograph /ˈfəʊtəɡrɑːf/ nhấn âm 1. Các từ đuôi -graphy, -logy nhấn âm ngay trước đuôi (âm 2): geography /dʒiˈɒɡrəfi/, photography /fəˈtɒɡrəfi/, biology /baɪˈɒlədʒi/."
+        },
+        {
+          "no": 2,
+          "question": "Choose the word that differs from the other three in the position of primary stress: economy, economics, scientific, economical",
+          "options": {
+            "A": "economy",
+            "B": "economics",
+            "C": "scientific",
+            "D": "economical"
+          },
+          "answer": "A",
+          "explanation": "economy /ɪˈkɒnəmi/ nhấn âm 2. Các từ còn lại nhấn âm 3 (ngay trước -ic/-ical): economics /ˌiːkəˈnɒmɪks/, economical /ˌiːkəˈnɒmɪkl/, scientific /ˌsaɪənˈtɪfɪk/."
+        },
+        {
+          "no": 3,
+          "question": "Choose the word that differs from the other three in the position of primary stress: guarantee, committee, referee, Portuguese",
+          "options": {
+            "A": "guarantee",
+            "B": "committee",
+            "C": "referee",
+            "D": "Portuguese"
+          },
+          "answer": "B",
+          "explanation": "committee /kəˈmɪti/ là ngoại lệ, nhấn âm 2. Các từ đuôi -ee, -ese nhận trọng âm ở đuôi (âm 3): guarantee /ˌɡærənˈtiː/, referee /ˌrefəˈriː/, Portuguese /ˌpɔːtʃʊˈɡiːz/."
+        },
+        {
+          "no": 4,
+          "question": "Choose the word that differs from the other three in the position of primary stress: energetic, athletic, economic, optimistic",
+          "options": {
+            "A": "energetic",
+            "B": "athletic",
+            "C": "economic",
+            "D": "optimistic"
+          },
+          "answer": "B",
+          "explanation": "athletic /æθˈletɪk/ có 3 âm tiết, nhấn âm 2. Các từ còn lại có 4 âm tiết, nhấn âm 3: energetic /ˌenəˈdʒetɪk/, optimistic /ˌɒptɪˈmɪstɪk/, economic /ˌiːkəˈnɒmɪk/."
+        },
+        {
+          "no": 5,
+          "question": "Choose the word that differs from the other three in the position of primary stress: communication, imagination, conversation, examination",
+          "options": {
+            "A": "communication",
+            "B": "imagination",
+            "C": "conversation",
+            "D": "examination"
+          },
+          "answer": "C",
+          "explanation": "conversation /ˌkɒnvəˈseɪʃn/ có 4 âm tiết, nhấn âm 3. Các từ còn lại có 5 âm tiết, nhấn âm 4: examination /ɪɡˌzæmɪˈneɪʃn/, imagination /ɪˌmædʒɪˈneɪʃn/, communication /kəˌmjuːnɪˈkeɪʃn/."
+        },
+        {
+          "no": 6,
+          "question": "Choose the word that differs from the other three in the position of primary stress: community, nationality, possibility, personality",
+          "options": {
+            "A": "community",
+            "B": "nationality",
+            "C": "possibility",
+            "D": "personality"
+          },
+          "answer": "A",
+          "explanation": "community /kəˈmjuːnəti/ nhấn âm 2. Các từ còn lại có 5 âm tiết, nhấn âm 3: possibility /ˌpɒsəˈbɪləti/, nationality /ˌnæʃəˈnæləti/, personality /ˌpɜːsəˈnæləti/."
+        },
+        {
+          "no": 7,
+          "question": "Choose the word that differs from the other three in the position of primary stress: celebrate, communicate, decorate, concentrate",
+          "options": {
+            "A": "celebrate",
+            "B": "communicate",
+            "C": "decorate",
+            "D": "concentrate"
+          },
+          "answer": "B",
+          "explanation": "communicate /kəˈmjuːnɪkeɪt/ nhấn âm 2 (âm thứ 3 tính từ cuối lên). Các từ còn lại có 3 âm tiết nên nhấn âm 1: celebrate /ˈselɪbreɪt/, decorate /ˈdekəreɪt/, concentrate /ˈkɒnsntreɪt/."
+        },
+        {
+          "no": 8,
+          "question": "Choose the word that differs from the other three in the position of primary stress: agriculture, environment, experience, vocabulary",
+          "options": {
+            "A": "agriculture",
+            "B": "environment",
+            "C": "experience",
+            "D": "vocabulary"
+          },
+          "answer": "A",
+          "explanation": "agriculture /ˈæɡrɪkʌltʃə/ nhấn âm 1. Các từ còn lại nhấn âm 2: environment /ɪnˈvaɪrənmənt/, experience /ɪkˈspɪəriəns/, vocabulary /vəˈkæbjələri/."
+        },
+        {
+          "no": 9,
+          "question": "Choose the word that differs from the other three in the position of primary stress: mysterious, delicious, courageous, marvellous",
+          "options": {
+            "A": "mysterious",
+            "B": "delicious",
+            "C": "courageous",
+            "D": "marvellous"
+          },
+          "answer": "D",
+          "explanation": "marvellous /ˈmɑːvələs/ nhấn âm 1. Các từ đuôi -ious/-eous nhấn âm ngay trước đuôi (âm 2): mysterious /mɪˈstɪəriəs/, delicious /dɪˈlɪʃəs/, courageous /kəˈreɪdʒəs/."
+        },
+        {
+          "no": 10,
+          "question": "Choose the word that differs from the other three in the position of primary stress: extraordinary, dictionary, necessary, ordinary",
+          "options": {
+            "A": "extraordinary",
+            "B": "dictionary",
+            "C": "necessary",
+            "D": "ordinary"
+          },
+          "answer": "A",
+          "explanation": "extraordinary /ɪkˈstrɔːdnri/ nhấn âm 2. Các từ còn lại nhấn âm 1: dictionary /ˈdɪkʃənri/, necessary /ˈnesəsəri/, ordinary /ˈɔːdnri/."
+        },
+        {
+          "no": 11,
+          "question": "Choose the word that differs from the other three in the position of primary stress: Japanese, Vietnamese, Taiwanese, Chinese",
+          "options": {
+            "A": "Japanese",
+            "B": "Vietnamese",
+            "C": "Taiwanese",
+            "D": "Chinese"
+          },
+          "answer": "D",
+          "explanation": "Chinese /ˌtʃaɪˈniːz/ chỉ có 2 âm tiết nên trọng âm ở đuôi -ese là âm 2. Các từ còn lại có 3 âm tiết, đuôi -ese ở âm 3: Japanese /ˌdʒæpəˈniːz/, Vietnamese /ˌvjetnəˈmiːz/, Taiwanese /ˌtaɪwəˈniːz/."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Từ ghép",
+      "instructions": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "Choose the word that differs from the other three in the position of primary stress: old-fashioned, well-known, homework, bad-tempered",
+          "options": {
+            "A": "old-fashioned",
+            "B": "well-known",
+            "C": "homework",
+            "D": "bad-tempered"
+          },
+          "answer": "C",
+          "explanation": "homework /ˈhəʊmwɜːk/ là danh từ ghép, nhấn âm 1. Các tính từ ghép còn lại nhấn thành phần thứ hai (âm 2): well-known /ˌwelˈnəʊn/, old-fashioned /ˌəʊldˈfæʃnd/, bad-tempered /ˌbædˈtempəd/."
+        },
+        {
+          "no": 13,
+          "question": "Choose the word that differs from the other three in the position of primary stress: sunrise, blackbird, downstairs, bookstore",
+          "options": {
+            "A": "sunrise",
+            "B": "blackbird",
+            "C": "downstairs",
+            "D": "bookstore"
+          },
+          "answer": "C",
+          "explanation": "downstairs /ˌdaʊnˈsteəz/ là trạng từ ghép, nhấn âm 2. Các danh từ ghép còn lại nhấn âm 1: blackbird /ˈblækbɜːd/, bookstore /ˈbʊkstɔː/, sunrise /ˈsʌnraɪz/."
+        },
+        {
+          "no": 14,
+          "question": "Choose the word that differs from the other three in the position of primary stress: introduce, interview, entertain, understand",
+          "options": {
+            "A": "introduce",
+            "B": "interview",
+            "C": "entertain",
+            "D": "understand"
+          },
+          "answer": "B",
+          "explanation": "interview /ˈɪntəvjuː/ nhấn âm 1. Các động từ còn lại nhấn âm 3: entertain /ˌentəˈteɪn/, understand /ˌʌndəˈstænd/, introduce /ˌɪntrəˈdjuːs/."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "PREP - 15+ quy tắc đánh dấu trọng âm trong tiếng Anh",
+      "url": "https://prepedu.com/vi/blog/quy-tac-danh-dau-trong-am-trong-tieng-anh"
+    },
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "material_id": "MAT_COMP_03",
+  "skill_id": "SK_COMPARATIVE",
+  "title": "So sánh kép, so sánh bội số và trường hợp ngoại lệ nâng cao",
+  "target_level": 3,
+  "summary": "Giúp học sinh làm chủ so sánh kép (càng ... càng, ngày càng), so sánh bội số (twice/three times as ... as), từ nhấn mạnh so sánh và các ngoại lệ dễ bẫy (superior to, elder/older, any other, the + so sánh hơn của hai đối tượng).",
+  "theory": [
+    {
+      "heading": "So sánh kép",
+      "points": [
+        "Càng ... càng: The + so sánh hơn + S + V, the + so sánh hơn + S + V (The more you read, the more you know).",
+        "Có danh từ: The + more/less/fewer + N + S + V, the + ... (The more money he earns, the more he spends).",
+        "Ngày càng: adj-er and adj-er (hotter and hotter); more and more + adj dài (more and more expensive).",
+        "Không dùng 'more' lặp với tính từ ngắn: sai 'more and more hot'."
+      ],
+      "examples": [
+        {
+          "en": "The older he gets, the wiser he becomes.",
+          "vi": "Càng lớn tuổi, ông ấy càng khôn ngoan."
+        },
+        {
+          "en": "Life in the city is getting more and more stressful.",
+          "vi": "Cuộc sống thành phố ngày càng căng thẳng."
+        }
+      ]
+    },
+    {
+      "heading": "So sánh bội số",
+      "points": [
+        "S + V + twice / three times / half + as + adj/adv/much/many + as + N.",
+        "Với danh từ: twice as many books as, three times as much money as.",
+        "So sánh với 'that of / those of' để tránh lặp danh từ: The population of A is twice as large as that of B."
+      ],
+      "examples": [
+        {
+          "en": "His house is twice as big as mine.",
+          "vi": "Nhà anh ấy to gấp đôi nhà tôi."
+        },
+        {
+          "en": "She earns three times as much money as her brother.",
+          "vi": "Cô ấy kiếm được gấp ba số tiền của anh trai."
+        }
+      ]
+    },
+    {
+      "heading": "Từ nhấn mạnh và ngoại lệ",
+      "points": [
+        "Nhấn mạnh so sánh hơn: much, far, a lot, even, a bit + so sánh hơn (much better); KHÔNG dùng 'very'.",
+        "So sánh giữa 2 đối tượng: the + so sánh hơn + of the two (Mai is the taller of the two).",
+        "superior/inferior/senior/junior + to (không dùng than, không thêm more).",
+        "elder/eldest chỉ dùng cho người trong gia đình, đứng trước danh từ, không đi với 'than'; 'older than' dùng bình thường.",
+        "So sánh một vật với các vật cùng nhóm: than any other + N số ít / than anyone else."
+      ],
+      "examples": [
+        {
+          "en": "This new model is far better than the old one.",
+          "vi": "Mẫu mới này tốt hơn nhiều so với mẫu cũ."
+        },
+        {
+          "en": "Ha Noi is bigger than any other city in the north.",
+          "vi": "Hà Nội lớn hơn bất kỳ thành phố nào khác ở miền Bắc."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy cấu trúc 'The ..., the ...' → cả hai vế đều phải là so sánh hơn, không dùng so sánh nhất.",
+    "Bội số đứng TRƯỚC 'as ... as': twice as high as (sai: as twice high as, twice higher as).",
+    "Gặp 'very' trước so sánh hơn trong đáp án → loại; dùng much/far.",
+    "Câu viết lại 'X is the + so sánh nhất' = 'No other N is as ... as X' = 'X is + so sánh hơn + than any other N'. Cẩn thận bẫy 'than all ...' (tự so sánh với chính mình)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The ______ you practise, the ______ you become.",
+          "options": {
+            "A": "more / confidenter",
+            "B": "more / more confident",
+            "C": "much / more confident",
+            "D": "most / most confident"
+          },
+          "answer": "B",
+          "explanation": "So sánh kép: The + so sánh hơn ..., the + so sánh hơn ... → 'more ... more confident' (confident là tính từ dài)."
+        },
+        {
+          "no": 2,
+          "question": "The weather is getting ______ these days.",
+          "options": {
+            "A": "more and more hot",
+            "B": "hot and hot",
+            "C": "the hotter and hotter",
+            "D": "hotter and hotter"
+          },
+          "answer": "D",
+          "explanation": "'Ngày càng' với tính từ ngắn: adj-er and adj-er → 'hotter and hotter'."
+        },
+        {
+          "no": 3,
+          "question": "Her salary is ______ mine.",
+          "options": {
+            "A": "twice higher as",
+            "B": "as twice high as",
+            "C": "twice as high as",
+            "D": "twice as higher than"
+          },
+          "answer": "C",
+          "explanation": "So sánh bội số: twice + as + adj nguyên dạng + as → 'twice as high as'."
+        },
+        {
+          "no": 4,
+          "question": "This car is ______ more expensive than that one.",
+          "options": {
+            "A": "more",
+            "B": "much",
+            "C": "very",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "Nhấn mạnh so sánh hơn dùng much/far/a lot; không dùng 'very' hay 'so'."
+        },
+        {
+          "no": 5,
+          "question": "Of the two sisters, Mai is ______.",
+          "options": {
+            "A": "most beautiful",
+            "B": "the more beautiful",
+            "C": "more beautiful than",
+            "D": "the most beautiful"
+          },
+          "answer": "B",
+          "explanation": "So sánh giữa hai đối tượng (of the two) → the + so sánh hơn: 'the more beautiful'."
+        },
+        {
+          "no": 6,
+          "question": "This new model is superior ______ the old one in every way.",
+          "options": {
+            "A": "with",
+            "B": "from",
+            "C": "to",
+            "D": "than"
+          },
+          "answer": "C",
+          "explanation": "'superior' là tính từ so sánh gốc Latin, đi với 'to', không đi với 'than'."
+        },
+        {
+          "no": 7,
+          "question": "My brother is two years ______ than me.",
+          "options": {
+            "A": "elder",
+            "B": "more old",
+            "C": "older",
+            "D": "eldest"
+          },
+          "answer": "C",
+          "explanation": "Trước 'than' chỉ dùng 'older'; 'elder' không đi với 'than'."
+        },
+        {
+          "no": 8,
+          "question": "The population of this city is three times ______ that of my hometown.",
+          "options": {
+            "A": "as large as",
+            "B": "larger as",
+            "C": "as larger than",
+            "D": "largest than"
+          },
+          "answer": "A",
+          "explanation": "Bội số + as + adj + as → 'three times as large as'."
+        },
+        {
+          "no": 9,
+          "question": "Ha Noi is larger than ______ city in the north of Viet Nam.",
+          "options": {
+            "A": "all",
+            "B": "every",
+            "C": "any other",
+            "D": "any"
+          },
+          "answer": "C",
+          "explanation": "Hà Nội cũng thuộc nhóm thành phố miền Bắc → phải dùng 'any other' để không tự so sánh với chính nó."
+        },
+        {
+          "no": 10,
+          "question": "Her opinion is quite different ______ mine.",
+          "options": {
+            "A": "with",
+            "B": "from",
+            "C": "than",
+            "D": "as"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc 'different from' (khác với); đề thi chuẩn không chấp nhận 'different with/as'."
+        },
+        {
+          "no": 11,
+          "question": "The more expensive the hotel is, ______ the service is.",
+          "options": {
+            "A": "the better",
+            "B": "better",
+            "C": "the more better",
+            "D": "the best"
+          },
+          "answer": "A",
+          "explanation": "Vế sau của so sánh kép cũng là 'the + so sánh hơn' → 'the better'; không dùng so sánh nhất hay 'more better'."
+        },
+        {
+          "no": 12,
+          "question": "The less you worry, ______.",
+          "options": {
+            "A": "the better you sleep",
+            "B": "you sleep better",
+            "C": "the best you sleep",
+            "D": "the more better you sleep"
+          },
+          "answer": "A",
+          "explanation": "So sánh kép: The less ..., the better + S + V. B thiếu 'the' và sai trật tự."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gần nghĩa nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "As he grew older, he became more patient.",
+          "options": {
+            "A": "The older he grew, the patienter he became.",
+            "B": "The more old he grew, the more patient he became.",
+            "C": "He grew older and more patient than.",
+            "D": "The older he grew, the more patient he became."
+          },
+          "answer": "D",
+          "explanation": "Chuyển sang so sánh kép: The older ..., the more patient ... B sai 'more old', A sai 'patienter', C sai cấu trúc."
+        },
+        {
+          "no": 14,
+          "question": "Mount Everest is the highest mountain in the world.",
+          "options": {
+            "A": "Mount Everest is higher than all mountains in the world.",
+            "B": "Some mountains in the world are higher than Mount Everest.",
+            "C": "Mount Everest is as high as other mountains in the world.",
+            "D": "No mountain in the world is as high as Mount Everest."
+          },
+          "answer": "D",
+          "explanation": "So sánh nhất = Không ngọn núi nào cao bằng Everest. A là bẫy: 'all mountains' bao gồm cả Everest nên vô lý (phải là 'all the other mountains')."
+        },
+        {
+          "no": 15,
+          "question": "This laptop costs 10 million dong. That one costs 20 million dong.",
+          "options": {
+            "A": "That laptop is twice as expensive as this one.",
+            "B": "This laptop is half as cheap as that one.",
+            "C": "This laptop is twice as expensive as that one.",
+            "D": "That laptop is as twice expensive as this one."
+          },
+          "answer": "A",
+          "explanation": "20 triệu gấp đôi 10 triệu → máy kia đắt gấp đôi máy này: 'twice as expensive as'. C ngược nghĩa, D sai vị trí 'twice', B sai nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Comparative and superlative adjectives",
+      "url": "https://learnenglish.britishcouncil.org/comment/166266"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu so sánh",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-so-sanh-cd2025.jsp"
+    }
+  ]
+}

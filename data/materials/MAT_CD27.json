@@ -1,0 +1,292 @@
+{
+  "material_id": "MAT_CD27",
+  "skill_id": "SK_COMM_FUNC",
+  "title": "Chuyên đề Hội thoại",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm các mẫu câu giao tiếp cơ bản (cảm ơn, xin lỗi, mời, đề nghị, gợi ý, khen, chúc mừng, chia buồn, xin phép, hỏi ý kiến) và chọn câu đáp lại phù hợp trong dạng bài hoàn thành hội thoại.",
+  "theory": [
+    {
+      "heading": "Cảm ơn, xin lỗi, khen ngợi",
+      "points": [
+        "Cảm ơn: \"Thank you (very much).\" → Đáp: \"You're welcome.\" / \"It's my pleasure.\" / \"Don't mention it.\"",
+        "Xin lỗi: \"I'm sorry I'm late.\" → Đáp: \"That's all right.\" / \"Never mind.\" / \"No problem.\"",
+        "Khen: \"Your dress is beautiful!\" → Đáp: \"Thank you. I'm glad you like it.\" / \"Thanks. It's nice of you to say so.\""
+      ],
+      "examples": [
+        {
+          "en": "A: Thank you for helping me. – B: You're welcome.",
+          "vi": "A: Cảm ơn bạn đã giúp mình. – B: Không có gì."
+        },
+        {
+          "en": "A: What a lovely bag! – B: Thanks. I'm glad you like it.",
+          "vi": "A: Cái túi đẹp quá! – B: Cảm ơn. Mình vui vì bạn thích nó."
+        }
+      ]
+    },
+    {
+      "heading": "Mời, đề nghị giúp đỡ, gợi ý",
+      "points": [
+        "Lời mời: \"Would you like to come to my party?\" → Nhận: \"Yes, I'd love to.\" / Từ chối: \"I'd love to, but I can't.\"",
+        "Mời đồ ăn uống: \"Would you like some more cake?\" → \"Yes, please.\" / \"No, thanks. I'm full.\"",
+        "Đề nghị giúp: \"Shall I / Let me carry the bag for you?\" → \"Yes, please. That's very kind of you.\" / \"No, thanks. I can manage.\"",
+        "Gợi ý: \"How about / What about + V-ing?\", \"Let's + V\", \"Why don't we + V?\" → \"That's a good idea.\" / \"Great!\" / \"Sorry, I'm busy.\""
+      ],
+      "examples": [
+        {
+          "en": "A: How about going swimming this afternoon? – B: That's a good idea.",
+          "vi": "A: Chiều nay đi bơi nhé? – B: Ý hay đấy."
+        },
+        {
+          "en": "A: Shall I help you with your homework? – B: Yes, please.",
+          "vi": "A: Mình giúp bạn làm bài tập nhé? – B: Vâng, cảm ơn bạn."
+        }
+      ]
+    },
+    {
+      "heading": "Nhờ vả, xin phép",
+      "points": [
+        "\"Can/Could I borrow your pen?\" → \"Sure. Here you are.\" / \"Of course.\"",
+        "\"Would you mind + V-ing...?\" / \"Do you mind if I...?\" → Đồng ý: \"Of course not.\" / \"Not at all.\" / \"No, go ahead.\"; Từ chối: \"I'm sorry, but...\"",
+        "Lưu ý: \"mind\" nghĩa là \"phiền\", nên trả lời \"No/Not at all\" mới là đồng ý."
+      ],
+      "examples": [
+        {
+          "en": "A: Would you mind opening the window? – B: Of course not.",
+          "vi": "A: Bạn có phiền mở cửa sổ không? – B: Tất nhiên là không."
+        }
+      ]
+    },
+    {
+      "heading": "Chúc mừng, chúc may mắn, chia buồn, hỏi – nêu ý kiến",
+      "points": [
+        "Tin vui: \"I passed the exam!\" → \"Congratulations!\" / \"Well done!\"",
+        "Sắp làm việc gì khó: \"I have an exam tomorrow.\" → \"Good luck!\"",
+        "Tin buồn: \"My grandfather is in hospital.\" → \"I'm sorry to hear that.\" / \"I hope he gets better soon.\"",
+        "Hỏi ý kiến: \"What do you think about...?\" → \"I think...\" / \"In my opinion...\"; Đồng ý: \"I completely agree.\" / \"You're right.\"; Phản đối nhẹ nhàng: \"I'm afraid I don't agree.\"",
+        "Gọi điện: \"Could I speak to...?\" → \"Hold on, please.\" / \"Just a moment, please.\""
+      ],
+      "examples": [
+        {
+          "en": "A: I won the first prize! – B: Congratulations!",
+          "vi": "A: Mình đạt giải nhất! – B: Chúc mừng bạn!"
+        },
+        {
+          "en": "A: I lost my wallet. – B: I'm sorry to hear that.",
+          "vi": "A: Mình mất ví rồi. – B: Mình rất tiếc khi nghe điều đó."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Xác định CHỨC NĂNG câu nói của người thứ nhất (cảm ơn, mời, xin phép, báo tin vui/buồn...) rồi chọn câu đáp có chức năng tương ứng.",
+    "Câu đáp phải khớp với cấu trúc câu hỏi: \"Would you like to...?\" → \"I'd love to\"; \"Would you mind...?\" → \"Not at all/Of course not\".",
+    "Loại các phương án sai ngữ pháp (I'd rather not to...) hoặc trả lời \"Yes/No\" máy móc không hợp ngữ cảnh.",
+    "Phân biệt \"Congratulations!\" (sự việc đã thành công) với \"Good luck!\" (sự việc sắp diễn ra)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu đáp lại phù hợp",
+      "instructions": "Mark the letter A, B, C or D to indicate the most suitable response to complete each of the following exchanges.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Tom: \"Thank you very much for helping me with my homework.\" – Mary: \"______\"",
+          "options": {
+            "A": "Good luck!",
+            "B": "Yes, please.",
+            "C": "I'm sorry.",
+            "D": "You're welcome."
+          },
+          "answer": "D",
+          "explanation": "Đáp lại lời cảm ơn dùng \"You're welcome.\" (Không có gì)."
+        },
+        {
+          "no": 2,
+          "question": "Nam: \"I'm sorry I'm late.\" – Teacher: \"______ Come in and sit down.\"",
+          "options": {
+            "A": "You're welcome.",
+            "B": "Congratulations!",
+            "C": "Good luck.",
+            "D": "That's all right."
+          },
+          "answer": "D",
+          "explanation": "Đáp lại lời xin lỗi dùng \"That's all right.\" (Không sao đâu)."
+        },
+        {
+          "no": 3,
+          "question": "Lan: \"Would you like to come to my birthday party on Sunday?\" – Hoa: \"______\"",
+          "options": {
+            "A": "Yes, I like.",
+            "B": "I'm fine, thanks.",
+            "C": "Yes, I'd love to.",
+            "D": "No, I wouldn't."
+          },
+          "answer": "C",
+          "explanation": "Nhận lời mời \"Would you like to...?\" dùng \"Yes, I'd love to.\" \"Yes, I like\" sai ngữ pháp; \"No, I wouldn't\" thiếu lịch sự."
+        },
+        {
+          "no": 4,
+          "question": "Mai: \"Would you like some more cake?\" – Minh: \"______\"",
+          "options": {
+            "A": "No, thanks. I'm full.",
+            "B": "Yes, I do.",
+            "C": "Not at all.",
+            "D": "You're welcome."
+          },
+          "answer": "A",
+          "explanation": "Từ chối lời mời đồ ăn một cách lịch sự: \"No, thanks. I'm full.\" \"Yes, I do\" không khớp với câu hỏi \"Would you like...?\"."
+        },
+        {
+          "no": 5,
+          "question": "Peter: \"Your new dress is really beautiful!\" – Linda: \"______\"",
+          "options": {
+            "A": "Thank you. I'm glad you like it.",
+            "B": "I'm sorry to hear that.",
+            "C": "Don't mention it.",
+            "D": "No, it isn't."
+          },
+          "answer": "A",
+          "explanation": "Đáp lại lời khen dùng lời cảm ơn: \"Thank you. I'm glad you like it.\""
+        },
+        {
+          "no": 6,
+          "question": "Ann: \"Can I borrow your pen for a minute?\" – Ben: \"______\"",
+          "options": {
+            "A": "No, I can't.",
+            "B": "Sure. Here you are.",
+            "C": "I don't think so.",
+            "D": "Yes, you are."
+          },
+          "answer": "B",
+          "explanation": "Đồng ý cho mượn và đưa đồ vật: \"Sure. Here you are.\""
+        },
+        {
+          "no": 7,
+          "question": "Kate: \"How about going swimming this afternoon?\" – Jim: \"______\"",
+          "options": {
+            "A": "That's a good idea.",
+            "B": "Yes, I am.",
+            "C": "I'm swimming.",
+            "D": "Not at all."
+          },
+          "answer": "A",
+          "explanation": "Đáp lại lời gợi ý \"How about + V-ing?\" bằng sự đồng tình: \"That's a good idea.\""
+        },
+        {
+          "no": 8,
+          "question": "Huy: \"I passed the entrance exam to Chu Van An High School!\" – Nga: \"______\"",
+          "options": {
+            "A": "Never mind.",
+            "B": "Good luck!",
+            "C": "Congratulations!",
+            "D": "What a pity!"
+          },
+          "answer": "C",
+          "explanation": "Bạn báo tin vui (đã đỗ) nên chúc mừng: \"Congratulations!\" \"Good luck!\" dùng khi việc chưa diễn ra."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Hội thoại trong các tình huống hằng ngày",
+      "instructions": "Mark the letter A, B, C or D to indicate the most suitable response to complete each of the following exchanges.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "Son: \"I have a maths exam tomorrow morning.\" – Mother: \"______\"",
+          "options": {
+            "A": "Well done!",
+            "B": "Good luck!",
+            "C": "Cheers!",
+            "D": "Congratulations!"
+          },
+          "answer": "B",
+          "explanation": "Kỳ thi sắp diễn ra nên chúc may mắn: \"Good luck!\". \"Congratulations!\" và \"Well done!\" dùng khi đã thành công."
+        },
+        {
+          "no": 10,
+          "question": "Lisa: \"My grandfather is in hospital.\" – Tom: \"______\"",
+          "options": {
+            "A": "You're welcome.",
+            "B": "That's great!",
+            "C": "I'm sorry to hear that.",
+            "D": "Good for him."
+          },
+          "answer": "C",
+          "explanation": "Đáp lại tin buồn bằng sự cảm thông: \"I'm sorry to hear that.\""
+        },
+        {
+          "no": 11,
+          "question": "Linda: \"Would you mind closing the door?\" – Jane: \"______\"",
+          "options": {
+            "A": "I'd love to.",
+            "B": "Yes, I would. Close it.",
+            "C": "Of course not.",
+            "D": "Yes, please."
+          },
+          "answer": "C",
+          "explanation": "\"Would you mind...?\" hỏi \"bạn có phiền...?\" nên đồng ý giúp phải trả lời phủ định: \"Of course not.\" (Tất nhiên là không phiền)."
+        },
+        {
+          "no": 12,
+          "question": "Mr Long: \"What do you think about learning English online?\" – Hoa: \"______\"",
+          "options": {
+            "A": "I think it's very convenient.",
+            "B": "No, thank you.",
+            "C": "I learn it online.",
+            "D": "Yes, I do."
+          },
+          "answer": "A",
+          "explanation": "Câu hỏi xin ý kiến \"What do you think about...?\" cần câu nêu quan điểm: \"I think it's very convenient.\""
+        },
+        {
+          "no": 13,
+          "question": "Nam: \"Shall I carry the bag for you?\" – Old lady: \"______\"",
+          "options": {
+            "A": "No, you mustn't.",
+            "B": "Yes, please. That's very kind of you.",
+            "C": "I'd rather not to.",
+            "D": "Yes, you shall."
+          },
+          "answer": "B",
+          "explanation": "Nhận lời đề nghị giúp đỡ \"Shall I...?\" dùng \"Yes, please. That's very kind of you.\" \"I'd rather not to\" sai ngữ pháp (would rather + V nguyên thể)."
+        },
+        {
+          "no": 14,
+          "question": "Minh: \"I think we should use public transport more often.\" – Lan: \"______ It helps reduce air pollution.\"",
+          "options": {
+            "A": "That's not true.",
+            "B": "I'm afraid not.",
+            "C": "Don't mention it.",
+            "D": "I completely agree."
+          },
+          "answer": "D",
+          "explanation": "Câu sau \"It helps reduce air pollution\" ủng hộ ý của Minh nên Lan phải đồng ý: \"I completely agree.\""
+        },
+        {
+          "no": 15,
+          "question": "Caller: \"Hello. Could I speak to Mr Long, please?\" – Secretary: \"______\"",
+          "options": {
+            "A": "I'm speaking.",
+            "B": "Hold on, please.",
+            "C": "Who are you?",
+            "D": "No, you couldn't."
+          },
+          "answer": "B",
+          "explanation": "Khi gọi điện thoại, đề nghị người gọi chờ máy: \"Hold on, please.\" \"Who are you?\" thiếu lịch sự."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI - Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội 2025",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

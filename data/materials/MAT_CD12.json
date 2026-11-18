@@ -1,0 +1,282 @@
+{
+  "material_id": "MAT_CD12",
+  "skill_id": "SK_QUANTIFIER",
+  "title": "Chuyên đề Từ chỉ định lượng",
+  "target_level": 2,
+  "summary": "Tổng hợp cách dùng các từ chỉ định lượng hay ra thi: some/any, much/many/a lot of, (a) few/(a) little, a large number of/a great deal of, every/each, both/either/neither, most/all/none of, và cách chia động từ theo chúng.",
+  "theory": [
+    {
+      "heading": "Theo loại danh từ: đếm được và không đếm được",
+      "points": [
+        "Chỉ với danh từ đếm được số nhiều: many, (a) few, a large number of, a great number of, several",
+        "Chỉ với danh từ không đếm được: much, (a) little, a great deal of, a large amount of",
+        "Dùng cho cả hai: some, any, a lot of, lots of, plenty of, most, all",
+        "A large number of + N số nhiều + động từ số nhiều; The number of + N số nhiều + động từ số ít"
+      ],
+      "examples": [
+        {
+          "en": "A large number of tourists visit Hoi An every year.",
+          "vi": "Rất nhiều du khách đến Hội An mỗi năm."
+        },
+        {
+          "en": "The city spends a great deal of money on public transport.",
+          "vi": "Thành phố chi rất nhiều tiền cho giao thông công cộng."
+        }
+      ]
+    },
+    {
+      "heading": "Theo loại câu: some/any, much/many, a lot of",
+      "points": [
+        "some: câu khẳng định, lời mời, lời đề nghị (Would you like some...?)",
+        "any: câu phủ định, câu hỏi, sau if",
+        "much/many: thường dùng trong câu phủ định và câu hỏi; câu khẳng định thường dùng a lot of/lots of"
+      ],
+      "examples": [
+        {
+          "en": "Would you like some green tea?",
+          "vi": "Bạn uống chút trà xanh nhé?"
+        },
+        {
+          "en": "There isn't much milk left in the fridge.",
+          "vi": "Trong tủ lạnh không còn nhiều sữa."
+        }
+      ]
+    },
+    {
+      "heading": "Few / a few / little / a little",
+      "points": [
+        "a few / a little: một vài, một ít (đủ dùng, nghĩa tích cực)",
+        "few / little: rất ít, hầu như không (không đủ, nghĩa tiêu cực)"
+      ],
+      "examples": [
+        {
+          "en": "Few people came to the meeting, so it was cancelled.",
+          "vi": "Rất ít người đến họp nên cuộc họp bị hủy."
+        },
+        {
+          "en": "I've got a little money, enough to buy a sandwich.",
+          "vi": "Tôi có một ít tiền, đủ mua một cái bánh mì."
+        }
+      ]
+    },
+    {
+      "heading": "Every / each, both / either / neither, most of / none of",
+      "points": [
+        "every / each + danh từ số ít + động từ số ít",
+        "Hai đối tượng: both (cả hai), either (một trong hai), neither (không cái nào trong hai)",
+        "Neither A nor B / Either A or B: động từ chia theo B (chủ ngữ gần nhất)",
+        "most of / some of / none of + the/my... + N; với ba đối tượng trở lên dùng none, với hai dùng neither"
+      ],
+      "examples": [
+        {
+          "en": "Every student has to wear a uniform.",
+          "vi": "Mọi học sinh phải mặc đồng phục."
+        },
+        {
+          "en": "Most of the information in this article is useful.",
+          "vi": "Phần lớn thông tin trong bài báo này hữu ích."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: xác định danh từ sau chỗ trống là đếm được hay không đếm được. Bước 2: xét câu khẳng định, phủ định hay câu hỏi.",
+    "Nhìn vế sau để chọn few/a few, little/a little: kết quả tiêu cực (so it was cancelled, let's hurry) → few/little.",
+    "Danh từ không đếm được hay gặp trong đề: information, advice, news, homework, money, traffic, knowledge, furniture, equipment.",
+    "Có 'of them' và nói về 2 đối tượng → both/either/neither; từ 3 trở lên → all/none/any."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "There isn't ______ milk left in the fridge, so we need to buy some.",
+          "options": {
+            "A": "much",
+            "B": "few",
+            "C": "a few",
+            "D": "many"
+          },
+          "answer": "A",
+          "explanation": "'milk' không đếm được, câu phủ định → 'much'."
+        },
+        {
+          "no": 2,
+          "question": "How ______ students are there in your class?",
+          "options": {
+            "A": "much",
+            "B": "little",
+            "C": "a little",
+            "D": "many"
+          },
+          "answer": "D",
+          "explanation": "'students' là danh từ đếm được số nhiều → 'How many'."
+        },
+        {
+          "no": 3,
+          "question": "I've got ______ money, enough to buy a sandwich and a drink.",
+          "options": {
+            "A": "little",
+            "B": "a few",
+            "C": "a little",
+            "D": "few"
+          },
+          "answer": "C",
+          "explanation": "'money' không đếm được; vế sau 'enough to buy' mang nghĩa đủ dùng → 'a little'."
+        },
+        {
+          "no": 4,
+          "question": "______ people came to the meeting, so it was cancelled.",
+          "options": {
+            "A": "Little",
+            "B": "Few",
+            "C": "A little",
+            "D": "A few"
+          },
+          "answer": "B",
+          "explanation": "'people' đếm được; cuộc họp bị hủy → số người quá ít, nghĩa tiêu cực → 'Few'."
+        },
+        {
+          "no": 5,
+          "question": "A large number of tourists ______ Hoi An every year.",
+          "options": {
+            "A": "visiting",
+            "B": "has visited",
+            "C": "visit",
+            "D": "visits"
+          },
+          "answer": "C",
+          "explanation": "A large number of + N số nhiều → động từ số nhiều 'visit'."
+        },
+        {
+          "no": 6,
+          "question": "The city spends a great deal of ______ on public transport.",
+          "options": {
+            "A": "money",
+            "B": "vehicles",
+            "C": "projects",
+            "D": "buses"
+          },
+          "answer": "A",
+          "explanation": "'a great deal of' chỉ đi với danh từ không đếm được → 'money'."
+        },
+        {
+          "no": 7,
+          "question": "Would you like ______ green tea?",
+          "options": {
+            "A": "many",
+            "B": "any",
+            "C": "few",
+            "D": "some"
+          },
+          "answer": "D",
+          "explanation": "Lời mời dùng 'some' dù ở dạng câu hỏi; 'tea' không đếm được nên loại 'many', 'few'."
+        },
+        {
+          "no": 8,
+          "question": "______ student in this school has to wear a uniform on Mondays.",
+          "options": {
+            "A": "Many",
+            "B": "All",
+            "C": "Most",
+            "D": "Every"
+          },
+          "answer": "D",
+          "explanation": "'student' số ít và động từ 'has' số ít → 'Every'. All/Most/Many cần danh từ số nhiều."
+        },
+        {
+          "no": 9,
+          "question": "Neither Lan nor her sisters ______ coffee.",
+          "options": {
+            "A": "like",
+            "B": "likes",
+            "C": "is liking",
+            "D": "has liked"
+          },
+          "answer": "A",
+          "explanation": "Neither A nor B: động từ chia theo B 'her sisters' (số nhiều) → 'like'."
+        },
+        {
+          "no": 10,
+          "question": "______ the information in this article is useful for your project.",
+          "options": {
+            "A": "Many of",
+            "B": "Few of",
+            "C": "Most of",
+            "D": "A few of"
+          },
+          "answer": "C",
+          "explanation": "'information' không đếm được → chỉ 'Most of' phù hợp; many/a few/few đi với danh từ đếm được."
+        },
+        {
+          "no": 11,
+          "question": "There are ______ apples in the basket, so we can make an apple pie.",
+          "options": {
+            "A": "a great deal of",
+            "B": "a lot of",
+            "C": "little",
+            "D": "much"
+          },
+          "answer": "B",
+          "explanation": "'apples' đếm được số nhiều, câu khẳng định → 'a lot of'."
+        },
+        {
+          "no": 12,
+          "question": "I have two dictionaries, but ______ of them is useful for this task.",
+          "options": {
+            "A": "neither",
+            "B": "all",
+            "C": "none",
+            "D": "both"
+          },
+          "answer": "A",
+          "explanation": "Nói về 2 đối tượng, nghĩa phủ định, động từ số ít 'is' → 'neither'."
+        },
+        {
+          "no": 13,
+          "question": "We have ______ time before the train leaves, so let's hurry.",
+          "options": {
+            "A": "few",
+            "B": "a few",
+            "C": "little",
+            "D": "many"
+          },
+          "answer": "C",
+          "explanation": "'time' không đếm được; 'let's hurry' cho thấy không đủ thời gian → 'little'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Tìm lỗi sai",
+      "instructions": "Choose the underlined part that needs correction.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 14,
+          "question": "Find the mistake: There (A) are (B) much (C) interesting places (D) to visit in Ha Noi.",
+          "options": {
+            "A": "are",
+            "B": "much",
+            "C": "interesting places",
+            "D": "to visit"
+          },
+          "answer": "B",
+          "explanation": "'places' đếm được số nhiều → sửa 'much' thành 'many' (hoặc 'a lot of')."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Quantifiers: few, a few, little and a bit of",
+      "url": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit?page=3"
+    },
+    {
+      "title": "englisch-hilfen.de – Quantifiers",
+      "url": "https://www.englisch-hilfen.de/en/grammar_list/mengen.htm"
+    }
+  ]
+}

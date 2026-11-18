@@ -1,0 +1,270 @@
+{
+  "material_id": "MAT_ADV_FREQ_02",
+  "skill_id": "SK_ADV_FREQ",
+  "title": "Vị trí và cách dùng trạng từ chỉ tần suất trong câu",
+  "target_level": 2,
+  "summary": "Giúp học sinh đặt đúng vị trí trạng từ tần suất trong mọi loại câu (có trợ động từ, động từ khuyết thiếu, have to, câu phủ định, câu hỏi) và dùng đúng ever/never, regularly trong dạng đề phổ biến.",
+  "theory": [
+    {
+      "heading": "Vị trí chi tiết",
+      "points": [
+        "Trước động từ thường: We always go to bed before 11 p.m.",
+        "Sau to be; giữa trợ động từ/động từ khuyết thiếu và động từ chính: He can hardly ever find time…",
+        "Trước \"have to\" và \"used to\": I usually have to get up early.",
+        "Câu phủ định: don't/doesn't + always/usually/often + V (I don't usually…); câu hỏi: Do you often…?",
+        "usually, sometimes, often có thể đứng đầu câu để nhấn mạnh: Usually, I walk to school."
+      ],
+      "examples": [
+        {
+          "en": "I usually have to get up early on weekdays.",
+          "vi": "Tôi thường phải dậy sớm vào ngày thường."
+        },
+        {
+          "en": "Usually, I walk to school, but today I took the bus.",
+          "vi": "Thường thì tôi đi bộ đến trường, nhưng hôm nay tôi đi xe buýt."
+        }
+      ]
+    },
+    {
+      "heading": "ever, never và phủ định",
+      "points": [
+        "never, rarely, seldom, hardly ever đã mang nghĩa phủ định: KHÔNG dùng với not (sai: They don't never…)",
+        "\"ever\" dùng trong câu hỏi và câu phủ định: Have you ever…? / I don't think I have ever seen…"
+      ],
+      "examples": [
+        {
+          "en": "They never eat meat.",
+          "vi": "Họ không bao giờ ăn thịt."
+        },
+        {
+          "en": "I don't think I have ever seen such a beautiful sunset.",
+          "vi": "Tôi không nghĩ mình từng thấy cảnh hoàng hôn đẹp như vậy."
+        }
+      ]
+    },
+    {
+      "heading": "Cách dùng đặc biệt",
+      "points": [
+        "be + always + V-ing: phàn nàn về thói quen gây khó chịu (He is always complaining!)",
+        "regularly, frequently, occasionally: trạng từ tần suất dạng -ly, thường đứng sau động từ/tân ngữ hoặc cuối câu (exercise regularly)"
+      ],
+      "examples": [
+        {
+          "en": "My brother is always leaving his clothes on the floor!",
+          "vi": "Em trai tôi cứ suốt ngày để quần áo trên sàn!"
+        },
+        {
+          "en": "Exercising regularly is good for your health.",
+          "vi": "Tập thể dục đều đặn tốt cho sức khỏe."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Tìm động từ trong câu: có to be → trạng từ đứng sau; có trợ động từ/động từ khuyết thiếu → đứng giữa; chỉ có động từ thường → đứng trước.",
+    "Với have to/used to: trạng từ đứng TRƯỚC (usually have to), không chen vào giữa \"have\" và \"to\".",
+    "Thấy câu đã có not/n't thì loại never, hardly, rarely, seldom.",
+    "Câu cảm thán phàn nàn (!) với always → is/are always + V-ing."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "We ______ to bed before 11 p.m. on weekdays.",
+          "options": {
+            "A": "always goes",
+            "B": "go always",
+            "C": "goes always",
+            "D": "always go"
+          },
+          "answer": "D",
+          "explanation": "Trạng từ đứng trước động từ thường; chủ ngữ \"We\" → go."
+        },
+        {
+          "no": 2,
+          "question": "I don't think I have ______ seen such a beautiful sunset.",
+          "options": {
+            "A": "never",
+            "B": "always",
+            "C": "sometimes",
+            "D": "ever"
+          },
+          "answer": "D",
+          "explanation": "Trong mệnh đề phủ định (don't think) dùng \"ever\"; \"never\" tạo phủ định kép."
+        },
+        {
+          "no": 3,
+          "question": "My brother is ______ complaining about his homework! It's so annoying.",
+          "options": {
+            "A": "never",
+            "B": "seldom",
+            "C": "rarely",
+            "D": "always"
+          },
+          "answer": "D",
+          "explanation": "\"be always + V-ing\" diễn tả thói quen gây khó chịu, phù hợp với \"It's so annoying\"."
+        },
+        {
+          "no": 4,
+          "question": "He is very busy, so he can ______ find time to play sports.",
+          "options": {
+            "A": "usually",
+            "B": "often",
+            "C": "always",
+            "D": "hardly ever"
+          },
+          "answer": "D",
+          "explanation": "Rất bận → hầu như không có thời gian: \"hardly ever\"; đứng giữa \"can\" và \"find\"."
+        },
+        {
+          "no": 5,
+          "question": "______, I walk to school, but today I took the bus because it was raining.",
+          "options": {
+            "A": "Always",
+            "B": "Never",
+            "C": "Usually",
+            "D": "Hardly ever"
+          },
+          "answer": "C",
+          "explanation": "\"Usually\" có thể đứng đầu câu; nghĩa \"thường thì\" hợp với \"but today …\". \"Never/Hardly ever\" đứng đầu câu thì phải đảo ngữ (Never do I walk…), nên không điền được vào câu không đảo ngữ này. \"Always\" chỉ đứng đầu câu mệnh lệnh (Always lock the door.), không đứng đầu câu trần thuật."
+        },
+        {
+          "no": 6,
+          "question": "Exercising ______ is a simple way to stay healthy.",
+          "options": {
+            "A": "recently",
+            "B": "lately",
+            "C": "regularly",
+            "D": "currently"
+          },
+          "answer": "C",
+          "explanation": "\"regularly\" (đều đặn) bổ nghĩa cho \"exercising\" theo nghĩa tần suất; các từ còn lại chỉ thời gian gần đây."
+        },
+        {
+          "no": 7,
+          "question": "The shops in my area are ______ open until 10 p.m., so I can buy things after work.",
+          "options": {
+            "A": "usually",
+            "B": "never",
+            "C": "rarely",
+            "D": "seldom"
+          },
+          "answer": "A",
+          "explanation": "Vế sau \"so I can buy things after work\" → các cửa hàng thường mở muộn: \"usually\"."
+        },
+        {
+          "no": 8,
+          "question": "You should ______ check your answers before handing in your test.",
+          "options": {
+            "A": "hardly",
+            "B": "always",
+            "C": "rarely",
+            "D": "never"
+          },
+          "answer": "B",
+          "explanation": "Lời khuyên hợp lý: luôn kiểm tra bài → \"always\"; đứng sau \"should\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu đúng",
+      "instructions": "Choose the grammatically correct sentence (A, B, C or D).",
+      "passage": null,
+      "questions": [
+        {
+          "no": 9,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "I usually have get up early on weekdays.",
+            "B": "Usually I have get up early on weekdays.",
+            "C": "I usually have to get up early on weekdays.",
+            "D": "I have usually to get up early on weekdays."
+          },
+          "answer": "C",
+          "explanation": "Trạng từ tần suất đứng trước \"have to\"."
+        },
+        {
+          "no": 10,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "They never eat meat.",
+            "B": "They don't never eat meat.",
+            "C": "They never don't eat meat.",
+            "D": "They eat never meat."
+          },
+          "answer": "A",
+          "explanation": "\"never\" đã mang nghĩa phủ định, đứng trước động từ thường."
+        },
+        {
+          "no": 11,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Mai is often late for class.",
+            "B": "Mai often late is for class.",
+            "C": "Often Mai late is for class.",
+            "D": "Mai late is often for class."
+          },
+          "answer": "A",
+          "explanation": "Trạng từ tần suất đứng sau to be: \"is often late\"."
+        },
+        {
+          "no": 12,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "I am usually wash the dishes after dinner.",
+            "B": "I usually am washing the dishes after dinner.",
+            "C": "I wash usually the dishes after dinner.",
+            "D": "I usually wash the dishes after dinner."
+          },
+          "answer": "D",
+          "explanation": "Thói quen → hiện tại đơn; trạng từ đứng trước động từ thường \"wash\"."
+        },
+        {
+          "no": 13,
+          "question": "Choose the correct sentence.",
+          "options": {
+            "A": "Do you go often to the cinema?",
+            "B": "Do often you go to the cinema?",
+            "C": "Often do you go to the cinema?",
+            "D": "Do you often go to the cinema?"
+          },
+          "answer": "D",
+          "explanation": "Trong câu hỏi, trạng từ tần suất đứng sau chủ ngữ, trước động từ chính."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Tìm lỗi sai",
+      "instructions": "Identify the underlined part (A, B, C or D) that needs correction. The labelled part follows each letter.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 14,
+          "question": "He is an honest boy. He (A) tells the truth and (B) never doesn't tell (C) lies to (D) his friends.",
+          "options": {
+            "A": "tells the truth",
+            "B": "never doesn't tell",
+            "C": "lies",
+            "D": "his friends"
+          },
+          "answer": "B",
+          "explanation": "\"never\" đã mang nghĩa phủ định → bỏ \"doesn't\": \"never tells\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Perfect Your English – Position of frequency adverbs",
+      "url": "https://www.perfectyourenglish.com/grammar/frequency-adverbs-position.htm"
+    },
+    {
+      "title": "LearnEnglish.life – Adverbs of frequency: rules and examples",
+      "url": "https://learnenglish.life/guides/adverbs-frequency-rules-examples/"
+    }
+  ]
+}

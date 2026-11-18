@@ -1,0 +1,218 @@
+{
+  "material_id": "MAT_READ_TITLE_01",
+  "skill_id": "SK_READ_TITLE",
+  "title": "Nhận diện chủ đề và tiêu đề khái quát văn bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh mới làm quen tìm được chủ đề chung của một đoạn văn ngắn dựa vào từ khóa lặp lại và câu đầu đoạn, từ đó chọn tiêu đề phù hợp nhất.",
+  "theory": [
+    {
+      "heading": "Chủ đề (topic) là gì?",
+      "points": [
+        "Chủ đề là 'bài này nói về cái gì', thường chỉ gồm vài từ: a recycling club, the Mid-Autumn Festival, breakfast.",
+        "Từ hoặc cụm từ được lặp lại nhiều lần (kể cả dưới dạng đại từ it, they) thường chính là chủ đề.",
+        "Câu đầu tiên của bài thường giới thiệu chủ đề."
+      ],
+      "examples": [
+        { "en": "The Mid-Autumn Festival is one of the most popular festivals for children in Viet Nam.", "vi": "Tết Trung thu là một trong những lễ hội được trẻ em Việt Nam yêu thích nhất. (Câu đầu giới thiệu chủ đề: Tết Trung thu.)" }
+      ]
+    },
+    {
+      "heading": "Từ chủ đề đến tiêu đề",
+      "points": [
+        "Tiêu đề phải nói về chủ đề của CẢ bài, không chỉ một câu.",
+        "Tiêu đề không được rộng hơn quá nhiều (Festivals Around the World) hoặc hẹp hơn quá nhiều (Making Lanterns) so với bài.",
+        "Tiêu đề có thể là lời khuyên nếu cả bài là lời khuyên, ví dụ 'Don't Skip Breakfast!'."
+      ],
+      "examples": [
+        { "en": "A Recycling Club at School", "vi": "Một câu lạc bộ tái chế ở trường. (Tiêu đề khái quát cho bài kể về hoạt động của câu lạc bộ.)" }
+      ]
+    },
+    {
+      "heading": "Ý chính của từng đoạn",
+      "points": [
+        "Mỗi đoạn thường có một ý; hãy tóm tắt mỗi đoạn bằng 3–5 từ tiếng Việt.",
+        "Ghép các ý đoạn lại sẽ thấy tiêu đề chung của bài."
+      ],
+      "examples": [
+        { "en": "Paragraph 1: what the club does. Paragraph 2: how it uses the money. Paragraph 3: its effects and plans.", "vi": "Đoạn 1: CLB làm gì. Đoạn 2: dùng tiền thế nào. Đoạn 3: tác động và kế hoạch → tiêu đề: một CLB tái chế ở trường." }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân từ được lặp lại nhiều nhất trong bài; tiêu đề đúng hầu như luôn chứa từ này hoặc từ đồng nghĩa.",
+    "Đọc kỹ câu đầu tiên và câu cuối cùng của bài trước khi chọn tiêu đề.",
+    "Loại phương án chỉ nói về một chi tiết nhỏ (một món ăn, một đồ vật) hoặc nói về một chủ đề lớn hơn bài rất nhiều.",
+    "Nếu phương án có từ không xuất hiện ở bất kỳ đâu trong bài, gần như chắc chắn là sai."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. A school club",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "At Hoa Binh Secondary School, students have started a recycling club. It started with only five members, but now more than forty students have joined. Every Friday, club members collect paper, plastic bottles and cans from every classroom. They put each type of rubbish into a different bin.\n\nThe club sells the paper and cans to a local recycling centre. Last term, they earned two million dong. They used the money to buy new books for the school library.\n\nThe club has also taught students to reduce waste. Many students now bring their own water bottles instead of buying plastic ones. The teachers are very proud of them. Next year, the club wants to plant a small vegetable garden behind the school.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "A Recycling Club at School",
+            "B": "How to Plant a Garden",
+            "C": "Plastic Bottles",
+            "D": "Our School Library"
+          },
+          "answer": "A",
+          "explanation": "Câu đầu giới thiệu chủ đề: 'students have started a recycling club', và cả ba đoạn đều nói về câu lạc bộ này. B, C, D chỉ là chi tiết nhỏ (khu vườn, chai nhựa, thư viện)."
+        },
+        {
+          "no": 2,
+          "question": "What is the passage mainly about?",
+          "options": {
+            "A": "The new books in a school library",
+            "B": "A local recycling centre",
+            "C": "The activities of a school recycling club",
+            "D": "The teachers at Hoa Binh Secondary School"
+          },
+          "answer": "C",
+          "explanation": "Bài kể câu lạc bộ thu gom rác (đoạn 1), bán phế liệu mua sách (đoạn 2), giúp học sinh giảm rác (đoạn 3) → hoạt động của câu lạc bộ tái chế. Trung tâm tái chế và giáo viên chỉ được nhắc một lần."
+        },
+        {
+          "no": 3,
+          "question": "Paragraph 2 mainly tells us ______.",
+          "options": {
+            "A": "how many members the club has",
+            "B": "how the club earns and uses money",
+            "C": "what students bring to school",
+            "D": "what the club will do next year"
+          },
+          "answer": "B",
+          "explanation": "Đoạn 2: 'The club sells the paper and cans to a local recycling centre... earned two million dong. They used the money to buy new books' → cách câu lạc bộ kiếm và dùng tiền."
+        },
+        {
+          "no": 4,
+          "question": "What did the club buy with the money?",
+          "options": {
+            "A": "Water bottles",
+            "B": "Rubbish bins",
+            "C": "Vegetable seeds",
+            "D": "Books for the library"
+          },
+          "answer": "D",
+          "explanation": "Bằng chứng: 'They used the money to buy new books for the school library.'"
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. A festival for children",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "The Mid-Autumn Festival is one of the most popular festivals for children in Viet Nam. It takes place on the fifteenth day of the eighth lunar month, when the moon is at its brightest.\n\nWeeks before the festival, the streets are full of colourful lanterns in the shapes of stars, fish and rabbits. Families buy mooncakes, which are round cakes filled with lotus seeds, beans or meat.\n\nOn the night of the festival, children carry their lanterns and walk around the neighbourhood. They watch lion dances and sing traditional songs. Later, the family sits together, eats mooncakes, drinks tea and looks at the full moon. For many people, it is a special time to be with their loved ones and to enjoy the cool autumn evening.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "Making Lanterns at Home",
+            "B": "Tea and Cakes",
+            "C": "The Mid-Autumn Festival in Viet Nam",
+            "D": "Lion Dances"
+          },
+          "answer": "C",
+          "explanation": "Từ khóa 'festival' xuất hiện ở cả ba đoạn, câu đầu nêu chủ đề 'The Mid-Autumn Festival'. Đèn lồng, bánh và múa lân chỉ là các chi tiết của lễ hội."
+        },
+        {
+          "no": 6,
+          "question": "Which of the following titles is TOO GENERAL for the passage?",
+          "options": {
+            "A": "A Children's Festival in Viet Nam",
+            "B": "Festivals Around the World",
+            "C": "The Mid-Autumn Festival",
+            "D": "Lanterns, Mooncakes and the Full Moon"
+          },
+          "answer": "B",
+          "explanation": "Bài chỉ nói về một lễ hội ở Việt Nam, còn 'Festivals Around the World' nói về lễ hội trên khắp thế giới → quá rộng. A, C, D đều đúng phạm vi bài."
+        },
+        {
+          "no": 7,
+          "question": "Paragraph 3 is mainly about ______.",
+          "options": {
+            "A": "what people do on the night of the festival",
+            "B": "when the festival takes place",
+            "C": "what mooncakes are made of",
+            "D": "the shapes of the lanterns"
+          },
+          "answer": "A",
+          "explanation": "Đoạn 3 mở đầu bằng 'On the night of the festival' rồi kể các hoạt động: rước đèn, xem múa lân, ăn bánh, ngắm trăng. B ở đoạn 1; C, D ở đoạn 2."
+        },
+        {
+          "no": 8,
+          "question": "What are mooncakes filled with?",
+          "options": {
+            "A": "Fish or rabbit meat",
+            "B": "Tea leaves",
+            "C": "Rice and fruit",
+            "D": "Lotus seeds, beans or meat"
+          },
+          "answer": "D",
+          "explanation": "Bằng chứng: 'mooncakes, which are round cakes filled with lotus seeds, beans or meat.' 'fish' và 'rabbits' là hình dạng của đèn lồng, không phải nhân bánh."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. The first meal of the day",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "Many students skip breakfast because they get up late or are not hungry in the morning. However, breakfast is a very important meal of the day.\n\nAfter a long night's sleep, your body needs energy. A good breakfast gives you that energy, so you can pay attention in class and do well at school. Students who eat breakfast are also less likely to eat unhealthy snacks before lunch.\n\nA healthy breakfast does not need to take a long time. A bowl of pho, a banana with a glass of milk, or a piece of bread with an egg are all good choices. Try to avoid sweet cakes and soft drinks, because they give you energy for only a short time.\n\nSo tomorrow, get up ten minutes earlier and enjoy a healthy breakfast!",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "Sweet Cakes and Soft Drinks",
+            "B": "Don't Skip Breakfast!",
+            "C": "How to Cook Pho",
+            "D": "Sleep Well at Night"
+          },
+          "answer": "B",
+          "explanation": "Cả bài khuyên học sinh ăn sáng: 'breakfast is a very important meal of the day' và kết bằng 'enjoy a healthy breakfast!'. A và C là chi tiết nhỏ; D không phải chủ đề."
+        },
+        {
+          "no": 10,
+          "question": "Paragraph 2 is mainly about ______.",
+          "options": {
+            "A": "the benefits of eating breakfast",
+            "B": "reasons why students skip breakfast",
+            "C": "examples of a healthy breakfast",
+            "D": "how long students sleep"
+          },
+          "answer": "A",
+          "explanation": "Đoạn 2 nêu lợi ích: bữa sáng 'gives you that energy, so you can pay attention in class' và giúp ít ăn vặt. Lý do bỏ bữa (B) ở đoạn 1; ví dụ món ăn (C) ở đoạn 3."
+        },
+        {
+          "no": 11,
+          "question": "What does the writer want readers to do?",
+          "options": {
+            "A": "Go to bed ten minutes earlier",
+            "B": "Eat more snacks before lunch",
+            "C": "Get up a little earlier and eat a healthy breakfast",
+            "D": "Drink a soft drink every morning"
+          },
+          "answer": "C",
+          "explanation": "Câu cuối: 'get up ten minutes earlier and enjoy a healthy breakfast!' A là bẫy: tác giả nói dậy sớm hơn, không nói đi ngủ sớm hơn."
+        },
+        {
+          "no": 12,
+          "question": "Why should students avoid sweet cakes and soft drinks in the morning?",
+          "options": {
+            "A": "They are too expensive.",
+            "B": "They take a long time to prepare.",
+            "C": "They make students sleepy at night.",
+            "D": "They give energy for only a short time."
+          },
+          "answer": "D",
+          "explanation": "Bằng chứng: 'Try to avoid sweet cakes and soft drinks, because they give you energy for only a short time.'"
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Main Idea, Title Selection, and Author's Purpose – Open Exam Prep", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

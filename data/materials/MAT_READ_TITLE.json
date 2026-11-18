@@ -1,0 +1,230 @@
+{
+  "material_id": "MAT_READ_TITLE",
+  "skill_id": "SK_READ_TITLE",
+  "title": "Kỹ thuật Chọn tiêu đề phù hợp cho đoạn văn",
+  "target_level": 2,
+  "summary": "Giúp học sinh chọn được tiêu đề bao quát cho cả bài và cho từng đoạn, đồng thời nhận diện và loại nhanh các tiêu đề quá rộng, quá hẹp hoặc lệch nội dung trong câu hỏi 'Which of the following can be the best title for the passage?'.",
+  "theory": [
+    {
+      "heading": "Tiêu đề tốt phải 'vừa khít' với bài",
+      "points": [
+        "Tiêu đề đúng bao trùm nội dung của TẤT CẢ các đoạn, không chỉ đoạn đầu hay đoạn có nhiều chi tiết thú vị.",
+        "Tiêu đề không được vượt ra ngoài phạm vi bài (thêm nơi chốn, thời gian, chủ đề mà bài không nói tới).",
+        "Tiêu đề thường là cụm danh từ ngắn; phương án đúng hay có dạng 'X: A and B', 'X – Then and Now', 'Why…/How…' phản ánh cấu trúc bài."
+      ],
+      "examples": [
+        { "en": "Vietnamese Lifestyle: Then and Now", "vi": "Lối sống người Việt: Xưa và nay. (Phù hợp với bài so sánh quá khứ và hiện tại.)" }
+      ]
+    },
+    {
+      "heading": "Ba kiểu tiêu đề sai thường gặp",
+      "points": [
+        "Quá rộng (too broad): 'Transport Around the World' cho một bài chỉ nói về Hà Nội. Mẹo kiểm tra: tiêu đề này có viết được thành cả một cuốn sách không? Nếu có, nó quá rộng.",
+        "Quá hẹp (too narrow): chỉ khớp với một đoạn hoặc một chi tiết, ví dụ 'How to Buy a Metro Ticket'.",
+        "Lệch nội dung: dùng từ có trong bài nhưng nói điều bài không nói, hoặc trái với kết luận của tác giả."
+      ],
+      "examples": [
+        { "en": "Too broad: Human Health. Too narrow: Teenagers and Their Phones. Just right: Why Teenagers Need More Sleep.", "vi": "Quá rộng: Sức khỏe con người. Quá hẹp: Thiếu niên và điện thoại. Vừa khít: Vì sao thiếu niên cần ngủ nhiều hơn." }
+      ]
+    },
+    {
+      "heading": "Quy trình 4 bước",
+      "points": [
+        "Bước 1: Đọc câu đầu mỗi đoạn, ghi 2–3 từ khóa của từng đoạn.",
+        "Bước 2: Tìm từ khóa lặp lại xuyên suốt bài, đó chính là chủ đề (topic).",
+        "Bước 3: Xác định tác giả nói gì về chủ đề (lợi ích? vấn đề? giải pháp? thay đổi?).",
+        "Bước 4: Chọn phương án chứa cả chủ đề lẫn hướng triển khai; loại phương án quá rộng hoặc quá hẹp."
+      ],
+      "examples": [
+        { "en": "Topic: community-based tourism. What the writer says: it benefits both villagers and visitors.", "vi": "Chủ đề: du lịch cộng đồng. Tác giả nói gì: nó có lợi cho cả dân làng và du khách → tiêu đề nên chứa cả hai ý." }
+      ]
+    },
+    {
+      "heading": "Tiêu đề cho từng đoạn",
+      "points": [
+        "Câu hỏi 'Paragraph 2 could be titled…' chỉ xét đúng đoạn đó; câu chủ đề thường là câu đầu đoạn.",
+        "Từ nối đầu đoạn gợi chức năng: However → vấn đề/thách thức; For example → minh họa; As a result → kết quả."
+      ],
+      "examples": [
+        { "en": "Changing people's habits, however, takes time.", "vi": "Tuy nhiên, thay đổi thói quen của người dân cần thời gian. (Đoạn này có thể đặt tiêu đề 'Old Habits Die Hard'.)" }
+      ]
+    }
+  ],
+  "tips": [
+    "Làm câu tiêu đề SAU các câu chi tiết: khi đã trả lời các câu khác, bạn đã nắm nội dung toàn bài.",
+    "Với mỗi phương án, hỏi: 'Đoạn nào trong bài KHÔNG được tiêu đề này nhắc tới?' Nếu bỏ sót một đoạn quan trọng thì loại.",
+    "Một phương án chứa đúng từ khóa của bài chưa chắc đúng; kiểm tra xem nó có thêm nơi chốn, thời gian, ý kiến mà bài không có không.",
+    "Khi phân vân giữa hai tiêu đề, chọn tiêu đề phản ánh được hướng triển khai (lợi ích và thách thức, nguyên nhân và giải pháp) thay vì chỉ nêu chủ đề chung chung."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Getting around Ha Noi",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "For many years, motorbikes have been the main way to get around Ha Noi. They are cheap, fast and can go almost anywhere, even down the narrowest lanes. But as the city has grown, its streets have become more crowded and the air more polluted, especially during rush hour.\n\nTo deal with these problems, Ha Noi has started building an urban railway network. The first line, Cat Linh – Ha Dong, opened in 2021, and more lines are under construction. The trains are clean, punctual and air-conditioned, and tickets are cheap compared with the cost of petrol and parking.\n\nChanging people's habits, however, takes time. Many residents still find it more convenient to ride a motorbike from door to door than to walk to a station. Experts believe that the metro will only succeed if it is well connected with buses, safe pavements and bicycle parking near the stations.",
+      "questions": [
+        {
+          "no": 1,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "The History of Motorbikes in Ha Noi",
+            "B": "Ha Noi's Metro: A New Choice with Challenges Ahead",
+            "C": "Public Transport Around the World",
+            "D": "How to Buy a Metro Ticket"
+          },
+          "answer": "B",
+          "explanation": "Bài có 3 ý: vấn đề của xe máy (đoạn 1), Hà Nội xây đường sắt đô thị (đoạn 2), thói quen khó thay đổi và điều kiện để thành công (đoạn 3). B bao quát cả 'new choice' và 'challenges'. A quá hẹp và sai trọng tâm, C quá rộng, D là chi tiết không có trong bài."
+        },
+        {
+          "no": 2,
+          "question": "Which title best fits paragraph 2?",
+          "options": {
+            "A": "Why Motorbikes Are Popular",
+            "B": "The Problem of Air Pollution",
+            "C": "Ha Noi's New Urban Railway",
+            "D": "Walking to the Station"
+          },
+          "answer": "C",
+          "explanation": "Câu chủ đề đoạn 2: 'Ha Noi has started building an urban railway network', sau đó mô tả tuyến Cát Linh – Hà Đông và ưu điểm của tàu. A và B thuộc đoạn 1; D thuộc đoạn 3."
+        },
+        {
+          "no": 3,
+          "question": "Which title best fits paragraph 3?",
+          "options": {
+            "A": "Old Habits Die Hard",
+            "B": "Trains Are Always Late",
+            "C": "The Price of Petrol",
+            "D": "Building More Roads"
+          },
+          "answer": "A",
+          "explanation": "Đoạn 3 mở bằng 'Changing people's habits, however, takes time' và cho biết nhiều người vẫn thích đi xe máy 'from door to door'. 'Old Habits Die Hard' (thói quen cũ khó bỏ) khớp với ý này. B trái với 'punctual' ở đoạn 2."
+        },
+        {
+          "no": 4,
+          "question": "According to the passage, what do experts think will help the metro succeed?",
+          "options": {
+            "A": "Making tickets free for everyone",
+            "B": "Banning motorbikes in the city centre",
+            "C": "Building more car parks in the city",
+            "D": "Connecting it with buses, pavements and bicycle parking"
+          },
+          "answer": "D",
+          "explanation": "Câu cuối: 'the metro will only succeed if it is well connected with buses, safe pavements and bicycle parking near the stations.' Các phương án A, B, C không được nhắc tới."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Teenagers and sleep",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "Most teenagers need between eight and ten hours of sleep every night, but surveys show that many get far less. Homework, extra classes and, above all, phones and computers keep them awake long after midnight.\n\nLack of sleep affects more than just mood. Students who sleep too little find it harder to concentrate, remember new information and control their emotions. Over time, they are also more likely to put on weight and catch colds, because the body repairs itself mainly while we sleep.\n\nThe good news is that better sleep does not require expensive solutions. Experts recommend going to bed at the same time every night, keeping phones out of the bedroom and avoiding drinks with caffeine, such as coffee or milk tea, in the evening. Even a short walk outdoors during the day can help the body feel ready for rest at night. Small changes like these can make a big difference to how students feel and learn.",
+      "questions": [
+        {
+          "no": 5,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "Teenagers and Their Phones",
+            "B": "The Dangers of Caffeine",
+            "C": "Homework Should Be Reduced",
+            "D": "Sleep: Why Teenagers Need It and How to Get More"
+          },
+          "answer": "D",
+          "explanation": "Đoạn 1 nêu thực trạng thiếu ngủ, đoạn 2 nêu tác hại, đoạn 3 nêu cách ngủ tốt hơn. D bao quát cả 'why' (đoạn 1–2) và 'how' (đoạn 3). A và B chỉ là một chi tiết; C là ý kiến bài không đưa ra."
+        },
+        {
+          "no": 6,
+          "question": "Which of the following titles is TOO GENERAL for the passage?",
+          "options": {
+            "A": "Human Health",
+            "B": "Teenagers Need More Sleep",
+            "C": "Sleep Problems Among Teenagers",
+            "D": "Sleep Better, Learn Better"
+          },
+          "answer": "A",
+          "explanation": "'Human Health' bao trùm mọi vấn đề sức khỏe của mọi lứa tuổi, trong khi bài chỉ bàn về giấc ngủ của thiếu niên ('Most teenagers need between eight and ten hours of sleep'). B, C, D đều giữ đúng phạm vi 'sleep' và 'teenagers/students'."
+        },
+        {
+          "no": 7,
+          "question": "Paragraph 2 is mainly about ______.",
+          "options": {
+            "A": "the causes of lack of sleep",
+            "B": "the effects of lack of sleep",
+            "C": "advice on how to sleep better",
+            "D": "the results of a survey"
+          },
+          "answer": "B",
+          "explanation": "Câu chủ đề: 'Lack of sleep affects more than just mood', sau đó liệt kê hậu quả: khó tập trung, khó ghi nhớ, dễ tăng cân, dễ cảm lạnh. Nguyên nhân (A) ở đoạn 1, lời khuyên (C) ở đoạn 3."
+        },
+        {
+          "no": 8,
+          "question": "According to paragraph 2, why are students who sleep too little more likely to catch colds?",
+          "options": {
+            "A": "Because they drink too much milk tea",
+            "B": "Because they spend too much time outdoors",
+            "C": "Because the body repairs itself mainly during sleep",
+            "D": "Because they go to bed at the same time every night"
+          },
+          "answer": "C",
+          "explanation": "Bằng chứng: 'they are also more likely to put on weight and catch colds, because the body repairs itself mainly while we sleep.' D là lời khuyên ở đoạn 3, không phải nguyên nhân gây bệnh."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Staying with a local family",
+      "instructions": "Read the passage and choose the best answer (A, B, C or D) to each of the questions.",
+      "passage": "In a small village in the northern mountains of Viet Nam, tourists no longer stay in big hotels. Instead, they sleep in the wooden stilt houses of local families, eat home-grown vegetables and help with work in the rice terraces. This type of travel is called community-based tourism.\n\nFor the villagers, the benefits are clear. Money from visitors goes directly to local families rather than to large companies from outside the area. Young people who once left to find jobs in the cities can now earn a living at home as guides, cooks or craft sellers.\n\nVisitors gain something too. Instead of only taking photos, they learn how to weave cloth, cook traditional dishes and listen to folk songs performed by the villagers themselves. Many say that these experiences are the most memorable part of their trip.\n\nStill, the village has set clear rules: groups must be small, and visitors must respect local customs. In this way, tourism helps the community without destroying the culture that attracts people in the first place.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Which of the following can be the best title for the passage?",
+          "options": {
+            "A": "Hotels in the Northern Mountains",
+            "B": "Why Young People Leave Their Villages",
+            "C": "Community-Based Tourism: Good for Villagers and Visitors",
+            "D": "Traditional Folk Songs of Viet Nam"
+          },
+          "answer": "C",
+          "explanation": "Bài giới thiệu du lịch cộng đồng (đoạn 1), lợi ích cho dân làng (đoạn 2), lợi ích cho du khách (đoạn 3) và quy định bảo vệ văn hóa (đoạn 4). C bao quát nhất. A trái với 'no longer stay in big hotels'; B và D là chi tiết nhỏ."
+        },
+        {
+          "no": 10,
+          "question": "Which title best fits the last paragraph?",
+          "options": {
+            "A": "Protecting the Local Culture",
+            "B": "Learning to Weave Cloth",
+            "C": "New Jobs for Young People",
+            "D": "The Most Memorable Trip"
+          },
+          "answer": "A",
+          "explanation": "Đoạn cuối nói về quy định 'groups must be small, and visitors must respect local customs' nhằm giúp du lịch 'without destroying the culture' → bảo vệ văn hóa địa phương. B, D thuộc đoạn 3; C thuộc đoạn 2."
+        },
+        {
+          "no": 11,
+          "question": "Why is “Learning to Cook in a Mountain Village” NOT a good title for the passage?",
+          "options": {
+            "A": "It is too broad.",
+            "B": "Cooking is not mentioned in the passage.",
+            "C": "It disagrees with the writer's opinion.",
+            "D": "It covers only one small detail of the passage."
+          },
+          "answer": "D",
+          "explanation": "Việc nấu món truyền thống có xuất hiện ('cook traditional dishes' ở đoạn 3) nên B sai, nhưng đó chỉ là một hoạt động trong nhiều hoạt động của một đoạn → tiêu đề quá hẹp. Nó không quá rộng (A) và không trái ý tác giả (C)."
+        },
+        {
+          "no": 12,
+          "question": "The phrase “in the first place” in the last paragraph is closest in meaning to ______.",
+          "options": {
+            "A": "in the best position",
+            "B": "originally; from the beginning",
+            "C": "for the first time in history",
+            "D": "in a famous place"
+          },
+          "answer": "B",
+          "explanation": "'the culture that attracts people in the first place' = chính nền văn hóa đã thu hút du khách tới từ ban đầu. 'in the first place' ở đây mang nghĩa 'ngay từ đầu, vốn dĩ', không chỉ thứ hạng hay vị trí."
+        }
+      ]
+    }
+  ],
+  "references": [
+    { "title": "Main Idea, Title Selection, and Author's Purpose – Open Exam Prep", "url": "https://open-exam-prep.com/study-guides/eclt/reading-passage-comprehension/main-idea-author-purpose" },
+    { "title": "Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025 – Pantado", "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025" }
+  ]
+}

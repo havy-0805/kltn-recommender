@@ -1,0 +1,243 @@
+{
+  "material_id": "MAT_REPORT_01",
+  "skill_id": "SK_REPORT_SPEECH",
+  "title": "Quy tắc lùi thì, đổi ngôi và trạng từ chỉ thời gian câu gián tiếp cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh chuyển câu trần thuật trực tiếp sang gián tiếp đúng ba bước: lùi thì, đổi đại từ/tính từ sở hữu và đổi trạng từ chỉ thời gian, nơi chốn.",
+  "theory": [
+    {
+      "heading": "Cấu trúc câu trần thuật gián tiếp",
+      "points": [
+        "S + said (that) + S + V (lùi thì).",
+        "S + told + O + (that) + S + V (lùi thì). 'said to sb' → 'told sb'.",
+        "Động từ tường thuật ở hiện tại (says, tells) → không lùi thì."
+      ],
+      "examples": [
+        {
+          "en": "\"I'm hungry,\" Nam said. → Nam said (that) he was hungry.",
+          "vi": "Nam nói rằng cậu ấy đói."
+        }
+      ]
+    },
+    {
+      "heading": "Quy tắc lùi thì",
+      "points": [
+        "Hiện tại đơn → quá khứ đơn; hiện tại tiếp diễn → quá khứ tiếp diễn.",
+        "Hiện tại hoàn thành → quá khứ hoàn thành; quá khứ đơn → quá khứ hoàn thành.",
+        "will → would; can → could; may → might; must → had to; am/is/are going to → was/were going to."
+      ],
+      "examples": [
+        {
+          "en": "\"I have lost my key,\" she said. → She said she had lost her key.",
+          "vi": "Cô ấy nói rằng cô ấy đã làm mất chìa khóa."
+        },
+        {
+          "en": "\"We will help you,\" they said. → They said they would help me.",
+          "vi": "Họ nói họ sẽ giúp tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Đổi ngôi, trạng từ thời gian và nơi chốn",
+      "points": [
+        "Đại từ, tính từ sở hữu đổi theo người nói/người nghe: I → he/she, my → his/her, we → they, our → their, you → I/me (tùy ngữ cảnh).",
+        "now → then; today → that day; tonight → that night; yesterday → the day before / the previous day; tomorrow → the next day / the following day.",
+        "last week → the week before; next week → the following week; ago → before.",
+        "here → there; this → that; these → those."
+      ],
+      "examples": [
+        {
+          "en": "\"I saw this film yesterday,\" Mai said. → Mai said she had seen that film the day before.",
+          "vi": "Mai nói cô ấy đã xem bộ phim đó hôm trước."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Làm theo đúng thứ tự: (1) đổi ngôi, (2) lùi thì, (3) đổi trạng từ – rồi soát lại từng đáp án theo 3 điểm này.",
+    "Đáp án nào còn giữ 'yesterday, tomorrow, here, this, now' khi câu đã lùi thì thường là đáp án sai.",
+    "'said' không có tân ngữ trực tiếp theo sau; muốn có tân ngữ dùng 'told + O'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng để hoàn thành câu gián tiếp",
+      "instructions": "Choose the best option (A, B, C or D) to complete each reported sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "\"I am tired,\" she said. → She said that she ______ tired.",
+          "options": {
+            "A": "were",
+            "B": "is being",
+            "C": "was",
+            "D": "has been"
+          },
+          "answer": "C",
+          "explanation": "Hiện tại đơn 'am' lùi thành quá khứ đơn; chủ ngữ 'she' → 'was'."
+        },
+        {
+          "no": 2,
+          "question": "\"We will visit you,\" they said to me. → They told me that they ______ visit me.",
+          "options": {
+            "A": "would",
+            "B": "can",
+            "C": "shall",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "'will' lùi thành 'would'."
+        },
+        {
+          "no": 3,
+          "question": "\"I live here,\" he said. → He said that he lived ______.",
+          "options": {
+            "A": "now",
+            "B": "where",
+            "C": "this place",
+            "D": "there"
+          },
+          "answer": "D",
+          "explanation": "Trạng từ nơi chốn 'here' đổi thành 'there'."
+        },
+        {
+          "no": 4,
+          "question": "\"I saw him yesterday,\" Mai said. → Mai said that she had seen him ______.",
+          "options": {
+            "A": "the day before",
+            "B": "tomorrow",
+            "C": "the yesterday",
+            "D": "the next day"
+          },
+          "answer": "A",
+          "explanation": "'yesterday' đổi thành 'the day before' (hoặc 'the previous day')."
+        },
+        {
+          "no": 5,
+          "question": "\"I am doing my homework now,\" Nam said. → Nam said he ______ his homework then.",
+          "options": {
+            "A": "were doing",
+            "B": "was doing",
+            "C": "has done",
+            "D": "did"
+          },
+          "answer": "B",
+          "explanation": "Hiện tại tiếp diễn lùi thành quá khứ tiếp diễn; 'he' → 'was doing'."
+        },
+        {
+          "no": 6,
+          "question": "\"I can swim,\" Lan said. → Lan said that she ______ swim.",
+          "options": {
+            "A": "will",
+            "B": "could",
+            "C": "can to",
+            "D": "may"
+          },
+          "answer": "B",
+          "explanation": "'can' lùi thành 'could'."
+        },
+        {
+          "no": 7,
+          "question": "\"I have finished my project,\" Tom said. → Tom said that he ______ his project.",
+          "options": {
+            "A": "finishes",
+            "B": "had finished",
+            "C": "have finished",
+            "D": "is finishing"
+          },
+          "answer": "B",
+          "explanation": "Hiện tại hoàn thành lùi thành quá khứ hoàn thành 'had finished'."
+        },
+        {
+          "no": 8,
+          "question": "\"We are going to the cinema tonight,\" they said. → They said they were going to the cinema ______.",
+          "options": {
+            "A": "that night",
+            "B": "the night before",
+            "C": "last night",
+            "D": "this night"
+          },
+          "answer": "A",
+          "explanation": "'tonight' đổi thành 'that night'."
+        },
+        {
+          "no": 9,
+          "question": "\"This book is mine,\" she said. → She said that ______ book was ______.",
+          "options": {
+            "A": "this / hers",
+            "B": "that / mine",
+            "C": "that / hers",
+            "D": "those / her"
+          },
+          "answer": "C",
+          "explanation": "'this' → 'that'; đại từ sở hữu 'mine' của người nói 'she' → 'hers'."
+        },
+        {
+          "no": 10,
+          "question": "\"I'll call you tomorrow,\" he told me. → He told me that he ______ me the next day.",
+          "options": {
+            "A": "would call",
+            "B": "will called",
+            "C": "is calling",
+            "D": "calls"
+          },
+          "answer": "A",
+          "explanation": "'will' lùi thành 'would' + V nguyên mẫu; 'tomorrow' → 'the next day'."
+        },
+        {
+          "no": 11,
+          "question": "\"I may be late,\" he said. → He said that he ______ be late.",
+          "options": {
+            "A": "will",
+            "B": "can",
+            "C": "might",
+            "D": "mights"
+          },
+          "answer": "C",
+          "explanation": "'may' lùi thành 'might'; động từ khuyết thiếu không thêm -s."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu gián tiếp đúng",
+      "instructions": "Choose the sentence that best reports the direct speech.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 12,
+          "question": "\"There are many trees in our school,\" the students said.",
+          "options": {
+            "A": "The students said those were many trees in their school.",
+            "B": "The students said there are many trees in our school.",
+            "C": "The students said there was many trees in their school.",
+            "D": "The students said there were many trees in their school."
+          },
+          "answer": "D",
+          "explanation": "'are' → 'were' (chủ ngữ 'many trees' số nhiều), 'our' → 'their'."
+        },
+        {
+          "no": 13,
+          "question": "\"I bought this dress last week,\" Hoa said.",
+          "options": {
+            "A": "Hoa said I had bought that dress the week before.",
+            "B": "Hoa said she bought this dress last week.",
+            "C": "Hoa said she has bought that dress last week.",
+            "D": "Hoa said she had bought that dress the week before."
+          },
+          "answer": "D",
+          "explanation": "Quá khứ đơn → quá khứ hoàn thành; I → she; this → that; last week → the week before."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Reported speech 1: statements",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-1-statements"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu gián tiếp",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-gian-tiep-cd2025.jsp"
+    }
+  ]
+}

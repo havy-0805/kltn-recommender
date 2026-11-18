@@ -1,0 +1,246 @@
+{
+  "material_id": "MAT_TAG_02",
+  "skill_id": "SK_TAG_QUESTION",
+  "title": "Quy tắc thành lập câu hỏi đuôi với các thì cơ bản và trợ động từ",
+  "target_level": 2,
+  "summary": "Giúp học sinh thành lập chính xác câu hỏi đuôi với tất cả các thì thường gặp, động từ khuyết thiếu, 'have' là động từ thường, used to, had better, would rather và dạng viết tắt 's/'d dễ gây nhầm lẫn.",
+  "theory": [
+    {
+      "heading": "Câu hỏi đuôi theo thì",
+      "points": [
+        "Hiện tại đơn: do/does; Quá khứ đơn: did.",
+        "Tiếp diễn (am/is/are/was/were + V-ing): dùng lại be.",
+        "Hoàn thành (have/has/had + V3): dùng lại have/has/had.",
+        "Tương lai đơn: will → won't; be going to → dùng lại be (isn't he?)."
+      ],
+      "examples": [
+        {
+          "en": "She has lived here for ten years, hasn't she?",
+          "vi": "Cô ấy đã sống ở đây mười năm rồi, phải không?"
+        },
+        {
+          "en": "You are going to take the exam, aren't you?",
+          "vi": "Bạn sắp đi thi, phải không?"
+        }
+      ]
+    },
+    {
+      "heading": "Động từ khuyết thiếu và 'have'",
+      "points": [
+        "can/could/will/would/should/may/must → dùng lại chính nó: should → shouldn't.",
+        "have/has là động từ thường (có, sở hữu – không có V3 phía sau) → dùng do/does/did: He has a car, doesn't he?",
+        "have to / has to / had to → don't/doesn't/didn't.",
+        "ought to → shouldn't (hoặc oughtn't)."
+      ],
+      "examples": [
+        {
+          "en": "Your brother has a new laptop, doesn't he?",
+          "vi": "Anh bạn có máy tính xách tay mới, phải không?"
+        },
+        {
+          "en": "We have to wear uniforms, don't we?",
+          "vi": "Chúng ta phải mặc đồng phục, phải không?"
+        }
+      ]
+    },
+    {
+      "heading": "Viết tắt 's / 'd và cấu trúc used to, had better, would rather",
+      "points": [
+        "'s = is (nếu sau là V-ing/adj/N) hoặc has (nếu sau là V3): He's gone → hasn't he; He's going → isn't he.",
+        "'d = had (nếu sau là V3 hoặc 'better') hoặc would (nếu sau là V nguyên mẫu hoặc 'rather'/'like').",
+        "used to + V → didn't + S; had better → hadn't + S; would rather → wouldn't + S."
+      ],
+      "examples": [
+        {
+          "en": "You'd better stay at home, hadn't you?",
+          "vi": "Bạn nên ở nhà thì hơn, phải không?"
+        },
+        {
+          "en": "He used to live in Hai Phong, didn't he?",
+          "vi": "Anh ấy từng sống ở Hải Phòng, phải không?"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gặp 'have/has' hãy hỏi: phía sau có V3 không? Có → trợ động từ have; không → động từ thường, dùng do/does/did.",
+    "Gặp 's: nhìn từ phía sau – V3 thì là 'has', còn lại là 'is'.",
+    "Gặp 'd: 'better' hoặc V3 → had; 'rather', 'like' hoặc V nguyên mẫu → would.",
+    "used to → didn't; have to → don't/doesn't/didn't – không dùng 'usedn't' hay 'haven't' trong đề thi."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu hỏi đuôi đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Your parents were watching TV when you got home, ______?",
+          "options": {
+            "A": "didn't they",
+            "B": "don't they",
+            "C": "were they",
+            "D": "weren't they"
+          },
+          "answer": "D",
+          "explanation": "Quá khứ tiếp diễn với 'were', khẳng định → 'weren't they'."
+        },
+        {
+          "no": 2,
+          "question": "Minh has breakfast at six o'clock every morning, ______?",
+          "options": {
+            "A": "has he",
+            "B": "isn't he",
+            "C": "doesn't he",
+            "D": "hasn't he"
+          },
+          "answer": "C",
+          "explanation": "'has breakfast' – 'has' là động từ thường (ăn), không có V3 phía sau, thì hiện tại đơn → dùng 'doesn't he'."
+        },
+        {
+          "no": 3,
+          "question": "She's already finished the report, ______?",
+          "options": {
+            "A": "hasn't she",
+            "B": "isn't she",
+            "C": "doesn't she",
+            "D": "wasn't she"
+          },
+          "answer": "A",
+          "explanation": "'s + V3 (finished) → 's = has → 'hasn't she'."
+        },
+        {
+          "no": 4,
+          "question": "He's talking to the headmaster now, ______?",
+          "options": {
+            "A": "isn't he",
+            "B": "doesn't he",
+            "C": "is he",
+            "D": "hasn't he"
+          },
+          "answer": "A",
+          "explanation": "'s + V-ing → 's = is (hiện tại tiếp diễn) → 'isn't he'."
+        },
+        {
+          "no": 5,
+          "question": "We have to submit the project by Friday, ______?",
+          "options": {
+            "A": "do we",
+            "B": "don't we",
+            "C": "haven't we",
+            "D": "mustn't we"
+          },
+          "answer": "B",
+          "explanation": "have to → đuôi dùng do/does/did: 'don't we'."
+        },
+        {
+          "no": 6,
+          "question": "You'd better take a taxi, ______?",
+          "options": {
+            "A": "hadn't you",
+            "B": "wouldn't you",
+            "C": "shouldn't you",
+            "D": "didn't you"
+          },
+          "answer": "A",
+          "explanation": "'d better = had better → 'hadn't you'."
+        },
+        {
+          "no": 7,
+          "question": "Your grandfather used to be a teacher, ______?",
+          "options": {
+            "A": "usedn't he",
+            "B": "didn't he",
+            "C": "wasn't he",
+            "D": "doesn't he"
+          },
+          "answer": "B",
+          "explanation": "used to → đuôi 'didn't + S': 'didn't he'."
+        },
+        {
+          "no": 8,
+          "question": "Lan hasn't seen this film before, ______?",
+          "options": {
+            "A": "did she",
+            "B": "hasn't she",
+            "C": "does she",
+            "D": "has she"
+          },
+          "answer": "D",
+          "explanation": "Hiện tại hoàn thành, phủ định → đuôi khẳng định 'has she'."
+        },
+        {
+          "no": 9,
+          "question": "You'd rather stay at home tonight, ______?",
+          "options": {
+            "A": "don't you",
+            "B": "didn't you",
+            "C": "wouldn't you",
+            "D": "hadn't you"
+          },
+          "answer": "C",
+          "explanation": "'d rather = would rather → 'wouldn't you'."
+        },
+        {
+          "no": 10,
+          "question": "The students should wear helmets when cycling, ______?",
+          "options": {
+            "A": "should they",
+            "B": "shouldn't they",
+            "C": "won't they",
+            "D": "don't they"
+          },
+          "answer": "B",
+          "explanation": "Động từ khuyết thiếu 'should', khẳng định → 'shouldn't they'."
+        },
+        {
+          "no": 11,
+          "question": "Your team is going to win the match, ______?",
+          "options": {
+            "A": "won't it",
+            "B": "doesn't it",
+            "C": "is it",
+            "D": "isn't it"
+          },
+          "answer": "D",
+          "explanation": "be going to → dùng lại 'be'; 'your team' (số ít, xem như một khối) → 'isn't it'."
+        },
+        {
+          "no": 12,
+          "question": "They hadn't left before you arrived, ______?",
+          "options": {
+            "A": "did they",
+            "B": "hadn't they",
+            "C": "had they",
+            "D": "have they"
+          },
+          "answer": "C",
+          "explanation": "Quá khứ hoàn thành, phủ định (hadn't) → đuôi khẳng định 'had they'."
+        },
+        {
+          "no": 13,
+          "question": "He'd never been abroad before that trip, ______?",
+          "options": {
+            "A": "had he",
+            "B": "would he",
+            "C": "did he",
+            "D": "hadn't he"
+          },
+          "answer": "A",
+          "explanation": "'d + V3 (been) → 'd = had; 'never' mang nghĩa phủ định → đuôi khẳng định 'had he'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Question tags",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/question-tags"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu hỏi đuôi",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-hoi-duoi-cd2025.jsp"
+    }
+  ]
+}

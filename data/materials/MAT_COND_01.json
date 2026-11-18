@@ -1,0 +1,246 @@
+{
+  "material_id": "MAT_COND_01",
+  "skill_id": "SK_CONDITIONAL",
+  "title": "Câu điều kiện loại 0, 1 và 2 cơ bản",
+  "target_level": 1,
+  "summary": "Nhận biết và chia đúng động từ trong câu điều kiện loại 0, loại 1 và loại 2, phân biệt điều có thật với điều trái thực tế ở hiện tại.",
+  "theory": [
+    {
+      "heading": "Loại 0: sự thật, thói quen, quy luật",
+      "points": [
+        "If + S + V(s/es), S + V(s/es)",
+        "Hai vế đều ở hiện tại đơn; 'if' có thể thay bằng 'when'"
+      ],
+      "examples": [
+        {
+          "en": "If you mix red and white, you get pink.",
+          "vi": "Nếu trộn màu đỏ với màu trắng, bạn được màu hồng."
+        },
+        {
+          "en": "Plants die if they don't get water.",
+          "vi": "Cây sẽ chết nếu không có nước."
+        }
+      ]
+    },
+    {
+      "heading": "Loại 1: điều có thể xảy ra ở hiện tại hoặc tương lai",
+      "points": [
+        "If + S + V(s/es), S + will / can / may + V",
+        "Mệnh đề if KHÔNG dùng will",
+        "Có thể đảo vị trí hai vế; nếu if đứng đầu câu thì có dấu phẩy"
+      ],
+      "examples": [
+        {
+          "en": "If it is sunny tomorrow, we will go swimming.",
+          "vi": "Nếu mai trời nắng, chúng ta sẽ đi bơi."
+        },
+        {
+          "en": "Tom will be angry if you break his bike.",
+          "vi": "Tom sẽ giận nếu bạn làm hỏng xe đạp của cậu ấy."
+        }
+      ]
+    },
+    {
+      "heading": "Loại 2: điều không có thật ở hiện tại",
+      "points": [
+        "If + S + V2/ed, S + would / could + V",
+        "Động từ 'be' dùng 'were' cho mọi ngôi (If I were you...)",
+        "Dùng để khuyên: If I were you, I would..."
+      ],
+      "examples": [
+        {
+          "en": "If I had a bike, I would cycle to school.",
+          "vi": "Nếu có xe đạp, tôi sẽ đạp xe đến trường."
+        },
+        {
+          "en": "If I were a bird, I would fly around the world.",
+          "vi": "Nếu là chim, tôi sẽ bay vòng quanh thế giới."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Thấy 'will' ở một vế → vế if chia hiện tại đơn (loại 1).",
+    "Thấy 'would/could' ở một vế → vế if chia quá khứ đơn (loại 2), 'be' → 'were'.",
+    "Câu nói về quy luật tự nhiên, sự thật hiển nhiên → cả hai vế hiện tại đơn (loại 0).",
+    "Điều kiện ngược với thực tế hiện tại (I am not a bird, I don't have a bike) → loại 2."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "If you mix red and white paint, you ______ pink.",
+          "options": {
+            "A": "had got",
+            "B": "got",
+            "C": "get",
+            "D": "would get"
+          },
+          "answer": "C",
+          "explanation": "Sự thật luôn đúng → loại 0, hai vế hiện tại đơn."
+        },
+        {
+          "no": 2,
+          "question": "If she ______ up early, she will catch the first bus.",
+          "options": {
+            "A": "get",
+            "B": "will get",
+            "C": "got",
+            "D": "gets"
+          },
+          "answer": "D",
+          "explanation": "Vế chính có 'will' → loại 1, mệnh đề if hiện tại đơn; chủ ngữ 'she' → 'gets'."
+        },
+        {
+          "no": 3,
+          "question": "If I had a bike, I ______ to school every day.",
+          "options": {
+            "A": "will cycle",
+            "B": "would cycle",
+            "C": "cycle",
+            "D": "cycled"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề if 'had' (quá khứ đơn) → loại 2, vế chính would + V."
+        },
+        {
+          "no": 4,
+          "question": "If it is sunny tomorrow, we ______ swimming.",
+          "options": {
+            "A": "will go",
+            "B": "had gone",
+            "C": "went",
+            "D": "would go"
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề if hiện tại đơn, có 'tomorrow' → loại 1: will + V."
+        },
+        {
+          "no": 5,
+          "question": "If he ______ more free time, he would help you with your project.",
+          "options": {
+            "A": "had",
+            "B": "has",
+            "C": "will have",
+            "D": "having"
+          },
+          "answer": "A",
+          "explanation": "Vế chính 'would help' → loại 2, mệnh đề if quá khứ đơn 'had'."
+        },
+        {
+          "no": 6,
+          "question": "Plants die if they ______ enough water.",
+          "options": {
+            "A": "wouldn't get",
+            "B": "didn't get",
+            "C": "won't get",
+            "D": "don't get"
+          },
+          "answer": "D",
+          "explanation": "Quy luật tự nhiên → loại 0, hai vế hiện tại đơn."
+        },
+        {
+          "no": 7,
+          "question": "If I ______ a bird, I would fly around the world.",
+          "options": {
+            "A": "will be",
+            "B": "am",
+            "C": "were",
+            "D": "be"
+          },
+          "answer": "C",
+          "explanation": "Điều không thể có thật → loại 2, 'be' dùng 'were' cho mọi ngôi."
+        },
+        {
+          "no": 8,
+          "question": "Tom will be very angry if you ______ his new bike.",
+          "options": {
+            "A": "will break",
+            "B": "break",
+            "C": "would break",
+            "D": "broke"
+          },
+          "answer": "B",
+          "explanation": "Vế chính 'will be' → loại 1, mệnh đề if hiện tại đơn 'break'."
+        },
+        {
+          "no": 9,
+          "question": "What ______ you do if you saw a ghost?",
+          "options": {
+            "A": "will",
+            "B": "do",
+            "C": "did",
+            "D": "would"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề if 'saw' (quá khứ đơn, giả định) → loại 2, vế chính dùng 'would'."
+        },
+        {
+          "no": 10,
+          "question": "If we use less plastic, our environment ______ cleaner.",
+          "options": {
+            "A": "be",
+            "B": "will be",
+            "C": "was",
+            "D": "would be"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề if hiện tại đơn, điều có thể xảy ra → loại 1: will be."
+        },
+        {
+          "no": 11,
+          "question": "If you don't water these flowers this week, they ______.",
+          "options": {
+            "A": "died",
+            "B": "would die",
+            "C": "will die",
+            "D": "dying"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề if hiện tại đơn, kết quả cụ thể trong tương lai gần → loại 1: will die."
+        },
+        {
+          "no": 12,
+          "question": "If you ______ hungry, there is some bread in the kitchen.",
+          "options": {
+            "A": "are",
+            "B": "will be",
+            "C": "were",
+            "D": "be"
+          },
+          "answer": "A",
+          "explanation": "Tình huống có thật ở hiện tại, vế chính hiện tại đơn → mệnh đề if 'are'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Viết lại câu",
+      "instructions": "Choose the sentence closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 13,
+          "question": "I can't go to the party because I'm ill.",
+          "options": {
+            "A": "If I weren't ill, I could go to the party.",
+            "B": "If I hadn't been ill, I could have gone to the party.",
+            "C": "If I am not ill, I can go to the party.",
+            "D": "If I were ill, I couldn't go to the party."
+          },
+          "answer": "A",
+          "explanation": "Thực tế hiện tại (đang ốm, không đi được) → loại 2, đổi ngược khẳng định/phủ định. C là loại 1 không trái thực tế; D giữ nguyên nghĩa thực tế; B là loại 3 (quá khứ)."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Conditionals: zero, first and second",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-zero-first-second"
+    }
+  ]
+}

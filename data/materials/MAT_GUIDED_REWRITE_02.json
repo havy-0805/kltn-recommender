@@ -1,0 +1,272 @@
+{
+  "material_id": "MAT_GUIDED_REWRITE_02",
+  "skill_id": "SK_GUIDED_REWRITE",
+  "title": "Thực hành viết lại câu với từ cho sẵn theo các cấu trúc trọng điểm",
+  "target_level": 2,
+  "summary": "Luyện dựng câu từ gợi ý với các cấu trúc trọng điểm thường gặp trong đề thi vào lớp 10 Hà Nội: because of, although, too/enough, used to, bị động, mệnh đề quan hệ, câu ước, so…that, look forward to.",
+  "theory": [
+    {
+      "heading": "Cấu trúc nguyên nhân, nhượng bộ, kết quả",
+      "points": [
+        "because + mệnh đề / because of + cụm danh từ",
+        "although + mệnh đề (không thêm but) / despite + cụm danh từ",
+        "S + V + so + adj/adv + that + mệnh đề",
+        "S + be + too + adj + (for sb) + to V (không lặp tân ngữ ở cuối câu)"
+      ],
+      "examples": [
+        {
+          "en": "Many people move to cities because of better job opportunities.",
+          "vi": "Nhiều người chuyển đến thành phố vì có cơ hội việc làm tốt hơn."
+        },
+        {
+          "en": "The water is too dirty for us to swim in.",
+          "vi": "Nước quá bẩn để chúng tôi bơi."
+        }
+      ]
+    },
+    {
+      "heading": "Cấu trúc động từ trọng điểm",
+      "points": [
+        "used to + V (thói quen quá khứ); look forward to + V-ing",
+        "It takes sb + time + to V; suggest that S (should) V",
+        "be (not) allowed to V; S + wish + S + V2 (ước ở hiện tại)",
+        "HTHT với \"in recent years\", \"so far\", \"ever\""
+      ],
+      "examples": [
+        {
+          "en": "I used to walk to school when I was a child.",
+          "vi": "Hồi nhỏ tôi thường đi bộ đến trường."
+        },
+        {
+          "en": "Students are not allowed to use phones during the exam.",
+          "vi": "Học sinh không được dùng điện thoại trong giờ thi."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động và mệnh đề quan hệ",
+      "points": [
+        "Bị động quá khứ đơn: was/were + V3 (+ in + năm)",
+        "where thay cho nơi chốn khi mệnh đề sau đã đủ thành phần (I was born and grew up)",
+        "Mệnh đề quan hệ lược đại từ: the house (that) we live in – không lặp lại \"it\""
+      ],
+      "examples": [
+        {
+          "en": "The house we live in was built in 1990.",
+          "vi": "Ngôi nhà chúng tôi ở được xây năm 1990."
+        },
+        {
+          "en": "Hanoi is the city where I was born and grew up.",
+          "vi": "Hà Nội là thành phố nơi tôi sinh ra và lớn lên."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Nhận diện \"cấu trúc khóa\" trong dãy gợi ý (because, although, too, used, suggest, wish…) rồi nhớ lại công thức trước khi đọc phương án.",
+    "Phương án nhiễu thường sai đúng ở cấu trúc khóa: because + cụm danh từ, although … but, used to + V-ing, suggest sb to V.",
+    "Kiểm tra lần lượt: thì – hòa hợp chủ vị – giới từ đi kèm – mạo từ.",
+    "Câu có \"in recent years\", \"ever\" → nghĩ ngay tới hiện tại hoàn thành."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Cấu trúc nguyên nhân, nhượng bộ, kết quả",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Many people / move / cities / better job opportunities.",
+          "options": {
+            "A": "Many people moves to cities because of better job opportunities.",
+            "B": "Many people move to cities because better job opportunities.",
+            "C": "Many people move cities because of better job opportunities.",
+            "D": "Many people move to cities because of better job opportunities."
+          },
+          "answer": "D",
+          "explanation": "\"better job opportunities\" là cụm danh từ → \"because of\"; \"move to + nơi chốn\"; \"people\" số nhiều → move."
+        },
+        {
+          "no": 2,
+          "question": "Although / traffic / heavy / we / arrive / on time / yesterday.",
+          "options": {
+            "A": "Although the traffic was heavy, but we arrived on time yesterday.",
+            "B": "Although the traffic is heavy, we arrived on time yesterday.",
+            "C": "Despite the traffic was heavy, we arrived on time yesterday.",
+            "D": "Although the traffic was heavy, we arrived on time yesterday."
+          },
+          "answer": "D",
+          "explanation": "\"yesterday\" → hai vế quá khứ; Although không đi với but; Despite không đi với mệnh đề."
+        },
+        {
+          "no": 3,
+          "question": "The water / too / dirty / us / swim / in.",
+          "options": {
+            "A": "The water is dirty enough for us to swim in.",
+            "B": "The water is too dirty for us to swim in.",
+            "C": "The water is too dirty for us to swim in it.",
+            "D": "The water is too dirty that we can't swim in."
+          },
+          "answer": "B",
+          "explanation": "too + adj + for sb + to V; không lặp tân ngữ \"it\" vì chủ ngữ \"The water\" đã là đối tượng của \"swim in\"."
+        },
+        {
+          "no": 4,
+          "question": "She / speak / English / so / fluently / everyone / think / she / be / native speaker.",
+          "options": {
+            "A": "She speaks English such fluently that everyone thinks she is a native speaker.",
+            "B": "She speaks English so fluently that everyone think she is a native speaker.",
+            "C": "She speaks English so fluently that everyone thinks she is a native speaker.",
+            "D": "She speaks English so fluent that everyone thinks she is a native speaker."
+          },
+          "answer": "C",
+          "explanation": "so + trạng từ (fluently) + that; \"everyone\" chia số ít → thinks."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Cấu trúc động từ trọng điểm",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 5,
+          "question": "I / used / walk / school / when / I / be / a child.",
+          "options": {
+            "A": "I used to walking to school when I was a child.",
+            "B": "I was used to walk to school when I was a child.",
+            "C": "I used to walk to school when I am a child.",
+            "D": "I used to walk to school when I was a child."
+          },
+          "answer": "D",
+          "explanation": "used to + V nguyên mẫu (thói quen quá khứ); mệnh đề \"when\" cũng ở quá khứ."
+        },
+        {
+          "no": 6,
+          "question": "My teacher / suggest / we / read / more English books.",
+          "options": {
+            "A": "My teacher suggested us to read more English books.",
+            "B": "My teacher suggested we reading more English books.",
+            "C": "My teacher suggested that we should read more English books.",
+            "D": "My teacher suggest that we should read more English books."
+          },
+          "answer": "C",
+          "explanation": "suggest that + S + (should) + V; không dùng \"suggest sb to V\"; chủ ngữ số ít nên không thể dùng \"suggest\" ở hiện tại đơn."
+        },
+        {
+          "no": 7,
+          "question": "It / take / my father / 30 minutes / drive / work / every day.",
+          "options": {
+            "A": "It takes my father 30 minutes to drive to work every day.",
+            "B": "It takes my father 30 minutes driving to work every day.",
+            "C": "It take my father 30 minutes to drive to work every day.",
+            "D": "It takes my father 30 minutes to drive work every day."
+          },
+          "answer": "A",
+          "explanation": "\"every day\" → hiện tại đơn, chủ ngữ \"It\" → takes; It takes sb + time + to V; \"drive to work\"."
+        },
+        {
+          "no": 8,
+          "question": "I / wish / I / have / more time / my family.",
+          "options": {
+            "A": "I wish I had more time for my family.",
+            "B": "I wish I having more time for my family.",
+            "C": "I wish I have more time for my family.",
+            "D": "I wish I will have more time for my family."
+          },
+          "answer": "A",
+          "explanation": "Ước ở hiện tại: wish + S + V2 (had)."
+        },
+        {
+          "no": 9,
+          "question": "Online learning / become / more and more / popular / recent years.",
+          "options": {
+            "A": "Online learning have become more and more popular in recent years.",
+            "B": "Online learning has become more and more popular in recent years.",
+            "C": "Online learning became more and more popular in recent years.",
+            "D": "Online learning has become more and more popularly in recent years."
+          },
+          "answer": "B",
+          "explanation": "\"in recent years\" → hiện tại hoàn thành; sau \"become\" dùng tính từ; chủ ngữ số ít → has."
+        },
+        {
+          "no": 10,
+          "question": "We / look forward / see / you / again / soon.",
+          "options": {
+            "A": "We look forward seeing you again soon.",
+            "B": "We are looking forward to seeing you again soon.",
+            "C": "We are looking forward for seeing you again soon.",
+            "D": "We are looking forward to see you again soon."
+          },
+          "answer": "B",
+          "explanation": "\"look forward to + V-ing\"; \"to\" là giới từ."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Bị động, mệnh đề quan hệ, so sánh",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "The house / we / live in / build / 1990.",
+          "options": {
+            "A": "The house we live in it was built in 1990.",
+            "B": "The house we live in was built on 1990.",
+            "C": "The house we live in built in 1990.",
+            "D": "The house we live in was built in 1990."
+          },
+          "answer": "D",
+          "explanation": "Ngôi nhà \"được xây\" → bị động quá khứ \"was built\"; không lặp \"it\"; năm dùng \"in\"."
+        },
+        {
+          "no": 12,
+          "question": "Hanoi / city / where / I / be / born / and / grow up.",
+          "options": {
+            "A": "Hanoi is the city which I was born and grew up.",
+            "B": "Hanoi is the city where I was born and grew up.",
+            "C": "Hanoi is the city where I was born and grow up.",
+            "D": "Hanoi is the city where I born and grew up."
+          },
+          "answer": "B",
+          "explanation": "\"where\" thay cho nơi chốn; \"be born\" ở quá khứ là \"was born\"; \"grew up\" song song quá khứ."
+        },
+        {
+          "no": 13,
+          "question": "This / most / beautiful / beach / I / ever / visit.",
+          "options": {
+            "A": "This is the most beautiful beach I had ever visited.",
+            "B": "This is most beautiful beach I have ever visited.",
+            "C": "This is the more beautiful beach I have ever visited.",
+            "D": "This is the most beautiful beach I have ever visited."
+          },
+          "answer": "D",
+          "explanation": "So sánh nhất \"the most + adj\"; đi với \"ever\" và mốc hiện tại (This is) → hiện tại hoàn thành."
+        },
+        {
+          "no": 14,
+          "question": "Students / not / allow / use / phones / during / exam.",
+          "options": {
+            "A": "Students are not allow to use phones during the exam.",
+            "B": "Students are not allowed using phones during the exam.",
+            "C": "Students do not allow to use phones during the exam.",
+            "D": "Students are not allowed to use phones during the exam."
+          },
+          "answer": "D",
+          "explanation": "be (not) allowed to V: học sinh \"không được phép\" → bị động."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Viết lại câu thi vào 10",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    },
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    }
+  ]
+}

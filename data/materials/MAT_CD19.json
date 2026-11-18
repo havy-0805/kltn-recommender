@@ -1,0 +1,233 @@
+{
+  "material_id": "MAT_CD19",
+  "skill_id": "SK_TAG_QUESTION",
+  "title": "Chuyên đề Câu hỏi đuôi",
+  "target_level": 1,
+  "summary": "Tổng quan nền tảng về câu hỏi đuôi: cấu tạo, nguyên tắc 'khẳng định – phủ định ngược nhau', cách chọn trợ động từ theo thì và một số trường hợp đặc biệt hay gặp nhất (I am, Let's, câu mệnh lệnh, từ phủ định).",
+  "theory": [
+    {
+      "heading": "Cấu tạo câu hỏi đuôi",
+      "points": [
+        "Câu hỏi đuôi = mệnh đề chính + dấu phẩy + trợ động từ + đại từ chủ ngữ + ?",
+        "Mệnh đề khẳng định → đuôi phủ định (viết tắt: isn't, don't, didn't...); mệnh đề phủ định → đuôi khẳng định.",
+        "Chủ ngữ ở đuôi luôn là đại từ: Lan → she, my brother → he, the children → they, this/that → it."
+      ],
+      "examples": [
+        {
+          "en": "Lan is your classmate, isn't she?",
+          "vi": "Lan là bạn cùng lớp của bạn, phải không?"
+        },
+        {
+          "en": "They don't like fish, do they?",
+          "vi": "Họ không thích cá, đúng không?"
+        }
+      ]
+    },
+    {
+      "heading": "Chọn trợ động từ theo thì",
+      "points": [
+        "Có be (am/is/are/was/were) → dùng lại be.",
+        "Hiện tại đơn với động từ thường → do/does; quá khứ đơn → did.",
+        "Thì hoàn thành → have/has/had; động từ khuyết thiếu (can, will, should...) → dùng lại chính nó."
+      ],
+      "examples": [
+        {
+          "en": "Your father works in a bank, doesn't he?",
+          "vi": "Bố bạn làm việc ở ngân hàng, phải không?"
+        },
+        {
+          "en": "You can swim, can't you?",
+          "vi": "Bạn biết bơi, phải không?"
+        }
+      ]
+    },
+    {
+      "heading": "Một số trường hợp đặc biệt cơ bản",
+      "points": [
+        "I am ... → aren't I?  (I'm not ... → am I?)",
+        "Let's + V ... → shall we?",
+        "Câu mệnh lệnh: Open the door, will you? / Don't be late, will you?",
+        "Câu có never, no, nothing, nobody, hardly, seldom... mang nghĩa phủ định → đuôi khẳng định."
+      ],
+      "examples": [
+        {
+          "en": "Let's go to the cinema, shall we?",
+          "vi": "Chúng mình đi xem phim nhé?"
+        },
+        {
+          "en": "He never eats meat, does he?",
+          "vi": "Anh ấy không bao giờ ăn thịt, phải không?"
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Bước 1: tìm trợ động từ/động từ chính và xác định thì. Bước 2: xét câu khẳng định hay phủ định. Bước 3: đổi chủ ngữ thành đại từ.",
+    "Đuôi phủ định luôn ở dạng viết tắt (isn't he, KHÔNG phải is not he).",
+    "Câu có never/hardly/nobody đã mang nghĩa phủ định → đuôi khẳng định.",
+    "Loại ngay đáp án dùng tên riêng hoặc danh từ ở đuôi (…, doesn't Lan?)."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu hỏi đuôi đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Your sister is a nurse, ______?",
+          "options": {
+            "A": "is she",
+            "B": "wasn't she",
+            "C": "doesn't she",
+            "D": "isn't she"
+          },
+          "answer": "D",
+          "explanation": "Mệnh đề khẳng định với 'is' → đuôi phủ định 'isn't she'."
+        },
+        {
+          "no": 2,
+          "question": "Nam doesn't like coffee, ______?",
+          "options": {
+            "A": "did he",
+            "B": "does he",
+            "C": "is he",
+            "D": "doesn't he"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề phủ định thì hiện tại đơn (doesn't) → đuôi khẳng định 'does he'."
+        },
+        {
+          "no": 3,
+          "question": "They went to Da Lat last summer, ______?",
+          "options": {
+            "A": "did they",
+            "B": "weren't they",
+            "C": "didn't they",
+            "D": "don't they"
+          },
+          "answer": "C",
+          "explanation": "Quá khứ đơn, khẳng định → đuôi 'didn't they'."
+        },
+        {
+          "no": 4,
+          "question": "You can play the guitar, ______?",
+          "options": {
+            "A": "don't you",
+            "B": "couldn't you",
+            "C": "can't you",
+            "D": "can you"
+          },
+          "answer": "C",
+          "explanation": "Động từ khuyết thiếu 'can', khẳng định → đuôi 'can't you'."
+        },
+        {
+          "no": 5,
+          "question": "Let's have a picnic this weekend, ______?",
+          "options": {
+            "A": "shall we",
+            "B": "let's we",
+            "C": "don't we",
+            "D": "will you"
+          },
+          "answer": "A",
+          "explanation": "Câu bắt đầu bằng 'Let's' (rủ rê) → đuôi 'shall we'."
+        },
+        {
+          "no": 6,
+          "question": "I'm late again, ______?",
+          "options": {
+            "A": "am not I",
+            "B": "don't I",
+            "C": "isn't I",
+            "D": "aren't I"
+          },
+          "answer": "D",
+          "explanation": "Trường hợp đặc biệt: I am → đuôi phủ định là 'aren't I'."
+        },
+        {
+          "no": 7,
+          "question": "The children have finished their homework, ______?",
+          "options": {
+            "A": "haven't they",
+            "B": "have they",
+            "C": "didn't they",
+            "D": "hasn't it"
+          },
+          "answer": "A",
+          "explanation": "Hiện tại hoàn thành 'have finished', khẳng định; 'the children' → they → 'haven't they'."
+        },
+        {
+          "no": 8,
+          "question": "Close the window, ______?",
+          "options": {
+            "A": "will you",
+            "B": "don't you",
+            "C": "do you",
+            "D": "are you"
+          },
+          "answer": "A",
+          "explanation": "Câu mệnh lệnh (yêu cầu) → đuôi 'will you'."
+        },
+        {
+          "no": 9,
+          "question": "Mai never goes to school late, ______?",
+          "options": {
+            "A": "did she",
+            "B": "isn't she",
+            "C": "does she",
+            "D": "doesn't she"
+          },
+          "answer": "C",
+          "explanation": "'never' mang nghĩa phủ định → đuôi khẳng định; hiện tại đơn với 'goes' → 'does she'."
+        },
+        {
+          "no": 10,
+          "question": "This is your new bike, ______?",
+          "options": {
+            "A": "doesn't it",
+            "B": "isn't it",
+            "C": "is it",
+            "D": "isn't this"
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ 'this' được thay bằng 'it' ở đuôi; khẳng định với 'is' → 'isn't it'."
+        },
+        {
+          "no": 11,
+          "question": "Your parents will come to the meeting, ______?",
+          "options": {
+            "A": "will they",
+            "B": "don't they",
+            "C": "aren't they",
+            "D": "won't they"
+          },
+          "answer": "D",
+          "explanation": "Tương lai đơn 'will', khẳng định → 'won't they'."
+        },
+        {
+          "no": 12,
+          "question": "Hoa wasn't at home yesterday, ______?",
+          "options": {
+            "A": "didn't she",
+            "B": "was she",
+            "C": "is she",
+            "D": "wasn't she"
+          },
+          "answer": "B",
+          "explanation": "Phủ định với 'wasn't' → đuôi khẳng định 'was she'."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Question tags",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/question-tags"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu hỏi đuôi",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-hoi-duoi-cd2025.jsp"
+    }
+  ]
+}

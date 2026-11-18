@@ -1,0 +1,232 @@
+{
+  "material_id": "MAT_TEXT_COHES",
+  "skill_id": "SK_TEXT_COHES",
+  "title": "Kỹ thuật chọn câu kết đoạn",
+  "target_level": 2,
+  "summary": "Giúp học sinh chọn đúng câu kết cho đoạn văn, lá thư và điền mệnh đề kết luận trong bài đọc theo dạng đề thi vào lớp 10 Hà Nội, tránh các bẫy câu quá hẹp, lạc đề hoặc mở ý mới.",
+  "theory": [
+    {
+      "heading": "Bốn tiêu chí của một câu kết tốt",
+      "points": [
+        "Đúng chủ đề: nhắc lại từ khóa hoặc từ đồng nghĩa của câu chủ đề.",
+        "Đủ phạm vi: bao quát TẤT CẢ các ý đã nêu, không chỉ một chi tiết.",
+        "Đúng hướng: cùng thái độ với đoạn văn (khen thì kết tích cực, cảnh báo thì kết bằng lời kêu gọi hành động).",
+        "Không mở ý mới: không bắt đầu bằng Firstly, Next, For example, Besides hay nêu thông tin chưa có."
+      ],
+      "examples": [
+        {
+          "en": "Living in the countryside has several advantages… In conclusion, life in the countryside can be healthy, affordable and friendly.",
+          "vi": "Sống ở nông thôn có nhiều ưu điểm… Tóm lại, cuộc sống ở nông thôn có thể lành mạnh, rẻ và thân thiện. (Gom đủ 3 ý: không khí, giá cả, con người.)"
+        }
+      ]
+    },
+    {
+      "heading": "Bốn kiểu bẫy thường gặp",
+      "points": [
+        "Bẫy 'quá hẹp': chỉ lặp lại một ý trong đoạn (In conclusion, the air in the countryside is fresh).",
+        "Bẫy 'lạc sang chủ đề gần': câu đúng sự thật nhưng nói về đối tượng khác (đoạn về chợ truyền thống lại kết bằng siêu thị).",
+        "Bẫy 'từ nối mở đầu': câu có Next, Firstly, Besides – dùng để mở ý, không dùng để kết.",
+        "Bẫy 'trái chiều': câu bắt đầu bằng However đưa ra ý ngược lại mà không được giải quyết."
+      ],
+      "examples": [
+        {
+          "en": "Although supermarkets are popular, traditional markets still play an important role… (Wrong) Supermarkets are usually air-conditioned.",
+          "vi": "Dù siêu thị phổ biến, chợ truyền thống vẫn quan trọng… Câu 'Siêu thị thường có điều hòa' đúng sự thật nhưng lạc trọng tâm, không thể làm câu kết."
+        }
+      ]
+    },
+    {
+      "heading": "Câu kết theo loại văn bản",
+      "points": [
+        "Đoạn lợi ích: For these reasons / Clearly / In short + nhận định chung hoặc lời khuyên.",
+        "Đoạn nêu vấn đề: Therefore + lời kêu gọi hành động.",
+        "Đoạn kể chuyện: cảm nghĩ về trải nghiệm (It was a memorable day…).",
+        "Thư: câu kết thân thư gắn với mục đích lá thư (từ chối lời mời → chúc vui; cảm ơn → Once again, thank you…)."
+      ],
+      "examples": [
+        {
+          "en": "Once again, thank you for your time and effort, and we hope the club will continue next year.",
+          "vi": "Một lần nữa, cảm ơn thầy đã dành thời gian và công sức, và chúng em mong câu lạc bộ sẽ tiếp tục vào năm sau."
+        }
+      ]
+    },
+    {
+      "heading": "Điền mệnh đề kết luận trong bài đọc (dạng 'In conclusion, ____')",
+      "points": [
+        "Sau 'In conclusion,' cần một mệnh đề độc lập đầy đủ (S + V), không thể là mệnh đề bắt đầu bằng 'which', 'so that'.",
+        "Mệnh đề đó phải tổng hợp các ý First / Secondly / Finally trong bài.",
+        "Kiểm tra phần đuôi phía sau chỗ trống (VD: ', and more citizens should… use it') để chắc chắn câu hoàn chỉnh về ngữ pháp và nghĩa."
+      ],
+      "examples": [
+        {
+          "en": "In conclusion, public transport is a cheap, green and convenient choice for city life.",
+          "vi": "Tóm lại, giao thông công cộng là lựa chọn rẻ, xanh và tiện lợi cho cuộc sống đô thị."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân từ khóa ở câu đầu đoạn; câu kết đúng gần như luôn chứa lại từ khóa đó hoặc đại từ quy chiếu tới nó.",
+    "Loại ngay các câu mở bằng Firstly, Next, For example, Besides – đó là tín hiệu mở ý chứ không phải kết.",
+    "So sánh phạm vi: câu kết phải 'ôm' được tất cả ý trong đoạn; câu chỉ nhắc một ý là bẫy quá hẹp.",
+    "Câu đúng sự thật chưa chắc là câu kết đúng – hỏi 'câu này có nói về đúng chủ đề của đoạn không?'.",
+    "Với thư, xác định mục đích lá thư (cảm ơn, mời, từ chối, xin lỗi) rồi chọn câu kết khớp mục đích."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu kết cho đoạn văn",
+      "instructions": "Choose the sentence (A, B, C or D) that can end each paragraph most appropriately.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Many young people in Viet Nam now choose to study vocational skills after secondary school. Vocational courses are usually shorter and cheaper than university programmes. They also give students practical skills that employers need. Moreover, graduates can find jobs quickly in fields such as cooking, electronics or car repair. ______",
+          "options": {
+            "A": "Some universities in Ha Noi have beautiful campuses.",
+            "B": "Clearly, vocational training can be a smart choice for many students.",
+            "C": "Firstly, vocational schools teach many different subjects.",
+            "D": "Cooking is a popular hobby among teenagers."
+          },
+          "answer": "B",
+          "explanation": "'Clearly' rút ra nhận định chung từ ba lợi ích (ngắn, rẻ; kỹ năng thực tế; dễ có việc) và lặp lại từ khóa 'vocational'. C mở đầu bằng 'Firstly' – dùng để mở ý; A lạc sang đại học; D lạc sang sở thích nấu ăn."
+        },
+        {
+          "no": 2,
+          "question": "Although supermarkets are becoming popular, traditional markets still play an important role in Vietnamese life. They sell fresh fruit, vegetables and meat at reasonable prices. Shoppers can bargain with sellers and chat with neighbours. For many people, going to the market is not just shopping but also a social activity. ______",
+          "options": {
+            "A": "Supermarkets are usually air-conditioned and clean.",
+            "B": "Next, many markets open very early in the morning.",
+            "C": "For these reasons, traditional markets will probably remain part of Vietnamese culture for a long time.",
+            "D": "Some sellers at the market are not very friendly."
+          },
+          "answer": "C",
+          "explanation": "'For these reasons' tổng hợp các ý (giá hợp lý, mặc cả, giao lưu) và quay lại từ khóa 'traditional markets' của câu chủ đề. A đúng sự thật nhưng lạc sang siêu thị; B có 'Next' mở ý mới; D trái với giọng tích cực của đoạn."
+        },
+        {
+          "no": 3,
+          "question": "Doing volunteer work benefits teenagers in many ways. It helps them develop skills such as teamwork and communication. It also makes them more responsible and confident. Most importantly, they learn to care about other people in the community. ______",
+          "options": {
+            "A": "In short, volunteering helps teenagers become better people while helping others.",
+            "B": "Volunteering is popular in many countries around the world.",
+            "C": "Teamwork is also important in sports.",
+            "D": "However, some teenagers are too busy with their homework."
+          },
+          "answer": "A",
+          "explanation": "'In short' báo hiệu tóm tắt; 'become better people' gom các lợi ích kỹ năng, trách nhiệm, sự quan tâm. D mở ra ý trái chiều mới mà không giải quyết; B, C chuyển sang phạm vi khác."
+        },
+        {
+          "no": 4,
+          "question": "Living in the countryside has several advantages. The air is fresh and there is less noise. Food is often cheaper because people can grow their own vegetables. Furthermore, people in villages tend to know and help one another. ______",
+          "options": {
+            "A": "In conclusion, the air in the countryside is fresh.",
+            "B": "In conclusion, life in the countryside can be healthy, affordable and friendly.",
+            "C": "In conclusion, cities have more job opportunities.",
+            "D": "In conclusion, I will move to the city next year."
+          },
+          "answer": "B",
+          "explanation": "Cả bốn câu đều có 'In conclusion', nên phải xét phạm vi. B gom đủ ba ý: healthy (không khí), affordable (đồ ăn rẻ), friendly (hàng xóm). A quá hẹp – chỉ lặp một ý; C, D lạc sang thành phố."
+        },
+        {
+          "no": 5,
+          "question": "Last Sunday, my class went on a picnic to Ba Vi National Park. We left school at 7 a.m. and arrived there two hours later. In the morning, we climbed to the top of the mountain and took lots of photos. After lunch, we played games and sang songs together by a small lake. ______",
+          "options": {
+            "A": "Ba Vi National Park is about 60 km from Ha Noi.",
+            "B": "Next, we will visit Cuc Phuong National Park.",
+            "C": "Some students forgot to bring their hats.",
+            "D": "It was a tiring but memorable day that none of us will ever forget."
+          },
+          "answer": "D",
+          "explanation": "Đoạn kể chuyện thường kết bằng cảm nghĩ về trải nghiệm; 'It' quy chiếu 'last Sunday/chuyến đi', 'tiring but memorable' tổng kết cả ngày leo núi và vui chơi. A là chi tiết thông tin; B mở kế hoạch mới; C là chi tiết nhỏ."
+        },
+        {
+          "no": 6,
+          "question": "Plastic waste is a serious problem in many Vietnamese cities. Every day, tonnes of plastic bags and bottles are thrown away. Much of this waste ends up in rivers and the sea, where it harms fish and other animals. It can take hundreds of years for plastic to break down. ______",
+          "options": {
+            "A": "Therefore, everyone should take action to use less plastic in daily life.",
+            "B": "Fish is an important part of the Vietnamese diet.",
+            "C": "Plastic was invented more than a hundred years ago.",
+            "D": "Many cities have beautiful rivers and lakes."
+          },
+          "answer": "A",
+          "explanation": "Đoạn nêu vấn đề nên câu kết hợp lý là lời kêu gọi hành động bắt đầu bằng 'Therefore'. B, C, D là thông tin phụ, không giải quyết vấn đề được nêu."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu kết cho lá thư",
+      "instructions": "Choose the sentence (A, B, C or D) that best completes each letter before the closing.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "Dear Jane,\nThank you for inviting me to your birthday party next Saturday. I would love to come, but unfortunately my family is going to visit my grandparents in Nam Dinh that weekend. I'm really sorry that I'll miss it. ______\nBest wishes,\nMai",
+          "options": {
+            "A": "My grandparents live in a small house with a big garden.",
+            "B": "I'm writing to invite you to my party.",
+            "C": "First, tell me what time the party starts.",
+            "D": "I hope you have a wonderful party, and I'll give you your present when I see you at school."
+          },
+          "answer": "D",
+          "explanation": "Mục đích thư là từ chối lời mời một cách lịch sự, nên kết bằng lời chúc và hẹn tặng quà là phù hợp; 'party' lặp lại từ khóa của thư. A là chi tiết lạc đề; B là câu mở thư mời (sai mục đích); C có 'First' và mâu thuẫn với việc không đi được."
+        },
+        {
+          "no": 8,
+          "question": "Dear Mr Brown,\nI am writing to thank you for the English club you organised for our class this term. The activities were fun and helped us become more confident when speaking English. Many of my classmates now enjoy learning English much more than before. ______\nYours sincerely,\nTran Minh Duc",
+          "options": {
+            "A": "English is spoken in many countries.",
+            "B": "Could you tell me how to get to your school?",
+            "C": "Once again, thank you for your time and effort, and we hope the club will continue next year.",
+            "D": "I'm sorry for being late for class yesterday."
+          },
+          "answer": "C",
+          "explanation": "Thư cảm ơn nên câu kết 'Once again, thank you…' nhắc lại mục đích ở câu mở đầu ('I am writing to thank you') và 'the club' quy chiếu câu lạc bộ đã nêu. B, D đổi sang mục đích khác; A là nhận định chung chung."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Điền mệnh đề vào bài đọc",
+      "instructions": "Read the text and choose the option (A, B, C or D) that best fits each numbered blank.",
+      "passage": "Every morning, the streets of Ha Noi are packed with motorbikes and cars, and many people spend hours stuck in traffic jams. Public transport offers many benefits to people living in a busy capital like this. First of all, travelling by bus or metro is cheaper than using a private car, (9) ______. Secondly, when more people take public transport, there are fewer vehicles on the roads, so traffic jams and air pollution are reduced. The new metro lines, for example, can carry thousands of passengers every hour. Finally, passengers can read, listen to music or simply relax during their journey instead of concentrating on driving through busy streets. In conclusion, (10) ______, and more citizens should be encouraged to use it.",
+      "questions": [
+        {
+          "no": 9,
+          "question": "Choose the option that best fits blank (9).",
+          "options": {
+            "A": "which means passengers spend less money on fuel and parking",
+            "B": "public transport is a cheap, green and convenient choice for city life",
+            "C": "buses are sometimes late in bad weather",
+            "D": "so many people prefer driving their own cars"
+          },
+          "answer": "A",
+          "explanation": "Sau dấu phẩy cần một mệnh đề bổ sung cho ý 'cheaper'; 'which means…' giải thích vì sao rẻ hơn (tiết kiệm xăng, phí gửi xe). C, D trái với ý lợi ích; B là câu tổng kết, dành cho chỗ (10)."
+        },
+        {
+          "no": 10,
+          "question": "Choose the option that best fits blank (10).",
+          "options": {
+            "A": "which means passengers spend less money on fuel and parking",
+            "B": "public transport is a cheap, green and convenient choice for city life",
+            "C": "buses are sometimes late in bad weather",
+            "D": "so many people prefer driving their own cars"
+          },
+          "answer": "B",
+          "explanation": "Sau 'In conclusion,' cần mệnh đề độc lập tổng kết cả ba ý: cheap (First), green (Secondly – ít ô nhiễm), convenient (Finally – thư giãn); 'it' ở cuối câu quy chiếu 'public transport'. A bắt đầu bằng 'which' không đứng sau 'In conclusion,' được; C, D ngược ý."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "UNC Writing Center – Conclusions",
+      "url": "https://writingcenter.unc.edu/tips-and-tools/conclusions/"
+    },
+    {
+      "title": "Pantado – Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội năm 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "HOCMAI – Đề thi tuyển sinh lớp 10 môn Tiếng Anh Hà Nội năm 2025, hướng dẫn giải",
+      "url": "https://huongnghiep.hocmai.vn/thi-vao-10-de-thi-tuyen-sinh-lop-10-mon-tieng-anh-ha-noi-nam-2025-huong-dan-giai-chi-tiet"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "material_id": "MAT_PASSIVE_01",
+  "skill_id": "SK_PASSIVE_VOICE",
+  "title": "Nguyên tắc chuyển đổi câu bị động cơ bản các thì",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm công thức chung be + V3 và chuyển câu chủ động sang bị động đúng ở các thì cơ bản (hiện tại đơn, hiện tại tiếp diễn, hiện tại hoàn thành, quá khứ đơn, tương lai đơn) và với động từ khuyết thiếu.",
+  "theory": [
+    {
+      "heading": "Công thức chung và các bước chuyển đổi",
+      "points": [
+        "Chủ động: S + V + O → Bị động: O + be (chia theo thì của V) + V3/V-ed + (by + tác nhân).",
+        "Bước 1: lấy tân ngữ làm chủ ngữ mới. Bước 2: xác định thì của động từ chủ động. Bước 3: chia 'be' theo thì đó và theo chủ ngữ mới + V3. Bước 4: thêm 'by + O' nếu cần.",
+        "Bỏ 'by + O' khi tác nhân không rõ hoặc chung chung: by people, by someone, by them."
+      ],
+      "examples": [
+        {
+          "en": "They clean the classroom every day. → The classroom is cleaned every day.",
+          "vi": "Lớp học được lau dọn mỗi ngày."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động ở các thì cơ bản",
+      "points": [
+        "Hiện tại đơn: am/is/are + V3. Quá khứ đơn: was/were + V3.",
+        "Hiện tại tiếp diễn: am/is/are + being + V3.",
+        "Hiện tại hoàn thành: have/has + been + V3.",
+        "Tương lai đơn: will + be + V3. Be going to: am/is/are going to + be + V3."
+      ],
+      "examples": [
+        {
+          "en": "A new bridge is being built over the river.",
+          "vi": "Một cây cầu mới đang được xây qua sông."
+        },
+        {
+          "en": "The letters will be sent tomorrow.",
+          "vi": "Những bức thư sẽ được gửi vào ngày mai."
+        }
+      ]
+    },
+    {
+      "heading": "Bị động với động từ khuyết thiếu",
+      "points": [
+        "can/could/may/might/must/should + be + V3.",
+        "Ví dụ: You must finish the work. → The work must be finished."
+      ],
+      "examples": [
+        {
+          "en": "This problem can be solved easily.",
+          "vi": "Vấn đề này có thể được giải quyết dễ dàng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Chủ ngữ là vật chịu tác động (nhà được xây, thư được gửi) → nghĩ ngay đến bị động.",
+    "Thì của 'be' trong câu bị động phải giống thì của động từ trong câu chủ động.",
+    "Học thuộc cột V3 của động từ bất quy tắc: build-built, write-written, steal-stolen, speak-spoken, break-broken.",
+    "Chia 'be' theo chủ ngữ MỚI: số ít is/was/has, số nhiều are/were/have."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn đáp án đúng",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "English ______ in many countries all over the world.",
+          "options": {
+            "A": "spoke",
+            "B": "is speaking",
+            "C": "is spoken",
+            "D": "speaks"
+          },
+          "answer": "C",
+          "explanation": "Tiếng Anh được nói (bị động), sự thật hiện tại → is + V3 'is spoken'."
+        },
+        {
+          "no": 2,
+          "question": "This house ______ in 1990.",
+          "options": {
+            "A": "built",
+            "B": "was built",
+            "C": "has built",
+            "D": "is built"
+          },
+          "answer": "B",
+          "explanation": "Ngôi nhà được xây năm 1990 (quá khứ, bị động) → 'was built'."
+        },
+        {
+          "no": 3,
+          "question": "The letters ______ tomorrow morning.",
+          "options": {
+            "A": "sent",
+            "B": "are sent",
+            "C": "will send",
+            "D": "will be sent"
+          },
+          "answer": "D",
+          "explanation": "Tương lai (tomorrow), bị động → will + be + V3 'will be sent'."
+        },
+        {
+          "no": 4,
+          "question": "A new bridge ______ in our town at the moment.",
+          "options": {
+            "A": "is being built",
+            "B": "has built",
+            "C": "builds",
+            "D": "is building"
+          },
+          "answer": "A",
+          "explanation": "'at the moment' → hiện tại tiếp diễn bị động: is + being + V3."
+        },
+        {
+          "no": 5,
+          "question": "The homework ______ already.",
+          "options": {
+            "A": "did",
+            "B": "is doing",
+            "C": "has been done",
+            "D": "has done"
+          },
+          "answer": "C",
+          "explanation": "'already' → hiện tại hoàn thành bị động: has + been + V3."
+        },
+        {
+          "no": 6,
+          "question": "Many trees ______ in this park every year.",
+          "options": {
+            "A": "plant",
+            "B": "are planting",
+            "C": "are planted",
+            "D": "planted"
+          },
+          "answer": "C",
+          "explanation": "Cây được trồng hằng năm → hiện tại đơn bị động, chủ ngữ số nhiều: 'are planted'."
+        },
+        {
+          "no": 7,
+          "question": "The window ______ by the boys yesterday.",
+          "options": {
+            "A": "breaks",
+            "B": "was broken",
+            "C": "is broken",
+            "D": "broke"
+          },
+          "answer": "B",
+          "explanation": "'by the boys' + 'yesterday' → quá khứ đơn bị động 'was broken'."
+        },
+        {
+          "no": 8,
+          "question": "This problem can ______ easily.",
+          "options": {
+            "A": "be solved",
+            "B": "solve",
+            "C": "solved",
+            "D": "be solving"
+          },
+          "answer": "A",
+          "explanation": "Bị động với động từ khuyết thiếu: can + be + V3."
+        },
+        {
+          "no": 9,
+          "question": "The children ______ to the zoo by their parents last Sunday.",
+          "options": {
+            "A": "were taken",
+            "B": "took",
+            "C": "are taken",
+            "D": "take"
+          },
+          "answer": "A",
+          "explanation": "Bọn trẻ được bố mẹ đưa đi (by their parents), 'last Sunday' → 'were taken'."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu bị động tương ứng",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "They clean the classroom every day.",
+          "options": {
+            "A": "The classroom is cleaned every day.",
+            "B": "The classroom cleans every day.",
+            "C": "The classroom was cleaned every day.",
+            "D": "The classroom is cleaning every day."
+          },
+          "answer": "A",
+          "explanation": "Hiện tại đơn → is + V3; bỏ 'by them'."
+        },
+        {
+          "no": 11,
+          "question": "Somebody stole my bike last night.",
+          "options": {
+            "A": "My bike has been stolen last night.",
+            "B": "My bike was stolen last night.",
+            "C": "My bike is stolen last night.",
+            "D": "My bike stole last night."
+          },
+          "answer": "B",
+          "explanation": "Quá khứ đơn → was + V3 'was stolen'. A sai vì hiện tại hoàn thành không đi với 'last night'."
+        },
+        {
+          "no": 12,
+          "question": "Mr Nam will teach us English next year.",
+          "options": {
+            "A": "We are taught English by Mr Nam next year.",
+            "B": "We will teach English by Mr Nam next year.",
+            "C": "English will teach us by Mr Nam next year.",
+            "D": "We will be taught English by Mr Nam next year."
+          },
+          "answer": "D",
+          "explanation": "Tương lai đơn → will + be + V3; tân ngữ chỉ người 'us' → chủ ngữ 'We'."
+        },
+        {
+          "no": 13,
+          "question": "They have repaired the road near my house.",
+          "options": {
+            "A": "The road near my house has repaired.",
+            "B": "The road near my house is repaired by they.",
+            "C": "The road near my house was being repaired.",
+            "D": "The road near my house has been repaired."
+          },
+          "answer": "D",
+          "explanation": "Hiện tại hoàn thành → has + been + V3."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Passives",
+      "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passives"
+    },
+    {
+      "title": "VietJack – (Ôn thi Tiếng Anh vào 10) Chuyên đề Câu bị động",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cau-bi-dong-cd2025.jsp"
+    }
+  ]
+}

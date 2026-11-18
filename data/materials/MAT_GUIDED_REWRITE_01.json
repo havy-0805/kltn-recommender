@@ -1,0 +1,234 @@
+{
+  "material_id": "MAT_GUIDED_REWRITE_01",
+  "skill_id": "SK_GUIDED_REWRITE",
+  "title": "Phương pháp làm bài viết lại câu với từ gợi ý cơ bản",
+  "target_level": 1,
+  "summary": "Giúp học sinh nắm quy trình dựng câu hoàn chỉnh từ các từ gợi ý (dạng \"word / word / word\") và chọn đúng câu được tạo từ gợi ý trong đề thi vào lớp 10.",
+  "theory": [
+    {
+      "heading": "Quy trình 4 bước dựng câu từ gợi ý",
+      "points": [
+        "Bước 1: Xác định chủ ngữ và động từ chính trong dãy gợi ý",
+        "Bước 2: Tìm dấu hiệu thời gian (yesterday, since, now, every day…) để chia thì",
+        "Bước 3: Chia động từ hòa hợp với chủ ngữ (số ít/số nhiều)",
+        "Bước 4: Thêm từ còn thiếu: mạo từ (a/an/the), giới từ (in/on/at/to), tính từ sở hữu, to be",
+        "Giữ nguyên thứ tự các từ gợi ý; không thêm bớt làm đổi nghĩa"
+      ],
+      "examples": [
+        {
+          "en": "My sister / like / read / comic books / free time → My sister likes reading comic books in her free time.",
+          "vi": "Chị tôi thích đọc truyện tranh lúc rảnh."
+        }
+      ]
+    },
+    {
+      "heading": "Những từ hay phải thêm vào",
+      "points": [
+        "Giới từ đi theo động từ/tính từ: go to school, interested in, listen to",
+        "Mạo từ: the environment, the river, a lot of",
+        "Động từ to be khi gợi ý là tính từ: she / ill → she was ill",
+        "Cấu trúc cố định: like + V-ing, It takes sb + time + to V, There is/are + N"
+      ],
+      "examples": [
+        {
+          "en": "She / not / go / school / yesterday / because / she / ill → She didn't go to school yesterday because she was ill.",
+          "vi": "Hôm qua cô ấy không đi học vì bị ốm."
+        },
+        {
+          "en": "There / be / many / tall buildings / my city → There are many tall buildings in my city.",
+          "vi": "Có nhiều tòa nhà cao tầng ở thành phố tôi."
+        }
+      ]
+    },
+    {
+      "heading": "Lỗi thường gặp khi chọn đáp án",
+      "points": [
+        "Thiếu \"to be\" trước tính từ hoặc V-ing (The children swimming …)",
+        "Chia sai thì so với dấu hiệu thời gian; dùng V2 sau \"didn't\"",
+        "Nhầm giới từ (on my city, in 6 p.m.) hoặc thiếu giới từ (go school)"
+      ],
+      "examples": [
+        {
+          "en": "Look! / children / swim / the river → Look! The children are swimming in the river.",
+          "vi": "Nhìn kìa! Bọn trẻ đang bơi dưới sông."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "So sánh 4 phương án theo từng cụm: thường chúng chỉ khác nhau một chỗ (thì, giới từ, mạo từ) – tìm chỗ khác biệt rồi kiểm tra.",
+    "Gạch chân dấu hiệu thời gian trong dãy gợi ý trước khi đọc phương án.",
+    "Ưu tiên kiểm tra theo thứ tự: động từ (thì + hòa hợp) → giới từ → mạo từ.",
+    "Câu đúng phải đủ chủ ngữ và động từ chia; thiếu to be hoặc trợ động từ là loại ngay."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn câu được tạo đúng từ gợi ý",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "My sister / like / read / comic books / free time.",
+          "options": {
+            "A": "My sister likes reading comic books in her free time.",
+            "B": "My sister like reading comic books in her free time.",
+            "C": "My sister likes read comic books on her free time.",
+            "D": "My sister liking reading comic books in free time."
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ số ít → likes; like + V-ing; cụm \"in one's free time\"."
+        },
+        {
+          "no": 2,
+          "question": "We / visit / grandparents / last Sunday.",
+          "options": {
+            "A": "We have visited our grandparents last Sunday.",
+            "B": "We visited ours grandparents last Sunday.",
+            "C": "We visit our grandparents last Sunday.",
+            "D": "We visited our grandparents last Sunday."
+          },
+          "answer": "D",
+          "explanation": "\"last Sunday\" → quá khứ đơn \"visited\"; trước danh từ dùng tính từ sở hữu \"our\", không dùng \"ours\"."
+        },
+        {
+          "no": 3,
+          "question": "Nam / play / football / since / he / be / six.",
+          "options": {
+            "A": "Nam played football since he was six.",
+            "B": "Nam has played football since he was six.",
+            "C": "Nam plays football since he was six.",
+            "D": "Nam has played football since he is six."
+          },
+          "answer": "B",
+          "explanation": "\"since\" → mệnh đề chính hiện tại hoàn thành, mệnh đề sau since quá khứ đơn (was six)."
+        },
+        {
+          "no": 4,
+          "question": "There / be / many / tall buildings / my city.",
+          "options": {
+            "A": "There are much tall buildings in my city.",
+            "B": "There are many tall buildings on my city.",
+            "C": "There are many tall buildings in my city.",
+            "D": "There is many tall buildings in my city."
+          },
+          "answer": "C",
+          "explanation": "Danh từ số nhiều → \"There are\"; \"many\" với danh từ đếm được; thành phố dùng \"in\"."
+        },
+        {
+          "no": 5,
+          "question": "She / not / go / school / yesterday / because / she / ill.",
+          "options": {
+            "A": "She didn't go to school yesterday because she was ill.",
+            "B": "She doesn't go to school yesterday because she is ill.",
+            "C": "She didn't go school yesterday because she was ill.",
+            "D": "She didn't went to school yesterday because she was ill."
+          },
+          "answer": "A",
+          "explanation": "\"yesterday\" → quá khứ đơn; \"go to school\"; sau \"didn't\" dùng V nguyên mẫu; thêm \"was\" trước tính từ \"ill\"."
+        },
+        {
+          "no": 6,
+          "question": "Look! / children / swim / the river.",
+          "options": {
+            "A": "Look! The children swim in the river.",
+            "B": "Look! The children is swimming in the river.",
+            "C": "Look! The children swimming in the river.",
+            "D": "Look! The children are swimming in the river."
+          },
+          "answer": "D",
+          "explanation": "\"Look!\" → hiện tại tiếp diễn; chủ ngữ số nhiều → \"are swimming\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu được tạo đúng từ gợi ý (tiếp)",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 7,
+          "question": "My mother / usually / cook / dinner / 6 p.m.",
+          "options": {
+            "A": "My mother usually cooks dinner in 6 p.m.",
+            "B": "My mother usually cooks dinner at 6 p.m.",
+            "C": "My mother usually cook dinner at 6 p.m.",
+            "D": "My mother cooks usually dinner at 6 p.m."
+          },
+          "answer": "B",
+          "explanation": "Trạng từ tần suất đứng trước động từ thường; chủ ngữ số ít → cooks; giờ cụ thể dùng \"at\"."
+        },
+        {
+          "no": 8,
+          "question": "I / interested / learn / English songs.",
+          "options": {
+            "A": "I am interested in learning English songs.",
+            "B": "I am interesting in learning English songs.",
+            "C": "I interested in learning English songs.",
+            "D": "I am interested on learning English songs."
+          },
+          "answer": "A",
+          "explanation": "Cần \"am\" trước tính từ; \"be interested in + V-ing\"; người cảm thấy hứng thú dùng tính từ -ed."
+        },
+        {
+          "no": 9,
+          "question": "This book / more / interesting / that one.",
+          "options": {
+            "A": "This book is more interesting that that one.",
+            "B": "This book more interesting than that one.",
+            "C": "This book is interestinger than that one.",
+            "D": "This book is more interesting than that one."
+          },
+          "answer": "D",
+          "explanation": "So sánh hơn tính từ dài: be + more + adj + than."
+        },
+        {
+          "no": 10,
+          "question": "We / should / protect / environment / future generations.",
+          "options": {
+            "A": "We should protect environment to future generations.",
+            "B": "We should to protect the environment for future generations.",
+            "C": "We should protect the environment for future generations.",
+            "D": "We should protecting the environment for future generations."
+          },
+          "answer": "C",
+          "explanation": "Sau \"should\" dùng V nguyên mẫu; \"the environment\" luôn có mạo từ; \"for future generations\" (vì các thế hệ tương lai)."
+        },
+        {
+          "no": 11,
+          "question": "He / be / tired / so / he / go / bed / early / last night.",
+          "options": {
+            "A": "He was tired, so he goes to bed early last night.",
+            "B": "He was tired, so he went to bed early last night.",
+            "C": "He is tired, so he went to bed early last night.",
+            "D": "He was tired, so he went to the bed early last night."
+          },
+          "answer": "B",
+          "explanation": "\"last night\" → cả hai vế quá khứ đơn; \"go to bed\" (đi ngủ) không có mạo từ."
+        },
+        {
+          "no": 12,
+          "question": "How long / it / take / you / get / school?",
+          "options": {
+            "A": "How long does it take you getting to school?",
+            "B": "How long it takes you to get to school?",
+            "C": "How long does it take you to get to school?",
+            "D": "How long does it takes you to get to school?"
+          },
+          "answer": "C",
+          "explanation": "Câu hỏi hiện tại đơn cần trợ động từ \"does\" + V nguyên mẫu; cấu trúc \"It takes sb + time + to V\"; \"get to school\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    },
+    {
+      "title": "ZIM – Viết lại câu thi vào 10",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    }
+  ]
+}

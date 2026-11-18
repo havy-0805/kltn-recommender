@@ -1,0 +1,254 @@
+{
+  "material_id": "MAT_CD26",
+  "skill_id": "SK_SYNONYM_ANTONYM",
+  "title": "Chuyên đề Đồng nghĩa - Trái nghĩa",
+  "target_level": 2,
+  "summary": "Giúp học sinh xử lý dạng câu tìm từ đồng nghĩa (CLOSEST in meaning) và trái nghĩa (OPPOSITE in meaning) trong câu đơn và trong bài đọc, dựa vào ngữ cảnh, cấu tạo từ và các cặp từ thường gặp.",
+  "theory": [
+    {
+      "heading": "Nhận diện yêu cầu đề bài",
+      "points": [
+        "CLOSEST in meaning to = tìm từ ĐỒNG NGHĨA; OPPOSITE in meaning to = tìm từ TRÁI NGHĨA. Gạch chân yêu cầu này trước khi làm để không chọn ngược.",
+        "Đáp án nhiễu thường là từ trái nghĩa khi đề hỏi đồng nghĩa (và ngược lại), hoặc từ có nghĩa gần nhưng sai ngữ cảnh."
+      ],
+      "examples": [
+        {
+          "en": "The city is very CROWDED at the weekend. → CLOSEST: packed",
+          "vi": "Thành phố rất đông đúc vào cuối tuần. → đồng nghĩa: chật ních"
+        },
+        {
+          "en": "Life in the countryside is PEACEFUL. → OPPOSITE: hectic",
+          "vi": "Cuộc sống ở nông thôn yên bình. → trái nghĩa: hối hả, náo nhiệt"
+        }
+      ]
+    },
+    {
+      "heading": "Đoán nghĩa từ ngữ cảnh",
+      "points": [
+        "Dựa vào từ nối: \"but, however, although\" báo hiệu ý trái ngược; \"and, so, because\" báo hiệu ý tương đồng hoặc hệ quả.",
+        "Dựa vào ví dụ, giải thích đi kèm: \"She always shares things with her friends\" → generous = rộng lượng.",
+        "Trong bài đọc, đọc cả câu chứa từ và một câu trước/sau; thay thử từng phương án vào câu xem nghĩa có giữ nguyên (đồng nghĩa) hoặc đảo ngược (trái nghĩa) không."
+      ],
+      "examples": [
+        {
+          "en": "At first they were shy, but later they became confident.",
+          "vi": "Lúc đầu họ ngại ngùng nhưng sau đó trở nên tự tin. (shy ≠ confident)"
+        }
+      ]
+    },
+    {
+      "heading": "Các cặp đồng nghĩa – trái nghĩa hay gặp",
+      "points": [
+        "Đồng nghĩa: ancient = very old; destroy = ruin; demolish = pull down; improve = enhance; valuable = useful/precious; delighted = very happy.",
+        "Trái nghĩa: reduce ≠ increase; absent ≠ present; generous ≠ mean; pleased ≠ disappointed; huge ≠ tiny; peaceful ≠ hectic/noisy.",
+        "Trái nghĩa bằng tiền tố: able ≠ unable, honest ≠ dishonest, legal ≠ illegal, possible ≠ impossible."
+      ],
+      "examples": [
+        {
+          "en": "We must reduce plastic waste. ≠ Plastic waste is increasing.",
+          "vi": "Chúng ta phải giảm rác thải nhựa. ≠ Rác thải nhựa đang tăng."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Gạch chân CLOSEST hay OPPOSITE trước tiên. Rất nhiều bạn mất điểm vì làm ngược yêu cầu.",
+    "Thay từng phương án vào câu gốc: nếu câu vẫn đúng nghĩa thì đó là từ đồng nghĩa; nếu nghĩa bị đảo ngược hoàn toàn thì đó là từ trái nghĩa.",
+    "Cẩn thận \"bẫy nghĩa phụ\": valuable có thể là \"đắt tiền\" (valuable jewellery) hoặc \"hữu ích\" (valuable lessons). Ngữ cảnh quyết định.",
+    "Khi không biết nghĩa từ, phân tích cấu tạo từ (tiền tố un-/dis-, hậu tố -less) và dấu hiệu từ nối trong câu."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Đồng nghĩa – trái nghĩa trong câu",
+      "instructions": "Mark the letter A, B, C or D to indicate the word(s) CLOSEST or OPPOSITE in meaning to the word in CAPITALS in each of the following questions.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The city centre is always CROWDED at weekends. (CLOSEST in meaning)",
+          "options": {
+            "A": "quiet",
+            "B": "packed",
+            "C": "clean",
+            "D": "empty"
+          },
+          "answer": "B",
+          "explanation": "\"crowded\" (đông đúc) đồng nghĩa với \"packed\" (chật ních). \"empty\", \"quiet\" mang nghĩa ngược lại."
+        },
+        {
+          "no": 2,
+          "question": "Many old buildings have been DEMOLISHED to make way for new roads. (CLOSEST in meaning)",
+          "options": {
+            "A": "pulled down",
+            "B": "repaired",
+            "C": "decorated",
+            "D": "built up"
+          },
+          "answer": "A",
+          "explanation": "\"demolish\" (phá hủy công trình) đồng nghĩa với \"pull down\" (dỡ bỏ, kéo đổ)."
+        },
+        {
+          "no": 3,
+          "question": "Our teacher was PLEASED with our project on recycling. (OPPOSITE in meaning)",
+          "options": {
+            "A": "happy",
+            "B": "satisfied",
+            "C": "excited",
+            "D": "disappointed"
+          },
+          "answer": "D",
+          "explanation": "\"pleased\" (hài lòng) trái nghĩa với \"disappointed\" (thất vọng). \"satisfied\", \"happy\" là từ đồng nghĩa, là bẫy."
+        },
+        {
+          "no": 4,
+          "question": "Hoa is a very GENEROUS person; she always shares her things with her friends. (OPPOSITE in meaning)",
+          "options": {
+            "A": "mean",
+            "B": "kind",
+            "C": "friendly",
+            "D": "honest"
+          },
+          "answer": "A",
+          "explanation": "\"generous\" (hào phóng) trái nghĩa với \"mean\" (keo kiệt, bủn xỉn)."
+        },
+        {
+          "no": 5,
+          "question": "Doing exercise regularly can IMPROVE both your physical and mental health. (CLOSEST in meaning)",
+          "options": {
+            "A": "damage",
+            "B": "ignore",
+            "C": "enhance",
+            "D": "reduce"
+          },
+          "answer": "C",
+          "explanation": "\"improve\" (cải thiện) đồng nghĩa với \"enhance\" (nâng cao)."
+        },
+        {
+          "no": 6,
+          "question": "We visited an ANCIENT temple that was built over a thousand years ago. (CLOSEST in meaning)",
+          "options": {
+            "A": "modern",
+            "B": "very old",
+            "C": "famous",
+            "D": "very large"
+          },
+          "answer": "B",
+          "explanation": "\"ancient\" (cổ xưa) đồng nghĩa với \"very old\"; ngữ cảnh \"built over a thousand years ago\" xác nhận nghĩa này."
+        },
+        {
+          "no": 7,
+          "question": "Life in the countryside is PEACEFUL, so my grandparents never want to move to the city. (OPPOSITE in meaning)",
+          "options": {
+            "A": "relaxing",
+            "B": "hectic",
+            "C": "calm",
+            "D": "quiet"
+          },
+          "answer": "B",
+          "explanation": "\"peaceful\" (yên bình) trái nghĩa với \"hectic\" (hối hả, bận rộn). Ba phương án còn lại đều là từ gần nghĩa."
+        },
+        {
+          "no": 8,
+          "question": "We must REDUCE the amount of plastic we use every day. (OPPOSITE in meaning)",
+          "options": {
+            "A": "decrease",
+            "B": "increase",
+            "C": "lower",
+            "D": "cut down"
+          },
+          "answer": "B",
+          "explanation": "\"reduce\" (giảm) trái nghĩa với \"increase\" (tăng). \"cut down\", \"lower\", \"decrease\" đều đồng nghĩa với reduce."
+        },
+        {
+          "no": 9,
+          "question": "Nam was ABSENT from class yesterday because he had a high fever. (OPPOSITE in meaning)",
+          "options": {
+            "A": "missing",
+            "B": "late",
+            "C": "away",
+            "D": "present"
+          },
+          "answer": "D",
+          "explanation": "\"absent\" (vắng mặt) trái nghĩa với \"present\" (có mặt)."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Đồng nghĩa – trái nghĩa trong bài đọc",
+      "instructions": "Read the passage and mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "passage": "Every summer, a group of students in my neighbourhood spends two weeks helping elderly people who live alone. At first, many of the students were shy and did not know how to start a conversation. However, after a few days, they became much more confident. They cleaned houses, cooked simple meals and listened to the old people's stories about the past. Some of the elderly had not had any visitors for months, so they were delighted to see the young people.\n\nThe students also learned many valuable lessons. They realised that small actions, such as a phone call or a short visit, can make a huge difference to someone's life. One student said the experience had completely changed her attitude towards older people. She used to think they were boring, but now she finds them wise and interesting. The project has been so successful that the local council has decided to expand it to other areas next year.",
+      "questions": [
+        {
+          "no": 10,
+          "question": "The word \"delighted\" in paragraph 1 is CLOSEST in meaning to ______.",
+          "options": {
+            "A": "very happy",
+            "B": "worried",
+            "C": "surprised",
+            "D": "tired"
+          },
+          "answer": "A",
+          "explanation": "\"delighted\" = rất vui mừng. Ngữ cảnh: người già lâu không có khách nên vui khi thấy các bạn trẻ."
+        },
+        {
+          "no": 11,
+          "question": "The word \"confident\" in paragraph 1 is OPPOSITE in meaning to ______.",
+          "options": {
+            "A": "brave",
+            "B": "proud",
+            "C": "shy",
+            "D": "clever"
+          },
+          "answer": "C",
+          "explanation": "\"confident\" (tự tin) trái nghĩa với \"shy\" (nhút nhát). Bài đọc dùng \"However\" để đối lập hai trạng thái này."
+        },
+        {
+          "no": 12,
+          "question": "The word \"valuable\" in paragraph 2 is CLOSEST in meaning to ______.",
+          "options": {
+            "A": "boring",
+            "B": "expensive",
+            "C": "difficult",
+            "D": "useful"
+          },
+          "answer": "D",
+          "explanation": "Trong cụm \"valuable lessons\", valuable mang nghĩa \"quý giá, hữu ích\" → \"useful\". \"expensive\" (đắt tiền) là nghĩa khác của valuable, không hợp với \"lessons\"."
+        },
+        {
+          "no": 13,
+          "question": "The word \"huge\" in paragraph 2 is OPPOSITE in meaning to ______.",
+          "options": {
+            "A": "strong",
+            "B": "great",
+            "C": "tiny",
+            "D": "large"
+          },
+          "answer": "C",
+          "explanation": "\"huge\" (rất lớn) trái nghĩa với \"tiny\" (rất nhỏ). \"large\", \"great\" là từ đồng nghĩa."
+        },
+        {
+          "no": 14,
+          "question": "The word \"expand\" in paragraph 2 is CLOSEST in meaning to ______.",
+          "options": {
+            "A": "extend",
+            "B": "stop",
+            "C": "hide",
+            "D": "reduce"
+          },
+          "answer": "A",
+          "explanation": "\"expand it to other areas\" = mở rộng dự án sang khu vực khác → đồng nghĩa với \"extend\". \"reduce\", \"stop\" mang nghĩa ngược lại."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Pantado - Đề minh họa môn Tiếng Anh vào lớp 10 Hà Nội 2025",
+      "url": "https://pantado.edu.vn/de-minh-hoa-mon-tieng-anh-vao-lop-10-ha-noi-nam-2025"
+    },
+    {
+      "title": "VietJack - Chuyên đề Cụm động từ (dạng tìm từ đồng/trái nghĩa)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/chuyen-de-cum-dong-tu-cd2025.jsp"
+    }
+  ]
+}

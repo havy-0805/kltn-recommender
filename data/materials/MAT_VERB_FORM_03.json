@@ -1,0 +1,260 @@
+{
+  "material_id": "MAT_VERB_FORM_03",
+  "skill_id": "SK_VERB_FORMS",
+  "title": "Động từ biến đổi nghĩa theo sau (Remember, Stop, Forget, Regret, Try)",
+  "target_level": 3,
+  "summary": "Giúp học sinh phân biệt nghĩa khi Remember, Forget, Stop, Regret, Try (và Need, Go on, Mean) đi với To-inf hoặc V-ing, từ đó xử lý các câu bẫy về nghĩa và câu viết lại ở mức điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Remember / Forget",
+      "points": [
+        "remember / forget + to V: nhớ / quên PHẢI làm việc gì (việc chưa làm, hướng tới tương lai).",
+        "remember / forget + V-ing: nhớ / quên ĐÃ làm việc gì (ký ức về việc đã xảy ra).",
+        "'I'll never forget + V-ing' thường dùng cho kỷ niệm đáng nhớ."
+      ],
+      "examples": [
+        {
+          "en": "Remember to lock the door when you go out.",
+          "vi": "Nhớ khóa cửa khi ra ngoài nhé (việc cần làm)."
+        },
+        {
+          "en": "I remember locking the door, but now it's open.",
+          "vi": "Tôi nhớ là đã khóa cửa rồi, nhưng giờ nó lại mở (việc đã làm)."
+        }
+      ]
+    },
+    {
+      "heading": "Stop / Regret",
+      "points": [
+        "stop + V-ing: ngừng hẳn việc đang làm. stop + to V: dừng lại (việc khác) ĐỂ làm việc này.",
+        "regret + V-ing: hối tiếc vì đã làm gì. regret + to V (thường: to say/to tell/to inform): lấy làm tiếc phải thông báo.",
+        "regret + not + V-ing = hối tiếc vì đã không làm; tương đương câu ước 'wish + had V3'."
+      ],
+      "examples": [
+        {
+          "en": "He stopped smoking last year.",
+          "vi": "Anh ấy đã bỏ hút thuốc năm ngoái."
+        },
+        {
+          "en": "We regret to inform you that the flight has been cancelled.",
+          "vi": "Chúng tôi rất tiếc phải thông báo rằng chuyến bay đã bị hủy."
+        }
+      ]
+    },
+    {
+      "heading": "Try / Need / Go on / Mean",
+      "points": [
+        "try + to V: cố gắng làm (việc khó). try + V-ing: thử làm (như một giải pháp xem có hiệu quả không).",
+        "need + to V (chủ ngữ là người, chủ động); need + V-ing = need + to be V3 (chủ ngữ là vật, nghĩa bị động).",
+        "go on + V-ing: tiếp tục việc đang làm; go on + to V: chuyển sang làm việc khác.",
+        "mean + to V: định làm; mean + V-ing: có nghĩa là, đồng nghĩa với."
+      ],
+      "examples": [
+        {
+          "en": "If you can't sleep, try drinking a glass of warm milk.",
+          "vi": "Nếu không ngủ được, hãy thử uống một cốc sữa ấm."
+        },
+        {
+          "en": "My bike needs repairing.",
+          "vi": "Xe đạp của tôi cần được sửa."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Quy tắc thời gian: to V → việc xảy ra SAU động từ chính (chưa làm); V-ing → việc xảy ra TRƯỚC hoặc đang diễn ra.",
+    "Đọc kỹ vế còn lại của câu để xác định thời điểm: 'but now it's open', 'last week', 'when you go out'... là chìa khóa chọn dạng.",
+    "Chủ ngữ là vật + need → V-ing hoặc to be V3; không dùng need + to V chủ động với vật.",
+    "Câu viết lại: 'I'm sorry I didn't...' / 'I wish I had...' ↔ 'I regret not + V-ing'."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. Chọn dạng đúng của động từ",
+      "instructions": "Choose the best option (A, B, C or D) to complete each sentence.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "Don't forget ______ your grandmother on her birthday tomorrow.",
+          "options": {
+            "A": "call",
+            "B": "to call",
+            "C": "called",
+            "D": "calling"
+          },
+          "answer": "B",
+          "explanation": "Việc gọi điện chưa làm (ngày mai) → forget + to V."
+        },
+        {
+          "no": 2,
+          "question": "I clearly remember ______ the letter, but my friend says she never received it.",
+          "options": {
+            "A": "posting",
+            "B": "to be posted",
+            "C": "to post",
+            "D": "post"
+          },
+          "answer": "A",
+          "explanation": "Nhớ việc đã làm trong quá khứ → remember + V-ing: posting."
+        },
+        {
+          "no": 3,
+          "question": "On the way home, we stopped ______ some bread at a small bakery.",
+          "options": {
+            "A": "buying",
+            "B": "buy",
+            "C": "to buy",
+            "D": "bought"
+          },
+          "answer": "C",
+          "explanation": "Dừng (việc đang đi) để mua bánh → stop + to V (mục đích)."
+        },
+        {
+          "no": 4,
+          "question": "The children stopped ______ when the teacher came into the room.",
+          "options": {
+            "A": "to talk",
+            "B": "talked",
+            "C": "talk",
+            "D": "talking"
+          },
+          "answer": "D",
+          "explanation": "Ngừng hẳn việc đang làm (nói chuyện) → stop + V-ing."
+        },
+        {
+          "no": 5,
+          "question": "I tried ______ the window, but it was stuck.",
+          "options": {
+            "A": "to open",
+            "B": "open",
+            "C": "opening",
+            "D": "opened"
+          },
+          "answer": "A",
+          "explanation": "Cố gắng làm một việc khó (cửa bị kẹt) → try + to V."
+        },
+        {
+          "no": 6,
+          "question": "If the TV doesn't work, try ______ it off and on again – that often solves the problem.",
+          "options": {
+            "A": "turning",
+            "B": "to turn",
+            "C": "turn",
+            "D": "turned"
+          },
+          "answer": "A",
+          "explanation": "Thử một giải pháp để xem có hiệu quả không ('that often solves the problem') → try + V-ing: turning. 'try to turn' nghĩa là cố gắng làm việc khó, không hợp ngữ cảnh."
+        },
+        {
+          "no": 7,
+          "question": "We regret ______ you that your application has not been successful.",
+          "options": {
+            "A": "inform",
+            "B": "informing",
+            "C": "informed",
+            "D": "to inform"
+          },
+          "answer": "D",
+          "explanation": "Lấy làm tiếc phải thông báo → regret + to inform."
+        },
+        {
+          "no": 8,
+          "question": "The grass in the garden needs ______. It's too long.",
+          "options": {
+            "A": "cut",
+            "B": "to cut",
+            "C": "cutting",
+            "D": "being cut"
+          },
+          "answer": "C",
+          "explanation": "Chủ ngữ là vật, nghĩa bị động → need + V-ing (= need to be cut). 'to cut' là chủ động nên sai."
+        },
+        {
+          "no": 9,
+          "question": "After explaining the grammar, the teacher went on ______ us some exercises.",
+          "options": {
+            "A": "given",
+            "B": "giving",
+            "C": "give",
+            "D": "to give"
+          },
+          "answer": "D",
+          "explanation": "Chuyển sang làm việc khác sau khi giảng ngữ pháp → go on + to V."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Chọn câu có nghĩa gần nhất",
+      "instructions": "Choose the sentence that is closest in meaning to the given one.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 10,
+          "question": "I'm sorry that I didn't study harder for the exam.",
+          "options": {
+            "A": "I regret to study harder for the exam.",
+            "B": "I regret not studying harder for the exam.",
+            "C": "I regret studying harder for the exam.",
+            "D": "I stopped studying harder for the exam."
+          },
+          "answer": "B",
+          "explanation": "Hối tiếc vì đã KHÔNG làm → regret not + V-ing. C nghĩa ngược lại; A sai nghĩa."
+        },
+        {
+          "no": 11,
+          "question": "Nam no longer plays computer games.",
+          "options": {
+            "A": "Nam stopped to play computer games.",
+            "B": "Nam remembered playing computer games.",
+            "C": "Nam has stopped playing computer games.",
+            "D": "Nam tried playing computer games."
+          },
+          "answer": "C",
+          "explanation": "'no longer' = đã ngừng hẳn → stop + V-ing. A nghĩa là dừng lại để chơi game."
+        },
+        {
+          "no": 12,
+          "question": "\"Did you turn off the gas?\" – \"Yes, I'm sure I did.\"",
+          "options": {
+            "A": "I remember to turn off the gas.",
+            "B": "I remember turning off the gas.",
+            "C": "I forgot turning off the gas.",
+            "D": "I forgot to turn off the gas."
+          },
+          "answer": "B",
+          "explanation": "Người nói chắc chắn đã tắt ga (việc đã làm) → remember + V-ing. D nghĩa là quên tắt ga."
+        },
+        {
+          "no": 13,
+          "question": "Someone needs to clean these windows.",
+          "options": {
+            "A": "These windows need to clean.",
+            "B": "These windows need cleaning.",
+            "C": "These windows need clean.",
+            "D": "These windows are needed to clean."
+          },
+          "answer": "B",
+          "explanation": "Chủ ngữ là vật → need + V-ing mang nghĩa bị động. A, C, D sai cấu trúc."
+        },
+        {
+          "no": 14,
+          "question": "Getting a scholarship means studying very hard.",
+          "options": {
+            "A": "If you want to get a scholarship, you have to study very hard.",
+            "B": "I mean to get a scholarship without studying hard.",
+            "C": "Getting a scholarship doesn't require hard study.",
+            "D": "You meant to study hard, but you didn't get a scholarship."
+          },
+          "answer": "A",
+          "explanation": "mean + V-ing = 'đồng nghĩa với việc/đòi hỏi' → muốn có học bổng thì phải học rất chăm. B, D dùng nghĩa 'định làm' và sai ý; C ngược nghĩa."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "British Council LearnEnglish – Verbs followed by '-ing' or infinitive to change meaning",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/verbs-followed-ing-or-infinitive-change-meaning"
+    }
+  ]
+}

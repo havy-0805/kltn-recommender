@@ -1,0 +1,271 @@
+{
+  "material_id": "MAT_CD30",
+  "skill_id": "SK_GUIDED_REWRITE",
+  "title": "Chuyên đề Viết lại câu với từ có sẵn",
+  "target_level": 3,
+  "summary": "Tổng hợp toàn diện dạng dựng câu từ các từ cho sẵn ở mức vận dụng cao: so sánh kép, đảo ngữ, điều kiện, câu giả định, mệnh đề quan hệ không xác định, cấu trúc make it + adj – kèm các bẫy phân hóa điểm 9–10.",
+  "theory": [
+    {
+      "heading": "Cấu trúc nâng cao thường gặp",
+      "points": [
+        "So sánh kép: The + so sánh hơn + S + V, the + so sánh hơn + S + V",
+        "Not only + trợ động từ + S + V, but S + also + V",
+        "It is (high) time + S + V2; S + would rather + S + V2 (muốn người khác làm gì ở hiện tại)",
+        "It was not until + thời gian/mệnh đề + that + S + V2"
+      ],
+      "examples": [
+        {
+          "en": "The more you practise, the more confident you become.",
+          "vi": "Càng luyện tập nhiều, bạn càng tự tin."
+        },
+        {
+          "en": "It is high time we took action to protect wildlife.",
+          "vi": "Đã đến lúc chúng ta hành động để bảo vệ động vật hoang dã."
+        }
+      ]
+    },
+    {
+      "heading": "Điều kiện, đảo ngữ, động từ đặc biệt",
+      "points": [
+        "Đảo ngữ loại 3: Had + S + V3, S + would have V3",
+        "If it hadn't been for + N, S + wouldn't have V3 (nếu không nhờ có …)",
+        "Hardly had + S + V3 + when + S + V2",
+        "let + sb + V nguyên mẫu; regret + V-ing (hối tiếc đã làm); encourage sb to V → bị động: be encouraged to V"
+      ],
+      "examples": [
+        {
+          "en": "Had I known about the problem, I would have helped you.",
+          "vi": "Nếu tôi biết về vấn đề đó thì tôi đã giúp bạn."
+        },
+        {
+          "en": "Mai regrets not taking her teacher's advice.",
+          "vi": "Mai hối tiếc vì đã không nghe lời khuyên của cô giáo."
+        }
+      ]
+    },
+    {
+      "heading": "Mệnh đề quan hệ không xác định và tân ngữ giả",
+      "points": [
+        "Danh từ đã xác định (The festival, Hanoi) + , which/who … , – không dùng \"that\" sau dấu phẩy",
+        "make/find + it + adj + for sb + to V (it là tân ngữ giả, adj không đổi thành trạng từ)"
+      ],
+      "examples": [
+        {
+          "en": "The festival, which takes place in March, attracts thousands of tourists every year.",
+          "vi": "Lễ hội, diễn ra vào tháng Ba, thu hút hàng nghìn du khách mỗi năm."
+        },
+        {
+          "en": "Smartphones make it easy for young people to communicate with each other.",
+          "vi": "Điện thoại thông minh giúp giới trẻ dễ dàng liên lạc với nhau."
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "Đọc toàn bộ dãy gợi ý để nhận ra \"khung\" câu (The more…, Not only…, Had…, It was not until…) trước khi so phương án.",
+    "Ở mức nâng cao, các phương án thường chỉ khác một chi tiết nhỏ: than/when, which/that, easy/easily, take/took. Hãy đối chiếu từng chi tiết.",
+    "Thêm từ cần thiết (mạo từ, giới từ, of) nhưng không thêm từ làm đổi nghĩa hoặc lặp tân ngữ.",
+    "Khi thấy \"Despite\", \"because of\", \"prevent from\", \"look forward to\" thì phía sau phải là danh từ hoặc V-ing."
+  ],
+  "exercise_sets": [
+    {
+      "title": "Bài 1. So sánh, đảo ngữ, nhấn mạnh",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 1,
+          "question": "The more / you / practise / the / confident / you / become.",
+          "options": {
+            "A": "The more you practise, the more confident you become.",
+            "B": "More you practise, the more confident you become.",
+            "C": "The more you practise, the more confidently you become.",
+            "D": "The more you practise, the confident you become."
+          },
+          "answer": "A",
+          "explanation": "So sánh kép: The + so sánh hơn …, the + so sánh hơn …; sau \"become\" dùng tính từ \"confident\"."
+        },
+        {
+          "no": 2,
+          "question": "Not only / she / sing / well / but / she / also / dance / beautifully.",
+          "options": {
+            "A": "Not only she sings well, but she also dances beautifully.",
+            "B": "Not only does she sings well, but she also dances beautifully.",
+            "C": "Not only does she sing well, but she also dance beautifully.",
+            "D": "Not only does she sing well, but she also dances beautifully."
+          },
+          "answer": "D",
+          "explanation": "\"Not only\" đầu câu → đảo trợ động từ \"does she sing\"; vế sau chia bình thường \"dances\"."
+        },
+        {
+          "no": 3,
+          "question": "Hardly / we / start / picnic / when / it / begin / rain.",
+          "options": {
+            "A": "Hardly we had started the picnic when it began to rain.",
+            "B": "Hardly had we started the picnic when it began to rain.",
+            "C": "Hardly had we started the picnic than it began to rain.",
+            "D": "Hardly did we start the picnic when it had begun to rain."
+          },
+          "answer": "B",
+          "explanation": "Hardly + had + S + V3 + when + S + V2. \"than\" đi với \"No sooner\"."
+        },
+        {
+          "no": 4,
+          "question": "It / be / not / until / midnight / that / he / finish / homework.",
+          "options": {
+            "A": "It was until midnight that he didn't finish his homework.",
+            "B": "It was not until midnight when he finished his homework.",
+            "C": "It was not until midnight that he finished his homework.",
+            "D": "It is not until midnight that he finished his homework."
+          },
+          "answer": "C",
+          "explanation": "Cấu trúc nhấn mạnh \"It was not until … that + S + V2\" – thì của \"be\" khớp với thì quá khứ của động từ chính."
+        },
+        {
+          "no": 5,
+          "question": "Despite / heavy rain / thousands / fans / come / watch / match / last night.",
+          "options": {
+            "A": "Despite the heavy rain, thousands of fans come to watch the match last night.",
+            "B": "Despite of the heavy rain, thousands of fans came to watch the match last night.",
+            "C": "Despite the heavy rain, thousands of fans came to watch the match last night.",
+            "D": "Despite the heavy rain, thousand of fans came to watch the match last night."
+          },
+          "answer": "C",
+          "explanation": "Despite + cụm danh từ (không có \"of\"); \"thousands of\" (hàng nghìn); \"last night\" → \"came\"."
+        }
+      ]
+    },
+    {
+      "title": "Bài 2. Điều kiện, câu giả định, động từ đặc biệt",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 6,
+          "question": "Had / I / know / about / problem / I / would / help / you.",
+          "options": {
+            "A": "If had I known about the problem, I would have helped you.",
+            "B": "Had I known about the problem, I would have helped you.",
+            "C": "Had I known about problem, I would have helped you.",
+            "D": "Had I knew about the problem, I would have helped you."
+          },
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had + S + V3, S + would have + V3; danh từ đã xác định cần \"the problem\"."
+        },
+        {
+          "no": 7,
+          "question": "If / it / not / be / for / your help / I / not / pass / exam / last year.",
+          "options": {
+            "A": "If it hadn't been your help, I wouldn't have passed the exam last year.",
+            "B": "If it hadn't been for your help, I wouldn't have passed the exam last year.",
+            "C": "If it wasn't for your help, I didn't pass the exam last year.",
+            "D": "If it hadn't been for your help, I wouldn't pass the exam last year."
+          },
+          "answer": "B",
+          "explanation": "\"last year\" → điều kiện loại 3: If it hadn't been for + N, S + wouldn't have + V3; không bỏ \"for\"."
+        },
+        {
+          "no": 8,
+          "question": "It / be / high time / we / take / action / protect / wildlife.",
+          "options": {
+            "A": "It is high time we took action to protect wildlife.",
+            "B": "It is high time for us took action to protect wildlife.",
+            "C": "It is high time we took action protecting wildlife.",
+            "D": "It is high time we take action to protect wildlife."
+          },
+          "answer": "A",
+          "explanation": "It is high time + S + V2 (đã đến lúc); \"take action to V\" (hành động để làm gì)."
+        },
+        {
+          "no": 9,
+          "question": "I / rather / you / not / smoke / here.",
+          "options": {
+            "A": "I would rather you don't smoke here.",
+            "B": "I would rather you didn't smoke here.",
+            "C": "I would rather you not to smoke here.",
+            "D": "I would rather you hadn't smoke here."
+          },
+          "answer": "B",
+          "explanation": "would rather + S + V2 (didn't + V) diễn tả mong muốn người khác làm/không làm ở hiện tại."
+        },
+        {
+          "no": 10,
+          "question": "Mai / regret / not / take / teacher's advice.",
+          "options": {
+            "A": "Mai regrets not to take her teacher's advice.",
+            "B": "Mai regrets not taken her teacher's advice.",
+            "C": "Mai regret not taking her teacher's advice.",
+            "D": "Mai regrets not taking her teacher's advice."
+          },
+          "answer": "D",
+          "explanation": "regret + (not) V-ing = hối tiếc vì đã (không) làm gì; chủ ngữ số ít → regrets."
+        }
+      ]
+    },
+    {
+      "title": "Bài 3. Mệnh đề quan hệ, tân ngữ giả, bị động",
+      "instructions": "Choose the sentence (A, B, C or D) that is best made from the given cues.",
+      "passage": null,
+      "questions": [
+        {
+          "no": 11,
+          "question": "The festival / attract / thousands / tourists / every year / take place / March.",
+          "options": {
+            "A": "The festival, which takes place in March, attracts thousands of tourists every year.",
+            "B": "The festival, that takes place in March, attracts thousands of tourists every year.",
+            "C": "The festival, which takes place on March, attracts thousands of tourists every year.",
+            "D": "The festival, which takes place in March, attract thousands of tourists every year."
+          },
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ không xác định (có dấu phẩy) dùng \"which\", không dùng \"that\"; tháng dùng \"in\"; chủ ngữ số ít → attracts."
+        },
+        {
+          "no": 12,
+          "question": "Smartphones / make / it / easy / young people / communicate / each other.",
+          "options": {
+            "A": "Smartphones make it easily for young people to communicate with each other.",
+            "B": "Smartphones make it easy for young people communicating with each other.",
+            "C": "Smartphones make it easy for young people to communicate with each other.",
+            "D": "Smartphones make easy for young people to communicate with each other."
+          },
+          "answer": "C",
+          "explanation": "make + it + adj + for sb + to V; adj \"easy\" không đổi thành trạng từ; \"communicate with\"."
+        },
+        {
+          "no": 13,
+          "question": "Students / encourage / take part / volunteer activities / help / community.",
+          "options": {
+            "A": "Students encourage to take part in volunteer activities to help the community.",
+            "B": "Students are encouraged to take part in volunteer activities to help the community.",
+            "C": "Students are encouraged to take part on volunteer activities to help the community.",
+            "D": "Students are encouraged taking part in volunteer activities to help the community."
+          },
+          "answer": "B",
+          "explanation": "Học sinh \"được khuyến khích\" → bị động be encouraged to V; \"take part in\"."
+        },
+        {
+          "no": 14,
+          "question": "My parents / not / let / me / go out / late / night.",
+          "options": {
+            "A": "My parents don't let me go out late at night.",
+            "B": "My parents don't let me to go out late at night.",
+            "C": "My parents don't allow me go out late at night.",
+            "D": "My parents doesn't let me go out late at night."
+          },
+          "answer": "A",
+          "explanation": "let + sb + V nguyên mẫu; allow + sb + to V; chủ ngữ số nhiều → don't; \"at night\"."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "ZIM – Viết lại câu thi vào 10",
+      "url": "https://zim.vn/viet-lai-cau-thi-vao-10"
+    },
+    {
+      "title": "VietJack – Dạng bài Viết lại câu (Ôn thi Tiếng Anh vào 10)",
+      "url": "https://vietjack.com/de-thi-vao-lop-10-mon-tieng-anh/dang-bai-viet-lai-cau-cd2025.jsp"
+    }
+  ]
+}
